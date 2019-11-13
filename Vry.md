@@ -67,7 +67,7 @@ Talon \
 Dagger \
 4 Acid Vials \
 Component Pouch (Alchemy) \
-Backpack
+[Backpack](https://github.com/DestinyVolt/D-D/blob/master/Inventory.md)
 
 ### Future Levels: 
 #### Warlock Levels:
