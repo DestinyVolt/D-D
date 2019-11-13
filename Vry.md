@@ -10,7 +10,7 @@ Divergent Persona (Arcana, Alchemy Expertise)
 | Name              | Title             |   Race    | Sex | Age | Alignment |         Weapon         | Familiar  |
 | ----------------- | ----------------- | --------- |:---:|:---:|:---------:| ---------------------- | --------- |
 | Arcana            | The Arcanist      | Tiefling  |  ♀  | 25  |    CN     | Whatever Work Best     | Chameleon |
-| Ari Brightwood    | The Apprentice    | Human     |  ⚨  | 16  |    LG     | Alchemy Kit & Sling    | Octopus   |
+| Ari Brightwood    | The Apprentice    | Human     |  ♂  | 16  |    LG     | Alchemy Kit & Sling    | Octopus   |
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl       |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider    |
 
