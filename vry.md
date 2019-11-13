@@ -1,0 +1,97 @@
+# Vry 
+Changeling, ♀, 18, Lawful Neutral
+
+### Racial Abilities
+Unsettling Visage \
+Shapeshift
+Advantage on Deception Checks
+#### Divergent Personas
+
+| Name              | Title             | Sex | Age | Alignment |         Weapon         | Familiar  |
+| ----------------- | ----------------- |-----|:---:|:---------:| ---------------------- | --------- |
+| Arcana            | The Arcanist      |  ♀  | 25  |    CN     | Alchemy Kit            | Chameleon |
+| Silaqui Amastacia | The Bladedancer   |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl       |
+| Neza              | The Black Spider  |  ♀  | 120 |    NE     | The Spider Staff       | Spider    |
+
+### Level 5 Hexblade Warlock
+HP: 48 \
+AC: 19 \
+Prof: +3 \
+STR: 9 \
+DEX: 17 \
+CON: 17 \
+INT: 13 \
+WIS: 11 \
+CHA: 20
+
+#### Proficiency
+Skills: Investigation, Persuasion, Arcana, Survival, Deception, Stealth \
+Tools: Alchemist's Tools \
+Saving Throws: Wisdom, Charisma \
+Languages: Common, Elven, Undercommon, Infernal 
+
+#### Pact Magic
+Two 3rd Level Spell Slots \
+Spells: +8 to hit, Save DC: 16 \
+Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
+Level 1: Hellish Rebuke \
+Level 2: Hold Person, Suggestion, Misty Step \
+Level 3: Counterspell, Elemental Weapon 
+
+#### Weapons:
+Spider Staff: +9 to hit, 2d6+6 damage \
+Elemental Spider Staff: +10 to hit, 2d6+6 damage \
+Dual Scimitar: +9 to hit, 2d4+6 damage 
+Talon: +9 to hit, 1d8+6 damage
+Dagger: +6 to hit, 1d4+3 damage
+Acid Vial: +3 to hit, 2d6 damage
+
+#### Invocations:
+Improved Pact Weapon (+1) \
+Thirsting Blade \
+Eldritch Smite
+
+#### Patron: The Traveler (Pact of the Hexblade) 
+Hexblade’s Curse (19 crit, +3 Damage, 10 Healing on kill) \
+Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
+Pact Weapon (Charisma Based Dimensional Weapon) \
+
+#### Inventory (Link Later)
+**Money:** 35gp, 392sp, 4cp \
+**Equipped Gear:**
+Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
+Dragonguard: 15 + DEX [2] AC, Adv. Against Breath Weapons \
+Shield: +2 AC \
+Traveler's Clothes (Cloak) \
+Talon \
+Dagger \
+4 Acid Vials \
+Component Pouch (Alchemy) \
+Backpack
+
+### Future Levels: 
+#### Warlock Levels:
+6th: Shadow Hound, Vampiric Touch
+7th: Sickening Radiance, Ghostly Gaze, Superior Pact Weapon, ~~Improved Pact Weapon~~
+
+#### Wizard Level: (Spell Slots) + Arcane Recovery
+###### Level 1: (2) + 1
+Cantrips: Minor Illusion, Prestidigitation, Shocking Grasp
+Prepared: Feather Fall, Shield [50g]
+Rituals: Find Familiar, Identify, Detect Magic, Alarm, Comprehend Languages
+Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease
+
+##### Level 2: (3) + 1
+Prepared: + Absorb Elements
+Potions: Climbing, Growth, Healing (Lesser, Greater, Superior), Invisibility, Water Breathing
+Scrolls: Unused + Disguise Self
+
+##### Level 3: (4, 2) + 2
+Prepared: +Dragon’s Breath
+Rituals: +Magic Mouth
+Scrolls: +Hold Person, Misty Step, Suggestion [50g], Invisibility [50g]
+
+
+
+
+
