@@ -44,7 +44,7 @@ Spider Staff: +9 to hit, 2d6+6 damage \
 Elemental Spider Staff: +10 to hit, 2d6+6 damage \
 Dual Scimitar: +9 to hit, 2d4+6 damage \
 Sling (Pact Weapon): +9 to hit, 1d4+6 damage \
-Acid Vial (Sling): +9 to hit, 2d4 damage \ 
+Acid Vial (Sling): +9 to hit, 2d4 damage \
 Dagger: +6 to hit, 1d4+3 damage \
 Acid Vial: +3 to hit, 2d6 damage 
 
