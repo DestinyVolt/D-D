@@ -3,8 +3,7 @@ Changeling, ♀, 18, Lawful Neutral
 
 ### Racial Abilities
 Unsettling Visage \
-Shapeshift
-Advantage on Deception Checks
+Shapeshift (Advantage on Deception Checks)
 #### Divergent Personas
 
 | Name              | Title             | Sex | Age | Alignment |         Weapon         | Familiar  |
