@@ -37,7 +37,7 @@ Level 1: Hellish Rebuke \
 Level 2: Hold Person, Suggestion, Misty Step \
 Level 3: Counterspell, Elemental Weapon 
 
-#### Weapons:
+#### Weapons 
 Spider Staff: +9 to hit, 2d6+6 damage \
 Elemental Spider Staff: +10 to hit, 2d6+6 damage \
 Dual Scimitar: +9 to hit, 2d4+6 damage \
@@ -57,7 +57,7 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 
 ### Inventory
 **Money:** 35gp, 392sp, 4cp \
-**Equipped Gear:**
+**Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
 Dragonguard: 15 + DEX [2] AC, Adv. Against Breath Weapons \
 Shield: +2 AC \
