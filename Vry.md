@@ -5,13 +5,14 @@ Changeling, ♀, 18, Lawful Neutral
 Unsettling Visage \
 Shapeshift (Advantage on Deception Checks) \
 Divergent Persona (Arcana, Alchemy Expertise) 
-#### Divergent Personas
 
-| Name              | Title             | Sex | Age | Alignment |         Weapon         | Familiar  |
-| ----------------- | ----------------- |:---:|:---:|:---------:| ---------------------- | --------- |
-| Arcana            | The Arcanist      |  ♀  | 25  |    CN     | Alchemy Kit            | Chameleon |
-| Silaqui Amastacia | The Bladedancer   |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl       |
-| Neza              | The Black Spider  |  ♀  | 120 |    NE     | The Spider Staff       | Spider    |
+#### Divergent Personas
+| Name              | Title             |   Race    | Sex | Age | Alignment |         Weapon         | Familiar  |
+| ----------------- | ----------------- | --------- |:---:|:---:|:---------:| ---------------------- | --------- |
+| Arcana            | The Arcanist      | Tiefling  |  ♀  | 25  |    CN     | Whatever Work Best     | Chameleon |
+| Ari Brightwood    | The Apprentice    | Human     |  ⚨  | 16  |    LG     | Alchemy Kit & Sling    | Octopus   |
+| Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl       |
+| Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider    |
 
 ### Level 5 Hexblade Warlock
 HP: 48 \
@@ -42,7 +43,8 @@ Level 3: Counterspell, Elemental Weapon
 Spider Staff: +9 to hit, 2d6+6 damage \
 Elemental Spider Staff: +10 to hit, 2d6+6 damage \
 Dual Scimitar: +9 to hit, 2d4+6 damage \
-Talon: +9 to hit, 1d8+6 damage \
+Sling (Pact Weapon): +9 to hit, 1d4+6 damage \
+Acid Vial (Sling): +9 to hit, 2d4 damage \ 
 Dagger: +6 to hit, 1d4+3 damage \
 Acid Vial: +3 to hit, 2d6 damage 
 
@@ -58,6 +60,7 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 
 ### Inventory
 **Money:** 35gp, 392sp, 4cp \
+**Wristpocket:** Alchemy Jug \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
 Dragonguard: 15 + DEX [2] AC, Adv. Against Breath Weapons \
@@ -76,7 +79,7 @@ Component Pouch (Alchemy) \
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
 **Level 1: (2) + 1** \
-Cantrips: Minor Illusion, Prestidigitation, Shocking Grasp \
+Cantrips: Acid Splash, Prestidigitation, Shocking Grasp \
 Prepared: Feather Fall, Shield [50g] \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Comprehend Languages \
 Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease
@@ -90,8 +93,3 @@ Scrolls: Unused + Disguise Self
 Prepared: +Dragon’s Breath \
 Rituals: +Magic Mouth \
 Scrolls: +Hold Person, Misty Step, Suggestion [50g], Invisibility [50g]
-
-
-
-
-
