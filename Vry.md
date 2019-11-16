@@ -59,7 +59,7 @@ Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) 
 
 ### Inventory
-**Money:** 35gp, 392sp, 4cp \
+**Money:** 65gp, 92sp, 4cp \
 **Wristpocket:** Alchemy Jug \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
@@ -74,7 +74,7 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-6th: Shadow Hound, Vampiric Touch \
+6th: Shadow Hound, Dispel Magic \
 7th: Sickening Radiance, Ghostly Gaze, Superior Pact Weapon, ~~Improved Pact Weapon~~
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
@@ -93,3 +93,4 @@ Scrolls: Unused + Disguise Self
 Prepared: +Dragon’s Breath \
 Rituals: +Magic Mouth \
 Scrolls: +Hold Person, Misty Step, Suggestion [50g], Invisibility [50g]
+So
