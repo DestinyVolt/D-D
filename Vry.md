@@ -75,7 +75,7 @@ Component Pouch (Alchemy) \
 ### Future Levels: 
 #### Warlock Levels:
 6th: Shadow Hound, Dispel Magic \
-7th: Sickening Radiance, Ghostly Gaze, Superior Pact Weapon, ~~Improved Pact Weapon~~
+7th: Sickening Radiance, Ghostly Gaze
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
 **Level 1: (2) + 1** \
