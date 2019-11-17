@@ -76,6 +76,8 @@ Component Pouch (Alchemy) \
 #### Warlock Levels:
 6th: Shadow Hound, Dispel Magic \
 7th: Sickening Radiance, Ghostly Gaze
+8th: Dimension Door, Polearm Master
+9th: Modify Memory, Mislead, ~~Hellish Rebuke~~, Bewitching Whispers, Superior Pact Weapon, ~~Improved Pact Weapon~~
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
 **Level 1: (2) + 1** \
