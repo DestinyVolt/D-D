@@ -4,7 +4,8 @@ Changeling, ♀, 18, Lawful Neutral
 ### Racial Abilities
 Unsettling Visage \
 Shapeshift (Advantage on Deception Checks) \
-Divergent Persona (Arcana, Alchemy Expertise) 
+Divergent Persona (Arcana, Alchemy Expertise) \
+Silver-Tongued (Deception Expertise)
 
 #### Divergent Personas
 | Name              | Title             |   Race    | Sex | Age | Alignment |         Weapon         | Familiar  |
@@ -19,7 +20,7 @@ HP: 48 \
 AC: 19 \
 Prof: +3 \
 STR: 9 \
-DEX: 17 \
+DEX: 16 \
 CON: 17 \
 INT: 13 \
 WIS: 11 \
@@ -95,4 +96,3 @@ Scrolls: Unused + Disguise Self
 Prepared: +Dragon’s Breath \
 Rituals: +Magic Mouth \
 Scrolls: +Hold Person, Misty Step, Suggestion [50g], Invisibility [50g]
-So
