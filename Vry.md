@@ -60,7 +60,7 @@ Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) 
 
 ### Inventory
-**Money:** 275gp, 92sp, 4cp \
+**Money:** 225gp, 92sp, 4cp \
 **Wristpocket:** Alchemy Jug \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
