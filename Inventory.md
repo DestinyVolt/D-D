@@ -1,5 +1,8 @@
 # Inventory
 + Rations: 7 Days
++ Beard Pocket Watch
++ Coin Purse of Holding
++ Bag of Holding?
 + Dungeoneer's Pack 
   - Hammer & 10 Pitons
   - Waterskin
