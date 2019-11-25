@@ -60,7 +60,7 @@ Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) 
 
 ### Inventory
-**Money:** 65gp, 92sp, 4cp \
+**Money:** 275gp, 92sp, 4cp \
 **Wristpocket:** Alchemy Jug \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
@@ -69,7 +69,7 @@ Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Talon \
 Dagger \
-4 Acid Vials \
+3 Acid Vials \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Inventory.md)
 
