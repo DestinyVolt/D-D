@@ -41,7 +41,7 @@ Level 2: Hold Person, Suggestion, Misty Step \
 Level 3: Counterspell, Elemental Weapon 
 
 #### Alchemical Magic
-Spell Slots: Two 1st Level Spell slots, + 1 on Rest / Day
+Spell Slots: Two 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
 Prepared: Sleep, Shield [50g] \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
