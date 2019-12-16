@@ -15,8 +15,8 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl       |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider    |
 
-### Level 5 Hexblade Warlock
-HP: 48 \
+### Level 5 Hexblade Warlock / Level 1 Wizard
+HP: 57 \
 AC: 19 \
 Prof: +3 \
 STR: 9 \
@@ -39,6 +39,13 @@ Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Hellish Rebuke \
 Level 2: Hold Person, Suggestion, Misty Step \
 Level 3: Counterspell, Elemental Weapon 
+
+#### Alchemical Magic
+Spell Slots: Two 1st Level Spell slots, + 1 on Rest / Day
+Cantrips: Mind Sliver, Message, Shocking Grasp \
+Prepared: Sleep, Shield [50g] \
+Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
+Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease
 
 #### Weapons 
 Spider Staff: +9 to hit, 2d6+6 damage \
@@ -81,12 +88,6 @@ Component Pouch (Alchemy) \
 9th: Modify Memory, Mislead, ~~Hellish Rebuke~~, Bewitching Whispers, Superior Pact Weapon, ~~Improved Pact Weapon~~
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
-**Level 1: (2) + 1** \
-Cantrips: Acid Splash, Prestidigitation, Shocking Grasp \
-Prepared: Feather Fall, Shield [50g] \
-Rituals: Find Familiar, Identify, Detect Magic, Alarm, Comprehend Languages \
-Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease
-
 **Level 2: (3) + 1** \
 Prepared: + Absorb Elements \
 Potions: Climbing, Growth, Healing (Lesser, Greater, Superior), Invisibility, Water Breathing \
