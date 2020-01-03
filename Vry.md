@@ -8,12 +8,12 @@ Divergent Persona (Arcana, Alchemy Expertise) \
 Silver-Tongued (Deception Expertise)
 
 #### Divergent Personas
-| Name              | Title             |   Race    | Sex | Age | Alignment |         Weapon         | Familiar  |
-| ----------------- | ----------------- | --------- |:---:|:---:|:---------:| ---------------------- | --------- |
-| Arcana            | The Arcanist      | Tiefling  |  ♀  | 25  |    CN     | Whatever Work Best     | Chameleon |
-| Ari Brightwood    | The Apprentice    | Human     |  ♂  | 16  |    LG     | Alchemy Kit & Sling    | Octopus   |
-| Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl       |
-| Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider    |
+| Name              | Title             |   Race    | Sex | Age | Alignment |         Weapon         | Familiar |
+| ----------------- | ----------------- | --------- |:---:|:---:|:---------:| ---------------------- | -------- |
+| Arcana            | The Arcanist      | Tiefling  |  ♀  | 25  |    CN     | Whatever Work Best     | Gargoyle |
+| Ari Brightwood    | The Apprentice    | Human     |  ♂  | 16  |    LG     | Alchemy Kit & Sling    | Octopus  |
+| Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
+| Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
 ### Level 5 Hexblade Warlock / Level 1 Wizard
 HP: 57 \
