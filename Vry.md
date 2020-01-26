@@ -1,5 +1,5 @@
 # Vry 
-Changeling, ♀, 18, Lawful Neutral
+Changeling, ♀, 18, Chaotic Neutral
 
 ### Racial Abilities
 Unsettling Visage \
@@ -49,7 +49,6 @@ Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease
 
 #### Weapons 
 Spider Staff: +9 to hit, 2d6+6 damage \
-Elemental Spider Staff: +10 to hit, 2d6+6 damage \
 Dual Scimitar: +9 to hit, 2d4+6 damage \
 Sling (Pact Weapon): +9 to hit, 1d4+6 damage \
 Acid Vial (Sling): +9 to hit, 2d4 damage \
@@ -67,7 +66,7 @@ Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) 
 
 ### Inventory
-**Money:** 225gp, 92sp, 4cp \
+**Money:** 224gp, 92sp, 4cp \
 **Wristpocket:** Alchemy Jug \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
