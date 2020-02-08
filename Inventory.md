@@ -30,3 +30,5 @@
   - Powdered Nightshade
   - 64.9gp worth of Raw Materials
   - 2 pints of oil
++ Egg of Screaming
++ Bag of Ball Bearings
