@@ -1,5 +1,5 @@
 # Inventory
-+ Rations: 7 Days
++ Rations: 4 Days
 + Beard Pocket Watch
 + Coin Purse of Holding
 + Bag of Holding?
