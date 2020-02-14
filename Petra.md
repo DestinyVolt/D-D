@@ -68,9 +68,9 @@ You have advantage on saving throws against Disease and Poison, and have resista
 ### Inventory
 
 ### Future Levels
-4th Level Spells: Greater Invisibility, Dimention Door, Stone Skin(?)
-5th Level Spells: Hold Monster, Animate Objects / Tiny Servant if possible
-Metamagic: Twinned Spell
+7/8th: Greater Invisibility, Dimention Door, Stone Skin(? Makes sense but costs too much), ASI: Either Feat for Guidance or +2 CHA
+9th: Hold Monster
+10th: Twinned Spell, Prestidigitation, Animate Objects or Tiny Servant(DM Fiat)
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
