@@ -31,9 +31,9 @@ Languages: Common, Elven, Thieves' Cant
 #### Spellcasting
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Booming Blade, Mold Earth, Message, True Strike, Prestidigitation \
-Level 1 (4x): Disguise Self, Thunderous Smite, Shield \
+Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade, Invisiblity \
-Level 3 (3x): Slow 
+Level 3 (3x): Slow, Haste
 
 #### Metamagic
 Sorcery Points: 6 \
@@ -66,6 +66,11 @@ To take a long rest, you must remain motionless for 4 hours, during which you ca
 You have advantage on saving throws against Disease and Poison, and have resistance to poison damage. \
 
 ### Inventory
+
+### Future Levels
+4th Level Spells: Greater Invisibility, Dimention Door, Stone Skin(?)
+5th Level Spells: Hold Monster, Animate Objects / Tiny Servant if possible
+Metamagic: Twinned Spell
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
