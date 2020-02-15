@@ -54,8 +54,8 @@ Ability to truly raid the vault: \
 1 Portable Hole instead of 1 Bag of Holding
 
 Increase chance to raid the vault: \
-1 Misty Step Spell Scroll 
+1 Misty Step Spell Scroll or 250 gold & 3 days
 
 Ensure we raid the vault: \
 1 Catnap Spell Scroll OR \
-2x (Misty Step Scroll OR MAYBE (250 Gold worth of ink & 3 Days) x2 and you SERIOUSLY OWE ME)
+2x Misty Step Scroll OR MAYBE (250 Gold worth of ink) x2 & 3 Days and you SERIOUSLY OWE ME)
