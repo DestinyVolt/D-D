@@ -67,7 +67,7 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 
 ### Inventory
 **Money:** 224gp, 92sp, 4cp \
-**Wristpocket:** Alchemy Jug \
+**Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
 Dragonguard: 15 + DEX [2] AC, Adv. Against Breath Weapons \
