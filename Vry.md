@@ -15,8 +15,8 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 5 Hexblade Warlock / Level 1 Wizard
-HP: 57 \
+### Level 5 Hexblade Warlock / Level 3 Wizard of Artifice
+HP: 60 \
 AC: 19 \
 Prof: +3 \
 STR: 9 \
@@ -41,11 +41,15 @@ Level 2: Hold Person, Suggestion, Misty Step \
 Level 3: Counterspell, Elemental Weapon 
 
 #### Alchemical Magic
-Spell Slots: Two 1st Level Spell slots, + 1 on Rest / Day \
+Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
-Prepared: Sleep, Shield [50g] \
-Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
-Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease
+Prepared: Sleep, Shield, Disguise Self \
+Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant, Comprehend Languages \
+Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease \
+Potions (1): Climbing, Growth, Healing \
+Potions (2): Detect Thoughts, Greater \
+Potions (3): Invisibility, Water Breathing, Superior 
+
 
 #### Weapons 
 Spider Staff: +9 to hit, 2d6+6 damage \
@@ -66,7 +70,7 @@ Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) 
 
 ### Inventory
-**Money:** 224gp, 92sp, 4cp \
+**Money:** 166gp, 92sp, 4cp \
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
@@ -82,16 +86,11 @@ Component Pouch (Alchemy) \
 ### Future Levels: 
 #### Warlock Levels:
 6th: Shadow Hound, Dispel Magic \
-7th: Sickening Radiance, Ghostly Gaze
-8th: Dimension Door, Polearm Master
+7th: Sickening Radiance, Ghostly Gaze \
+8th: Dimension Door, Polearm Master \
 9th: Modify Memory, Mislead, ~~Hellish Rebuke~~, Bewitching Whispers, Superior Pact Weapon, ~~Improved Pact Weapon~~
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
-**Level 2: (3) + 1** \
-Prepared: + Absorb Elements \
-Potions: Climbing, Growth, Healing (Lesser, Greater, Superior), Invisibility, Water Breathing \
-Scrolls: Unused + Disguise Self
-
 **Level 3: (4, 2) + 2** \
 Prepared: +Dragon’s Breath \
 Rituals: +Magic Mouth \
