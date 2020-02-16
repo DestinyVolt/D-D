@@ -23,6 +23,7 @@
   - Iarno's Spellbook (I've filled the pages with Alchemical Formulas and whatnot)
   - Black Spider's Spellbook
   - Random Necromancer's Spellbook
+  - Random Orc Spellbook
   - 2oz of Ink & Quill
 + Alchemy Kit
   - Mercury
