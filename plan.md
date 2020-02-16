@@ -37,10 +37,7 @@ Arcana slips back into the crowd.
 Ave and Ligh go to a high point to do the big reveal. \
 Ave disguises themself as the 3rd in command. \
 Ave calls everyone's attention, dropping the two bodies, condemning the men, and then seemingly disappearring. \
-Ave actually uses the Magic Mouth to play a pre-recorded message, Ligh throws the guys over the edge, and then Ave steps back into the Bag of Holding. \
-Ligh picks up the Bag of Holding and climbs across the ceiling, escaping. \
-Ligh finds a place to drop Ave off and then exits the building in the chaos. \
-Ave slips back into the crowd 
+Ave actually uses the Magic Mouth to play a pre-recorded message, Ligh throws the guys over the edge, and then Ave Dimension Doors both of them out of the Church. 
 
 ## Materials Needed
 Andrius needs to get us, at the very minimum: \
