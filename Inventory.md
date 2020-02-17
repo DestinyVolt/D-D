@@ -33,3 +33,5 @@
   - 2 pints of oil
 + Egg of Screaming
 + Bag of Ball Bearings
++ Scroll of Mending
++ Scroll of Minor Illusion
