@@ -22,8 +22,8 @@ CHA: 18
 
 #### Proficiency
 Skills: Perception, Sleight of Hand, Persuasion \
-Token of Past Lives Skill: Insight \
-Expertise: Stealth, Athletics, Investigation \
+Token of Past Lives Skill: Investigation \
+Expertise: Stealth, Athletics, Insight \
 Tools: Thieves' Tools, Disguise Kit, Herbalism Kit \
 Saving Throws: Constitution, Charisma \
 Languages: Common, Elven, Thieves' Cant
