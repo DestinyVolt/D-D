@@ -33,7 +33,7 @@ Spells: +8 to hit, Save DC: 16 \
 Cantrips: Booming Blade, Mold Earth, Message, True Strike, Prestidigitation \
 Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade, Invisiblity \
-Level 3 (3x): Slow, Haste
+Level 3 (3x): Slow, Thunder Step
 
 #### Metamagic
 Sorcery Points: 6 \
