@@ -42,6 +42,7 @@ Quickened Spell: 2 SP
 
 #### Weapons 
 Dagger: +9 to hit, 1d4 + 5 \
+Short Bow: +9 to hit, 1d6 + 5 \
 Rapier: +9 to hit, 1d8 + 5 \
 Shadow Blade: +9 to hit, 2d8 + 5 \
 Booming Blade: Adds 1d8 thunder damage to strike \
