@@ -80,9 +80,9 @@ Bedroll
 Moon-touched Dagger (Ask DM?)
 
 ### Future Levels
-7/8th: Greater Invisibility, Dimention Door, Stone Skin(? Makes sense but costs too much), ASI: Either Feat for Guidance or +2 CHA
+7/8th: Greater Invisibility, Dispel Magic, Stone Skin(? Makes sense but costs too much), ASI: Either Feat for Guidance or +2 CHA
 9th: Hold Monster
-10th: Twinned Spell, Prestidigitation, Animate Objects or Tiny Servant(DM Fiat)
+10th: Twinned Spell, Prestidigitation, Wall of Stone
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
