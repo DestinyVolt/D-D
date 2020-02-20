@@ -66,6 +66,18 @@ To take a long rest, you must remain motionless for 4 hours, during which you ca
 You have advantage on saving throws against Disease and Poison, and have resistance to poison damage. \
 
 ### Inventory
+Money: 10gp
+Shortbow (20 Arrows)
+2 Daggers
+Rations: 2 Days
+Waterskin
+Thieves' Tools
+Crowbar
+Token to Remember my Clan
+Common Clothes
+50ft rope
+Bedroll
+Moon-touched Dagger (Ask DM?)
 
 ### Future Levels
 7/8th: Greater Invisibility, Dimention Door, Stone Skin(? Makes sense but costs too much), ASI: Either Feat for Guidance or +2 CHA
