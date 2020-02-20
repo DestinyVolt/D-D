@@ -21,9 +21,9 @@ WIS: 12 \
 CHA: 18
 
 #### Proficiency
-Skills: Perception, Sleight of Hand, Deception \
-Token of Past Lives Skill: Athletics \
-Expertise: Stealth, Persuasion, Insight \
+Skills: Perception, Sleight of Hand, Persuasion \
+Token of Past Lives Skill: Insight \
+Expertise: Stealth, Athletics, Investigation \
 Tools: Thieves' Tools, Disguise Kit, Herbalism Kit \
 Saving Throws: Constitution, Charisma \
 Languages: Common, Elven, Thieves' Cant
