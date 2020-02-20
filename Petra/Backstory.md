@@ -1,8 +1,8 @@
-Personality Trait: I ask a lot of questions. \
-Personality Trait: I don't like to be alone. I've spend enough time alone with my thoughts for several lifetimes. \
-Ideal: Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good) \
-Bond: I owe a debt I can never repay to the person who took pity on me. \
-Flaw: Imposter Syndrome. I'm just a girl that got rescued by this group of incredible adventurers. I have no idea how my powers work and I've never really been in a fight. 
+*Personality Trait:* I ask a lot of questions. \
+*Personality Trait:* I don't like to be alone. I've spend enough time alone with my thoughts for several lifetimes. \
+*Ideal:* Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good) \
+*Bond:* I owe a debt I can never repay to the person who took pity on me. \
+*Flaw:* Imposter Syndrome. I'm just a girl that got rescued by this group of incredible adventurers. I have no idea how my powers work and I've never really been in a fight. 
 
 **Backstory:** \
 &nbsp;&nbsp;&nbsp;&nbsp; I was a member of the wandering Tsarai Tribe. The Tsarai elves travel the land, never staying in one place for long. It's a small tribe, that survives mostly by foraging. Once, we were near a cave, rumored to be the lair of an evil wizard, who was not there at the moment. The clan was having trouble finding food in the cold mountains, so I foolishly tried to sneak into the cave to steal something to sell so that we could eat. However, I was caught by the Stone-Cursed Statues he had holding guard, and they petrified me. Apparently, he eventually returned and attempted to turn me into a stonecursed as well, but failed. I was left there, a statue, unable to see or hear the world around me, left with nothing but my thoughts. 
