@@ -44,7 +44,7 @@ Level 3: Counterspell, Elemental Weapon
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
 Prepared: Sleep, Shield, Disguise Self \
-Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant, Comprehend Languages \
+Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant, Catapult \
 Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
 Potions (2): Detect Thoughts, Greater \
