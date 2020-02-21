@@ -51,12 +51,12 @@ Sneak Attack: Adds 2d6 piercing damage to strike \
 Bolt from the Grave: +9 to hit, 2d6 + 5 necrotic damage 
 
 #### Abilities
-Stone's Durability
+Stone's Durability \
 Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class. You can use an action to make your AC 13 + your CON mod. 
 
 Stone Aegis \
-As a bonus action, you can grant an aegis to one allied creature you can see within 60 feet of you. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. This effect lasts for 1 minute, until you use it again, or until you are incapacitated. \
-In addition, when a creature you can see within 60 feet of you hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. You can then make one melee weapon attack against the attacker.
+As a bonus action, you can grant an aegis to one creature. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. 
+When a creature you can see hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space adjacent to the attacker and make a melee weapon attack against them. 
 
 Cunning Action \
 You can Dash, Disengage, or Hide as a Bonus Action. Immediately after you do, you can use your Bolt from the Grave, using up your Sneak Attack.
@@ -67,23 +67,23 @@ To take a long rest, you must remain motionless for 4 hours, during which you ca
 You have advantage on saving throws against Disease and Poison, and have resistance to poison damage. \
 
 ### Inventory
-Money: 10gp
-Shortbow (20 Arrows)
-2 Daggers
-Rations: 2 Days
-Waterskin
-Thieves' Tools
-Crowbar
-Token to Remember my Clan
-Common Clothes
-50ft rope
-Bedroll
+Money: 10gp \
+Shortbow (20 Arrows) \
+2 Daggers \
+Rations: 2 Days \
+Waterskin \
+Thieves' Tools \
+Crowbar \
+Token to Remember my Clan \
+Common Clothes \
+50ft rope \
+Bedroll \
 Moon-touched Dagger (Ask DM?)
 
 ### Future Levels
-7/8th: Greater Invisibility, Dispel Magic, Stone Skin(? Makes sense but costs too much), ASI: Either Feat for Guidance or +2 CHA
-9th: Hold Monster
-10th: Twinned Spell, Prestidigitation, Wall of Stone
+7/8th: Greater Invisibility, Dispel Magic, ASI: Either Feat for Guidance or +2 CHA \
+9th: Hold Monster \
+10th: Twinned Spell, Prestidigitation, Wall of Stone \
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
