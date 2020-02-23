@@ -37,7 +37,7 @@ Arcana slips back into the crowd.
 Ave and Ligh go to a high point to do the big reveal. \
 Ave disguises themself as the 3rd in command. \
 Ave calls everyone's attention, dropping the two bodies, condemning the men, and then seemingly disappearring. \
-Ave actually uses the Magic Mouth to play a pre-recorded message, Ligh throws the guys over the edge, and then Ave Dimension Doors both of them out of the Church. 
+Ave actually uses the scroll of minor illusion to play the message using his voice, Ligh throws the guys over the edge, and then Ave Dimension Doors both of them out of the Church. 
 
 ## Materials Needed
 Andrius needs to get us, at the very minimum: \
