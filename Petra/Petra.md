@@ -48,7 +48,7 @@ Shadow Blade: +9 to hit, 2d8 + 5 \
 Booming Blade: Adds 1d8 thunder damage to strike \
 Stone Aegis Reaction: Adds 1d10 force damage to strike \
 Sneak Attack: Adds 2d6 piercing damage to strike \
-Bolt from the Grave: +9 to hit, 2d6 + 5 necrotic damage 
+Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic damage 
 
 #### Abilities
 Stone's Durability \
