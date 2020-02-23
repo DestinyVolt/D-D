@@ -41,8 +41,7 @@ Ave actually uses the Magic Mouth to play a pre-recorded message, Ligh throws th
 
 ## Materials Needed
 Andrius needs to get us, at the very minimum: \
-1 Bag of Holding \
-1 Scroll of Magic Mouth 
+1 Bag of Holding 
 
 Ability to take something from the vault: \
 1 Additional Bag of Holding 
