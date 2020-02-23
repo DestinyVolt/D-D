@@ -18,7 +18,7 @@ DEX: 20 \
 CON: 16 \
 INT: 9 \
 WIS: 12 \
-CHA: 18
+CHA: 17
 
 #### Proficiency
 Skills: Perception, Sleight of Hand, Persuasion \
@@ -88,4 +88,4 @@ Moon-touched Dagger (Ask DM?)
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
 Ability Score Rolls (Used same as Vry): 9,11,12,16,17,17 \
-First ASI: +1 DEX, +1 CHA
+First ASI: Weapon Master (+1 DEX, Close Quarters Shooter)
