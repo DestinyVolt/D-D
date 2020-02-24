@@ -1,4 +1,4 @@
-## The Plan
+## The Plan fucKIN WORKED YALL HELL YEAH DUDE
 ### Sneaking in 
 Vomi, Arcana, and Ave are the only ones who are officially at the party (I don't know about Andrius). \
 Sarsariph and Ligh are hidden within the bags of holding. \
@@ -40,18 +40,4 @@ Ave calls everyone's attention, dropping the two bodies, condemning the men, and
 Ave actually uses the scroll of minor illusion to play the message using his voice, Ligh throws the guys over the edge, and then Ave Dimension Doors both of them out of the Church. 
 
 ## Materials Needed
-Andrius needs to get us, at the very minimum: \
-1 Bag of Holding 
-
-Ability to take something from the vault: \
-1 Additional Bag of Holding 
-
-Ability to truly raid the vault: \
-1 Portable Hole instead of 1 Bag of Holding
-
-Increase chance to raid the vault: \
-1 Misty Step Spell Scroll or 250 gold & 3 days
-
-Ensure we raid the vault: \
-1 Catnap Spell Scroll OR \
-2x Misty Step Scroll OR MAYBE (250 Gold worth of ink) x2 & 3 Days and you SERIOUSLY OWE ME)
+Andrius GOT US THE BAG OF HOLDING AND THATS ALL WE FUGGIN NEEDED :D
