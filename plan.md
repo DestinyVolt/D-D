@@ -1,4 +1,4 @@
-## The Plan fucKIN WORKED YALL HELL YEAH DUDE
+## The Plan fucKIN WORKED YALL HELL YEAH 
 ### Sneaking in 
 Vomi, Arcana, and Ave are the only ones who are officially at the party (I don't know about Andrius). \
 Sarsariph and Ligh are hidden within the bags of holding. \
