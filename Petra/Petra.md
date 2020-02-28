@@ -32,7 +32,7 @@ Languages: Common, Elven, Thieves' Cant
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Booming Blade, Mold Earth, Message, True Strike, Blade Ward \
 Level 1 (4x): Disguise Self, Thunderous Smite \
-Level 2 (3x): Hold Person, Shadow Blade, Invisiblity \
+Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers \
 Level 3 (3x): Psionic Blast, Thunder Step
 
 #### Metamagic
