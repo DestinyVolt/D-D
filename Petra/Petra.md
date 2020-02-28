@@ -81,9 +81,11 @@ Bedroll \
 Moon-touched Dagger (Ask DM?)
 
 ### Future Levels
-7/8th: Greater Invisibility, Dispel Magic, ASI: Either Feat for Guidance or +2 CHA \
+7/8th: Greater Invisibility, Dispel Magic, ASI: Either Feat for Guidance, +2 CHA \
 9th: Hold Monster \
 10th: Twinned Spell, Prestidigitation, Wall of Stone \
+Maybe want to grab Feat for Parry / Disarming attack because they could be useful and flavorful \ 
+
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
