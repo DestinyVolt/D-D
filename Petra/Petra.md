@@ -5,7 +5,7 @@ Elf (Aereni Wood Elf), ♀, 17, Neutral Good
 Darkvision (60ft) \
 Fey Ancestry (Adv on Charm, Immune to Sleep) \
 Trance (4 Hour Mediation Long Rest) \
-Aereni Expertise \
+Aereni Elf (Expertise for Past Lives Skill) \
 Fleet of Foot (35ft Base Speed) \
 Mask of the Wild (Can hide in Nature) 
 
@@ -21,9 +21,9 @@ WIS: 12 \
 CHA: 17
 
 #### Proficiency
-Skills: Perception, Sleight of Hand, Persuasion \
-Token of Past Lives Skill: Investigation \
-Expertise: Stealth, Athletics, Insight \
+Skills: Perception, Sleight of Hand, Persuasion, Stealth \
+Token of Past Lives Skill: None \
+Expertise: Athletics, Insight \
 Tools: Thieves' Tools, Disguise Kit, Chef's Tools \
 Saving Throws: Constitution, Charisma \
 Languages: Common, Elven, Thieves' Cant
@@ -73,6 +73,7 @@ Shortbow (20 Arrows) \
 Rations: 2 Days \
 Waterskin \
 Thieves' Tools \
+Chef's Utensils \
 Crowbar \
 Token to Remember my Clan \
 Common Clothes \
@@ -80,14 +81,30 @@ Common Clothes \
 Bedroll \
 Moon-touched Dagger (Ask DM?)
 
-### Future Levels
-7/8th: Greater Invisibility, Dispel Magic, ASI: Either Feat for Guidance, +2 CHA \
-9th: Hold Monster \
-10th: Twinned Spell, Prestidigitation, Wall of Stone \
-Maybe want to grab Feat for Parry / Disarming attack because they could be useful and flavorful \ 
-
+### Future Sorcerer Levels
+7th:  Dispel Magic \
+8th:  Greater Invisibility \
+---:  ASI: Elvan Accuracy (+1 CHA) or War Caster \
+---:  Booming Blade Upgrade \
+9th:  Hold Monster \
+10th: Prestidigitation, Wall of Stone \
+----: +1 Proficiency \
+11th: Flesh to Stone (Obviously makes sense, but isn't a sorcerer spell, so I have to ask DM)\
+----: Disintegrate, ~~Thunderous Smite~~ \
+----: Aegis Strike Upgrade (+1d10)
+12th: ASI: Elvan Accuracy (+1 CHA) or War Caster \
+13th: Teleport \
+14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
+----: Booming Blade Upgrade
+----: +1 Proficiency
+15th: Psychic Crush (Seriously, no Good 8th level spells?) \
+16th: ASI: +2 CHA \
+17th: Wish \
+----: Heightened Spell (Metamagic) \
+----: Aegis Strike Upgrade (+1d10) 
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
 Ability Score Rolls (Used same as Vry): 9,11,12,16,17,17 \
+Racial Ability Score Increase: +2 DEX, +1 WIS
 First ASI: Weapon Master (+1 DEX, Close Quarters Shooter)
