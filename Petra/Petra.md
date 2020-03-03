@@ -41,14 +41,17 @@ Subtle Spell: 1 SP \
 Quickened Spell: 2 SP 
 
 #### Weapons 
-Dagger: +9 to hit, 1d4 + 5 piercing damage\
-Short Bow: +9 to hit, 1d6 + 5 piercing damage\
-Primal Savagery: +7 to hit, 2d12 acid damage \
-Shadow Blade: +9 to hit, 2d8 + 5 piercing damage\
+Dagger: +9 to hit, 1d4 + 5 piercing \
+Short Bow: +9 to hit, 1d6 + 5 piercing \
+Alchemical Claws: +7 to hit, 2d12 acid \
+Shadow Blade: +9 to hit, 2d8 + 5 piercing  \
+Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic
+
+**Bonuses:** \
 Booming Blade: Adds 1d8 thunder damage to strike \
 Stone Aegis Reaction: Adds 1d10 force damage to strike \
-Sneak Attack: Adds 2d6 piercing damage to strike \
-Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic damage 
+Sneak Attack: Adds 2d6 piercing damage to strike 
+
 
 #### Abilities
 Stone's Durability \
@@ -73,13 +76,12 @@ Shortbow (20 Arrows) \
 Rations: 2 Days \
 Waterskin \
 Thieves' Tools \
-Chef's Utensils \
+Cook's Utensils \
 Crowbar \
-Token to Remember my Clan \
 Common Clothes \
 50ft rope \
 Bedroll \
-Moon-touched Dagger (Ask DM?)
+Moon-touched Dagger
 
 ### Future Sorcerer Levels
 7th:  Dispel Magic \
