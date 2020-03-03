@@ -107,7 +107,7 @@ Moon-touched Dagger (Ask DM?)
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
 Ability Score Rolls (Used same as Vry): 9,11,12,16,17,17 \
 Racial Ability Score Increase: +2 DEX, +1 WIS \
-First ASI: Weapon Master (+1 DEX, Close Quarters Shooter) \
+First ASI: Weapon Mastery, Fighting Style Variant (+1 DEX, Close Quarters Shooter) \
 Base AC: 10+DEX=15 \
 Stoneskin AC: 13+CON=16 \
 Mage Armor AC: 13+DEX=18 
