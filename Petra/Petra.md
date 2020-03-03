@@ -30,7 +30,7 @@ Languages: Common, Elven, Thieves' Cant
 
 #### Spellcasting
 Spells: +8 to hit, Save DC: 16 \
-Cantrips: Booming Blade, Mold Earth, Message, True Strike, Blade Ward \
+Cantrips: Booming Blade, Primal Savagery, Mold Earth, Message, Blade Ward \
 Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers \
 Level 3 (3x): Psionic Blast, Thunder Step
@@ -41,10 +41,10 @@ Subtle Spell: 1 SP \
 Quickened Spell: 2 SP 
 
 #### Weapons 
-Dagger: +9 to hit, 1d4 + 5 \
-Short Bow: +9 to hit, 1d6 + 5 \
-Rapier: +9 to hit, 1d8 + 5 \
-Shadow Blade: +9 to hit, 2d8 + 5 \
+Dagger: +9 to hit, 1d4 + 5 peircing damage\
+Short Bow: +9 to hit, 1d6 + 5 peircing damage\
+Primal Savagery: +7 to hit, 2d12 acid damage \
+Shadow Blade: +9 to hit, 2d8 + 5 peircing damage\
 Booming Blade: Adds 1d8 thunder damage to strike \
 Stone Aegis Reaction: Adds 1d10 force damage to strike \
 Sneak Attack: Adds 2d6 piercing damage to strike \
@@ -89,7 +89,7 @@ Moon-touched Dagger (Ask DM?)
 9th:  Hold Monster \
 10th: Prestidigitation, Wall of Stone \
 ----: +1 Proficiency \
-11th: Flesh to Stone (Obviously makes sense, but isn't a sorcerer spell, so I have to ask DM) \
+11th: Flesh to Stone (UA) \
 ----: Disintegrate, ~~Thunderous Smite~~ \
 ----: Aegis Strike Upgrade (+1d10) \
 12th: ASI: Elvan Accuracy (+1 CHA) or War Caster \
