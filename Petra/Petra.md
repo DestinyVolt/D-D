@@ -85,7 +85,7 @@ Moon-touched Dagger (Ask DM?)
 7th:  Dispel Magic \
 8th:  Greater Invisibility \
 ---:  ASI: Elvan Accuracy (+1 CHA) or War Caster \
----:  Booming Blade Upgrade \
+---:  Cantrip Upgrade \
 9th:  Hold Monster \
 10th: Prestidigitation, Wall of Stone \
 ----: +1 Proficiency \
@@ -95,7 +95,7 @@ Moon-touched Dagger (Ask DM?)
 12th: ASI: Elvan Accuracy (+1 CHA) or War Caster \
 13th: Teleport \
 14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
-----: Booming Blade Upgrade \
+----: Cantrip Upgrade \
 ----: +1 Proficiency \
 15th: Psychic Crush (Seriously, no Good 8th level spells?) \
 16th: ASI: +2 CHA \
@@ -110,4 +110,5 @@ Racial Ability Score Increase: +2 DEX, +1 WIS \
 First ASI: Weapon Mastery, Fighting Style Variant (+1 DEX, Close Quarters Shooter) \
 Base AC: 10+DEX=15 \
 Stoneskin AC: 13+CON=16 \
-Mage Armor AC: 13+DEX=18 
+Mage Armor AC: 13+DEX=18 \
+Notes: Alchemical Claws is a renamed Primal Savagery
