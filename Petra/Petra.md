@@ -41,10 +41,10 @@ Subtle Spell: 1 SP \
 Quickened Spell: 2 SP 
 
 #### Weapons 
-Dagger: +9 to hit, 1d4 + 5 peircing damage\
-Short Bow: +9 to hit, 1d6 + 5 peircing damage\
+Dagger: +9 to hit, 1d4 + 5 piercing damage\
+Short Bow: +9 to hit, 1d6 + 5 piercing damage\
 Primal Savagery: +7 to hit, 2d12 acid damage \
-Shadow Blade: +9 to hit, 2d8 + 5 peircing damage\
+Shadow Blade: +9 to hit, 2d8 + 5 piercing damage\
 Booming Blade: Adds 1d8 thunder damage to strike \
 Stone Aegis Reaction: Adds 1d10 force damage to strike \
 Sneak Attack: Adds 2d6 piercing damage to strike \
