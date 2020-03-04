@@ -33,5 +33,5 @@ REMINDER: MAKE ANOTHER POTION OF MIND READING IN THE MORNING
 
 #### This should work!
 2 Parts Petro's Revival Potion + 1 Parts Mercury + 3 Crushed up Goodberries. (Mix well and apply to mouth.) \
-Should break the petrification while keeping the living stone enchantment. \
+Should break the petrification and Stone-Curse temprement, while keeping the living stone enchantment. \
 REMINDER: Ask Ave once we get back tommorow to help me explain everything to Petra! I can't make enough Mind reading potions and I get the feeling Ave and Petra will like each other. Should probably make sure everyone is there when I cure her though.
