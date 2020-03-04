@@ -9,7 +9,7 @@ Aereni Elf (Expertise for Past Lives Skill) \
 Fleet of Foot (35ft Base Speed) \
 Mask of the Wild (Can hide in Nature) 
 
-### Level 6 Stone Sorcerer / Level 3 Revived Rogue
+### Level 4 Stone Sorcerer / Level 5 Revived Rogue
 HP: 81 \
 AC: 16 \
 Prof: +4 \
@@ -18,13 +18,13 @@ DEX: 20 \
 CON: 16 \
 INT: 9 \
 WIS: 12 \
-CHA: 17
+CHA: 18
 
 #### Proficiency
 Skills: Perception, Sleight of Hand, Persuasion, Stealth \
 Token of Past Lives Skill: None \
 Expertise: Athletics, Insight \
-Tools: Thieves' Tools, Disguise Kit, Chef's Tools \
+Tools: Thieves' Tools, Disguise Kit, Chef's Utensils \
 Saving Throws: Constitution, Charisma \
 Languages: Common, Elven, Thieves' Cant
 
@@ -32,46 +32,45 @@ Languages: Common, Elven, Thieves' Cant
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Booming Blade, Primal Savagery, Mold Earth, Message, Blade Ward \
 Level 1 (4x): Disguise Self, Thunderous Smite \
-Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers \
-Level 3 (3x): Psionic Blast, Thunder Step
+Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers 
 
 #### Metamagic
-Sorcery Points: 6 \
+Sorcery Points: 4 \
 Subtle Spell: 1 SP \
 Quickened Spell: 2 SP 
 
 #### Weapons 
+Alchemical Claws: +8 to hit, 2d12 acid \
+Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic \
 Dagger: +9 to hit, 1d4 + 5 piercing \
 Short Bow: +9 to hit, 1d6 + 5 piercing \
-Alchemical Claws: +7 to hit, 2d12 acid \
-Shadow Blade: +9 to hit, 2d8 + 5 piercing  \
-Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic
+Shadow Blade: +9 to hit, 2d8 + 5 piercing  
 
 **Bonuses:** \
 Booming Blade: Adds 1d8 thunder damage to strike \
-Stone Aegis Reaction: Adds 1d10 force damage to strike \
-Sneak Attack: Adds 2d6 piercing damage to strike 
-
+Sneak Attack: Adds 3d6 piercing damage to strike 
 
 #### Abilities
 Stone's Durability \
 Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class. You can use an action to make your AC 13 + your CON mod. 
 
-Stone Aegis \
-As a bonus action, you can grant an aegis to one creature. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. 
-When a creature you can see hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space adjacent to the attacker and make a melee weapon attack against them. 
-
 Cunning Action \
-You can Dash, Disengage, or Hide as a Bonus Action. Immediately after you do, you can use your Bolt from the Grave, using up your Sneak Attack.
+You can Dash, Disengage, Hide, or Aim as a Bonus Action. Immediately after you do, you can use your Bolt from the Grave, using up your Sneak Attack.
+
+Uncanny Dodge \
+When a visible attacker hits you with an attack, you can use your Reaction to halve the attack's damage against you.
 
 Revived Nature \
 You don't need to sleep, eat, breath, or drink. \
 To take a long rest, you must remain motionless for 4 hours, during which you can still hear. \
-You have advantage on saving throws against Disease and Poison, and have resistance to poison damage. \
+You have advantage on saving throws against Disease and Poison, and have resistance to poison damage. 
 
-Fighting Style: Close Quarters Shooter \ 
-You do not have disadvantage on ranged attacks while a hostile is within 5ft.
-Your ranged attacks ignore half and three-quarters cover against targets within 30ft of you.
+Token of Past Lives \
+After you take a long rest in the form of a Trance, you gain proficiency in a skill or tool of your choice, replacing any proficiency you previously had from this ability.
+
+Fighting Style: Close Quarters Shooter \
+You do not have disadvantage on ranged attacks while a hostile is within 5ft. \
+Your ranged attacks ignore half and three-quarters cover against targets within 30ft of you. \
 You have a +1 Bonus to ranged attacks.
 
 ### Inventory
@@ -89,33 +88,36 @@ Bedroll \
 Moon-touched Dagger
 
 ### Future Sorcerer Levels
+5th:  Thunder Step \
+6th:  Psionic Blast (UA), Stone Aegis \
+---:  Improved Cantrips \
 7th:  Dispel Magic \
 8th:  Greater Invisibility \
----:  ASI: Elvan Accuracy (+1 CHA) or War Caster \
----:  Cantrip Upgrade \
+---:  ASI: War Caster \
+---:  +1 Proficiency \
 9th:  Hold Monster \
-10th: Prestidigitation, Wall of Stone \
-----: +1 Proficiency \
+10th: Mending, Wall of Stone \
 11th: Flesh to Stone (UA) \
 ----: Disintegrate, ~~Thunderous Smite~~ \
 ----: Aegis Strike Upgrade (+1d10) \
-12th: ASI: Elvan Accuracy (+1 CHA) or War Caster \
+12th: ASI: +2 CHA \
+----: Improved Cantrips \
+----: +1 Proficiency \
 13th: Teleport \
 14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
-----: Cantrip Upgrade \
-----: +1 Proficiency \
-15th: Psychic Crush (Seriously, no Good 8th level spells?) \
-16th: ASI: +2 CHA \
-17th: Wish \
-----: Heightened Spell (Metamagic) \
-----: Aegis Strike Upgrade (+1d10) 
+15th: Psychic Crush (Seriously, no Good 8th level spells?) 
 
 ### Notes:
-HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 6 (+1 HP per Stone Sorcerer lvl) + 15 (3d8 roll) + 27 (5d6 roll) \
+HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 4 (+1 HP per Stone Sorcerer lvl) + 28 (5d8 roll) + 16 (3d6 roll) \
 Ability Score Rolls (Used same as Vry): 9,11,12,16,17,17 \
 Racial Ability Score Increase: +2 DEX, +1 WIS \
+Order of Level Up: 1 Level of Sorcerer, 5 Levels of Rogue, 3 levels of Sorcerer \
 First ASI: Weapon Mastery, Fighting Style Variant (+1 DEX, Close Quarters Shooter) \
+Second ASI: Elven Accuracy (+1 CHA) \
 Base AC: 10+DEX=15 \
 Stoneskin AC: 13+CON=16 \
 Mage Armor AC: 13+DEX=18 \
 Notes: Alchemical Claws is a renamed Primal Savagery
+
+Stone Aegis so I don't have to rewrite it later: \
+As a bonus action, you can grant an aegis to one creature. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. When a creature you can see hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space   adjacent to the attacker and make a melee weapon attack against them. 
