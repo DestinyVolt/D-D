@@ -14,7 +14,7 @@ Curing any part of the body seems to be temporary, as the stone grows back over.
 The clumpy liquid that flows from the hands seem to some form of acid, but the magical gasious effect around it seems to be necrotic in nature. 
 
 #### Detect thoughts
-Potion of Mind Reading worked, but it's kind of a mess in there. I got her name tho: ~~Xanaphia~~
+Potion of Mind Reading worked, but it's kind of a mess in there. I got her name tho: ~~Xanaphia~~ (why adult name??)
 
 #### Name:
 ~~Naeris~~ \
