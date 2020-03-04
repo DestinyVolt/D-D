@@ -69,6 +69,11 @@ You don't need to sleep, eat, breath, or drink. \
 To take a long rest, you must remain motionless for 4 hours, during which you can still hear. \
 You have advantage on saving throws against Disease and Poison, and have resistance to poison damage. \
 
+Fighting Style: Close Quarters Shooter \ 
+You do not have disadvantage on ranged attacks while a hostile is within 5ft.
+Your ranged attacks ignore half and three-quarters cover against targets within 30ft of you.
+You have a +1 Bonus to ranged attacks.
+
 ### Inventory
 Money: 10gp \
 Shortbow (20 Arrows) \
