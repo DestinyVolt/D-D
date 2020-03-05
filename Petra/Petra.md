@@ -40,7 +40,7 @@ Subtle Spell: 1 SP \
 Quickened Spell: 2 SP 
 
 #### Weapons 
-Alchemical Claws: +8 to hit, 2d12 acid \
+Alchemical Claws: +8 to hit, 2d10 acid \
 Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic \
 Dagger: +9 to hit, 1d4 + 5 piercing \
 Short Bow: +9 to hit, 1d6 + 5 piercing \
