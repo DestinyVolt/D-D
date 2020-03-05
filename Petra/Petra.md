@@ -71,7 +71,7 @@ After you take a long rest in the form of a Trance, you gain proficiency in a sk
 Fighting Style: Close Quarters Shooter \
 You do not have disadvantage on ranged attacks while a hostile is within 5ft. \
 Your ranged attacks ignore half and three-quarters cover against targets within 30ft of you. \
-You have a +1 Bonus to ranged attacks.
+You have a +1 Bonus to ranged attacks against targets within 30ft.
 
 ### Inventory
 Money: 10gp \
