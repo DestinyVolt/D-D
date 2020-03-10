@@ -5,7 +5,6 @@ Elf (Aereni Wood Elf), ♀, 17, Neutral Good
 Darkvision (60ft) \
 Fey Ancestry (Adv on Charm, Immune to Sleep) \
 Trance (4 Hour Mediation Long Rest) \
-Aereni Elf (Expertise for Past Lives Skill) \
 Fleet of Foot (35ft Base Speed) \
 Mask of the Wild (Can hide in Nature) 
 
