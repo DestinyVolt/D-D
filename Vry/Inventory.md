@@ -26,7 +26,6 @@
   - 2oz of Ink & Quill
 + Alchemy Kit
   - Mercury
-  - Dragonbile
   - Powdered Nightshade
   - 64.85gp worth of Raw Materials
   - 2 pints of oil
