@@ -2,7 +2,7 @@
 + Rations: 4 Days
 + Beard Pocket Watch
 + Coin Purse of Holding
-+ Bag of Holding?
++ Bag of Holding /w man inside
 + Dungeoneer's Pack 
   - Hammer & 10 Pitons
   - Waterskin
