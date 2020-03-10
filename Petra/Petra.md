@@ -30,7 +30,7 @@ Languages: Common, Elven, Thieves' Cant
 
 #### Spellcasting
 Spells: +8 to hit, Save DC: 16 \
-Cantrips: Booming Blade, Primal Savagery, Mold Earth, Frostbite, Blade Ward \
+Cantrips: Booming Blade, Primal Savagery, Mold Earth, Message, Blade Ward \
 Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers 
 
