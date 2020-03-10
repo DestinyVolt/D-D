@@ -25,10 +25,7 @@ Don't sell them, please? I feel like a friend should have it...)
 
 Sarsariph: 
 - Dragonguard Armor (I really feel like you should always have had it, honestly...)
+- Mercury [from alchemicy kit] (This might make a nice drink for Starflight)
 
-Starflight: 
-- Mercury [from alchemicy kit] (This might make a nice drink for you, huh?)
-
-Petro: 
 - Wand of Magic Missiles (Be careful, little buddy. I can't bring you back anymore...)
 - Egg
