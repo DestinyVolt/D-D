@@ -27,5 +27,7 @@ Sarsariph:
 - Dragonguard Armor (I really feel like you should always have had it, honestly...)
 - Mercury [from alchemicy kit] (This might make a nice drink for Starflight)
 
-- Wand of Magic Missiles (Be careful, little buddy. I can't bring you back anymore...)
+Petro
+- My Holy Symbol of the Traveler (Be careful, little buddy. I can't bring you back anymore...)
+- Wand of Magic Missiles 
 - Egg
