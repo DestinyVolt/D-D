@@ -97,8 +97,8 @@ Moon-touched Dagger
 ---:  ASI: War Caster \
 ---:  +1 Proficiency \
 9th:  Hold Monster \
-10th: Mending, Wall of Stone \
-11th: Flesh to Stone (UA) \
+10th: Mind Sliver, Flesh to Stone (UA) \
+11th: Wall of Stone \
 ----: Disintegrate, ~~Thunderous Smite~~ \
 ----: Aegis Strike Upgrade (+1d10) \
 12th: ASI: +2 CHA \
