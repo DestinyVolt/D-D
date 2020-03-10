@@ -1,4 +1,4 @@
-#### Given to Vomi, if we go down to kill the succubus.
+#### Given to Vomi, if we go down to kill the succubus. She is to open and read it if I die. 
 Hey Vomi, I know I probably didn't leave the best impression, but if you're reading this, you had to kill me.
 Thank you, really. I'd rather be dead then a slave. 
 I know it's a lot to ask, but please take care of the party for me? 
