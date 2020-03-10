@@ -44,7 +44,8 @@ Alchemical Claws: +8 to hit, 2d10 acid \
 Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic \
 Dagger: +9 to hit, 1d4 + 5 piercing \
 Short Bow: +9 to hit, 1d6 + 5 piercing \
-Shadow Blade: +9 to hit, 2d8 + 5 piercing  
+Shadow Blade: +9 to hit, 2d8 + 5 piercing \
+Frostbite: DC 16 CON Save, 2d6 cold + d-adv on next attack 
 
 **Bonuses:** \
 Booming Blade: Adds 1d8 thunder damage to strike \
