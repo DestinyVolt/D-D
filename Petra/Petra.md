@@ -30,7 +30,7 @@ Languages: Common, Elven, Thieves' Cant
 
 #### Spellcasting
 Spells: +8 to hit, Save DC: 16 \
-Cantrips: Booming Blade, Primal Savagery, Mold Earth, Message, Blade Ward \
+Cantrips: Booming Blade, Primal Savagery, Mold Earth, Mind Sliver, Blade Ward \
 Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers 
 
@@ -97,7 +97,7 @@ Moon-touched Dagger
 ---:  ASI: War Caster \
 ---:  +1 Proficiency \
 9th:  Hold Monster \
-10th: Mind Sliver, Flesh to Stone (UA) \
+10th: Message, Flesh to Stone (UA) \
 11th: Wall of Stone \
 ----: Disintegrate, ~~Thunderous Smite~~ \
 ----: Aegis Strike Upgrade (+1d10) \
