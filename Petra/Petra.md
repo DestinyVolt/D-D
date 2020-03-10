@@ -7,6 +7,7 @@ Fey Ancestry (Adv on Charm, Immune to Sleep) \
 Trance (4 Hour Mediation Long Rest) \
 Fleet of Foot (35ft Base Speed) \
 Mask of the Wild (Can hide in Nature) 
+Elven Accuracy (Improved Advantage)
 
 ### Level 4 Stone Sorcerer / Level 5 Revived Rogue
 HP: 81 \
