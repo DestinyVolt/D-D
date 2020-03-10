@@ -8,7 +8,7 @@ On the second piece of parchment, I left a list of my stuff, and who I think sho
 
 Hey everyone. If you're reading this, I'm dead. I'm sorry. Please don't blame anyone but me. It's my fault. I wish I could have spent more time with all of you. The time I spent with all of you was wonderful... Honestly you're the first people I could call friends in many years. I know it's wrong to ask favors of you now that I'm gone, but please... If you can, rescue Sacramento from the Path... If not, burn them to the ground. May the Traveler guide you all. 
 
-- Arcana
+~ Arcana
 
 Ligh: 
 - Spider Staff (It's stronger than your current one. It allows you to cast a couple of magic spells too. Don't worry, they won't hurt you (or anyone else.)
