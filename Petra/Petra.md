@@ -1,13 +1,13 @@
 # Petra 
-Elf (Aereni Wood Elf), ♀, 17, Neutral Good
+Elf (Pallid Elf), ♀, 17, Neutral Good
 
 ### Racial Abilities
 Darkvision (60ft) \
 Fey Ancestry (Adv on Charm, Immune to Sleep) \
 Trance (4 Hour Mediation Long Rest) \
-Fleet of Foot (35ft Base Speed) \
-Mask of the Wild (Can hide in Nature) \
-Elven Accuracy (Improved Advantage)
+Incisive Sense (Adv. On Insight & Investigation) \
+Blessing of the Moon Weaver (Invisibility (Self) & Sleep 1/day) \
+Elven Accuracy (Improved Advantage on Attacks)
 
 ### Level 4 Stone Sorcerer / Level 5 Revived Rogue
 HP: 81 \
@@ -21,16 +21,16 @@ WIS: 12 \
 CHA: 18
 
 #### Proficiency
-Skills: Perception, Sleight of Hand, Persuasion, Stealth \
+Skills: Perception, Sleight of Hand, Persuasion, Stealth, Investigation \
 Token of Past Lives Skill: None \
-Expertise: Athletics, Insight, Investigation \
+Expertise: Athletics, Insight \
 Tools: Thieves' Tools, Disguise Kit, Chef's Utensils \
 Saving Throws: Constitution, Charisma \
 Languages: Common, Elven, Thieves' Cant
 
 #### Spellcasting
 Spells: +8 to hit, Save DC: 16 \
-Cantrips: Booming Blade, Primal Savagery, Mold Earth, Mind Sliver, Blade Ward \
+Cantrips: Booming Blade, Primal Savagery, Mold Earth, Mind Sliver, Blade Ward, Light \
 Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers 
 
