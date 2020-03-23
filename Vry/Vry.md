@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 5 Hexblade Warlock / Level 2 Wizard of Artifice
 HP: 60 \
-AC: 19 \
+AC: 18 \
 Prof: +3 \
 STR: 9 \
 DEX: 16 \
@@ -75,7 +75,6 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
 Wand of Magic Missile (7/8 Charges)
-Dragonguard: 15 + DEX [2] AC, Adv. Against Breath Weapons \
 Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Talon \
