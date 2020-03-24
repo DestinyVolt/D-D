@@ -80,8 +80,9 @@ Traveler's Clothes (Cloak) \
 Dagger \
 3 Acid Vials \
 3 Oil Flasks \ 
+64.85gp worth of Raw Materials \
 Component Pouch (Alchemy) \
-[Backpack](https://github.com/DestinyVolt/D-D/blob/master/Inventory.md)
+[Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
 ### Future Levels: 
 #### Warlock Levels:
