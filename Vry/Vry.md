@@ -44,8 +44,8 @@ Level 3: Counterspell, Elemental Weapon
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
 Prepared: Sleep, Shield, Disguise Self \
-Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant, Catapult \
-Unused: Mage Armor [50g], Charm Person, Magic Missile, Grease \
+Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
+Unused: Catapult, Mage Armor [50g], Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
 Potions (2): Detect Thoughts, Greater \
 Potions (3): Invisibility, Water Breathing, Superior 
@@ -70,25 +70,25 @@ Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) 
 
 ### Inventory
-**Money:** 0gp, 0sp, 0cp \
+**Money:** 645gp, 500sp, 500cp \
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
 Wand of Magic Missile (7/8 Charges)
 Shield: +2 AC \
 Traveler's Clothes (Cloak) \
-Talon \
 Dagger \
 3 Acid Vials \
+3 Oil Flasks \ 
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Inventory.md)
 
 ### Future Levels: 
 #### Warlock Levels:
-6th: Shadow Hound, Dispel Magic \
+6th: Shadow Hound, Dispel Magic, Wrathful Smite, ~~Hellish Rebuke~~ \
 7th: Sickening Radiance, Ghostly Gaze \
 8th: Dimension Door, Polearm Master \
-9th: Modify Memory, Mislead, ~~Hellish Rebuke~~, Bewitching Whispers, Superior Pact Weapon, ~~Improved Pact Weapon~~
+9th: Modify Memory, Bewitching Whispers, Superior Pact Weapon, ~~Improved Pact Weapon~~
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
 **Level 3: (4, 2) + 2** \
