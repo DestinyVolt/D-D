@@ -1,6 +1,6 @@
 Korinn {Clan Name} 
 
-Ability scores from high to low: STR, CON (+1), INT, 
+Ability scores from high to low: STR, CON (+1), INT, DEX/CHA, WIS
 
 Proficiency: History, Survival, Athletics, Investigation
 
