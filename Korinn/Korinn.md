@@ -1,7 +1,7 @@
 Korinn {Clan Name} 
 
-Ability scores from high to low: STR, CON (+1), INT, DEX/CHA, WIS
-
+Ability scores from high to low: STR, CON, INT, DEX/CHA, WIS
+Ravenite Dragonborn
 Proficiency: History, Survival, Athletics, Investigation
 
 
