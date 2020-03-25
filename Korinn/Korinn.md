@@ -10,6 +10,7 @@ Tavern Brawler (+1 STR or +1 CON)
 Brawny (+1 STR)
 
 Background: Archaeologist
+Class: Fighter (Rune Knight)
 
 Starting Gear:
 Chain Mail
