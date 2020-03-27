@@ -1,6 +1,6 @@
 Korinn {Clan Name} 
 
-Ability scores from high to low: STR, CON, INT, DEX/CHA, WIS
+Ability scores from high to low: STR, CON, DEX, INT, CHA, WIS
 Ravenite Dragonborn
 Proficiency: History, Survival, Athletics, Investigation
 
@@ -10,7 +10,7 @@ Tavern Brawler (+1 STR or +1 CON)
 Brawny (+1 STR)
 
 Background: Archaeologist
-Class: Fighter (Rune Knight)
+Class: Fighter (Rune Knight) / (1 Level of Barbarian)
 
 Starting Gear:
 Chain Mail
@@ -20,7 +20,7 @@ a Dungeoneer's Pack
 A wooden case containing a map to a ruin or dungeon, a bullseye lantern, a miner's pick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25 gp
 
 Needed Stats:
-At least: 17, 14, 14 or 16, 15, 14
+At least: 17, 16, 14, 12, 10, 8
 
 Personality Trait: You might think I'm a scholar, but I love a good brawl. These fists were made for punching.
 
