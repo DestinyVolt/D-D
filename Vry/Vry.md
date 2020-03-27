@@ -74,7 +74,7 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
-Wand of Magic Missile (7/8 Charges)
+Wand of Magic Missile (6/7 Charges)
 Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
@@ -86,10 +86,16 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-6th: Shadow Hound, Dispel Magic, Wrathful Smite, ~~Hellish Rebuke~~ \
-7th: Sickening Radiance, Ghostly Gaze \
-8th: Dimension Door, Polearm Master \
-9th: Modify Memory, Bewitching Whispers, Superior Pact Weapon, ~~Improved Pact Weapon~~
+6th: Shadow Hound, Dispel Magic, Wrathful Smite, Relentless Hex, ~~Eldritch Smite~~, ~~Hellish Rebuke~~ \
+7th: Flock of Familiars, Spirit Shroud, Ghostly Gaze, ~~Elemental Weapon~~ \
+8th: Summon Shadow Spirit*, Polearm Master \
+9th: Modify Memory, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~ \
+10th: Armor of Hexes, Minor Illusion
+11th: Otherworldly Form, Dream
+12th: Lifedrinker, Some Invocation?, War Caster, ~~Eldritch Mind (UA)~~
+13th: Plane Shift, Hold Monster
+
+\*I Need to find: tears inside a crystal vial worth at least 300 gp.
 
 #### Wizard Level: (Spell Slots) + Arcane Recovery
 **Level 3: (4, 2) + 2** \
