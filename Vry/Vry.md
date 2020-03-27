@@ -90,9 +90,9 @@ Component Pouch (Alchemy) \
 7th: Flock of Familiars, Spirit Shroud, Ghostly Gaze, ~~Elemental Weapon~~ \
 8th: Summon Shadow Spirit*, Polearm Master \
 9th: Modify Memory, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~ \
-10th: Armor of Hexes, Minor Illusion
-11th: Otherworldly Form, Dream
-12th: Lifedrinker, Some Invocation?, War Caster, ~~Eldritch Mind (UA)~~
+10th: Armor of Hexes, Minor Illusion \
+11th: Otherworldly Form, Dream \
+12th: Lifedrinker, Some Invocation?, War Caster, ~~Eldritch Mind (UA)~~ \
 13th: Plane Shift, Hold Monster
 
 \*I Need to find: tears inside a crystal vial worth at least 300 gp.
