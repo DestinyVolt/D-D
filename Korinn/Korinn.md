@@ -1,29 +1,41 @@
 Korinn {Clan Name} 
 
-Ability scores from high to low: STR, CON, INT, DEX, CHA, WIS
-Ravenite Dragonborn
-Proficiency: History, Survival, Athletics, Perception
-Expertise: Athletics, Investigation
+Ability scores from high to low: STR, DEX(14), INT, DEX, CHA, WIS
+Ravenite Dragonborn (+2 STR, +1 CON)
+Proficiency: History, Survival, Athletics, Intimidation, Investigation (Expertise if Rogue)
+Expertise: Athletics
 
-Important Feats:
+Racial Traits: 
+Fire Breath
+Darkvision (60ft)
+Vengeful Assault
+
+Class: Fighter (Rune Knight) / 1 Barbarian ~~/ 1 Rogue~~
+Fighting Style: Unarmed Fighting
+
+ASI:
 Tavern Brawler (+1 STR or +1 CON)
+Prodigy Feat if DM Allows it / Rogue 1 otherwise, Weapon Master Varient (+1 STR or +1 DEX, Superior Technique) 
 
-Fighting Style: Unarmed
-
-Background: Archaeologist
-Class: Fighter (Rune Knight) / 1 Barbarian / 1 Rogue
-
-Starting Gear:
-Chain Mail
-1 Net & 1 Whip
-two handaxes
-a Dungeoneer's Pack
-A wooden case containing a map to a ruin or dungeon, a bullseye lantern, a miner's pick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25 gp
+Inventory:
+Gold: 25gp
+1 Net & 1 Whip \
+2 Handaxes \ 
+Dungeoneer's Pack \
+Wooden case containing a map to a ruin or dungeon \
+Bullseye lantern, miner's pick, shovel \ 
+Set of traveler's clothes \
+two-person tent \
+A dragon's bony talon hanging from a plain leather necklace
 
 Needed Stats:
 At least: 17, 16, 14, 12, 10, 8
 
-Either Rogue 1 / Prodigy Feat / Brawny Feat
 Personality Trait: You might think I'm a scholar, but I love a good brawl. These fists were made for punching.
 
-Backstory: The civilization she first investigated was the remains of her own clan. They were killed by frost giants, and she learned the Giant's language and runic abilities so that she could one day get revenge. Her egg was frozen during this attack and she hatched some 20 years later when the ice melted, long after the frost giants had left. She doesn't like bringing up that her clan is gone (Clans are central in dragonborn life, to the point that they lead with their clan name before their given name) so she just acts vague about it when asked and references them casually to put up an effort of them seeming alive. She was raised by Kobolds, who found her egg, who also imparted upon her the importance of the clan. 
+Wanted Magical Item: Eldritch Claw Tattoo
+
+Background: Archaeologist
+Backstory: The civilization she first investigated was the remains of her own clan. Her egg was frozen during a Frost Giant attack and she hatched some 20 years later when the ice melted, long after the frost giants had left. She was raised by Kobolds, who found her egg. Being raised by Kobolds taught her the importance of the clan before everything else. When she learned her true nature, investigating the remains of her village, she left her Kobold clan, to find if there were any remains of her clan, and if she could get revenge on the giants. She funds her travels by diving into crypts, dungeons, and other archaeolical finds, especially those of a Giant heritage. From one crypt, she learned the Giant's rune magic, and she intends to make use of this to get revenge. 
+
+She doesn't like bringing up that her clan is gone (Clans are central in dragonborn life, to the point that they lead with their clan name before their given name) so she just acts vague about it when asked and references them casually to put up an effort of them seeming alive.
