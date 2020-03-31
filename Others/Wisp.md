@@ -1,4 +1,4 @@
-Wisp (Willow) \
+Wisp \
 Envoy Warforged (UA) \
 Lawful Evil \
 Satire Bard / Phoenix Sorcerer 1
