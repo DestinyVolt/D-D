@@ -7,7 +7,7 @@ Satire Bard / Phoenix Sorcerer 1
 CHA > DEX=CON=STR(14) > INT > WIS
 
 Personality Trait: I like lighting small fires and watching them burn. \
-Flaw: I was designed such that I physically cannot attempt to target another creature with a damaging attack or spell. I am incredibly resentful of this, and delight in outsmarting this limitation.
+Flaw: I was designed such that I physically cannot attempt to target another creature with a damaging attack or spell. I am incredibly resentful of this, and delight in circumventing this limitation.
 
 #### Skills
 Specialized Design: Performance, Thieves' Tools \
