@@ -17,7 +17,7 @@ School of Satire: Intimidation, Persuasion, Insight, (Replacing: Sleight of Hand
 Expertise: Athletics, Stealth, Thieves' Tools
 
 #### Feats
-Moderately Armored (+1 DEX or STR)
+Moderately Armored (+1 DEX or STR) \
 Shield Master
 
 Charlatan Feature: False Identity (Willow)
@@ -25,8 +25,8 @@ Charlatan Feature: False Identity (Willow)
 #### Bard Spells: 
 Cantrips: Friends, Message, Minor Illusion \
 1st Level: Healing Word, Faerie Fire or Detect Magic if nobody else in the party has it \
-2nd Level: Heat Metal, Invisiblity, Suggestion, Hold Person
-3rd Level: Hypnotic Pattern, ???
+2nd Level: Heat Metal, Invisiblity, Suggestion, Hold Person \
+3rd Level: Hypnotic Pattern, ??? \
 Magical Secret Ideas: Telekinesis, Counterspell, Spirit Guardians (What a technicality, lmao)
 
 #### Pheonix Sorcerer Spells: 
