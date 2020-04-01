@@ -6,8 +6,8 @@ Satire Bard / Phoenix Sorcerer 1
 17, 14, 13, 12, 9, 8 \
 CHA > DEX=CON=STR(14) > INT > WIS
 
-Personality Trait: I like watching fires burn. \
-Personality Trait: Sarcasm and insults are my weapons of choice. \
+Personality Trait: I like setting fires and watching them burn. \
+Personality Trait: I might be excellent at performance and deception, but I take no joy in it. It's what I was build to do, what I was forced to do. I'd much rather be direct. \
 Ideal: **[Power]** If I can attain more power, no one will tell me what to do, nor will I be limited by my nature. (Evil) \
 Bond: I was forged by Dwarven hands and enchanted by Human mages. I respect the dwarves who built me, but hate the scheming mages who brought me to life. \
 Flaw: I was designed such that I physically cannot attempt to target another creature with a damaging attack/spell. I am incredibly resentful of this, and delight in circumventing this limitation.
@@ -17,7 +17,7 @@ Specialized Design: Performance, Thieves' Tools \
 Charlatan: Sleight of Hand, Deception, Disguise Kit, Forgery Kit \
 Bard: Stealth, Athletics, Investigation, Flute, Lyre, Violin \
 School of Satire: Intimidation, Persuasion, Insight, (Replacing: Sleight of Hand, Thieves' Tools) \
-Expertise: Athletics, Stealth, Thieves' Tools
+Expertise: Athletics, Stealth, Thieves' Tools \
 Languages: Common, Dwarvish
 
 #### Feats
