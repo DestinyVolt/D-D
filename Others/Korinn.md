@@ -1,24 +1,25 @@
 Korinn {Clan Name} 
+Lawful Neutral
 
-Ability scores from high to low: STR, DEX(14), INT, DEX, CHA, WIS
-Ravenite Dragonborn (+2 STR, +1 CON)
-Proficiency: History, Survival, Athletics, Intimidation, Investigation (Expertise if Rogue)
+Ability scores from high to low: STR, DEX(14), INT, DEX, CHA, WIS \
+Ravenite Dragonborn (+2 STR, +1 CON) \
+Proficiency: History, Survival, Athletics, Intimidation, Investigation (Expertise if Rogue) \
 Expertise: Athletics
 
 Racial Traits: 
-Fire Breath
-Darkvision (60ft)
-Vengeful Assault
+Fire Breath \
+Darkvision (60ft) \
+Vengeful Assault 
 
-Class: Fighter (Rune Knight) / 1 Barbarian ~~/ 1 Rogue~~
+Class: Fighter (Rune Knight) / 1 Barbarian ~~/ 1 Rogue~~ \
 Fighting Style: Unarmed Fighting
 
-ASI:
-Tavern Brawler (+1 STR or +1 CON)
+ASI: \
+Tavern Brawler (+1 STR or +1 CON) \
 Prodigy Feat if DM Allows it / Rogue 1 otherwise, Weapon Master Varient (+1 STR or +1 DEX, Superior Technique) 
 
-Inventory:
-Gold: 25gp
+Inventory: 
+Gold: 25gp \
 1 Net & 1 Whip \
 2 Handaxes \ 
 Dungeoneer's Pack \
