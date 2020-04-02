@@ -17,7 +17,6 @@ Ask DM about Custom Background for this
 
 Magic Initiate (Wizard): Message, Prestidigitation, Find Familiar (Snek)
 
-
 #### Spells:
 Cantrips: Poison Spray, Vicious Mockery, Mind Sliver (UA), Guidance, Thaumaturgy, Spare the Dying
 Prepared: Command, Heroism, Bless, Inflict Wounds, Cure Wounds, Sanctuary
@@ -28,3 +27,5 @@ Prepared: Command, Heroism, Bless, Inflict Wounds, Cure Wounds, Sanctuary
 5th: Hold Monster, *Contagion*
 6th: Mass Suggestion, *Disintegrate, Investure of Flames*
 7th: Mord's Mag Mansion
+8th: 
+9th: True Polymorph, *Wish*
