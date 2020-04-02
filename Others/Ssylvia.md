@@ -1,6 +1,6 @@
 Ssylvia Yeven 
 Yuan-ti Pureblood
-Chaotic Good
+Neutral Good
 
 Eloquence Bard / Order Cleric 1
 
