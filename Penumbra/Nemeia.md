@@ -44,7 +44,7 @@ Repeating Shot \
 Enhanced Defense
 
 #### Battlesmith
-[Steel Defender](google.com) (Wheelchair) \
+[Rover (Steel Defender)](google.com) (Wheelchair / Hound depending on mode) \
 Battle Ready (Intelligence-based attacks when using Magical Weapons)
 
 #### Inventory
