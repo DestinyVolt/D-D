@@ -3,10 +3,10 @@ Winged Tiefling, Female, 83 \
 Neutral Good
 
 #### Racial Features
-Dark Vision (60 ft)
-Fire Resistance
-Wings (30ft Flying Speed)
-SCAG Features: Small Horns, Lacks a Reflection, Smells slightly of Brimstone
+Dark Vision (60 ft) \
+Fire Resistance \
+Wings (30ft Flying Speed) \
+SCAG Features: Small Horns, Lacking Reflection, Smells Slightly of Brimstone
 
 ### Level 3 Battlesmith Artificer
 HP: 14 \
@@ -33,8 +33,8 @@ Force Empowered Rend: +4 to hit, 1d8+2 force damage
 
 #### Artificer Spells
 Slots: 3 1st Level slots \
-Spells: +6 to hit, Save DC: 14
-Cantrips: Guidance, Mage Hand \ 
+Spells: +6 to hit, Save DC: 14 \
+Cantrips: Guidance, Mage Hand \
 Spell Slots: 3 (5 Prepared Spells) \
 1st: *Heroism, Shield,* Cure Wounds, Disguise Self, Faerie Fire, Identify (R), Alarm (R)
 
@@ -48,7 +48,6 @@ Enhanced Defense
 Battle Ready (Intelligence-based attacks when using Magical Weapons)
 
 #### Inventory
-**Money:** ??? \
 [Bag of Holding](google.com) (Cloak) \
 Wand of Detect Magic (Glasses, 3/3 Charges) \
 Canesword (Hidden Blade (Rapier) in Cane) \
@@ -58,14 +57,14 @@ Magical Tinkering Creations (2x Music Boxes, 1 Air Freshener (Fresh Tea), 1 Free
 4th: Arcanist Feat (+1 INT, Prestidigitation, Detect Magic, Arcana Expertise), Absorb Elements, Sanctuary \
 5th: Extra Attack, Second Level Spells (Always Prepared: *Branding Smite, Warding Bond*) \
 Always: \
-Spells: *Heroism, Shield, Branding Smite, Warding Bond*, Cure Wounds, Disguise Self, Sanctuary, Identify (R) \
-Infusions: Bag of Holding \
+Spells: *Heroism, Shield, Branding Smite, Warding Bond*, Cure Wounds, Disguise Self, Identify (R), Faerie Fire \
+Infusions: Bag of Holding 
 <details> <summary> Tea Shop Spells </summary>
-  Spells: Alarm (R), Sanctuary, Aid \
+  Spells: Alarm (R), Sanctuary, Aid <br>
   Infusions: Detect Magic Glasses
 </details>
 <details> <summary> Combat Spells </summary>
-  Spells: Blur, Invisiblity, Heat Metal \
+  Spells: Blur, Invisiblity, Heat Metal <br>
   Infusions: Repeating Shotgun
 </details>
 
