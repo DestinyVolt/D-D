@@ -44,7 +44,7 @@ Repeating Shot \
 Enhanced Defense
 
 #### Battlesmith
-[Rover (Steel Defender)](google.com) (Wheelchair / Hound depending on mode) \
+[Rover (Steel Defender)](https://github.com/DestinyVolt/D-D/blob/master/Penumbra/Rover.md) (Wheelchair / Hound depending on mode) \
 Battle Ready (Intelligence-based attacks when using Magical Weapons)
 
 #### Inventory
