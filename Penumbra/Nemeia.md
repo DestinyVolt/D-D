@@ -1,6 +1,5 @@
 ## Nemeia Penumbra
 Winged Tiefling, Female, 83 \
-Neutral Good
 
 #### Racial Features
 Dark Vision (60 ft) \
