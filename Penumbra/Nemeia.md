@@ -1,5 +1,5 @@
 ## Nemeia Penumbra
-Winged Tiefling, Female, 83 \
+Winged Tiefling, Female, 83 
 
 #### Racial Features
 Dark Vision (60 ft) \
@@ -25,9 +25,9 @@ Languages: Common, Infernal \
 Saving Throws: Constitution, Intelligence 
 
 #### Attacks
-Shotgun: +4 to hit, ?d?+2 piercing damage \
+Shotgun: +4 to hit, 1d12+2 piercing damage \
 Canesword: +4 to hit, 1d8+2 piercing damage \
-Repeating Shotgun: +7 to hit, ?d?+5 piercing damage \
+Repeating Shotgun: +7 to hit, 1d12+5 piercing damage (Range: 20/80) \
 Force Empowered Rend: +4 to hit, 1d8+2 force damage
 
 #### Artificer Spells
