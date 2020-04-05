@@ -78,6 +78,7 @@ You have a +1 Bonus to ranged attacks against targets within 30ft.
 Money: 10gp \
 Shortbow (20 Arrows) \
 2 Daggers \
+Net \
 Rations: 2 Days \
 Waterskin \
 Thieves' Tools \
