@@ -74,7 +74,7 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
-Wand of Magic Missile (6/7 Charges)
+Wand of Magic Missile (5/7 Charges)
 Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
