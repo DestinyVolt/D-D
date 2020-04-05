@@ -86,10 +86,10 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-6th: Shadow Hound, Dispel Magic, Wrathful Smite, Relentless Hex, ~~Eldritch Smite~~, ~~Hellish Rebuke~~ \
-7th: Flock of Familiars, Spirit Shroud, Ghostly Gaze, ~~Elemental Weapon~~ \
+6th: Shadow Hound, Dispel Magic, Flock of Familiars, Relentless Hex, ~~Eldritch Smite~~, ~~Misty Step~~ \
+7th: Wrathful Smite, Spirit Shroud, Ghostly Gaze, ~~Hellish Rebuke~~ \
 8th: Summon Shadow Spirit*, Polearm Master \
-9th: Modify Memory, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~ \
+9th: Hold Monster, Modify Memory, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~, ~~Elemental Weapon~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Form, Dream \
 12th: Lifedrinker, Some Invocation?, War Caster, ~~Eldritch Mind (UA)~~ \
