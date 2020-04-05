@@ -22,7 +22,7 @@ CHA: 18
 
 #### Proficiency
 Skills: Perception, Sleight of Hand, Persuasion, Stealth, Investigation \
-Token of Past Lives Skill: None \
+Token of Past Lives Skill: Survival \
 Expertise: Athletics, Insight \
 Tools: Thieves' Tools, Disguise Kit, Chef's Utensils \
 Saving Throws: Constitution, Charisma \
