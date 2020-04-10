@@ -25,8 +25,8 @@ Languages: Common, Infernal \
 Saving Throws: Constitution, Intelligence 
 
 #### Attacks
-Shotgun: +4 to hit, 1d12+2 piercing damage \
-Canesword: +4 to hit, 1d8+2 piercing damage \
+Shotgun: +3 to hit, 1d12+1 piercing damage \
+Canesword: +3 to hit, 1d8+1 piercing damage \
 Repeating Shotgun: +7 to hit, 1d12+5 piercing damage (Range: 20/80) \
 Force Empowered Rend: +4 to hit, 1d8+2 force damage
 
