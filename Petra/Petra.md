@@ -91,10 +91,10 @@ Moon-touched Dagger
 
 ### Future Sorcerer Levels
 5th:  Thunder Step \
-6th:  Psionic Blast (UA), Stone Aegis \
+6th:  Dispel Magic, Stone Aegis \
 ---:  Improved Cantrips \
-7th:  Dispel Magic \
-8th:  Greater Invisibility \
+7th:  Greater Invisibility \
+8th:  Summon Elemental Spirit \
 ---:  ASI: War Caster \
 ---:  +1 Proficiency \
 9th:  Hold Monster \
@@ -107,7 +107,6 @@ Moon-touched Dagger
 ----: +1 Proficiency \
 13th: Teleport \
 14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
-15th: Psychic Crush (Seriously, no Good 8th level spells?) 
 
 ### Notes:
 HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 4 (+1 HP per Stone Sorcerer lvl) + 28 (5d8 roll) + 16 (3d6 roll) \
