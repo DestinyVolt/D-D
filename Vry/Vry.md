@@ -79,8 +79,8 @@ Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
 3 Acid Vials \
-3 Oil Flasks \ 
-64.85gp worth of Raw Materials \
+4 Oil Flasks \ 
+64.65gp worth of Raw Materials \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
