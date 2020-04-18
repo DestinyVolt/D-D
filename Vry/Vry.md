@@ -43,7 +43,7 @@ Level 3: Counterspell, Elemental Weapon
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
-Prepared: Sleep, Shield, Disguise Self \
+Prepared: Identify, Shield, Catapult \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Catapult, Mage Armor [50g], Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
@@ -74,7 +74,7 @@ Pact Weapon (Charisma Based Dimensional Weapon)
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
-Wand of Magic Missile (5/7 Charges)
+Wand of Magic Missile (7/7 Charges)
 Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
