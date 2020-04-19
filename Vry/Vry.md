@@ -37,8 +37,8 @@ Two 3rd Level Spell Slots \
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Hellish Rebuke \
-Level 2: Hold Person, Suggestion, Misty Step \
-Level 3: Counterspell, Elemental Weapon 
+Level 2: Hold Person, Suggestion, Flock of Familiars \
+Level 3: Counterspell, Elemental Weapon, Dispel Magic
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
@@ -49,7 +49,6 @@ Unused: Catapult, Mage Armor [50g], Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
 Potions (2): Detect Thoughts, Greater \
 Potions (3): Invisibility, Water Breathing, Superior 
-
 
 #### Weapons 
 Spider Staff: +9 to hit, 2d6+6 damage \
@@ -62,12 +61,13 @@ Acid Vial: +3 to hit, 2d6 damage
 #### Invocations:
 Improved Pact Weapon (+1) \
 Thirsting Blade \
-Eldritch Smite
+Relentless Hex 
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +3 Damage, 10 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
-Pact Weapon (Charisma Based Dimensional Weapon) 
+Pact Weapon (Charisma Based Dimensional Weapon)
+Shadow Hound (Shadow Tracker Curse)
 
 ### Inventory
 **Money:** 645gp, 500sp, 500cp \
@@ -86,7 +86,6 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-6th: Shadow Hound, Dispel Magic, Flock of Familiars, Relentless Hex, ~~Eldritch Smite~~, ~~Misty Step~~ \
 7th: Wrathful Smite, Spirit Shroud, Ghostly Gaze, ~~Hellish Rebuke~~ \
 8th: Summon Shadow Spirit*, Polearm Master \
 9th: Hold Monster, Modify Memory, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~, ~~Elemental Weapon~~ \
