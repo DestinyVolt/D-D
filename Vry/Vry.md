@@ -16,7 +16,7 @@ Silver-Tongued (Deception Expertise)
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
 ### Level 5 Hexblade Warlock / Level 2 Wizard of Artifice
-HP: 60 \
+HP: 65 \
 AC: 18 \
 Prof: +3 \
 STR: 9 \
