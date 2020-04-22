@@ -66,7 +66,7 @@ Relentless Hex
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +3 Damage, 10 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
-Pact Weapon (Charisma Based Dimensional Weapon)
+Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
 
 ### Inventory
@@ -74,7 +74,7 @@ Shadow Hound (Shadow Tracker Curse)
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
-Wand of Magic Missile (7/7 Charges)
+Wand of Magic Missile (7/7 Charges) \
 Shield: +2 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
