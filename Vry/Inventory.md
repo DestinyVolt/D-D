@@ -29,3 +29,5 @@
 + Egg of Screaming
 + Bag of Ball Bearings
 + Scroll of Mending
++ Stealthy Yarn (2x)
++ Armor Yarn (2x)
