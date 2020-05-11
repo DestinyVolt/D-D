@@ -36,20 +36,23 @@ Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers
 
 #### Metamagic
 Sorcery Points: 4 \
-Subtle Spell: 1 SP \
+Twinned Spell: 1 SP / Lvl \
 Quickened Spell: 2 SP 
 
 #### Weapons 
-Alchemical Claws: +8 to hit, 2d10 acid \
+Alchemical Claws*: +8 to hit, 2d10 acid \
+Petrifying Grasp*: +10 to hit, restrains \
 Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic \
 Dagger: +9 to hit, 1d4 + 5 piercing \
-Short Bow: +9 to hit, 1d6 + 5 piercing \
 Shadow Blade: +9 to hit, 2d8 + 5 piercing \
-Frostbite: DC 16 CON Save, 2d6 cold + d-adv on next attack 
+Mind Sliver: DC 16 INT Save, 2d6 psychic + d-adv on next Saving Throw \
+*Mechanically, Alchemical Claws and Petrifying Grasp are Primal Savagery and a Net, respectively. 
+
 
 **Bonuses:** \
 Booming Blade: Adds 1d8 thunder damage to strike \
-Sneak Attack: Adds 3d6 piercing damage to strike 
+Sneak Attack: Adds 3d6 piercing damage to strike \
+Thunderous Smite: Adds 2d8 thunder damage to strike + STR save vs Knockback & Prone 
 
 #### Abilities
 Stone's Durability \
@@ -78,7 +81,6 @@ You have a +1 Bonus to ranged attacks against targets within 30ft.
 Money: 10gp \
 Shortbow (20 Arrows) \
 2 Daggers \
-Net \
 Rations: 2 Days \
 Waterskin \
 Thieves' Tools \
@@ -93,19 +95,20 @@ Moon-touched Dagger
 5th:  Thunder Step \
 6th:  Dispel Magic, Stone Aegis \
 ---:  Improved Cantrips \
-7th:  Greater Invisibility \
-8th:  Summon Elemental Spirit \
+7th:  Enlarge/Reduce \
+8th:  Stoneskin \
 ---:  ASI: War Caster \
 ---:  +1 Proficiency \
 9th:  Hold Monster \
-10th: Message, Flesh to Stone (UA) \
-11th: Wall of Stone \
-----: Disintegrate, ~~Thunderous Smite~~ \
+10th: Message, Wall of Stone \
+----: Heightened Spell \
+11th: Flesh to Stone (UA) \
+----: Disintegrate, ~~Thunderous Blow~~ \
 ----: Aegis Strike Upgrade (+1d10) \
 12th: ASI: +2 CHA \
 ----: Improved Cantrips \
 ----: +1 Proficiency \
-13th: Teleport \
+13th: 7th Level Spell \
 14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
 
 ### Notes:
