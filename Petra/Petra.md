@@ -9,27 +9,27 @@ Incisive Sense (Adv. On Insight & Investigation) \
 Blessing of the Moon Weaver (Invisibility (Self) & Sleep 1/day) \
 Elven Accuracy (Improved Advantage on Attacks)
 
-### Level 3 Stone Sorcerer / Level 5 Revived Rogue / Fighter 1
+### Revived Rogue 5 / Stone Sorcerer 3 / Fighter 1
 HP: 84 \
 AC: 16 \
 Prof: +4 \
 STR: 12 \
-DEX: 19 \
-CON: 16 \
+DEX: 20 \
+CON: 17 \
 INT: 9 \
 WIS: 12 \
-CHA: 18
+CHA: 16
 
 #### Proficiency
 Skills: Perception, Sleight of Hand, Persuasion, Stealth, Investigation \
 Token of Past Lives Skill: Survival \
 Expertise: Athletics, Insight \
 Tools: Thieves' Tools, Disguise Kit, Chef's Utensils \
-Saving Throws: Constitution, Charisma \
+Saving Throws: Constitution, Dexterity, Intelligence \
 Languages: Common, Elven, Thieves' Cant
 
 #### Spellcasting
-Spells: +8 to hit, Save DC: 16 \
+Spells: +7 to hit, Save DC: 15 \
 Cantrips: Booming Blade, Primal Savagery, Mold Earth, Mind Sliver, Blade Ward, Light \
 Level 1 (4x): Disguise Self, Thunderous Smite \
 Level 2 (3x): Hold Person, Shadow Blade 
@@ -40,12 +40,12 @@ Twinned Spell: 1 SP / Lvl \
 Quickened Spell: 2 SP 
 
 #### Weapons 
-Alchemical Claws*: +8 to hit, 2d10 acid \
+Alchemical Claws*: +7 to hit, 2d10 acid \
 Petrifying Grasp*: +10 to hit, restrains \
 Bolt from the Grave: +10 to hit, 2d6 + 5 necrotic \
 Dagger: +9 to hit, 1d4 + 5 piercing \
 Shadow Blade: +9 to hit, 2d8 + 5 piercing \
-Mind Sliver: DC 16 INT Save, 2d6 psychic + d-adv on next Saving Throw \
+Mind Sliver: DC 15 INT Save, 2d6 psychic + d-adv on next Saving Throw \
 *Mechanically, Alchemical Claws and Petrifying Grasp are Primal Savagery and a Net, respectively. 
 
 
@@ -93,7 +93,7 @@ Moon-touched Dagger
 
 ### Future Sorcerer Levels
 4th:  2nd Level Spell \
----:  ASI: Resilient (DEX) \
+---:  ASI: Resilient (CON) \
 5th:  Thunder Step \
 ---:  Improved Cantrips \
 6th:  Dispel Magic, Stone Aegis \
@@ -107,14 +107,14 @@ Moon-touched Dagger
 11th: Flesh to Stone (UA) \
 ----: Disintegrate, ~~Thunderous Blow~~ \
 ----: Aegis Strike Upgrade (+1d10) \
-----: +1 Proficiency
+----: +1 Proficiency \
 ----: Improved Cantrips \
 12th: ASI: +2 CHA \
 13th: 7th Level Spell \
 14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
 
 ### Notes:
-HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 3 (+1 HP per Stone Sorcerer lvl) + 28 (5d8 roll) + 10 (3
+HP = 8 [1st lvl Max Roll] + 27 (CON * 9) + 3 (+1 HP per Stone Sorcerer lvl) + 22 (4d8 roll) + 14 (3
 2d6 roll) \
 Ability Score Rolls (Used same as Vry): 9,11,12,16,17,17 \
 Racial Ability Score Increase: +2 DEX, +1 WIS \
