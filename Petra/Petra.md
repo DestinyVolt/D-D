@@ -9,12 +9,12 @@ Incisive Sense (Adv. On Insight & Investigation) \
 Blessing of the Moon Weaver (Invisibility (Self) & Sleep 1/day) \
 Elven Accuracy (Improved Advantage on Attacks)
 
-### Level 4 Stone Sorcerer / Level 5 Revived Rogue
-HP: 81 \
+### Level 3 Stone Sorcerer / Level 5 Revived Rogue / Fighter 1
+HP: 84 \
 AC: 16 \
 Prof: +4 \
 STR: 12 \
-DEX: 20 \
+DEX: 19 \
 CON: 16 \
 INT: 9 \
 WIS: 12 \
@@ -32,10 +32,10 @@ Languages: Common, Elven, Thieves' Cant
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Booming Blade, Primal Savagery, Mold Earth, Mind Sliver, Blade Ward, Light \
 Level 1 (4x): Disguise Self, Thunderous Smite \
-Level 2 (3x): Hold Person, Shadow Blade, Cloud of Daggers 
+Level 2 (3x): Hold Person, Shadow Blade 
 
 #### Metamagic
-Sorcery Points: 4 \
+Sorcery Points: 3 \
 Twinned Spell: 1 SP / Lvl \
 Quickened Spell: 2 SP 
 
@@ -92,36 +92,37 @@ Bedroll \
 Moon-touched Dagger
 
 ### Future Sorcerer Levels
+4th:  2nd Level Spell \
+---:  ASI: Resilient (DEX) \
 5th:  Thunder Step \
-6th:  Dispel Magic, Stone Aegis \
 ---:  Improved Cantrips \
-7th:  Enlarge/Reduce \
+6th:  Dispel Magic, Stone Aegis \
+7th:  4th Level Spell \
+---:  +1 Proficiency
 8th:  Stoneskin \
 ---:  ASI: War Caster \
----:  +1 Proficiency \
 9th:  Hold Monster \
 10th: Message, Wall of Stone \
 ----: Heightened Spell \
 11th: Flesh to Stone (UA) \
 ----: Disintegrate, ~~Thunderous Blow~~ \
 ----: Aegis Strike Upgrade (+1d10) \
-12th: ASI: +2 CHA \
+----: +1 Proficiency
 ----: Improved Cantrips \
-----: +1 Proficiency \
+12th: ASI: +2 CHA \
 13th: 7th Level Spell \
 14th: Stone Edge (+Half Sorcerer Lvl to spell damage) \
 
 ### Notes:
-HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 4 (+1 HP per Stone Sorcerer lvl) + 28 (5d8 roll) + 16 (3d6 roll) \
+HP = 6 [1st lvl Max Roll] + 27 (CON * 9) + 3 (+1 HP per Stone Sorcerer lvl) + 28 (5d8 roll) + 10 (3
+2d6 roll) \
 Ability Score Rolls (Used same as Vry): 9,11,12,16,17,17 \
 Racial Ability Score Increase: +2 DEX, +1 WIS \
-Order of Level Up: 1 Level of Sorcerer, 5 Levels of Rogue, 3 levels of Sorcerer \
-First ASI: Weapon Mastery, Fighting Style Variant (+1 DEX, Close Quarters Shooter) \
-Second ASI: Elven Accuracy (+1 CHA) \
-Base AC: 10+DEX=15 \
+Order of Level Up: 1 Level of Sorcerer, 5 Levels of Rogue, 1 level of Fighter, 2 levels of Sorc \
+First ASI: Elven Accuracy (+1 CHA) \
+Base AC: 10+DEX=14 \
 Stoneskin AC: 13+CON=16 \
-Mage Armor AC: 13+DEX=18 \
-Notes: Alchemical Claws is a renamed Primal Savagery
+Mage Armor AC: 13+DEX=17 
 
 Stone Aegis so I don't have to rewrite it later: \
 As a bonus action, you can grant an aegis to one creature. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. When a creature you can see hits the protected target with a melee attack, you can use your reaction to teleport to an unoccupied space   adjacent to the attacker and make a melee weapon attack against them. 
