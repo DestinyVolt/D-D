@@ -6,7 +6,7 @@ Darkvision(60ft) \
 Immunity: Surprise, Exhaustion, Charm, Poison
 
 #### Stats
-HP: 21 (CON + INT + Level * 5) \
+HP: 27 (CON + INT + Level * 5) \
 AC: 15 \
 Prof: +2 \
 STR: 14 \
