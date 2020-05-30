@@ -70,7 +70,7 @@ Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
 
 ### Inventory
-**Money:** 395gp, 500sp, 500cp \
+**Money:** 380gp, 500sp, 500cp \
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
@@ -80,7 +80,7 @@ Traveler's Clothes (Cloak) \
 Dagger \
 3 Acid Vials \
 4 Oil Flasks \ 
-39.65gp worth of Raw Materials \
+69.65gp worth of Raw Materials \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
