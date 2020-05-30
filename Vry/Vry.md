@@ -70,7 +70,7 @@ Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
 
 ### Inventory
-**Money:** 380gp, 500sp, 500cp \
+**Money:** 374gp, 500sp, 500cp \
 **Wristpocket:** None \
 **Equipped Gear:** \
 Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
