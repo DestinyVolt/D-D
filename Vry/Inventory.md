@@ -10,7 +10,7 @@
 + Monster Hunter’s Pack
   - Crowbar
   - Steel Mirror
-  - 2 Sets of Manacles (& Keys)
+  - 5 Sets of Manacles (& Keys)
   - 3 Wooden Stakes
   - 13 Torches and a Tinderbox
 + Chest (From Vry's Mother)
