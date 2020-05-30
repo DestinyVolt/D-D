@@ -27,7 +27,8 @@
 + Alchemy Kit
   - Powdered Nightshade
 + Egg of Screaming
-+ Bag of Ball Bearings
++ Bag of Ball Bearings x5
++ Caltrops x5
 + Scroll of Mending
 + Stealthy Yarn (2x)
 + Armor Yarn (2x)
