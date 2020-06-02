@@ -45,7 +45,7 @@ Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
 Prepared: Identify, Shield, Catapult \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
-Unused: Catapult, Mage Armor [50g], Charm Person, Magic Missile, Grease \
+Unused: Catapult, Mage Armor, Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
 Potions (2): Detect Thoughts, Greater \
 Potions (3): Invisibility, Water Breathing, Superior 
