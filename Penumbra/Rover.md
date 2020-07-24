@@ -8,7 +8,7 @@ Immunity: Surprise, Exhaustion, Charm, Poison
 #### Stats
 HP: 32 (CON + INT + Level * 5) \
 AC: 15 \
-Prof: +2 \
+Prof: +3 \
 STR: 14 \
 DEX: 12 \ 
 CON: 14 \ 
@@ -21,6 +21,6 @@ Skills: Athletics, Perception \
 Saving Throws: Dexterity, Constitution 
 
 #### Actions
-Force Empowered Rend: 4 (2+Prof) to hit, 1d8+2 (1d8+Prof) \
+Force Empowered Rend: 5 (2+Prof) to hit, 1d8+3 (1d8+Prof) \
 Repair (3/Day): Restore 2d8+Prof HP to itself or one construct/object \
 Deflect Attack (Reaction): Disadvantage on one attack roll from an adjacent creature against another creature.
