@@ -8,7 +8,7 @@ Wings (30ft Flying Speed) \
 SCAG Features: Small Horns, Lacking Reflection, Smells faintly of Brimstone
 
 ### Level 4 Battlesmith Artificer
-HP: 17 \
+HP: 20 \
 AC: 13 \
 STR: 5 \
 DEX: 13 \
@@ -32,11 +32,12 @@ Infused Canesword: +8 to hit, 1d8+6 piercing damage \
 Force Empowered Rend: +4 to hit, 1d8+2 force damage
 
 #### Artificer Spells
-Slots: 3 1st Level slots \
+Slots: 4 1st Level slots, 2 2nd Level slots \
 Spells: +7 to hit, Save DC: 15 \
 Cantrips: Guidance, Thorn Whip, Prestidigitation \
 Spell Slots: 3 (7+2+1 Prepared Spells) \
-1st: *Heroism, Shield,* Cure Wounds, Disguise Self, Faerie Fire, Identify (R), Alarm (R), Absorb Elements, Expeditious Retreat, Detect Magic (R+1)
+1st: *Heroism, Shield,* Cure Wounds, Faerie Fire, Identify (R), Alarm (R), Absorb Elements, Detect Magic (R+1) \
+2nd: *Branding Smite, Warding Bond,* Heat Metal, Invisiblitiy
 
 #### Infusions (2 Active)
 Replicate Magic Item (Bag of Holding) \
@@ -46,13 +47,10 @@ Enhanced Weapon
 
 #### Battlesmith
 [Rover (Steel Defender)](https://github.com/DestinyVolt/D-D/blob/master/Penumbra/Rover.md) (Wheelchair / Hound depending on mode) \
-Battle Ready (Intelligence-based attacks when using Magical Weapons)
+Battle Ready (Intelligence-based attacks when using Magical Weapons) \
+Extra Attack (2x attacks per turn)
 
 #### Inventory
 [Bag of Holding](google.com) (Cloak) \
 Canesword (Hidden Blade (Rapier) in Cane) \
 Magical Tinkering Creations (2x Music Boxes, 1 Air Freshener (Fresh Tea), 3 Free) 
-
-### Future Levels
-5th: Extra Attack, Second Level Spells (Always Prepared: *Branding Smite, Warding Bond*) \
-Ideas for spells: Blur, Invisiblity, Heat Metal, Aid
