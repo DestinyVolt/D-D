@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 6 Hexblade Warlock / Level 2 Wizard of Artifice
 HP: 65 \
-AC: 18 \
+AC: 19 \
 Prof: +3 \
 STR: 9 \
 DEX: 16 \
@@ -39,6 +39,12 @@ Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Hellish Rebuke \
 Level 2: Hold Person, Suggestion, Flock of Familiars \
 Level 3: Counterspell, Elemental Weapon, Dispel Magic
+
+LR Switches: \
+Suggestion -> Dragon's Breath \
+Elemental Weapon -> Spirit Shroud \
+Hellish Rebuke -> Wrathful Smite
+
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
@@ -86,18 +92,17 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-7th: Wrathful Smite, Spirit Shroud, Ghostly Gaze, ~~Hellish Rebuke~~ \
-8th: Summon Shadow Spirit*, Polearm Master \
-9th: Hold Monster, Modify Memory, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~, ~~Elemental Weapon~~ \
+7th: Staggering Smite, Ghostly Gaze \
+8th: *Temporary Spell*, Crusher \
+9th: Hold Monster, Cone of Cold, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~, ~~*Temporary Spell*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Form, Dream \
 12th: Lifedrinker, Some Invocation?, War Caster, ~~Eldritch Mind (UA)~~ \
-13th: Plane Shift, Hold Monster
+13th: Plane Shift, Banishing Smite?
 
-\*I Need to find: tears inside a crystal vial worth at least 300 gp.
-
-#### Wizard Level: (Spell Slots) + Arcane Recovery
+#### Wizard Level: (Spell Slots) + Arcane Recovery 
 **Level 3: (4, 2) + 2** \
 Prepared: +Dragon’s Breath \
 Rituals: +Magic Mouth \
 Scrolls: +Hold Person, Misty Step, Suggestion [50g], Invisibility [50g]
+#### Note: might not do this anymore :D
