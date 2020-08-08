@@ -40,7 +40,7 @@ Level 1: Hellish Rebuke \
 Level 2: Hold Person, Suggestion, Flock of Familiars \
 Level 3: Counterspell, Elemental Weapon, Dispel Magic
 
-LR Switches: \
+Switch on Long Rest: \
 Suggestion -> Dragon's Breath \
 Elemental Weapon -> Spirit Shroud \
 Hellish Rebuke -> Wrathful Smite
