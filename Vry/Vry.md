@@ -37,13 +37,12 @@ Two 3rd Level Spell Slots \
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Hellish Rebuke \
-Level 2: Hold Person, Suggestion, Flock of Familiars \
+Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
 Level 3: Counterspell, Elemental Weapon, Dispel Magic
 
 Switch on Long Rest: \
-Suggestion -> Dragon's Breath \
 Elemental Weapon -> Spirit Shroud \
-Hellish Rebuke -> Wrathful Smite
+Hellish Rebuke -> Wrathful Smite 
 
 
 #### Alchemical Magic
@@ -92,17 +91,10 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-7th: Staggering Smite, Ghostly Gaze \
-8th: *Temporary Spell*, Crusher \
-9th: Hold Monster, Cone of Cold, Eldritch Mind (UA), Superior Pact Weapon, ~~Improved Pact Weapon~~, ~~*Temporary Spell*~~ \
+7th: Staggering Smite, Ghostly Gaze, Maddening Hex, ~~Improved Pact Weapon~~ \
+8th: *Temporary Spell*, Crusher (+1 Dex) \
+9th: Hold Monster, Cone of Cold, Sign of Ill Omens, ~~*Temporary Spell*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Form, Dream \
-12th: Lifedrinker, Some Invocation?, War Caster, ~~Eldritch Mind (UA)~~ \
+12th: Lifedrinker, ASI (+1 CON, +1 DEX) \
 13th: Plane Shift, Banishing Smite?
-
-#### Wizard Level: (Spell Slots) + Arcane Recovery 
-**Level 3: (4, 2) + 2** \
-Prepared: +Dragon’s Breath \
-Rituals: +Magic Mouth \
-Scrolls: +Hold Person, Misty Step, Suggestion [50g], Invisibility [50g]
-#### Note: might not do this anymore :D
