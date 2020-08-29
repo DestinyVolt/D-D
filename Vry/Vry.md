@@ -36,14 +36,9 @@ Languages: Common, Elven, Undercommon, Infernal
 Two 3rd Level Spell Slots \
 Spells: +8 to hit, Save DC: 16 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
-Level 1: Hellish Rebuke \
+Level 1: Wrathful Smite \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Elemental Weapon, Dispel Magic
-
-Switch on Long Rest: \
-Elemental Weapon -> Spirit Shroud \
-Hellish Rebuke -> Wrathful Smite 
-
+Level 3: Counterspell, Spirit Sproud, Dispel Magic
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
