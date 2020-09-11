@@ -16,7 +16,7 @@ Flaw: It's not stealing if I need it more than someone else.
 Skills: Perception, Sleight of Hand, Stealth, Nature, Deception \
 Tools: Disguise Kit, Thieves' Tools \
 Weapons: Simple Weapons, Net, Tridant \
-Saving Throws: Wisdom, Charisma
+Saving Throws: Wisdom, Charisma \
 Languages: Common, Elvish, Aquan
 
 ### Spells
