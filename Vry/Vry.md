@@ -86,10 +86,10 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-7th: Staggering Smite, Ghostly Gaze, Maddening Hex, ~~Improved Pact Weapon~~ \
-8th: *Temporary Spell*, Crusher (+1 Dex) \
-9th: Hold Monster, Cone of Cold, Sign of Ill Omens, ~~*Temporary Spell*~~ \
+7th: Summon Fey, Ghostly Gaze, Maddening Hex, ~~Improved Pact Weapon~~ \
+8th: *Temporary Spell*, Feytouched (+1 INT, Hex) \
+9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Temporary Spell*~~ \
 10th: Armor of Hexes, Minor Illusion \
-11th: Otherworldly Form, Dream \
+11th: Otherworldly Guise, Dream(?) \
 12th: Lifedrinker, ASI (+1 CON, +1 DEX) \
 13th: Plane Shift, Banishing Smite?
