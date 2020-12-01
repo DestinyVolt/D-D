@@ -1,6 +1,19 @@
 Korinn {Clan Name} \
 Lawful Neutral
 
+
+
+### Progression
+Level 3: Rune Knight, Giant’s Might, Ild Rune, Drake Rune (Ise w/ Darkvision instead of Animal Handling) \
+Level 4: Tavern Brawler (+1 STR) \
+Level 5: Extra Attack (1x), Proficiency +1 \
+Level 6: Expert Skill (+1 CON, Athletics Expertise, Thieves Tools) \
+Level 7: Skye Rune, Runic Shield (Skold Rune) \
+Level 8: Runic Knowledge \[Homebrew  Feat\]: +1 INT, Venn/Uven Rune (Enlarge / Reduce), Blod Rune (Hex)
+
+
+### Old Stuff
+
 Ability scores from high to low: STR, DEX(14), INT, DEX, CHA, WIS \
 Ravenite Dragonborn (+2 STR, +1 CON) \
 Proficiency: History, Investigation, Intimidation \
