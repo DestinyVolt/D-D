@@ -4,7 +4,7 @@ Lawful Neutral
 
 
 ### Progression
-Level 3: Rune Knight, Giant’s Might, Ild Rune, Drake Rune (Ise w/ Darkvision instead of Animal Handling) \
+Level 3: Rune Knight, Giant’s Might, Ild Rune, Wyrm Rune (Ise w/ Darkvision instead of Animal Handling) \
 Level 4: Tavern Brawler (+1 STR) \
 Level 5: Extra Attack (1x), Proficiency +1 \
 Level 6: Expert Skill (+1 CON, Athletics Expertise, Thieves Tools) \
