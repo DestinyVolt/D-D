@@ -67,7 +67,7 @@ Maddening Hex \
 Eldritch Mind
 
 #### Patron: The Traveler (Pact of the Hexblade) 
-Hexblade’s Curse (19 crit, +3 Damage, 10 Healing on kill) \
+Hexblade’s Curse (19 crit, +4 Damage, 10 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
