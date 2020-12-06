@@ -15,10 +15,10 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 6 Hexblade Warlock / Level 2 Wizard of Artifice
-HP: 65 \
+### Level 7 Hexblade Warlock / Level 2 Wizard of Artifice
+HP: 74 \
 AC: 19 \
-Prof: +3 \
+Prof: +4 \
 STR: 9 \
 DEX: 16 \
 CON: 17 \
@@ -33,17 +33,18 @@ Saving Throws: Wisdom, Charisma \
 Languages: Common, Elven, Undercommon, Infernal 
 
 #### Pact Magic
-Two 3rd Level Spell Slots \
-Spells: +8 to hit, Save DC: 16 \
+Two 4rd Level Spell Slots \
+Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Wrathful Smite \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Spirit Sproud, Dispel Magic
+Level 3: Counterspell, Spirit Sproud, Dispel Magic, Summon Fey
+Level 4: Summon Fey
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
-Prepared: Identify, Shield, Catapult \
+Prepared: Identify, Shield, Tasha's Caustic Brew \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Catapult, Mage Armor, Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
@@ -51,7 +52,8 @@ Potions (2): Detect Thoughts, Greater \
 Potions (3): Invisibility, Water Breathing, Superior 
 
 #### Weapons 
-Spider Staff: +9 to hit, 2d6+6 damage \
+The Flail??? Update later \
+Spider Staff: +10 to hit, 2d6+6 damage
 Dual Scimitar: +9 to hit, 2d4+6 damage \
 Sling (Pact Weapon): +9 to hit, 1d4+6 damage \
 Acid Vial (Sling): +9 to hit, 2d4 damage \
@@ -59,9 +61,10 @@ Dagger: +6 to hit, 1d4+3 damage \
 Acid Vial: +3 to hit, 2d6 damage 
 
 #### Invocations:
-Improved Pact Weapon (+1) \
 Thirsting Blade \
-Relentless Hex 
+Relentless Hex \
+Maddening Hex \
+Eldritch Mind
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +3 Damage, 10 Healing on kill) \
@@ -86,10 +89,9 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-7th: Summon Fey, Ghostly Gaze, Maddening Hex, ~~Improved Pact Weapon~~ \
-8th: *Temporary Spell*, Feytouched (+1 INT, Hex) \
-9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Temporary Spell*~~ \
+8th: *Temporary Spell*, Feytouched (+1 INT, Hex) or Crusher (+1 CON) \
+9th: Hold Monster, Cone of Cold, Ghostly Gaze?, ~~*Temporary Spell*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Guise, Dream(?) \
-12th: Lifedrinker, ASI (+1 CON, +1 DEX) \
+12th: Lifedrinker, ASI (?) \
 13th: Plane Shift, Banishing Smite?
