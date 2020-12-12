@@ -64,7 +64,7 @@ Acid Vial: +3 to hit, 2d6 damage
 Thirsting Blade \
 Relentless Hex \
 Maddening Hex \
-Eldritch Mind
+Devil's Sight \
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +4 Damage, 10 Healing on kill) \
@@ -90,7 +90,7 @@ Component Pouch (Alchemy) \
 ### Future Levels: 
 #### Warlock Levels:
 8th: *Temporary Spell*, Feytouched (+1 INT, Hex) or Crusher (+1 CON) \
-9th: Hold Monster, Cone of Cold, Ghostly Gaze?, ~~*Temporary Spell*~~ \
+9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Temporary Spell*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Guise, Dream(?) \
 12th: Lifedrinker, ASI (?) \
