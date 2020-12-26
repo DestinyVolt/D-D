@@ -64,7 +64,7 @@ Acid Vial: +3 to hit, 2d6 damage
 Thirsting Blade \
 Relentless Hex \
 Maddening Hex \
-Devil's Sight \
+Devil's Sight 
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +4 Damage, 10 Healing on kill) \
