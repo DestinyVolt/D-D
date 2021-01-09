@@ -37,9 +37,9 @@ Two 4rd Level Spell Slots \
 Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Wrathful Smite \
-Level 2: Hold Person, Flock of Familiars \
+Level 2: Hold Person, Dragon's Breath Flock of Familiars \
 Level 3: Counterspell, Spirit Sproud, Dispel Magic \
-Level 4: Summon Fey, Sickening Radiance
+Level 4: Summon Fey
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
