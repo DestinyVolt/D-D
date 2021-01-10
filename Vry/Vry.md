@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 7 Hexblade Warlock / Level 2 Wizard of Artifice
 HP: 74 \
-AC: 19 \
+AC: 16 \
 Prof: +4 \
 STR: 9 \
 DEX: 16 \
@@ -84,6 +84,7 @@ Dagger \
 3 Acid Vials \
 12 Oil Flasks \ 
 69.35gp worth of Raw Materials \
++1 Shield \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
