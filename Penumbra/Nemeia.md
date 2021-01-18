@@ -43,7 +43,7 @@ Spell Slots: 3 (7+2+1 Prepared Spells) \
 Replicate Magic Item (Bag of Holding) \
 Repeating Shot \
 Enhanced Defense \
-Enhanced Weapon 
+Spellwrought Tattoo (Find Familiar) 
 
 #### Battlesmith
 [Rover (Steel Defender)](https://github.com/DestinyVolt/D-D/blob/master/Penumbra/Rover.md) (Wheelchair / Hound depending on mode) \
