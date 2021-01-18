@@ -27,8 +27,8 @@ Saving Throws: Constitution, Intelligence
 #### Attacks
 Shotgun: +4 to hit, 1d12+1 piercing damage \
 Canesword: +4 to hit, 1d8+1 piercing damage \
-Infused Shotgun: +9 to hit, 1d12+6 piercing damage (Range: 20/80) \
-Infused Canesword: +9 to hit, 1d8+6 piercing damage \
+Infused Shotgun: +8 to hit, 1d12+6 piercing damage (Range: 20/80) \
+Infused Canesword: +8 to hit, 1d8+6 piercing damage \
 Force Empowered Rend: +5 to hit, 1d8+3 force damage
 
 #### Artificer Spells
