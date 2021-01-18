@@ -7,8 +7,8 @@ Fire Resistance \
 Wings (30ft Flying Speed) \
 SCAG Features: Small Horns, Lacking Reflection, Smells faintly of Brimstone
 
-### Level 4 Battlesmith Artificer
-HP: 20 \
+### Level 5 Battlesmith Artificer
+HP: 21 \
 AC: 13 \
 STR: 5 \
 DEX: 13 \
