@@ -15,7 +15,7 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 7 Hexblade Warlock / Level 2 Wizard of Artifice
+### Level 8 Hexblade Warlock / Level 2 Wizard of Artifice
 HP: 74 \
 AC: 16 \
 Prof: +4 \
@@ -38,8 +38,7 @@ Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Wrathful Smite \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Spirit Sproud, Dispel Magic \
-Level 4: Summon Fey
+Level 3: Counterspell, Spir, Galder's Speedy Courier
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
