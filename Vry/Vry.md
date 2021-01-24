@@ -89,7 +89,6 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-8th: *Temporary Spell*, Feytouched (+1 INT, Hex) or Crusher (+1 CON) \
 9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Temporary Spell*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Guise, Dream(?) \
