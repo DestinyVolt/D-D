@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 8 Hexblade Warlock / Level 2 Wizard of Artifice
 HP: 89 \
-AC: 16 \
+AC: 17 \
 Prof: +4 \
 STR: 9 \
 DEX: 16 \
@@ -38,7 +38,11 @@ Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Wrathful Smite \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Spir, Galder's Speedy Courier
+Level 3: Counterspell, Spirit Shroud, Galder's Speedy Courior
+
+#### A Stab Wound
+Cantrip: Minor Illusion
+1st: Absorb Elementals
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
@@ -72,18 +76,16 @@ Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
 
 ### Inventory
-**Money:** 324gp, 500sp, 500cp \
+**Money:** 0gp, 0sp, 0cp \
 **Wristpocket:** None \
 **Equipped Gear:** \
-Spider Staff: (8 Charges, Spider Walk [1x], Web [2x]) \
-Wand of Magic Missile (7/7 Charges) \
-Shield: +2 AC \
++1 Shield: +3 AC \
+Snuggie of Defense +1 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
 3 Acid Vials \
-12 Oil Flasks \ 
+5 Oil Flasks \ 
 69.35gp worth of Raw Materials \
-+1 Shield \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
