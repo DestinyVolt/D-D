@@ -41,7 +41,7 @@ Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
 Level 3: Counterspell, Spirit Shroud, Galder's Speedy Courior
 
 #### A Stab Wound
-Cantrip: Minor Illusion
+Cantrip: Minor Illusion \
 1st: Absorb Elementals
 
 #### Alchemical Magic
