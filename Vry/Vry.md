@@ -48,7 +48,7 @@ Cantrip: Minor Illusion \
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
-Prepared: Identify, Shield, Tasha's Caustic Brew \
+Prepared: Detect Magic, Shield, Tasha's Caustic Brew \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Catapult, Mage Armor, Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
@@ -92,7 +92,7 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Temporary Spell*~~ \
+9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Galder's Speedy Courier*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Guise, Dream(?) \
 12th: Lifedrinker, ASI (?) \
