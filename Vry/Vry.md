@@ -36,7 +36,7 @@ Languages: Common, Elven, Undercommon, Infernal
 Two 4rd Level Spell Slots \
 Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
-Level 1: Wrathful Smite \
+Level 1: Hex \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
 Level 3: Counterspell, Spirit Shroud, Dispel Magic \
 Level 4: Summon Fey, Galder's Speedy Courior
