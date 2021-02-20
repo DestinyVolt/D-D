@@ -38,12 +38,12 @@ Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Wrathful Smite \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Spirit Shroud, 
+Level 3: Counterspell, Spirit Shroud, \
 Level 4: Summon Fey, Galder's Speedy Courior
 
 #### A Stab Wound
 Cantrip: Minor Illusion \
-1st: Absorb Elementals
+1st: Absorb Elements
 
 #### Alchemical Magic
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
