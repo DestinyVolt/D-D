@@ -39,7 +39,7 @@ Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Hex \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
 Level 3: Counterspell, Spirit Shroud, Dispel Magic \
-Level 4: Summon Fey, Hallucinatory Terrain
+Level 4: Summon Fey, Galder's Speedy Courior
 
 #### A Stab Wound
 Cantrip: Minor Illusion \
