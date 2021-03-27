@@ -97,3 +97,5 @@ Component Pouch (Alchemy) \
 11th: Otherworldly Guise, Dream(?) \
 12th: Lifedrinker, ASI (?) \
 13th: Plane Shift, Banishing Smite?
+
+Goal: Get an Undead Eyeball encased in a 150gp gem
