@@ -1,6 +1,7 @@
 ## Ava (Avashtana Anterome)
 Sea Elf \
 Chaotic Good
+Age: Like, 7?
 
 Stat Levels: CHA, DEX(+2), CON(+1), WIS, INT, STR \
 Warlock (Patron: Lurker in the Deep, Pact of the Tome) 
