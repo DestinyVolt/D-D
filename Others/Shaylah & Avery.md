@@ -12,14 +12,14 @@ Vessel: The Crystal Key
 <details><summary>Stats</summary>
 <p>
 
-HP:
-Prof: 
-AC: 
-STR: Ask DM for like, a 2. 
-DEX: ~15 (+1 from race) 
-CON: ~10
-INT: ~13
-WIS: ~10
+HP: <br>
+Prof: <br>
+AC: <br>
+STR: Ask DM for like, a 2. <br>
+DEX: ~15 (+1 from race) <br>
+CON: ~10 <br>
+INT: ~13 <br>
+WIS: ~10 <br>
 CHA: ~20 (+2 from race)
 
 Movement: 30' Flying (Hover) 
@@ -40,16 +40,16 @@ Movement: 30' Flying (Hover)
 
 <details><summary>Pact Magic</summary>
 <p>
-  Cantrips: Magic Stone, Prestidigitation, Eldritch Blast  
-  1st: Hex, Armor of Agathys
-  2nd: Hold Person, Suggestion, Phantasmal Force
-  3rd: Create Food and Water, Incite Greed
-  4th: Stone Shape, ~~Sickening Radiance~~*
-  5th: Creation, Wall Of Light*, Hold Monster	
-  6th: Mass Suggestion
-  7th: Plane Shift
-  8th: Feeblemind
-  9th: Wish
+  Cantrips: Magic Stone, Prestidigitation, Eldritch Blast   <br>
+  1st: Hex, Armor of Agathys  <br>
+  2nd: Hold Person, Suggestion, Phantasmal Force  <br>
+  3rd: Create Food and Water, Incite Greed  <br>
+  4th: Stone Shape, ~~Sickening Radiance~~*  <br>
+  5th: Creation, Wall Of Light*, Hold Monster	  <br>
+  6th: Mass Suggestion  <br>
+  7th: Plane Shift  <br>
+  8th: Feeblemind  <br>
+  9th: Wish  
 
 </p>
 </details>
