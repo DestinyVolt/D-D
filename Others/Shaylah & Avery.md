@@ -1,7 +1,7 @@
 # Shaylah & Avery  
 Crystal Fairies (Fairy / Sprite)  
 Neutral Good / Lawful Neutral   
-Noble (Princess) / Retainer (Bodyguard)
+Noble (Princess) / Retainer (Bodyguard)  
 Warlock / Familiar
 
 ## Shaylah
