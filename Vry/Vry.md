@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 8 Hexblade Warlock / Level 2 Wizard of Artifice
 HP: 89 \
-AC: 17 \
+AC: 20 \
 Prof: +4 \
 STR: 9 \
 DEX: 16 \
