@@ -43,7 +43,7 @@ Level 4: [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey), Hallucinatory 
 
 #### A Stab Wound
 Spells: +8 to hit, Save DC: 16
-Cantrip: Minor Illusion \
+Cantrip: Mind Sliver \
 1st: Absorb Elements
 
 #### Alchemical Magic
