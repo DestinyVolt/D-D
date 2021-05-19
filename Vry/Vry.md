@@ -42,12 +42,12 @@ Level 3: Counterspell, Spirit Shroud, Dispel Magic \
 Level 4: [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey), Hallucinatory Terrain
 
 #### A Stab Wound
-Spells: +8 to hit, Save DC: 16
+Spells: +8 to hit, Save DC: 16 \
 Cantrip: Mind Sliver \
 1st: Absorb Elements
 
 #### Alchemical Magic
-Spells: +5 to hit, Save DC: 13
+Spells: +5 to hit, Save DC: 13 \
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
 Prepared: Detect Magic, Shield, Tasha's Caustic Brew \
