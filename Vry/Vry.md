@@ -42,10 +42,12 @@ Level 3: Counterspell, Spirit Shroud, Dispel Magic \
 Level 4: [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey), Hallucinatory Terrain
 
 #### A Stab Wound
+Spells: +8 to hit, Save DC: 16
 Cantrip: Minor Illusion \
 1st: Absorb Elements
 
 #### Alchemical Magic
+Spells: +5 to hit, Save DC: 13
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
 Cantrips: Mind Sliver, Message, Shocking Grasp \
 Prepared: Detect Magic, Shield, Tasha's Caustic Brew \
@@ -56,7 +58,7 @@ Potions (2): Detect Thoughts, Greater \
 Potions (3): Invisibility, Water Breathing, Superior 
 
 #### Weapons 
-The Flail: +10 to hit, 1d8+6 damage (Crits on 19) \
+The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
 Spider Staff: +9 to hit, 2d6+5 damage
 Dual Scimitar: +9 to hit, 2d4+5 damage \
 Sling (Pact Weapon): +9 to hit, 1d4+5 damage \
@@ -85,17 +87,15 @@ Snuggie of Defense +1 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
 3 Acid Vials \
-5 Oil Flasks \ 
+0 Oil Flasks \ 
 69.35gp worth of Raw Materials \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
 ### Future Levels: 
 #### Warlock Levels:
-9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Galder's Speedy Courier*~~ \
+9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Spirit Shroud*~~ \
 10th: Armor of Hexes, Minor Illusion \
 11th: Otherworldly Guise, Dream(?) \
 12th: Lifedrinker, ASI (?) \
 13th: Plane Shift, Banishing Smite?
-
-Goal: Get an Undead Eyeball encased in a 150gp gem
