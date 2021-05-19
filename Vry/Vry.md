@@ -49,7 +49,7 @@ Cantrip: Mind Sliver \
 #### Alchemical Magic
 Spells: +5 to hit, Save DC: 13 \
 Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
-Cantrips: Mind Sliver, Message, Shocking Grasp \
+Cantrips: Booming Blade, Message, Shocking Grasp \
 Prepared: Detect Magic, Shield, Tasha's Caustic Brew \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Catapult, Mage Armor, Charm Person, Magic Missile, Grease \
