@@ -2,24 +2,16 @@
 + Rations: 4 Days
 + Beard Pocket Watch
 + Coin Purse of Holding
-+ Bag of Holding /w man inside
-+ Dungeoneer's Pack 
-  - Hammer & 10 Pitons
-  - Waterskin
-  - 50 feet of Hempen Rope
++ Bag of Holding
++ Waterskin
++ 50 feet of Hempen Rope
 + Monster Hunter’s Pack
   - Crowbar
   - Steel Mirror
   - 5 Sets of Manacles (& Keys)
-  - 3 Wooden Stakes
-  - 13 Torches and a Tinderbox
-+ Chest (From Vry's Mother)
-  - Leather Armor
-  - Dagger
-  - Shortbow
-  - 10 Arrows
 + Spell Stuff (In Coat)
   - 100gp Pearl
+  - 150gp gem with an Undead Eyeball inside
   - Iarno's Spellbook (I've filled the pages with Alchemical Formulas and whatnot)
   - Black Spider's Spellbook
   - Random Dwarvish Spellbook
@@ -27,8 +19,4 @@
 + Alchemy Kit
   - Powdered Nightshade
 + Egg of Screaming
-+ Bag of Ball Bearings x5
-+ Caltrops x5
-+ Scroll of Mending
 + Stealthy Yarn (2x)
-+ Armor Yarn (2x)
