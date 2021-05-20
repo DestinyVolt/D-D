@@ -79,7 +79,7 @@ Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
 
 ### Inventory
-**Money:** 0gp, 0sp, 0cp \
+**Money:** 30gp, 0sp, 0cp \
 **Wristpocket:** None \
 **Equipped Gear:** \
 +1 Shield: +3 AC \
