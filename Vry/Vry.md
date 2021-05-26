@@ -59,11 +59,7 @@ Potions (3): Invisibility, Water Breathing, Superior
 
 #### Weapons 
 The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
-Spider Staff: +9 to hit, 2d6+5 damage
-Dual Scimitar: +9 to hit, 2d4+5 damage \
-Sling (Pact Weapon): +9 to hit, 1d4+5 damage \
-Acid Vial (Sling): +9 to hit, 2d4 damage \
-Dagger: +6 to hit, 1d4+3 damage \
+Spider Staff: +9 to hit, 2d6+5 damage \
 Acid Vial: +3 to hit, 2d6 damage 
 
 #### Invocations:
