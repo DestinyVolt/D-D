@@ -20,3 +20,5 @@
   - Powdered Nightshade
 + Egg of Screaming
 + Stealthy Yarn (2x)
++ 5x Red Dragon Jerky (DC 10 CON save vs Coughing up a fucking fit) 
++ 6x Tea (2 minutes for pain relief, 5 minutes for almost asleep) 
