@@ -56,6 +56,7 @@ Unused: Catapult, Mage Armor, Charm Person, Magic Missile, Grease \
 Potions (1): Climbing, Growth, Healing \
 Potions (2): Detect Thoughts, Greater \
 Potions (3): Invisibility, Water Breathing, Superior 
+Potions (4): Resistance
 
 #### Weapons 
 The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
