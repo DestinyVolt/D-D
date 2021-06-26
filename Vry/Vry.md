@@ -84,8 +84,8 @@ Snuggie of Defense +1 AC \
 Traveler's Clothes (Cloak) \
 Dagger \
 3 Acid Vials \
-0 Oil Flasks \ 
-169.35gp worth of Raw Materials \
+10 Oil Flasks \ 
+167.35gp worth of Raw Materials \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
