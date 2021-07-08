@@ -24,3 +24,7 @@ Absorb Elements, \
 Detect Magic, \
 Entangle, \
 Charm Person
+
+Bracers of Fire Resistence (Ring stats)
+
+Upgrade to level 3 :D 
