@@ -15,6 +15,6 @@ Hex: 1 Left
 Proficiencies: \
 Insight, Stealth, Acrobatics, Athletics, Arcana, Perception
 
-Weapons: \ 
+Weapons: \
 Quarterstaff, +6 to hit, 1d8+4 damage \
 Unarmed Strike: +6 to hit, 1d4+4 damage
