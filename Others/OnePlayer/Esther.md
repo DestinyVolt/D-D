@@ -28,3 +28,5 @@ Charm Person
 Bracers of Fire Resistence (Ring stats)
 
 Upgrade to level 3 :D 
+
+Druid starting stuff, +6gp agate gem.
