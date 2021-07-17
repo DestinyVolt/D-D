@@ -38,7 +38,7 @@ Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
 Level 1: Silent Image \
 Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Major Image, Dispel Magic \
+Level 3: Counterspell, Fly, Dispel Magic \
 Level 4: [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey), Dimension Door
 
 #### A Stab Wound
