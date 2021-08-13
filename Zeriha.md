@@ -1,22 +1,30 @@
 # Zeriha
 Hobgoblin (Fey Bloodline), ♀, 23, Lawful Neutral
 
-## Level 3 Battle Master 
-HP: 22+3\*CON
-AC: ??
-Prof: +2
-STR: 
-DEX: 
-CON: 
-INT: 
-WIS: 
+HP: 22+3\*CON \
+AC: ?? \
+Prof: +2 \
+STR: \
+DEX: \
+CON: \
+INT: \
+WIS: \
 CHA: 
 
 #### Proficiencies
-Skills: Athletics, Intimidation, Perception, Stealth 
-Tools: Gaming Set, Artisen's Tools, Land Vehicles
-Saving Throws: Strength, Constitution
+Skills: Athletics, Intimidation, Perception, ??? \
+Tools: Gaming Set, Artisen's Tools, Land Vehicles \
+Saving Throws: Strength, Constitution \
 Languages: Common, Goblin 
+
+### Level 3 Battlemaster
+**Interception:** As a reaction, you can reduce the damage taken by an ally within range by 1d10 + your proficiency bonus. \
+**Second Wind:** As a bonus action, you can heal yourself for 1d10+level HP. \
+**Action Surge:** Once per rest, you can take a second Action during your turn. \
+You have 5d8 superiority dice. \
+**Commander's Strike:** Forgo one of your attacks so your ally can make an attack as a reaction. Add a superiority die to their damage roll. \
+**Commanding Precense:** Add a superiority die to an Indimidation, Persuasion, or Performance check. \
+**Manuevering Attack:** After making an attack, add a superiority die of damage to it, and an ally may move up to half their speed without provoking opportunity attacks. 
 
 
 ### Racial Abilities
