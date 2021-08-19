@@ -60,7 +60,8 @@ Potions (4): Resistance
 
 #### Weapons 
 The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
-Spider Staff: +9 to hit, 2d6+5 damage \
+Vomi's DB Scimitar: +11 to hit, 2d4+7 damage \
+
 Acid Vial: +3 to hit, 2d6 damage 
 
 #### Invocations:
