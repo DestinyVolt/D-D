@@ -19,15 +19,15 @@ Saving Throws: Strength, Constitution \
 Languages: Common, Goblin, TBD
 
 #### Equipment
-Whip/Dagger: +5 to hit, 1d4+3 damage
-Intimidate: +7 vs target Insight, frighten until end of next turn
+Whip/Dagger: +5 to hit, 1d4+3 damage \
+Intimidate: +7 vs target Insight, frighten until end of next turn \
 [Inventory](https://docs.google.com/document/d/1XLIGR6VB5ECWMGGvx_LMWwDteXnhBnRwf7b_quBTXDE/edit?usp=sharing)
 
 ### Level 3 Battlemaster
 **Interception:** As a reaction, you can reduce the damage taken by an ally within range by 1d10 + your proficiency bonus. \
 **Second Wind:** As a bonus action, you can heal yourself for 1d10+level HP. \
 **Action Surge:** Once per rest, you can take a second Action during your turn. \
-You have 5d8 superiority dice. \
+You have 5d8 superiority dice. Save DC: 13 \
 **Commander's Strike:** Forgo one of your attacks so your ally can make an attack as a reaction. Add a superiority die to their damage roll. \
 **Commanding Precense:** Add a superiority die to an Indimidation, Persuasion, or Performance check. \
 **Pushing Attack:** After making an attack, add a superiority die of damage to it, and the target must make a strength saving throw or be pushed back 15 feet. 
