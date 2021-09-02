@@ -12,7 +12,7 @@ WIS: 14 \
 CHA: 18 \
 
 #### Proficiencies
-Skills: Athletics, Intimidation, Perception, Stealth \
+Skills: Athletics, Intimidation, Perception, Arcana \
 Tools: Chef's Tools, Tattoo Artist's Kit \
 Saving Throws: Strength, Constitution \
 Languages: Common, Goblin, TBD
