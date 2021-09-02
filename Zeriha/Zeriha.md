@@ -2,32 +2,32 @@
 Hobgoblin (Fey Bloodline), ♀, 23, Lawful Neutral
 
 Stats are temporary \
-HP: 22+3\*CON \
+HP: 19 \
 AC: ?? \
 Prof: +2 \
-STR: 12 \
-DEX: 15 + 2\
+STR: 9 \
+DEX: 19 \
 CON: 8 \
-INT: 13 \
-WIS: 11\
-CHA: 14 + 1 + 1 \
+INT: 12 \
+WIS: 14 \
+CHA: 18 \
 
 #### Proficiencies
-Skills: Athletics, Intimidation, Medicine, TBD \
+Skills: Athletics, Intimidation, Perception, Stealth \
 Tools: Chef's Tools, Tattoo Artist's Kit \
 Saving Throws: Strength, Constitution \
 Languages: Common, Goblin, TBD
 
 #### Equipment
-Whip/Dagger: +5 to hit, 1d4+3 damage \
-Intimidate: +7 vs target Insight, frighten until end of next turn \
+Whip/Dagger: +6 to hit, 1d4+4 damage \
+Intimidate: +8 vs target Insight, frighten until end of next turn \
 [Inventory](https://docs.google.com/document/d/1XLIGR6VB5ECWMGGvx_LMWwDteXnhBnRwf7b_quBTXDE/edit?usp=sharing)
 
 ### Level 3 Battlemaster
 **Interception:** As a reaction, you can reduce the damage taken by an ally within range by 1d10 + your proficiency bonus. \
 **Second Wind:** As a bonus action, you can heal yourself for 1d10+level HP. \
 **Action Surge:** Once per rest, you can take a second Action during your turn. \
-You have 5d8 superiority dice. Save DC: 13 \
+You have 5d8 superiority dice. Save DC: 14 \
 **Commander's Strike:** Forgo one of your attacks so your ally can make an attack as a reaction. Add a superiority die to their damage roll. \
 **Commanding Precense:** Add a superiority die to an Indimidation, Persuasion, or Performance check. \
 **Pushing Attack:** After making an attack, add a superiority die of damage to it, and the target must make a strength saving throw or be pushed back 15 feet. 
