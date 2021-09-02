@@ -1,9 +1,8 @@
 # Zeriha
 Hobgoblin (Fey Bloodline), ♀, 23, Lawful Neutral
 
-Stats are temporary \
 HP: 19 \
-AC: ?? \
+AC: 14 \
 Prof: +2 \
 STR: 9 \
 DEX: 19 \
