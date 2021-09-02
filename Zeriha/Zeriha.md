@@ -7,8 +7,8 @@ Prof: +2 \
 STR: 9 \
 DEX: 19 \
 CON: 8 \
-INT: 12 \
-WIS: 14 \
+INT: 14 \
+WIS: 12 \
 CHA: 18 \
 
 #### Proficiencies
