@@ -71,7 +71,7 @@ Ghostly Gaze
 Hexblade’s Curse (19 crit, +4 Damage, 10 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) \
-Shadow Hound (Shadow Tracker Curse)
+Shadow Hound (Shadow Tracker Curse) \
 Armor of Hexes (Hexblade Curse Reaction for 50% to miss)
 
 ### Inventory
