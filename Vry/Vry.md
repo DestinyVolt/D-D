@@ -39,7 +39,7 @@ Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Wrathful Smite \
 Level 2: Invisibility, Dragon's Breath, Flock of Familiars \
 Level 3: Fly, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
-Level 4: Shadow Of Moil
+Level 4: Shadow Of Moil \
 Level 5: Cone of Cold, Banishing Smite
 
 #### A Stab Wound
