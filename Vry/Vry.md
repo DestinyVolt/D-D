@@ -15,9 +15,9 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 8 Hexblade Warlock / Level 2 Wizard of Artifice
-HP: 89 \
-AC: 17 \
+### Level 10 Hexblade Warlock / Level 1 Wizard of Artifice
+HP: 98 \
+AC: 20 \
 Prof: +4 \
 STR: 9 \
 DEX: 16 \
@@ -33,13 +33,14 @@ Saving Throws: Wisdom, Charisma \
 Languages: Common, Elven, Undercommon, Infernal 
 
 #### Pact Magic
-Two 4rd Level Spell Slots \
+Two 5th Level Spell Slots \
 Spells: +9 to hit, Save DC: 17 \
-Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade \
-Level 1: Silent Image \
-Level 2: Hold Person, Dragon's Breath, Flock of Familiars \
-Level 3: Counterspell, Fly, Dispel Magic \
-Level 4: [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey), Shadow Of Moil
+Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
+Level 1: Wrathful Smite \
+Level 2: Invisibility, Dragon's Breath, Flock of Familiars \
+Level 3: Fly, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
+Level 4: Shadow Of Moil
+Level 5: Cone of Cold, Banishing Smite
 
 #### A Stab Wound
 Spells: +8 to hit, Save DC: 16 \
@@ -48,33 +49,30 @@ Cantrip: Mind Sliver \
 
 #### Alchemical Magic
 Spells: +5 to hit, Save DC: 13 \
-Spell Slots: Three 1st Level Spell slots, + 1 on Rest / Day \
+Spell Slots: Two 1st Level Spell slots \
 Cantrips: Booming Blade, Message, Shocking Grasp \
-Prepared: Detect Magic, Shield, Tasha's Caustic Brew \
+Prepared: Shield, Catapult \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
-Unused: Catapult, Mage Armor, Charm Person, Magic Missile, Grease \
-Potions (1): Climbing, Growth, Healing \
-Potions (2): Detect Thoughts, Greater \
-Potions (3): Invisibility, Water Breathing, Superior 
-Potions (4): Resistance
+Unused: Tasha's Caustic Brew, Magic Missile, Grease 
 
 #### Weapons 
 The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
-Vomi's DB Scimitar: +11 to hit, 2d4+7 damage \
-
 Acid Vial: +3 to hit, 2d6 damage 
 
 #### Invocations:
 Thirsting Blade \
 Relentless Hex \
 Maddening Hex \
-Devil's Sight 
+Trickster's Escape \
+Ghostly Gaze
+
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +4 Damage, 10 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse)
+Armor of Hexes (Hexblade Curse Reaction for 50% to miss)
 
 ### Inventory
 **Money:** 52gp, 0sp, 0cp \
@@ -92,8 +90,6 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-9th: Hold Monster, Cone of Cold, Eldritch Mind, ~~*Spirit Shroud*~~ \
-10th: Armor of Hexes, Minor Illusion \
-11th: Otherworldly Guise, Dream(?) \
+11th: Otherworldly Guise, Dream? \
 12th: Lifedrinker, ASI (?) \
-13th: Plane Shift, Banishing Smite?
+13th: Plane Shift, ???
