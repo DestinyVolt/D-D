@@ -4,9 +4,9 @@ Shapechanging
 Rogue 1 / Knowledge Cleric 1 / Wizard 18
 
 HP: 122
-AC: 18
+AC: 19
 STR: 14
-DEX: 16
+DEX: 18
 CON: 14 
 INT: 20
 WIS: 14
@@ -17,8 +17,8 @@ Languages: English, +7 World Languages
 Skills: Insight, Athletics, Perception, Intimidation, Investigation, Performance
 Expertise: Deception, Persuasion, Arcana, History
 Tools: Technology, Thieves' Tools
-
-ASI: Metamagic Adept (Subtle, Careful)
+Metamagic Adept (Subtle, Careful)
+ASI: +2 DEX
 ASI: Keen Mind (+1 Int)
 ASI: War Caster
 ASI: +2 CHA
