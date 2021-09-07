@@ -90,6 +90,6 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-11th: Otherworldly Guise, Dream? \
+11th: Otherworldly Guise, Dream \
 12th: Lifedrinker, ASI (?) \
 13th: Plane Shift, ???
