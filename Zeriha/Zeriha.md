@@ -9,7 +9,7 @@ DEX: 19 \
 CON: 8 \
 INT: 14 \
 WIS: 12 \
-CHA: 18 \
+CHA: 18 
 
 #### Proficiencies
 Skills: Athletics, Intimidation, Perception, Arcana \
@@ -44,6 +44,6 @@ You have 5d8 superiority dice. Save DC: 14 \
 Level 4: **Tandem Tactician** You can use the Help action as a bonus action, and can target 2 allies instead of one. \
 Level 5: Proficiency Increases, **Extra Attack** \
 Level 6: **Wild Talent (+1 DEX)** [Just reference the wiki](http://dnd5e.wikidot.com/feat:wild-talent) \
-Level 7: Silverquill Warlock, **Silvery Barbs**, **Eloquent Apprentice**, Mind Sliver, Prestidigitation, Vicious Mockery, Hex, Expeditious Retreat, Insight, Persuasion
+Level 7: Silverquill Warlock, **Silvery Barbs** (Insight, Persuasion), **Eloquent Apprentice**, Mind Sliver, Magic Stone or Lightning Lure, Vicious Mockery, Hex, Expeditious Retreat, Insight, Persuasion
  
 
