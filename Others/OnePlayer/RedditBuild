@@ -1,36 +1,55 @@
-Me?
+
 Race: Changeling
-+2 CHA, +1 Other
-+2 Proficiencies
 Shapechanging
-Deception, Persuasion
+Rogue 1 / Knowledge Cleric 1 / Wizard 18
 
 HP: 122
 AC: 18
 STR: 14
 DEX: 16
 CON: 14 
-INT: 18 + 1
+INT: 20
 WIS: 14
-CHA: 16 + 2 
+CHA: 20
+Save DC: 24
 
-Languages: Common, +2, +2, +1 (Just take the most common languages in the world)
+Languages: English, +7 World Languages
+Skills: Insight, Athletics, Perception, Intimidation, Investigation, Performance
+Expertise: Deception, Persuasion, Arcana, History
+Tools: Technology, Thieves' Tools
 
 ASI: Metamagic Adept (Subtle, ???)
 ASI: Keen Mind (+1 Int)
 ASI: War Caster
 ASI: +2 CHA
 
-Background: Custom
-Investigation, Performance
-Tools: Technology, +1 Language
+Equipment: 
+Robe of the Magi
+Staff of the Magi
+Arcane Grimoire (+3)
 
-Rogue 1:
-Insight, Athletics, Perception, Intimidation
-Expertise: Persuasion, Deception
 
 Knowledge Cleric 1:
-+2 Proficiency, +2 Expertise 
-Arcana, History
+Cantrips: Guidance, Mending, Spare the Dying
+Domain Spells: Command, Identify
+Prepared: Healing Word, Detect Poison and Disease, Bless
 
-Cantrips: Prestidigitation, 
+Enchantment Wizard 18
+Cantrips: Prestidigitation, Friends, Mind Sliver, Booming Blade, Message
+1st: Unseen Servant, Shield, Find Familiar, Expeditious Retreat, Detect Magic, Comprehend Languages, Silent Image, Sleep
+2nd: Detect Thoughts, Suggestion, Nystul's Magic Aura, Misty Step, Hold Person
+3rd: Fast Friends, Fly, Glyph of Warding, Major Image	
+4th: Galder's Speedy Courier, Divination, Dimension Door
+5th: Dominate Person, Scrying, Geas, Modify Memory, Dream
+6th: Mass Suggestion, Contingency, Disintegrate, Guards and Wards
+7th: Simulacrum, Teleport, Mordenkainen's Magnificent Mansion
+8th: Clone, Demiplane, Power Word: Stun, Dominate Monster
+9th: Wish, True Polymorph, Imprisonment, Gate
+
+Spell Mastery (Free Casting):
+Shield, Suggestion
+
+Hypnotic Gaze
+Instinctive Charm
+Split Enchantment
+Alter Memories
