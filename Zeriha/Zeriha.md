@@ -46,4 +46,4 @@ Level 5: Proficiency Increases, **Extra Attack** \
 Level 6: **Wild Talent (+1 DEX)** [Just reference the wiki](http://dnd5e.wikidot.com/feat:wild-talent) \
 Level 7: Silverquill Warlock, **Silvery Barbs** (Insight, Persuasion), **Eloquent Apprentice**, Mind Sliver, Magic Stone or Lightning Lure, Vicious Mockery, Hex, Expeditious Retreat, Insight, Persuasion
  
-
+Consider Multiclassing Paladin (Conquest) past this point if it seems appropriate. 
