@@ -4,12 +4,12 @@ Hobgoblin (Fey Bloodline), ♀, 23, Lawful Neutral
 HP: 19 \
 AC: 14 \
 Prof: +2 \
-STR: 9 \
-DEX: 19 \
-CON: 8 \
-INT: 14 \
-WIS: 12 \
-CHA: 18 
+STR: 9  (-1) \
+DEX: 19 (+4) \
+CON: 8  (-1) \
+INT: 12 (+1) \
+WIS: 14 (+2) \
+CHA: 17 (+3) 
 
 #### Proficiencies
 Skills: Athletics, Intimidation, Perception, Arcana \
@@ -29,7 +29,7 @@ Intimidate: +8 vs target Insight, frighten until end of next turn \
 You have 5d8 superiority dice. Save DC: 14 \
 **Commander's Strike:** Forgo one of your attacks so your ally can make an attack as a reaction. Add a superiority die to their damage roll. \
 **Commanding Precense:** Add a superiority die to an Indimidation, Persuasion, or Performance check. \
-**Pushing Attack:** After making an attack, add a superiority die of damage to it, and the target must make a strength saving throw or be pushed back 15 feet. 
+**Quick Toss:** As a bonus action, make a ranged attack with a thrown weapon. If it hits, add a superiority die to the damage.
 
 ### Racial Abilities
 **Fey Ancestry.** You have advantage on saving throws you make to avoid or end the charmed condition on yourself. 
@@ -38,12 +38,19 @@ You have 5d8 superiority dice. Save DC: 14 \
 
 **Fey Gift** You can use the help action as a bonus action each day a number of times equal to your proficiency bonus. Whenever you use the help action, in addition to granting advantage, you can either grant yourself and the target 1d6+Prof temporary hit points or +10ft of movement, or you can give the target of the helped attack disadvantage on their next attack.
 
-**Menacing** You have expertise in Intimidation, and you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. 
+### Potential Future Abilities
 
-### Future Abilities
-Level 4: **Tandem Tactician** You can use the Help action as a bonus action, and can target 2 allies instead of one. \
-Level 5: Proficiency Increases, **Extra Attack** \
-Level 6: **Wild Talent (+1 DEX)** [Just reference the wiki](http://dnd5e.wikidot.com/feat:wild-talent) \
-Level 7: Silverquill Warlock, **Silvery Barbs** (Insight, Persuasion), **Eloquent Apprentice**, Mind Sliver, Magic Stone or Lightning Lure, Vicious Mockery, Hex, Expeditious Retreat, Insight, Persuasion
- 
-Consider Multiclassing Paladin (Conquest) past this point if it seems appropriate. 
+**Menacing (+1 CHA)** You have expertise in Intimidation, and you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. 
+
+**Tandem Tactician** You can use the Help action as a bonus action, and can target 2 allies instead of one.
+
+**Wild Talent (+1 DEX)** [Just reference the wiki](http://dnd5e.wikidot.com/feat:wild-talent)
+
+#### Multiclass: 
+Silverquill Warlock 1, **Silvery Barbs** (Insight, Persuasion), **Eloquent Apprentice** (Insight, Persuasion), Mind Sliver, Magic Stone or Lightning Lure, Vicious Mockery, Hex, Expeditious Retreat
+
+Order Domain Cleric 1, +1 Proficiency, **Voice of Authority**, Guidance, Spare the Dying, Thaumaturgy, Command, Heroism, Healing Word, Bless, Shield of Faith
+
+Ranger 1: Survival Proficiency, Perception Expertise, Favored Foe, +2 Languages
+Ranger 2: +1 Spellcasting level, 1 Battlemaster Manuever, +1 Superiority Die, Cure Wounds, Snare
+Fey Wanderer 3: +WIS to Charisma Checks, +1d4 psychic damage per hit, +1 Proficiency, Charm Person, 
