@@ -41,13 +41,13 @@ You have 5d8 superiority dice. Save DC: 14 \
 **Menacing (+1 CHA)** You have expertise in Intimidation, and you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. 
 
 ### Future Levels: 
-Ranger 1: Survival Proficiency, Perception Expertise, Favored Foe, +2 Languages
-Fighter 4: **Tandem Tactician** You can use the Help action as a bonus action, and can target 2 allies instead of one.
-Fighter 5: Extra Attack
-Ranger 2: Spellcasting, Superior Fighting Style, Tactical Assessment, Cure Wounds, Ensaring Strike
-Ranger 3: Fey Wanderer: Persuasion, +WIS to Charisma Checks, +1d4 psychic Damage Per hit, Charm Person, Goodberry
-Cleric 1: Order Domain: Investigation, **Voice of Authority**, Guidance, Spare the Dying, Thaumaturgy, Command, Heroism, Healing Word, Bless, Shield of Faith
-Fighter 6: Fey Touched (+1 Wis): Bless or Hex, Misty Step
+Ranger 1: Survival Proficiency, Perception Expertise, Favored Foe, +2 Languages \
+Fighter 4: **Tandem Tactician** You can use the Help action as a bonus action, and can target 2 allies instead of one. \
+Fighter 5: Extra Attack \
+Ranger 2: Spellcasting, Superior Fighting Style, Tactical Assessment, Cure Wounds, Ensaring Strike \
+Ranger 3: Fey Wanderer: Persuasion, +WIS to Charisma Checks, +1d4 psychic Damage Per hit, Charm Person, Goodberry \
+Cleric 1: Order Domain: Investigation, **Voice of Authority**, Guidance, Spare the Dying, Thaumaturgy, Command, Heroism, Healing Word, Bless, Shield of Faith \
+Fighter 6: Fey Touched (+1 Wis): Bless or Hex, Misty Step \
 Fighter 7: 
 #### Multiclass: 
 Silverquill Warlock 1, **Silvery Barbs**, **Eloquent Apprentice** (Insight, Persuasion), Mind Sliver, Magic Stone or Lightning Lure, Vicious Mockery, Hex, Expeditious Retreat
