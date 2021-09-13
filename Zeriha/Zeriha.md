@@ -15,11 +15,10 @@ CHA: 17 (+3)
 Skills: Athletics, Intimidation, Perception, Arcana \
 Tools: Chef's Tools, Tattoo Artist's Kit \
 Saving Throws: Strength, Constitution \
-Languages: Common, Goblin, TBD
+Languages: Common, Goblin, Infernal
 
 #### Equipment
 Whip/Dagger: +6 to hit, 1d4+4 damage \
-Intimidate: +8 vs target Insight, frighten until end of next turn \
 [Inventory](https://docs.google.com/document/d/1XLIGR6VB5ECWMGGvx_LMWwDteXnhBnRwf7b_quBTXDE/edit?usp=sharing)
 
 ### Level 3 Battlemaster
