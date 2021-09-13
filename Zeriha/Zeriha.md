@@ -45,6 +45,8 @@ You have 5d8 superiority dice. Save DC: 14 \
 
 **Wild Talent (+1 DEX)** [Just reference the wiki](http://dnd5e.wikidot.com/feat:wild-talent)
 
+**Fey Touched (+1 WIS/CHA)** Hex, Misty Step
+
 #### Multiclass: 
 Silverquill Warlock 1, **Silvery Barbs** (Insight, Persuasion), **Eloquent Apprentice** (Insight, Persuasion), Mind Sliver, Magic Stone or Lightning Lure, Vicious Mockery, Hex, Expeditious Retreat
 
