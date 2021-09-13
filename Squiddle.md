@@ -1,31 +1,31 @@
-Aggy Locamote ("Squiddle")
-Alignment: Lawful Good
+Aggy Locamote ("Squiddle") \
+Alignment: Lawful Good \
 Gnome Ceramorph (Dhampheir lineage, Humanoid / Abberation) 
 
-HP: 
-AC: 
-Prof: +2
-STR: 9
-DEX: 14
-CON: 15+1
-INT: 18+2
-WIS: 12
-CHA: 9
+HP: \
+AC: \
+Prof: +2 \
+STR: 9 \
+DEX: 14 \
+CON: 16 \
+INT: 20 \
+WIS: 12 \
+CHA: 9 
 
-Skills: Arcana, History, Stealth, Insight, Perception
-Tools: Tinker's Tools
-Saving Throws: Intelligence, Wisdom 
+Skills: Arcana, History, Stealth, Insight, Perception \
+Tools: Tinker's Tools \
+Saving Throws: Intelligence, Wisdom \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Wizard 1: 
-Spell Slots: 2, 0
-Save DC: 15, +7 to hit
-Prepared Spells (5 + 1): 
-Cantrips: Sapping Sting, Message, Consume Brain (Booming Blade but Psychic)
-1st: Mage Armor, Gift of Alacrity, Detect Magic, Magic Missile, Shield, Tenser's Floating Disk
+Spell Slots: 2 \
+Save DC: 15, +7 to hit \
+Prepared Spells (5 + 1): \
+Cantrips: Sapping Sting, Message, Consume Brain (Booming Blade but Psychic) \
+1st: Mage Armor, Gift of Alacrity, Detect Magic, Catapult, Shield, Tenser's Floating Disk
 
 Spellbook Spells:
-1st: Mage Armor, Gift of Alacrity, Detect Magic, Magic Missile, Shield, Tenser's Floating Disk
+1st: Mage Armor, Gift of Alacrity, Detect Magic, Catapult, Shield, Tenser's Floating Disk
 
 ### Racial Abilities
 **Ceremorph Magic:**
