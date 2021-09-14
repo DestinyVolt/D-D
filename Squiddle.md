@@ -21,7 +21,7 @@ Languages: Common, Gnomish, Undercommon, Deep Speech
 Spell Slots: 2 \
 Save DC: 15, +7 to hit \
 Prepared Spells (5 + 1): \
-Cantrips: Sapping Sting, Message, Consume Brain (Booming Blade but Psychic) \
+Cantrips: Mind Splinter, Message, Mold Earth \
 1st: Mage Armor, Gift of Alacrity, Detect Magic, Catapult, Shield, Tenser's Floating Disk
 
 Spellbook Spells:
@@ -33,6 +33,7 @@ You to cast Nondetection on yourself at will, without needing a material compone
 Once Per Long Rest: Detect Thoughts, Disguise Self (24 hours, only 1 form) 
 
 #### Future Spells:
+Cantrips: Consume Brain (Booming Blade but Psychic)
 1st: Alarm, Find Familiar \
 2nd: Find Vehicle, Immovable Object, Hold Person, Mirror Image \
 3rd: Haste, Tiny Servant, Pulse Wave, Counterspell \
