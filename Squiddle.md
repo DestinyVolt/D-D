@@ -2,8 +2,8 @@ Aggy Locamote ("Squiddle") \
 Alignment: Lawful Good \
 Gnome Ceramorph (Dhampheir lineage, Humanoid / Abberation) 
 
-HP: \
-AC: \
+HP: 9 \
+AC: 12 \
 Prof: +2 \
 STR: 9 \
 DEX: 14 \
