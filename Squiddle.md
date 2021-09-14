@@ -1,6 +1,6 @@
 Aggy Locamote ("Squiddle") \
 Alignment: Lawful Good \
-Gnome Ceramorph (Dhampheir lineage, Humanoid / Abberation) 
+Gnome Ceramorph (Dhampir lineage, Humanoid / Abberation) 
 
 HP: 9 \
 AC: 12 \
