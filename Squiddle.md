@@ -12,7 +12,7 @@ INT: 20 \
 WIS: 12 \
 CHA: 9 
 
-Skills: Arcana, History, Stealth, Insight, Perception \
+Skills: Arcana, History, Stealth, Insight, Perception, Investigation \
 Tools: Tinker's Tools \
 Saving Throws: Intelligence, Wisdom \
 Languages: Common, Gnomish, Undercommon, Deep Speech
