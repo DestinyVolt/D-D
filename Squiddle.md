@@ -29,18 +29,18 @@ Spellbook Spells:
 
 ### Racial Abilities
 **Ceremorph Magic:**
-You to cast Nondetection on yourself at will, without needing a material component. \\
+You to cast Nondetection on yourself at will, without needing a material component. \
 Once Per Long Rest: Detect Thoughts, Disguise Self (24 hours, only 1 form) 
 
 #### Future Spells:
-1st: Alarm, Find Familiar
-2nd: Find Vehicle, Immovable Object, Hold Person, Mirror Image
-3rd: Haste, Tiny Servant, Pulse Wave, Counterspell
-4th: Fabricate
+1st: Alarm, Find Familiar \
+2nd: Find Vehicle, Immovable Object, Hold Person, Mirror Image \
+3rd: Haste, Tiny Servant, Pulse Wave, Counterspell \
+4th: Fabricate \
 5th: Animate Objects
 
-Look for Spell Scrolls:
-1st: Continual Flame
+Look for Spell Scrolls: \
+1st: Continual Flame \
 3rd: Leomund's Tiny Hut, Glyph of Warding
 
 
