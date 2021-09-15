@@ -1,6 +1,6 @@
 Aggy Locamote ("Squiddle") \
 Alignment: Lawful Good \
-Gnome Ceramorph (Dhampir lineage, Humanoid / Abberation) 
+Gnome Ceramorph (Dhampir lineage, Humanoid / Abberation) \
 Other Names: Waywocket, Illy, Tadpole, Choochoo, Periwinkle, Tentacles (Pronounced like greek names, ala hercules), Whistles, Chomsky, Noodles, Egghead
 
 HP: 9 \
