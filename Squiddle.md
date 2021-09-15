@@ -46,13 +46,13 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 Cantrips: Consume Brain (Booming Blade but Psychic)
 1st: Alarm, Find Familiar \
 2nd: Find Vehicle, Immovable Object, Hold Person, Mirror Image \
-3rd: Haste, Tiny Servant, Pulse Wave, Vampiric Touch (Change to Psychic Damage for eating a brain?) \
+3rd: Haste, Tiny Servant, Pulse Wave, \
 4th: Fabricate \
 5th: Animate Objects
 
 Look for Spell Scrolls: \
 1st: Continual Flame \
-3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell
+3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell,  Vampiric Touch (Change to Psychic Damage for eating a brain?)
 
 
 
