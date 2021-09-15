@@ -13,7 +13,7 @@ INT: 20 \
 WIS: 12 \
 CHA: 9 
 
-Skills: Arcana, History, Stealth, Insight, Perception, Investigation \
+Skills: Arcana, Athletics, Stealth, Insight, Perception, Investigation \
 Tools: Tinker's Tools \
 Saving Throws: Intelligence, Wisdom \
 Languages: Common, Gnomish, Undercommon, Deep Speech
@@ -32,6 +32,15 @@ Spellbook Spells:
 **Ceremorph Magic:**
 You to cast Nondetection on yourself at will, without needing a material component. \
 Once Per Long Rest: Detect Thoughts, Disguise Self (24 hours, only 1 form) 
+
+### Personality
+I'm always ready to make a new friend! 
+My responsibility as a train conductor comes first! I have to make sure all my passengers are comfortable, and that nothing stands in the way of the train. 
+Helping people makes me happy :)
+I love life, and want to live it to the fullest, even if I'm ashamed of what I am.
+I don't really like lying, but I will if it means helping a friend or hiding my curse. 
+
+
 
 #### Future Spells:
 Cantrips: Consume Brain (Booming Blade but Psychic)
