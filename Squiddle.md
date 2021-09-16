@@ -80,7 +80,7 @@ Note: Wizard 4 you should take Warcaster
 2nd: Immovable Object, Hold Person, Mirror Image, Tasha's Mind Whip \
 3rd: Haste, Tiny Servant, Pulse Wave, Slow \
 4th: Fabricate \
-5th: Animate Objects
+5th: Temporal Shunt, Animate Objects
 
 #### Look for Spell Scrolls: 
 1st: Continual Flame \
