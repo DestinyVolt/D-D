@@ -75,6 +75,7 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 **Temporal Awareness** \
 Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
+Note: Wizard 4 you should take Warcaster
 #### Future Spells:
 2nd: Immovable Object, Hold Person, Mirror Image, Tasha's Mind Whip \
 3rd: Haste, Tiny Servant, Pulse Wave, Slow \
