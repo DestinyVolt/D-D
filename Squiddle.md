@@ -1,5 +1,5 @@
 ## Aggy Locamote ("Squiddle") 
-Gnome Ceramorph (Dhampir lineage) \
+Dark Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Other Names: Waywocket, Illy, Tadpole, Choochoo, Periwinkle, Tentacles (ala hercules), Whistles, Chomsky, Noodles, Egghead
 
