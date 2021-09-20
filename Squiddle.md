@@ -85,4 +85,4 @@ Note: Wizard 4 you should take Warcaster or Mounted Combatant
 #### Look for Spell Scrolls: 
 1st: Continual Flame \
 2nd: Find Vehicle \
-3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell,  Vampiric Touch (Change to Psychic Damage for eating a brain?)
+3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell,  Vampiric Touch (Change to Psychic Damage for eating a brain?), Phantom Steed
