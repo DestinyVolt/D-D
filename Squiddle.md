@@ -29,7 +29,7 @@ Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 Spell Slots: 2 \
 Save DC: 15, +7 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Catapult, Faerie Fire, Expeditious Retreat, Feather Fall
+1st (5 Prepared): Cure Wounds, Catapult, Faerie Fire, Expeditious Retreat, Sleep
 
 ### Racial Abilities
 **Illithid Nature:**
