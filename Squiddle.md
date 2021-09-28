@@ -59,7 +59,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 
 #### Future Levels:
 **Wizard 1:** \
-Cantrips: Mind Sliver, Mold Earth, Consume Brain (Booming Blade but Psychic) \
+Cantrips: Mind Sliver, Mending, Consume Brain (Booming Blade but Psychic) \
 1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Identify, Shield 
 
 **Arcane Recovery:**
@@ -75,12 +75,45 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 **Temporal Awareness** \
 Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
-Note: Wizard 4 you should take Warcaster or Mounted Combatant
-#### Future Spells:
-2nd: Immovable Object, Hold Person, Mirror Image, Phantasmal Force \
-3rd: Haste, Pulse Wave, Slow, Tiny Servant \
-4th: Fabricate \
-5th: Temporal Shunt, Animate Objects
+**Wizard 3:** \
+Immovable Object, Hold Person
+
+**Wizard 4:** \
+Mirror Image, Phantasmal Force
+Mounted Combatant
+
+**Wizard 5:** \
+Haste, Tiny Servant 
+
+**Wizard 6:**
+Pulse Wave, Slow
+Temporal Freeze Ability
+
+**Artificer 2:**
++1 Prepared Spell \
+Infusions:
+- Homunculus (Intellect Devourer)
+- Enhanced Arcane Focus
+- Bag of Holding
+- Wand of Secrets
+
+**Artificer 3:**
+Right Tool for the Job \
+Archivist: \
+Skills: Medicine, Insight \
+Homunculus Upgrade (Information Overload Psychic Attack, Use It's Senses, etc) \
+Comprehend Languages, *Dissonant Whispers*
+
+**Artificer 4:**
++1 Prepared Spell
+ASI
+
+**Artificer 5:**
+Prepare Second Level Spells
+Awakened Mind Upgrade
+
+**Artificer 6:**
+Infusion Time Baybee
 
 #### Look for Spell Scrolls: 
 1st: Continual Flame \
