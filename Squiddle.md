@@ -15,14 +15,14 @@ WIS: 12 (+1) \
 CHA: 9  (-1) 
 
 Skills: Arcana, Acrobatics, Stealth, Insight, Perception, Investigation \
-Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools \
+Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land)\
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
 Magic Stone: +7 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +7 to hit, 1d6 peircing + Drag 10 feet \
+Thorn Whip: +7 to hit, 1d6 piercing + Drag 10 feet \
 Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
@@ -44,6 +44,9 @@ While you are missing half or more of your hit points, you have advantage on att
 
 **Spider Climb:** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 
+#### Background Feature: Steady
+You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march. Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.
+
 ### Personality
 I'm always ready to make a new friend! \
 My responsibility as a train conductor comes first! I have to make sure all my passengers are comfortable, and that nothing stands in the way of the train. \
@@ -56,6 +59,14 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I'm overly nice to people who are rude to me, so long as they don't get violent. \
 (Flaw) I need to eat a brain once a month. 
 
+### Equipment
+Currency: 5gp, 0sp, 0cp, 10gp gem \
+Sling, Dagger, Light Crossbow (20 bolts) \
+Conductor / Engineer's outfit (Studded Leather Armor) \
+Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
+Waterskin, 50ft of Rope, Tinderbox, 10 Pitons \
+Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting focus): \
+*Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts*
 
 #### Future Levels:
 **Wizard 1:** \
