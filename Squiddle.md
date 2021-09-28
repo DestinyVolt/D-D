@@ -77,7 +77,7 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 
 Note: Wizard 4 you should take Warcaster or Mounted Combatant
 #### Future Spells:
-2nd: Immovable Object, Hold Person, Mirror Image, Tasha's Mind Whip \
+2nd: Immovable Object, Hold Person, Mirror Image, Phantasmal Force \
 3rd: Haste, Pulse Wave, Slow, Tiny Servant \
 4th: Fabricate \
 5th: Temporal Shunt, Animate Objects
