@@ -36,8 +36,8 @@ Cantrips: Magic Stone, Thorn Whip \
 You qualify as both an Abberation and a Humanoid. 
 
 **Ceremorph Magic:**
-You to cast Nondetection on yourself at will, without needing a material component. \
-Once Per Long Rest: Detect Thoughts, Disguise Self (24 hours, only 1 form) 
+You to cast Nondetection on yourself at will, without needing a material component. When you do, you can choose to disguise your Ceremorph form. \
+Once Per Long Rest: Detect Thoughts 
 
 **Illithid Bite:**
 While you are missing half or more of your hit points, you have advantage on attack rolls you make with your bite. When you use your bite and hit a creature that isn’t a Construct or an Undead, you can either regain hit points equal to the damage dealt by the bite or gain a bonus to the next ability check or attack roll you make equal to the damage dealt by the bite. You can empower yourself with your bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
@@ -59,7 +59,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 
 #### Future Levels:
 **Wizard 1:** \
-Cantrips: Mind Sliver, Mending, Consume Brain (Booming Blade but Psychic) \
+Cantrips: Prestidigitation, Mending, Consume Brain (Booming Blade but Psychic) \
 1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Identify, Shield 
 
 **Arcane Recovery:**
