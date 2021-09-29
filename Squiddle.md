@@ -14,7 +14,7 @@ INT: 20 (+5) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
 
-Skills: Arcana, Acrobatics, Stealth, Insight, Perception, Investigation \
+Skills: Arcana, Acrobatics, Stealth, Medicine, Perception, Investigation \
 Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land)\
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
@@ -111,7 +111,7 @@ Infusions:
 **Artificer 3:**
 Right Tool for the Job \
 Archivist: \
-Skills: Medicine, Insight \
+Skills: Nature, Insight \
 Homunculus Upgrade (Information Overload Psychic Attack, Use It's Senses, etc) \
 Comprehend Languages, *Dissonant Whispers*
 
