@@ -70,7 +70,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 
 #### Future Levels:
 **Wizard 1:** \
-Cantrips: Prestidigitation, Mending, Consume Brain (Booming Blade but Psychic) \
+Cantrips: Prestidigitation, Mending, Mind Sliver \
 1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Identify, Shield 
 
 **Arcane Recovery:**
@@ -90,15 +90,18 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 Immovable Object, Hold Person
 
 **Wizard 4:** \
-Mirror Image, Phantasmal Force
+Mirror Image, Phantasmal Force \
+Consume Brain (Booming Blade but Psychic) \
 Mounted Combatant
 
 **Wizard 5:** \
-Haste, Tiny Servant 
+Slow, Tiny Servant 
 
 **Wizard 6:**
-Pulse Wave, Slow
-Temporal Freeze Ability
+Pulse Wave, Haste \
+Temporal Freeze Ability \
+Note: This is when we get fourth level spell slots. Absolutely critical before going back to artificer. Honestly considering just sticking wizard, since 7 gives an extra level 4 spell slot and 2 more spells (probably won't actually pick level 4 spells, just more level 3s, and 8 gives an ability score increase, allowing me to take fey-touched for dissonant whispers at the same time I would get it with the artificer dip. 
+
 
 **Artificer 2:**
 +1 Prepared Spell \
@@ -115,16 +118,7 @@ Skills: Nature, Insight \
 Homunculus Upgrade (Information Overload Psychic Attack, Use It's Senses, etc) \
 Comprehend Languages, *Dissonant Whispers*
 
-**Artificer 4:**
-+1 Prepared Spell
-ASI
-
-**Artificer 5:**
-Prepare Second Level Spells
-Awakened Mind Upgrade
-
-**Artificer 6:**
-Infusion Time Baybee
+Past this point, probably go back into Wizard, just for the spell slots. Focus more on upcasting then new spells, might even grab lower level spells. 
 
 #### Look for Spell Scrolls: 
 1st: Continual Flame \
