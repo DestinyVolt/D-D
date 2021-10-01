@@ -70,7 +70,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 
 #### Future Levels:
 **Wizard 1:** \
-Cantrips: Prestidigitation, Mending, Mind Sliver \
+Cantrips: Minor Illusion, Mending, Mind Sliver \
 1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Identify, Shield 
 
 **Arcane Recovery:**
