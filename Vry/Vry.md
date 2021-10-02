@@ -51,9 +51,9 @@ Cantrip: Mind Sliver \
 Spells: +5 to hit, Save DC: 13 \
 Spell Slots: Two 1st Level Spell slots \
 Cantrips: Booming Blade, Message, Shocking Grasp \
-Prepared: Shield, Catapult \
+Prepared: Shield, Fog Cloud \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
-Unused: Tasha's Caustic Brew, Magic Missile, Grease 
+Unused: Tasha's Caustic Brew, Magic Missile, Catapult 
 
 #### Weapons 
 The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
