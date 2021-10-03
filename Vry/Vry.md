@@ -15,8 +15,9 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 10 Hexblade Warlock / Level 1 Wizard of Artifice
-HP: 98 \
+### Level 11 Hexblade Warlock / Level 1 Wizard of Artifice
+HP: 100 \
+Hit Dice: 11d8 \ 
 AC: 20 \
 Prof: +4 \
 STR: 9 \
@@ -33,19 +34,24 @@ Saving Throws: Wisdom, Charisma \
 Languages: Common, Elven, Undercommon, Infernal 
 
 #### Pact Magic
-Two 5th Level Spell Slots \
+Three 5th Level Spell Slots \
 Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Wrathful Smite \
 Level 2: Invisibility, Dragon's Breath, Flock of Familiars \
 Level 3: Fly, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil \
-Level 5: Cone of Cold, Banishing Smite
+Level 5: Cone of Cold, Banishing Smite, Dream
+Level 6: Tasha's Otherworldly Guise
 
 #### A Stab Wound
 Spells: +8 to hit, Save DC: 16 \
 Cantrip: Mind Sliver \
 1st: Absorb Elements
+
+When you take damage from any source, you can reduce that damage to 0. Once you use this boon, you can't use it again until you finish a short rest.
+
+Any part of your physical appearance that would have been changed by the damage, (blood, scorch marks, bruises, etc) instead immediately reverts to that which is your True Changeling Form. You cannot transform away these changes until you finish a short rest.
 
 #### Alchemical Magic
 Spells: +5 to hit, Save DC: 13 \
