@@ -15,7 +15,7 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 11 Hexblade Warlock / Level 1 Wizard of Artifice
+### Level 11 Hexblade Warlock / Level 1 Wizard
 HP: 100 \
 Hit Dice: 11d8 \ 
 AC: 20 \
