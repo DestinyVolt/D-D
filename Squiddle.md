@@ -44,8 +44,8 @@ While you are missing half or more of your hit points, you have advantage on att
 
 **Spider Climb:** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 
-#### Background Feature: Steady
-You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march. Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.
+#### Background Feature: Underdark Railway Conductor
+You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march, if you are conducting a train. Additionally, at third level, you gain the ability to expend a second level spell slot to summon a Train, provided that you are currently on the Underdark Railway. 
 
 ### Personality
 I'm always ready to make a new friend! \
