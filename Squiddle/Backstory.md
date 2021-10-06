@@ -13,7 +13,7 @@ Longdorp was a friend of Squiddle (his nickname for her was Waywocket). Dortix w
 The Boss and his young daughter. Note: The Boss is a Union Man who lead the charge to overthrow the previous owners of the railway (the drow). His daughter calls Aggy "Choochoo"\
 A Tinkerer and her househusband \
 An Engineer \
-Her Ex-Conductor, Basically an Ex boyfriend. He broke up w/ us after we were transformed. His nickname for her was "Dimples." She gets sad whenever someone calls her that. Her nickname for him was Chomsky. \
+Her Ex-Conductor, Basically an Ex boyfriend. He broke up w/ her after she was transformed. His nickname for her was "Dimples." She gets sad whenever someone calls her that. Her nickname for him was Chomsky. \
 Kasfan Locamote (Father & Head Tinkerer, stereotypical gnomish tinkerer, very excentric, creates all sorts of crazy invetions to help the train line, loves to talk shop w/ Aggy) 
 
 Note: Her Mother and Father never married, they don't live together, but they're still friends. It's not like there is any bad blood or anything, gnomes are just Like That(tm).  
