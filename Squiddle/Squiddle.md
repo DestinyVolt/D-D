@@ -13,6 +13,8 @@ CON: 16 (+3) \
 INT: 20 (+5) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
+Height: 2'6
+Weight: 28lb
 
 Skills: Arcana, Acrobatics, Stealth, Medicine, Perception, Investigation \
 Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land)\
