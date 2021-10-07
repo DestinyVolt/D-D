@@ -72,7 +72,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 #### Future Levels:
 **Wizard 1:** \
 Cantrips: Minor Illusion, Mold Earth, Mind Sliver \
-1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Identify, Shield 
+1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Mage Armor, Shield 
 
 **Arcane Recovery:**
 You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
@@ -122,6 +122,6 @@ Comprehend Languages, *Dissonant Whispers*
 Past this point, probably go back into Wizard, just for the spell slots. Focus more on upcasting then new spells, might even grab lower level spells. 
 
 #### Look for Spell Scrolls: 
-1st: Continual Flame \
-2nd: Find Vehicle \
+1st: Identify  \
+2nd: Continual Flame, Find Vehicle \
 3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell,  Vampiric Touch (Change to Psychic Damage for eating a brain?), Phantom Steed
