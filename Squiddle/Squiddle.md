@@ -1,7 +1,7 @@
 ## Aggy Locamote ("Squiddle") 
 Dark Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
-Age: 30, Height: 2'6, Weight: 30lb \
+Age: 30, Height: 2'6, Weight: 25lb \
 Other Names: Waywocket, Illy, Tadpole, Choochoo, Periwinkle, Tentacles (ala hercules), Whistles, Chomsky, Noodles, Egghead
 
 HP: 11 \
