@@ -5,7 +5,7 @@ I don't know the identity of the Mindflayer who turned me, but it has a distinct
 
 #### The True Cephasians 
 *Pronounced (Seh-fay-she-ans)* \
-A group of Ceremorph Gnomes who are happy with their transformations. They have a small alcove deep in the Underdark, where they do experiments to replicate the process that turns Gnomes into Ceremorphs. They believe that they are a superior lifeform. Aggy doesn't know much about them, but an old friend of hers, Dortix Longdrop, joined up with them (He now calls himself Drellask). \
+A group of Ceremorph Gnomes who are happy with their transformations. They have a small alcove deep in the Underdark, where they do experiments to replicate the process that turns Gnomes into Ceremorphs. They believe that they are a superior lifeform. Aggy doesn't know much about them, but an old friend of hers, Dortix Longdrop, joined up with them (He now calls himself Drellask). 
 
 *Dortix Longdrop (nickname: "Whistlepult")* \
 Longdorp was a friend of Squiddle (his nickname for her was Waywocket). Dortix was a talented illusionist, and helped hide the Dark Gnomes from the dominant races of the underdark, like Drow and Duergar. He was with Squiddle when they were attacked by Mindflayers. He was converted into a Ceremorph as well, but was discovered by the Cephasians and his beliefs quickly fell in line with theirs. He wants Waywocket to join the Cephasians, but she is disgusted by the idea. 
@@ -13,7 +13,7 @@ Longdorp was a friend of Squiddle (his nickname for her was Waywocket). Dortix w
 #### The Underdark Railway
 There are 4 types of workers in the Underdark Railway: \
 *Stationers:* People who don't actually work on the trains themselves, but are in charge of the upkeep of the railway stops. They handle all the financial stuff, and determine where new stops will be added. They usually live at one of the train stations. \
-*Conductor:* Conductors are the ones who conduct the train, making the schedule, working with customers, protecting the train from the dangers of the underdark, etc. \
+*Conductor:* Conductors are the ones who conduct the train, making the schedule, interacting with passengers, protecting the train from the dangers of the underdark, etc. \
 *Engineer:* Engineers make sure that the train is working, shoveling coal, fixing breaks and repairing mechanisms. Many Conductors are also trained as Engineers, but some Conductors don't have the skill.\
 *Tinkerer:* Tinkerers are the brains behind everything. They design the trains, build the archanotech that allows them to run, map out and design the railway, etc. 
 
