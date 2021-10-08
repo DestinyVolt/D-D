@@ -20,7 +20,7 @@ There are 4 types of workers in the Underdark Railway: \
 Aggy is skilled as a Conductor, Engineer, and Tinkerer. All the following people have the format: Name (Aggy's Nickname for them).
 
 *Fenton and Fizzy Striker (Bossman/Fenderbender and Dimple)* \
-Fenton Striker, and his daughter, Fizzy Striker, are technically stationers, but more importantly, Fenton is The Boss. He's a Union Man who lead the the charge to overthrow the previous owners of the railway (the drow) 150 years ago, when it was just a series of non-magical minecarts and railtracks. Some people believe he has some dwarvish blood, with a big beard, deep voice, stout figure, and a hearty laugh. Regardless, he is highly respected by everyone who's part of the railroad. He accepted Aggy back into the railroad despite what happened to her, and ensured nobody mistreated her. His nicknames for her are Tentacles (pronounced like a philosopher, 'Tent-ah-cleese') and "Jackie". Fizzy is barely 10, a happy and niave little gnome who is doted on by her father. She calls her father "Pop" and he calls her "Softie". Fizzy's mother is unknown. She calls Aggy "Choochoo". 
+Fenton Striker, and his daughter, Fizzy Striker, are technically stationers, but more importantly, Fenton is The Boss. He's a Union Man who lead the the charge to overthrow the previous owners of the railway (the drow) 150 years ago, when it was just a series of non-magical minecarts and railtracks. Some people believe he has some dwarvish blood, with a big beard, deep voice, stout figure, and a hearty laugh. Regardless, he is highly respected by everyone who's part of the railroad. He accepted Aggy back into the railroad despite what happened to her, and ensured nobody mistreated her. His nicknames for her are Tentacles (pronounced like a philosopher, 'Tent-ah-cleese') and "Jackie". Fizzy is barely 10, a happy and niave little gnome who is doted on by her father. She calls her father "Pop" and he calls her "Bubbles". Fizzy's mother is unknown. She calls Aggy "Choochoo". 
 
 *Gabilam and Mopton Babbleriver (Geebee and Muu)* \
 Gabilam is a tinkerer, and a childhood friend of Aggy's. She works in the Tinker's workshop under Kasfan, and specializes in the design of new rails. She also helps rein in some of Kasfan's more... out there ideas, and often handles the more grounded aspects of the workshop (like finances). Mopton is her husband, a stationer, but is mostly just a stay at home husband. He cooks and cleans, and delivers Honey (his nickname for Gabi) her lunch everyday. He is absolutely infatuated with her. Gabilam's nickname for Aggy is Puddles, while Mopton calls her Noodles. 
@@ -34,7 +34,8 @@ Her Ex-Conductor, basically an Ex-boyfriend. He broke up w/ her after she was tr
 *Kasfan Locamote (Papa)* \
 Aggy's Father & Head Tinkerer, stereotypical gnomish tinkerer, very excentric, creates all sorts of crazy invetions to help the train line, loves to talk shop w/ Aggy. Easily distracted and not very good with emotions. Nickname for Aggy is Periwinkle. He calls almost everyone in the shop simply by their first name, and they all call him Bigwig.
 
-Note: Her Mother and Father never married, they don't live together, but they're still friends. It's not like there is any bad blood or anything, gnomes are just Like That(tm).  
+Note: Her Mother and Father never married, they don't live together, but they're still friends. It's not like there is any bad blood or anything, gnomes are just Like That(tm). 
+
 
 #### The Fiddlelops (Mother's side of the Family)
 Note: Literally every member of this family has a slightly different last name and will correct you if you get it wrong. They all call each other by their variation of their last name. For reference, Aggy's is Squiddlelop.\
