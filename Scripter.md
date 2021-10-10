@@ -1,7 +1,7 @@
 Scripter \
 Scrollbinder Construct \
-They / It \ 
-Age: 215, Active for 10
+They / It \
+Age: 215, Active for 10 \
 Lawful Neutral
 
 HP: 29 \
