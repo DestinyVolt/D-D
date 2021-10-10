@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 11 Hexblade Warlock / Level 1 Wizard
 HP: 100 \
-Hit Dice: 11d8 \ 
+Hit Dice: 11d8 \
 AC: 20 \
 Prof: +4 \
 STR: 9 \
