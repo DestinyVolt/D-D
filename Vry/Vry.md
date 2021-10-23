@@ -62,7 +62,7 @@ Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Tasha's Caustic Brew, Magic Missile, Catapult 
 
 #### Weapons 
-The Equinox: +10 to hit, 1d8+6 damage (Crits on 19) \
+The Equinox: +11 to hit, 1d8+6 damage (Crits on 19) \
 Acid Vial: +3 to hit, 2d6 damage 
 
 #### Invocations:
