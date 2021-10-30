@@ -28,7 +28,7 @@ WIS: 11 \
 CHA: 20
 
 #### Proficiency
-Skills: Investigation, Persuasion, Arcana, Survival, Deception, Stealth \
+Skills: Investigation, Persuasion, Arcana, Survival, Deception, Stealth, Insight, Athletics \
 Tools: Alchemist's Tools \
 Saving Throws: Wisdom, Charisma \
 Languages: Common, Elven, Undercommon, Infernal 
@@ -37,8 +37,8 @@ Languages: Common, Elven, Undercommon, Infernal
 Three 5th Level Spell Slots \
 Spells: +9 to hit, Save DC: 17 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
-Level 1: Wrathful Smite \
-Level 2: Invisibility, Dragon's Breath, Flock of Familiars \
+Level 1: Hex \
+Level 2: Invisibility, Cloud of Daggers, Flock of Familiars \
 Level 3: Fly, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil \
 Level 5: Cone of Cold, Banishing Smite, Modify Memory \
@@ -62,19 +62,25 @@ Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Tasha's Caustic Brew, Magic Missile, Catapult 
 
 #### Weapons 
-The Equinox: +11 to hit, 1d8+6 damage (Crits on 19) \
-Acid Vial: +3 to hit, 2d6 damage 
+The Equinox: +11 to hit, 1d8+12 damage (Crits on 19) \
+Acid Vial: +3 to hit, 2d6 damage
+
+#### Shield Master 
+You can add your shield AC to Dexterity Saving Throws. \
+If you succeed on a Dexterity Saving throw to take half damage, you can use your reaction to take no damage. \
+You can use a bonus action to shove a creature. 
+
 
 #### Invocations:
 Thirsting Blade \
 Relentless Hex \
 Maddening Hex \
 Trickster's Escape \
-Ghostly Gaze
-
+Beguiling Influence \
+Lifedrinker 
 
 #### Patron: The Traveler (Pact of the Hexblade) 
-Hexblade’s Curse (19 crit, +4 Damage, 10 Healing on kill) \
+Hexblade’s Curse (19 crit, +4 Damage, 18 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse) \
@@ -96,6 +102,4 @@ Component Pouch (Alchemy) \
 
 ### Future Levels: 
 #### Warlock Levels:
-11th: Otherworldly Guise, Dream \
-12th: Lifedrinker, ASI (?) \
 13th: Plane Shift, ???
