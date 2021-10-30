@@ -19,7 +19,7 @@ Silver-Tongued (Deception Expertise)
 HP: 111 \
 Hit Dice: 12d8 \
 AC: 20 \
-Prof: +4 \
+Prof: +5 \
 STR: 9 \
 DEX: 16 \
 CON: 18 \
@@ -35,7 +35,7 @@ Languages: Common, Elven, Undercommon, Infernal
 
 #### Pact Magic
 Three 5th Level Spell Slots \
-Spells: +9 to hit, Save DC: 17 \
+Spells: +10 to hit, Save DC: 18 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Hex \
 Level 2: Invisibility, Cloud of Daggers, Flock of Familiars \
@@ -45,7 +45,7 @@ Level 5: Cone of Cold, Banishing Smite, Modify Memory \
 Level 6: Tasha's Otherworldly Guise
 
 #### A Stab Wound
-Spells: +8 to hit, Save DC: 16 \
+Spells: +9 to hit, Save DC: 17 \
 Cantrip: Mind Sliver \
 1st: Absorb Elements
 
@@ -62,7 +62,7 @@ Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Tasha's Caustic Brew, Magic Missile, Catapult 
 
 #### Weapons 
-The Equinox: +11 to hit, 1d8+12 damage (Crits on 19) \
+The Equinox: +12 to hit, 1d8+12 damage (Crits on 19) \
 Acid Vial: +3 to hit, 2d6 damage
 
 #### Shield Master 
@@ -80,7 +80,7 @@ Beguiling Influence \
 Lifedrinker 
 
 #### Patron: The Traveler (Pact of the Hexblade) 
-Hexblade’s Curse (19 crit, +4 Damage, 18 Healing on kill) \
+Hexblade’s Curse (19 crit, +5 Damage, 18 Healing on kill) \
 Hex Warrior (Medium Armor, Shields, Charisma Weapon) \
 Pact Weapon (Charisma Based Dimensional Weapon) \
 Shadow Hound (Shadow Tracker Curse) \
