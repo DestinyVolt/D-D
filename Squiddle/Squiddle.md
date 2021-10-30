@@ -9,8 +9,8 @@ Prof: +2 \
 Speed: 35ft, Init: +2 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
-CON: 16 (+3) \
-INT: 20 (+5) \
+CON: 17 (+3) \
+INT: 19 (+4) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
 
@@ -21,31 +21,33 @@ Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
-Magic Stone: +7 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +7 to hit, 1d6 piercing + Drag 10 feet \
+Magic Stone: +6 to hit, 1d6+4 bludgeoning \
+Thorn Whip: +6 to hit, 1d6 piercing + Drag 10 feet \
 Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
 Spell Slots: 2 \
-Save DC: 15, +7 to hit \
+Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Catapult, Faerie Fire, Expeditious Retreat, Sleep
 
 ### Racial Abilities
 **Illithid Nature:**
-You qualify as both an Abberation and a Humanoid. 
+You qualify as an Abberation instead of a Humanoid. 
 
-**Ceremorph Magic:**
-You to cast Nondetection on yourself at will, without needing a material component. When you do, you can choose to disguise your Ceremorph form. \
-Once Per Long Rest: Detect Thoughts 
+**Mounted Combatant:**
+While you are mounted and aren't incapacitated, you gain the following benefits: \
+• You have advantage on melee attack rolls against unmounted creatures that are smaller than your mount. \
+• You can force an attack targeted at your mount to target you instead. \
+• If your mount is subjected to an effect that allows it to make a Dexterity save to take only half damage, it takes no damage if it succeeds and half damage if it fails.
 
 **Illithid Bite:**
 While you are missing half or more of your hit points, you have advantage on attack rolls you make with your bite. When you use your bite and hit a creature that isn’t a Construct or an Undead, you can either regain hit points equal to the damage dealt by the bite or gain a bonus to the next ability check or attack roll you make equal to the damage dealt by the bite. You can empower yourself with your bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 **Spider Climb:** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 
-#### Background Feature: Underdark Railway Conductor
-You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march, if you are conducting a train. Additionally, at third level, you gain the ability to expend a second level spell slot to summon a Train, provided that you are currently on the Underdark Railway. 
+#### Background Feature: Faceless
+Upon donning a disguise and behaving as your persona, you are unidentifiable as your true self. By removing your disguise and revealing your true face, you are no longer identifiable as your persona. This allows you to change appearances between your two personalities as often as you wish, using one to hide the other or serve as convenient camouflage. However, should someone realize the connection between your persona and your true self, your deception might lose its effectiveness. To don your persona, you must cast a ritual spell, which hides your Illithid form for 24 hours. 
 
 ### Personality
 I'm always ready to make a new friend! \
@@ -71,7 +73,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 #### Future Levels:
 **Wizard 1:** \
 Cantrips: Minor Illusion, Mold Earth, Mind Sliver \
-1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Mage Armor, Shield 
+1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Charm Person, Shield 
 
 **Arcane Recovery:**
 You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
@@ -87,12 +89,12 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
 **Wizard 3:** \
-Immovable Object, Hold Person
+Tasha's Mind Whip, Hold Person
 
 **Wizard 4:** \
-Mirror Image, Phantasmal Force \
+Immovable Object, Find Vehicle (UA) \
 Consume Brain (Booming Blade but Psychic) \
-Mounted Combatant
+Gift of the Gem Dragon (+1 INT) 
 
 **Wizard 5:** \
 Slow, Tiny Servant 
@@ -101,24 +103,6 @@ Slow, Tiny Servant
 Pulse Wave, Haste \
 Temporal Freeze Ability \
 Note: This is when we get fourth level spell slots. Absolutely critical before going back to artificer. Honestly considering just sticking wizard, since 7 gives an extra level 4 spell slot and 2 more spells (probably won't actually pick level 4 spells, just more level 3s, and 8 gives an ability score increase, allowing me to take fey-touched for dissonant whispers at the same time I would get it with the artificer dip. 
-
-
-**Artificer 2:**
-+1 Prepared Spell \
-Infusions:
-- Homunculus (Intellect Devourer)
-- Enhanced Arcane Focus
-- Bag of Holding
-- Wand of Secrets
-
-**Artificer 3:**
-Right Tool for the Job \
-Archivist: \
-Skills: Nature, Insight \
-Homunculus Upgrade (Information Overload Psychic Attack, Use It's Senses, etc) \
-Comprehend Languages, *Dissonant Whispers*
-
-Past this point, probably go back into Wizard, just for the spell slots. Focus more on upcasting then new spells, might even grab lower level spells. 
 
 #### Look for Spell Scrolls: 
 1st: Identify  \
