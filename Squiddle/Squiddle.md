@@ -59,6 +59,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Bond) I was taken by mindflayers and turned into this form. I hate all illithid. \
 (Flaw) I'm very easily peer pressured into things. \
 (Flaw) I'm overly nice to people who are rude to me, so long as they don't get violent. \
+(Flaw} I'm scared of anything getting near my eyes, and I'm terrified of leeches. \
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
