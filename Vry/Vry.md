@@ -39,7 +39,7 @@ Spells: +10 to hit, Save DC: 18 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Hex \
 Level 2: Invisibility, Cloud of Daggers, Flock of Familiars \
-Level 3: Fly, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
+Level 3: Remove Curse, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil \
 Level 5: Cone of Cold, Banishing Smite, Modify Memory \
 Level 6: Tasha's Otherworldly Guise
