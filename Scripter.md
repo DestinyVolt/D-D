@@ -4,19 +4,19 @@ They / It \
 Age: 215, Active for 10 \
 Lawful Neutral
 
-HP: 29 \
+HP: 35 \
 AC: 15 \
 Prof: +2 \
 STR: 12 \
 DEX: 14 \
-CON: 16 \
+CON: 18 \
 INT: 16 \
 WIS: 4 (-3) \
 CHA: 12
 
 #### Attacks
-Firebolt: +5 to hit, 1d10 fire damage \
-Sapping Sting: DC 13 CON, 1d4 necrotic + prone
+Firebolt: +6 to hit, 1d10 fire damage \
+Sapping Sting: DC 14 CON, 1d4 necrotic + prone
 
 #### Proficiencies:
 Skills: Arcana, Religion, History, Investigation, Nature \
