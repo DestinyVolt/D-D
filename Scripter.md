@@ -36,3 +36,8 @@ Eyebite
 Bestow Curse (2x)
 Cause Fear
 2 unknown 9th level spell scroll
+
+1 Coffee Potion
+1 Mystery Potion
+1 Mana Potion
+1 Holy Potion
