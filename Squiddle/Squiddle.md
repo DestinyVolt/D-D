@@ -95,7 +95,7 @@ Tasha's Mind Whip, Hold Person
 **Wizard 4:** \
 Immovable Object, Find Vehicle (UA) \
 Consume Brain (Booming Blade but Psychic) \
-Gift of the Gem Dragon (+1 INT) 
+Wild Talent (+1 INT) 
 
 **Wizard 5:** \
 Slow, Tiny Servant 
