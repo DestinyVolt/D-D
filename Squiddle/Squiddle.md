@@ -14,7 +14,7 @@ INT: 19 (+4) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
 
-Skills: Arcana, Acrobatics, Stealth, Medicine, Perception, Investigation \
+Skills: Arcana, Acrobatics, Stealth, Athletics, Perception, Investigation \
 Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land)\
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
