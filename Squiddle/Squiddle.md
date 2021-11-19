@@ -90,10 +90,10 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
 **Wizard 3:** \
-Tasha's Mind Whip, Hold Person
+Tasha's Mind Whip, Find Vehicle (UA)
 
 **Wizard 4:** \
-Immovable Object, Find Vehicle (UA) \
+Immovable Object, ??? \
 Consume Brain (Booming Blade but Psychic) \
 Fey-Touched (+1 INT, Dissonant Whispers) 
 
