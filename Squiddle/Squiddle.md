@@ -95,7 +95,7 @@ Tasha's Mind Whip, Hold Person
 **Wizard 4:** \
 Immovable Object, Find Vehicle (UA) \
 Consume Brain (Booming Blade but Psychic) \
-Wild Talent (+1 INT) 
+Fey-Touched (+1 INT, Dissonant Whispers) 
 
 **Wizard 5:** \
 Slow, Tiny Servant 
