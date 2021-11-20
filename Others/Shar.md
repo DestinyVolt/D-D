@@ -2,7 +2,7 @@
 Goliath, ♀, 25, Lawful Neutral
 
 HP: 40 \
-AC: 18 \
+AC: 16 \
 Prof: +2 \
 STR: 19 \
 DEX: 10 \
@@ -23,6 +23,7 @@ Saves: Strength, Constitution
 ### Equipment
 **Ice Trident:** +6 to hit, 1d6+6 Damage \
 **Bloodwell Vial:** Recover 5 sorcery points on a short rest. \
+**Ice Magic Tome:** You gain 2 spell slots that can only be used to cast spells that deal cold damage.
 
 ### Level 1 Fighter / Level 3 Sorcerer (Clockwork Druid Variant)
 **Second Wind:** As a bonus action, you can heal yourself for 1d10+1 HP. \
