@@ -2,7 +2,7 @@
 Goliath, ♀, 25, Lawful Neutral
 
 HP: 40 \
-AC: 10 \
+AC: 18 \
 Prof: +2 \
 STR: 19 \
 DEX: 10 \
