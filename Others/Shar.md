@@ -12,7 +12,7 @@ WIS: 16 \
 CHA: 9
 
 Age: 25 \
-Speed: 30ft \ 
+Speed: 30ft \
 Height: 8ft \
 Weight: 300lb 
 
