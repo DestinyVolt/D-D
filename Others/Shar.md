@@ -1,7 +1,7 @@
 # Shar
 Goliath, ♀, 25, Lawful Neutral
 
-HP: 34 \
+HP: 40 \
 AC: 18 \
 Prof: +2 \
 STR: 19 \
