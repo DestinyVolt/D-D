@@ -23,7 +23,9 @@ Saves: Strength, Constitution
 ### Equipment
 **Ice Trident:** +6 to hit, 1d6+6 Damage \
 **Bloodwell Vial:** Recover 5 sorcery points on a short rest. \
-**Ice Magic Tome:** You gain 2 spell slots that can only be used to cast spells that deal cold damage.
+**Ice Magic Tome:** You gain 2 spell slots that can only be used to cast spells that deal cold damage
+**Amulet of Valor:** You can gain advantage on one attack roll of your choice. You can use this property once more if you do so before you roll initative again. You regain the ability to use this item at Dawn. \
+**Potion of Healing:** You know what it does dumbass
 
 ### Level 1 Fighter / Level 3 Sorcerer (Clockwork Druid Variant)
 **Second Wind:** As a bonus action, you can heal yourself for 1d10+1 HP. \
