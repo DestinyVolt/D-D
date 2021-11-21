@@ -46,6 +46,7 @@ Twinspell (1/spell level), Quicken (2SP)
 **Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 **Mountain Born:** You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
 
-### Codeworks
+### Codewords
 Savior \
 Amulet (Tolrik Akur Kraggung)\ 
+Current Event: Orc Ambush
