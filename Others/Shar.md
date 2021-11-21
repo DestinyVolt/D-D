@@ -1,7 +1,7 @@
 # Shar
 Goliath, ♀, 25, Lawful Neutral
 
-HP: 40 \
+HP: 37/40 \
 AC: 16 \
 Prof: +2 \
 STR: 19 \
@@ -45,3 +45,7 @@ Twinspell (1/spell level), Quicken (2SP)
 **Stone’s Endurance:** You can focus yourself to occasionally shrug off injury. Once per Rest, when you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. \
 **Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 **Mountain Born:** You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
+
+### Codeworks
+Savior \
+Amulet (Tolrik Akur Kraggung)\ 
