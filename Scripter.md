@@ -32,9 +32,9 @@ Cantrips: Firebolt, Sapping Sting, Spare the Dying \
 1st Level (3 slots): Identify, Cure Wounds, Detect Magic, Tasha's Caustic Brew \
 Breakthrough: Bless
 
-Eyebite
-Bestow Curse (2x)
-Cause Fear
+Eyebite \
+Bestow Curse \
+Cause Fear \
 2 unknown 9th level spell scroll
 
 1 Coffee Potion
