@@ -9,8 +9,8 @@ AC: 15 \
 Prof: +2 \
 STR: 12 \
 DEX: 14 \
-CON: 18 \
-INT: 16 \
+CON: 16 \
+INT: 18 \
 WIS: 4 (-3) \
 CHA: 12
 
