@@ -23,7 +23,7 @@ Saves: Strength, Constitution
 ### Equipment
 **Ice Trident:** +6 to hit, 1d6+6 Damage \
 **Bloodwell Vial:** Recover 5 sorcery points on a short rest. \
-**Ice Magic Tome:** You gain 2 spell slots that can only be used to cast spells that deal cold damage
+**Ice Magic Tome:** You gain 2 spell slots that can only be used to cast spells that deal cold damage \
 **Amulet of Valor:** You can gain advantage on one attack roll of your choice. You can use this property once more if you do so before you roll initative again. You regain the ability to use this item at Dawn. \
 **Potion of Healing:** You know what it does dumbass
 
@@ -43,7 +43,7 @@ Twinspell (1/spell level), Quicken (2SP)
 
 ### Racial Features
 **Stone’s Endurance:** You can focus yourself to occasionally shrug off injury. Once per Rest, when you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. \
-**Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+**Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. \
 **Mountain Born:** You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
 
 ### Codewords
