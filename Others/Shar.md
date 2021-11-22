@@ -48,5 +48,5 @@ Twinspell (1/spell level), Quicken (2SP)
 
 ### Codewords
 Savior \
-Amulet (Tolrik Akur Kraggung)\ 
+Amulet (Tolrik Akur Kraggung) \
 Current Event: Orc Ambush
