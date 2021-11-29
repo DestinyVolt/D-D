@@ -25,7 +25,7 @@ Tools: Caligraphy Kit
 
 #### Racial Abilities
 **Immutable Form:** The golem is immune to any spell or effect that would alter its form. \
-**Magic Resistance:** The golem has advantage on saving throws against spells and other magical effects.
+**Magic Resistance:** The golem has advantage on saving throws against spells and other magical effects. \
 **Constructed Resilience:** You were created to have remarkable fortitude, represented by the following benefits: \
 You have advantage on saving throws against being poisoned, and you have resistance to poison and acid damage. \
 You don’t need to eat, drink, or breathe. \
