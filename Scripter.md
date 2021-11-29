@@ -40,9 +40,10 @@ Whenever you finish a long rest, you can create 2 spell scrolls, which last unti
 Once per long rest, you can replace a cantrip you know with a cantrip from the Artificer or Druid spell list as an Action. 
 
 Cantrips: Firebolt, Sapping Sting, Spare the Dying \
-1st Level (4 slots): Identify, Cure Wounds, Detect Magic, Catapult \
+1st Level (4 slots): Expiditious Retreat, Cure Wounds, Detect Magic, Catapult \
 2nd Level (2 slots): Heat Metal, Web \
-Breakthrough: Bless, ???
+Breakthrough: Bless, Prayer of Healing
+Scrolls: Moonbeam, Locate Object
 
 #### Equipment
 Eyebite \
