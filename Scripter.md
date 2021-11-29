@@ -41,7 +41,7 @@ Once per long rest, you can replace a cantrip you know with a cantrip from the A
 
 Cantrips: Firebolt, Sapping Sting, Spare the Dying \
 1st Level (4 slots): Identify, Cure Wounds, Detect Magic, Catapult \
-2nd Level (2 slots): Heat Metal, Web
+2nd Level (2 slots): Heat Metal, Web \
 Breakthrough: Bless, ???
 
 #### Equipment
