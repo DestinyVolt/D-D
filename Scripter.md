@@ -33,7 +33,7 @@ You are immune to disease. \
 You don't need to sleep, and magic can't put you to sleep.
 
 
-### Artificer 3 (Maverick)
+### Artificer 5 (Maverick)
 Whenever you finish a short rest, you can swap out a cantrip for another cantrip off the Artificer or Druid spell lists. \
 Whenever you finish a long rest, you can prepare an additional 1st and 2nd spell from the Druid and Paladin spell lists. \
 Whenever you finish a long rest, you can create 2 spell scrolls, which last until your next long rest. \
