@@ -9,12 +9,12 @@ Prof: +2 \
 Speed: 35ft, Init: +2 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
-CON: 17 (+3) \
-INT: 19 (+4) \
+CON: 16 (+3) \
+INT: 20 (+4) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
 
-Skills: Arcana, Acrobatics, Stealth, Athletics, Perception, Investigation \
+Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
 Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land)\
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
