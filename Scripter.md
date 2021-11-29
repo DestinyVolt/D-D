@@ -35,15 +35,14 @@ You don't need to sleep, and magic can't put you to sleep.
 
 ### Artificer 3 (Maverick)
 Whenever you finish a short rest, you can swap out a cantrip for another cantrip off the Artificer or Druid spell lists. \
-Whenever you finish a long rest, you can prepare an additional spell from the Druid or Paladin spell list. \
+Whenever you finish a long rest, you can prepare an additional 1st and 2nd spell from the Druid and Paladin spell lists. \
 Whenever you finish a long rest, you can create 2 spell scrolls, which last until your next long rest. \
-Once Per Long Rest, you can replace a cantrip you know with a cantrip from the Artificer or Druid spell list as an Action. 
+Once per long rest, you can replace a cantrip you know with a cantrip from the Artificer or Druid spell list as an Action. 
 
 Cantrips: Firebolt, Sapping Sting, Spare the Dying \
-6 + 2 Breakthrough
 1st Level (4 slots): Identify, Cure Wounds, Detect Magic, Catapult \
 2nd Level (2 slots): Heat Metal, Web
-Breakthrough: Bless
+Breakthrough: Bless, ???
 
 #### Equipment
 Eyebite \
