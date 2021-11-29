@@ -95,7 +95,7 @@ Tasha's Mind Whip, Find Vehicle (UA)
 **Wizard 4:** \
 Immovable Object, ??? \
 Consume Brain (Booming Blade but Psychic) \
-Fey-Touched (+1 INT, Dissonant Whispers) 
+Fey-Touched (+1 INT, Dissonant Whispers) or Strixhaven Initiate
 
 **Wizard 5:** \
 Slow, Tiny Servant 
