@@ -46,7 +46,6 @@ Breakthrough: Bless, Prayer of Healing
 Scrolls: Moonbeam, Locate Object
 
 #### Equipment
-Eyebite \
 Bestow Curse \
 Cause Fear \
 2 unknown 9th level spell scroll
