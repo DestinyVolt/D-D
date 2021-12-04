@@ -57,9 +57,9 @@ Any part of your physical appearance that would have been changed by the damage,
 Spells: +5 to hit, Save DC: 13 \
 Spell Slots: Two 1st Level Spell slots \
 Cantrips: Booming Blade, Message, Shocking Grasp \
-Prepared: Shield, Fog Cloud \
+Prepared: Shield, Magic Missile \
 Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
-Unused: Tasha's Caustic Brew, Magic Missile, Catapult 
+Unused: Tasha's Caustic Brew, Fog Cloud, Catapult 
 
 #### Weapons 
 The Equinox: +12 to hit, 1d8+12 damage (Crits on 19) \
