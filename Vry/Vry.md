@@ -41,7 +41,7 @@ Level 1: Hex \
 Level 2: Invisibility, Cloud of Daggers, Flock of Familiars \
 Level 3: Remove Curse, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil \
-Level 5: Cone of Cold, Banishing Smite, Synaptic Static \
+Level 5: Mislead, Banishing Smite, Synaptic Static \
 Level 6: Tasha's Otherworldly Guise
 
 #### A Stab Wound
@@ -51,7 +51,7 @@ Cantrip: Mind Sliver \
 
 When you take damage from any source, you can reduce that damage to 0. Once you use this boon, you can't use it again until you finish a short rest.
 
-Any part of your physical appearance that would have been changed by the damage, (blood, scorch marks, bruises, etc) instead immediately reverts to that which is your True Changeling Form. You cannot transform away these changes until you finish a short rest.
+Any part of your physical appearance that would have been changed by the damage, (blood, scorch marks, bruises, etc) instead immediately reverts to that which is your True Changeling Form. You cannot transform away these changes until you finish a long rest.
 
 #### Alchemical Magic
 Spells: +5 to hit, Save DC: 13 \
