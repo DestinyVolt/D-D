@@ -1,5 +1,5 @@
 ## Aggy Locamote ("Squiddle") 
-Dark Gnome Ceramorph (Dhampir lineage) \
+Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 30, Height: 2'6, Weight: 25lb 
 
