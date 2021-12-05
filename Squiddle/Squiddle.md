@@ -9,8 +9,8 @@ Prof: +2 \
 Speed: 35ft, Init: +2 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
-CON: 16 (+3) \
-INT: 20 (+5) \
+CON: 17 (+3) \
+INT: 19 (+5) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
 
@@ -95,7 +95,7 @@ Tasha's Mind Whip, Find Vehicle (UA)
 **Wizard 4:** \
 Immovable Object, ??? \
 Consume Brain (Booming Blade but Psychic) \
-Fey-Touched (+1 INT, Dissonant Whispers) or Strixhaven Initiate
+Fey-Touched (+1 INT, Dissonant Whispers) or some other +1 INT half feat
 
 **Wizard 5:** \
 Slow, Tiny Servant 
@@ -103,7 +103,6 @@ Slow, Tiny Servant
 **Wizard 6:**
 Pulse Wave, Haste \
 Temporal Freeze Ability \
-Note: This is when we get fourth level spell slots. Absolutely critical before going back to artificer. Honestly considering just sticking wizard, since 7 gives an extra level 4 spell slot and 2 more spells (probably won't actually pick level 4 spells, just more level 3s, and 8 gives an ability score increase, allowing me to take fey-touched for dissonant whispers at the same time I would get it with the artificer dip. 
 
 #### Look for Spell Scrolls: 
 1st: Identify  \
