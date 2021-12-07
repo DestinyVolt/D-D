@@ -35,5 +35,5 @@ You don't need to sleep, and magic can't put you to sleep.
 
 ### Artificer 5 (Maverick)
 Cantrips: Booming Blade, Mind Sliver, Spare the Dying \
-1st Level (4 slots): Shield, Detect Magic, Catapult, Absorb Elements \
+1st Level (4 slots): Zypher Strike, Detect Magic, Catapult, Absorb Elements \
 2nd Level (2 slots): Shadow Blade, Enhance Ability, Aid \
