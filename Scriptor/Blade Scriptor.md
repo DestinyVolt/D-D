@@ -15,7 +15,7 @@ WIS: 4 (-3) \
 CHA: 12
 
 #### Attacks
-Shadow Blade: +8 to hit, 2d8 psychic damage \
+Shadow Blade: +8 to hit, 2d8+4 psychic damage \
 Booming Blade: +8 to hit, +1d8 thunder damage \
 Mind Sliver: DC 16 Int Save, 2d6 damage + 1d4 off next save 
 
