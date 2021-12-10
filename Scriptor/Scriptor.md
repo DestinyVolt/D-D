@@ -4,7 +4,7 @@ They / It \
 Age: 215, Active for 10 \
 Lawful Neutral
 
-HP: 43 \
+HP: 51 \
 AC: 15 \
 Prof: +3 \
 STR: 12 \
@@ -43,7 +43,7 @@ Cantrips: Firebolt, Sapping Sting, Spare the Dying \
 1st Level (4 slots): Expiditious Retreat, Cure Wounds, Detect Magic, Catapult \
 2nd Level (2 slots): Heat Metal, Enhance Ability \
 Breakthrough: Bless, Prayer of Healing \
-Scrolls: Moonbeam, Locate Object
+Scrolls: Moonbeam, Locate Object, ???
 
 #### Equipment
 Bestow Curse \
