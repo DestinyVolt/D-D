@@ -1,4 +1,4 @@
-Scriptor (Healer Trained) \
+Scriptor (Healer Trained, Weed Golem) \
 Scrollbinder Construct \
 They / It \
 Age: 5, Active for 5 \
