@@ -70,7 +70,6 @@ You can add your shield AC to Dexterity Saving Throws. \
 If you succeed on a Dexterity Saving throw to take half damage, you can use your reaction to take no damage. \
 You can use a bonus action to shove a creature. 
 
-
 #### Invocations:
 Thirsting Blade \
 Relentless Hex \
@@ -78,6 +77,11 @@ Maddening Hex \
 Trickster's Escape \
 Beguiling Influence \
 Lifedrinker 
+
+Will Replace With: \
+Tricksters Escape -> Grab the Spell and Add Superior Pact Weapon \
+Maddening Hex -> Eldritch Smite
+
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +5 Damage, 18 Healing on kill) \
