@@ -17,7 +17,7 @@ Silver-Tongued (Deception Expertise)
 
 ### Level 12 Hexblade Warlock / Level 1 Wizard
 HP: 120 \
-Hit Dice: 12d8 \
+Hit Dice: 13d8 \
 AC: 20 \
 Prof: +5 \
 STR: 9 \
@@ -39,10 +39,11 @@ Spells: +10 to hit, Save DC: 18 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Hex \
 Level 2: Dragon's Breath, Cloud of Daggers, Flock of Familiars \
-Level 3: Remove Curse, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
-Level 4: Shadow Of Moil \
-Level 5: Mislead, Banishing Smite, Synaptic Static \
+Level 3: Ashardalon's Stride, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
+Level 4: Shadow Of Moil, Banishment \
+Level 5: Mislead, Dream, Synaptic Static  \
 Level 6: Tasha's Otherworldly Guise
+Level 7: Plane Shift 
 
 #### A Stab Wound
 Spells: +9 to hit, Save DC: 17 \
@@ -74,14 +75,9 @@ You can use a bonus action to shove a creature.
 Thirsting Blade \
 Relentless Hex \
 Maddening Hex \
-Trickster's Escape \
+Eldritch Smite \
 Beguiling Influence \
 Lifedrinker 
-
-Will Replace With: \
-Tricksters Escape -> Grab the Spell and Add Superior Pact Weapon \
-Maddening Hex -> Eldritch Smite
-
 
 #### Patron: The Traveler (Pact of the Hexblade) 
 Hexblade’s Curse (19 crit, +5 Damage, 18 Healing on kill) \
