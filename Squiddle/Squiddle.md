@@ -74,7 +74,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 #### Future Levels:
 **Wizard 1:** \
 Cantrips: Prestidigitation, Mold Earth, Mind Sliver \
-1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Charm Person, Shield 
+1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Silvery Barbs, Shield 
 
 **Arcane Recovery:**
 You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
