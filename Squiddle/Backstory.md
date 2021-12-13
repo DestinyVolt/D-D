@@ -8,7 +8,7 @@ I don't know the identity of the Mindflayer who turned me, but it has a distinct
 A group of Ceremorph Gnomes who are happy with their transformations. They have a small alcove deep in the Underdark, where they do experiments to replicate the process that turns Gnomes into Ceremorphs. They believe that they are a superior lifeform. Aggy doesn't know much about them, but an old friend of hers, Dortix Longdrop, joined up with them (He now calls himself Drellask). 
 
 *Dortix Longdrop (nickname: "Whistlepult")* \
-Longdorp was a friend of Squiddle (his nickname for her was Waywocket). Dortix was a talented illusionist, and helped hide the Dark Gnomes from the dominant races of the underdark, like Drow and Duergar. He was with Squiddle when they were attacked by Mindflayers. He was converted into a Ceremorph as well, but was discovered by the Cephasians and his beliefs quickly fell in line with theirs. He wants Waywocket to join the Cephasians, but she is disgusted by the idea. 
+Longdorp was a friend of Squiddle (his nickname for her was Waywocket). Dortix was a talented illusionist, and helped hide the Rock Gnomes from the dominant races of the underdark, like Drow and Duergar. He was with Squiddle when they were attacked by Mindflayers. He was converted into a Ceremorph as well, but was discovered by the Cephasians and his beliefs quickly fell in line with theirs. He wants Waywocket to join the Cephasians, but she is disgusted by the idea. 
 
 #### The Underdark Railway
 There are 4 types of workers in the Underdark Railway: \
