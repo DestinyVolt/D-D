@@ -95,7 +95,7 @@ Tasha's Mind Whip, Find Vehicle (UA)
 **Wizard 4:** \
 Immovable Object, ??? \
 Consume Brain (Booming Blade but Psychic) \
-Fey-Touched (+1 INT, Dissonant Whispers), Telekinetic, or some other +1 INT half feat
+Fey-Touched (+1 INT, Dissonant Whispers), Telepathic, or some other +1 INT half feat
 
 **Wizard 5:** \
 Slow, Tiny Servant 
