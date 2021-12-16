@@ -42,7 +42,7 @@ Level 2: Dragon's Breath, Cloud of Daggers, Flock of Familiars \
 Level 3: Ashardalon's Stride, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil, Banishment \
 Level 5: Mislead, Dream, Synaptic Static  \
-Level 6: Tasha's Otherworldly Guise
+Level 6: Tasha's Otherworldly Guise \
 Level 7: Plane Shift 
 
 #### A Stab Wound
@@ -100,6 +100,13 @@ Dagger \
 Component Pouch (Alchemy) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
-### Future Levels: 
-#### Warlock Levels:
-13th: Plane Shift, ???
+### Petro
+**Amulet of the Martyr:** Can intercede one damage source as a reaction, dying in the process. Additionally, a creature attuned to this amulet can use their action to expend and roll a single hit die to heal a creature within 5 feet that is at 0 HP for the amount rolled plus the attuned creatures Constitution modifier. \
+**Ring of Spell Storing:** Ring: Dragon's Breath (5th Level) \
+**Cloak of Many Things:** \
+Dagger \
+10-ft pole \
+Sack \
+Window \ 
+10 gems worth 100 gp each \
+3rd level spell scroll hypnotic pattern 
