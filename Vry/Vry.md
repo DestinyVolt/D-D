@@ -102,7 +102,7 @@ Component Pouch (Alchemy) \
 
 ### Petro
 **Amulet of the Martyr:** Can intercede one damage source as a reaction, dying in the process. Additionally, a creature attuned to this amulet can use their action to expend and roll a single hit die to heal a creature within 5 feet that is at 0 HP for the amount rolled plus the attuned creatures Constitution modifier. \
-**Ring of Spell Storing:** Ring: Dragon's Breath (5th Level) \
+**Ring of Spell Storing:** Dragon's Breath (5th Level) \
 **Cloak of Many Things:** \
 Dagger \
 10-ft pole \
