@@ -15,7 +15,7 @@ Silver-Tongued (Deception Expertise)
 | Silaqui Amastacia | The Bladedancer   | High Elf  |  ♀  | 18  |    NG     | Double-Bladed Scimitar | Owl      |
 | Neza              | The Black Spider  | High Drow |  ♀  | 120 |    NE     | The Spider Staff       | Spider   |
 
-### Level 12 Hexblade Warlock / Level 1 Wizard
+### Level 13 Hexblade Warlock / Level 1 Wizard
 HP: 120 \
 Hit Dice: 13d8 \
 AC: 20 \
@@ -63,7 +63,7 @@ Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Tasha's Caustic Brew, Fog Cloud, Catapult 
 
 #### Weapons 
-The Equinox: +12 to hit, 1d8+12 damage (Crits on 19) \
+Pact Weapon: +10 to hit, 1d?+10 damage\
 Acid Vial: +3 to hit, 2d6 damage
 
 #### Shield Master 
