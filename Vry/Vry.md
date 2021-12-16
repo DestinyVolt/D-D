@@ -107,6 +107,6 @@ Component Pouch (Alchemy) \
 Dagger \
 10-ft pole \
 Sack \
-Window \ 
+Window \
 10 gems worth 100 gp each \
 3rd level spell scroll hypnotic pattern 
