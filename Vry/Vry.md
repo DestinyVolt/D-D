@@ -35,7 +35,7 @@ Languages: Common, Elven, Undercommon, Infernal
 
 #### Pact Magic
 Three 5th Level Spell Slots \
-Spells: +10 to hit, Save DC: 18 \
+Spells: +12 to hit, Save DC: 20 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Hex \
 Level 2: Dragon's Breath, Cloud of Daggers, Flock of Familiars \
@@ -63,7 +63,7 @@ Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Tasha's Caustic Brew, Fog Cloud, Catapult 
 
 #### Weapons 
-Pact Weapon: +10 to hit, 1d?+10 damage\
+Pact Weapon: +12 to hit, 1d?+12 damage\
 Acid Vial: +3 to hit, 2d6 damage
 
 #### Shield Master 
@@ -96,6 +96,7 @@ Traveler's Clothes (Cloak) \
 Dagger \
 9 Vials of Alchemists Fire \
 Component Pouch (Alchemy) \
+Rod of the Pact Keeper (+2) \
 [Backpack](https://github.com/DestinyVolt/D-D/blob/master/Vry/Inventory.md)
 
 ### Petro
