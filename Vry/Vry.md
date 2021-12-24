@@ -41,7 +41,7 @@ Level 1: Hex \
 Level 2: Dragon's Breath, Cloud of Daggers, Flock of Familiars \
 Level 3: Ashardalon's Stride, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil, Banishment \
-Level 5: Mislead, Dream, Synaptic Static  \
+Level 5: Hold Monster, Dream, Synaptic Static  \
 Level 6: Tasha's Otherworldly Guise \
 Level 7: Plane Shift 
 
