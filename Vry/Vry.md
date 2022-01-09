@@ -63,7 +63,7 @@ Rituals: Find Familiar, Identify, Detect Magic, Alarm, Unseen Servant \
 Unused: Tasha's Caustic Brew, Fog Cloud, Catapult 
 
 #### Weapons 
-Pact Weapon: +12 to hit, 1d?+12 damage \
+Pact Weapon: +12 to hit, 1d6+12 damage \
 Acid Vial: +3 to hit, 2d6 damage
 
 #### Shield Master 
