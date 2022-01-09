@@ -39,7 +39,7 @@ Spells: +12 to hit, Save DC: 20 \
 Cantrips: Eldritch Blast, Wristpocket, Green Flame Blade, Prestidigitation \
 Level 1: Hex \
 Level 2: Dragon's Breath, Cloud of Daggers, Flock of Familiars \
-Level 3: Ashardalon's Stride, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
+Level 3: Counterspell, Dispel Magic, [Summon Fey](http://dnd5e.wikidot.com/spell:summon-fey) \
 Level 4: Shadow Of Moil, Banishment \
 Level 5: Hold Monster, Dream, Synaptic Static  \
 Level 6: Tasha's Otherworldly Guise \
