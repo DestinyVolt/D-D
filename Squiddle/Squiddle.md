@@ -73,7 +73,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 
 #### Future Levels:
 **Wizard 1:** \
-Cantrips: Prestidigitation, Mold Earth, Mending \
+Cantrips: Mind Sliver, Mold Earth, Mending \
 1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Silvery Barbs, Shield 
 
 **Arcane Recovery:**
@@ -93,7 +93,8 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 Tasha's Mind Whip, Find Vehicle (UA)
 
 Cantrip Formulas (Optional): 
-At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
+At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
+Reminder: Use this to switch between Prestidigitation, Mold Earth, and Mending, depending on how recently you've eaten and whether you're on the train.
 
 **Wizard 4:** \
 Immovable Object, ??? \
