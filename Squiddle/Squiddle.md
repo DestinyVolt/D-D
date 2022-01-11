@@ -29,7 +29,7 @@ Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 Spell Slots: 2 \
 Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Catapult, Faerie Fire, Expeditious Retreat, Sleep
+1st (5 Prepared): Cure Wounds, Catapult, Detect Magic, Expeditious Retreat, Sleep
 
 ### Racial Abilities
 **Illithid Nature:**
@@ -94,7 +94,7 @@ Tasha's Mind Whip, Find Vehicle (UA)
 
 Cantrip Formulas (Optional): 
 At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
-Reminder: Use this to switch between Prestidigitation, Mold Earth, and Mending, depending on how recently you've eaten and whether you're on the train.
+Reminder: Use this to switch between Prestidigitation, Mending, and Mold Earth, depending on how recently you've eaten and whether you're on the train.
 
 **Wizard 4:** \
 Immovable Object, ??? \
@@ -108,7 +108,8 @@ Slow, Tiny Servant
 Pulse Wave, Haste \
 Temporal Freeze Ability \
 
-#### Look for Spell Scrolls: 
-1st: Identify  \
+#### Spell Scrolls: 
+1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
 2nd: Continual Flame, Find Vehicle \
 3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell,  Vampiric Touch (Change to Psychic Damage for eating a brain?), Phantom Steed
+\*Reminder: I can technically get these by copying them from the Artificer Spell list
