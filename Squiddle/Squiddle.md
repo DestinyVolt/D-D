@@ -28,7 +28,7 @@ Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 ### Artificer 1: 
 Spell Slots: 2 \
 Save DC: 14, +6 to hit \
-Cantrips: Magic Stone, Thorn Whip \
+Cantrips: Magic Stone, Thorn Whip, Mending \
 1st (5 Prepared): Cure Wounds, Catapult, Faerie Fire, Expeditious Retreat, Sleep
 
 ### Racial Abilities
