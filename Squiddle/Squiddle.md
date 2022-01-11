@@ -28,7 +28,7 @@ Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 ### Artificer 1: 
 Spell Slots: 2 \
 Save DC: 14, +6 to hit \
-Cantrips: Magic Stone, Thorn Whip, Mending \
+Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Catapult, Faerie Fire, Expeditious Retreat, Sleep
 
 ### Racial Abilities
@@ -73,7 +73,7 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 
 #### Future Levels:
 **Wizard 1:** \
-Cantrips: Prestidigitation, Mold Earth, Mind Sliver \
+Cantrips: Prestidigitation, Mold Earth, Mending \
 1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Silvery Barbs, Shield 
 
 **Arcane Recovery:**
@@ -91,6 +91,9 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 
 **Wizard 3:** \
 Tasha's Mind Whip, Find Vehicle (UA)
+
+Cantrip Formulas (Optional): 
+At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 
 **Wizard 4:** \
 Immovable Object, ??? \
