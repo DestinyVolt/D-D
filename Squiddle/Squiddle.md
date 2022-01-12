@@ -63,13 +63,14 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
-Currency: 5gp, 0sp, 0cp, 10gp gem \
+Currency: 7gp, 0sp, 0cp, 10gp gem \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
 Waterskin, 50ft of Rope, Tinderbox, 10 Pitons \
 Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting focus): \
-*Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts*
+*Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
+Bag of Gold to return to my dad
 
 #### Future Levels:
 **Wizard 1:** \
