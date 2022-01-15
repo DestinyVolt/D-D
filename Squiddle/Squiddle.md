@@ -4,7 +4,7 @@ Alignment: Lawful Good \
 Age: 30, Height: 2'6, Weight: 25lb 
 
 HP: 11 \
-AC: 12 \
+AC: 14 \
 Prof: +2 \
 Speed: 35ft, Init: +2 \
 STR: 9  (-1) \
