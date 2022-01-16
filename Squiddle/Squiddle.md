@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 30, Height: 2'6, Weight: 25lb 
 
-HP: 11 \
+HP: 18 \
 AC: 14 \
 Prof: +2 \
 Speed: 35ft, Init: +2 \
@@ -29,7 +29,16 @@ Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 Spell Slots: 2 \
 Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Catapult, Detect Magic, Expeditious Retreat, Sleep
+1st (5 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
+
+### Wizard 1:
+Cantrips: Mind Sliver, Mold Earth, Mending \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk
+1st (5 Prepared): Detect Magic, Silvery Barbs, Shield 
+
+**Arcane Recovery:**
+You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
+
 
 ### Racial Abilities
 **Illithid Nature:**
@@ -73,12 +82,6 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 Bag of Gold to return to my dad
 
 #### Future Levels:
-**Wizard 1:** \
-Cantrips: Mind Sliver, Mold Earth, Mending \
-1st: Alarm, Find Familiar, Detect Magic, Tenser's Floating Disk, Silvery Barbs, Shield 
-
-**Arcane Recovery:**
-You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
 
 **Wizard 2:** \
 Subclass: Chronurgy \
