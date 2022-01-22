@@ -33,7 +33,7 @@ Cantrips: Magic Stone, Thorn Whip \
 
 ### Wizard 1:
 Cantrips: Mind Sliver, Mold Earth, Mending \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 1st (5 Prepared): Detect Magic, Silvery Barbs, Shield 
 
 **Arcane Recovery:**
