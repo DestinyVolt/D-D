@@ -6,7 +6,7 @@ Age: 30, Height: 2'6, Weight: 25lb
 HP: 18 \
 AC: 14 \
 Prof: +2 \
-Speed: 35ft, Init: +2 \
+Speed: 35ft, Init: +6 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
 CON: 17 (+3) \
@@ -31,16 +31,13 @@ Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
 
-### Wizard 1:
-Cantrips: Mind Sliver, Mold Earth, Mending \
+### Chronurgy Wizard 2:
+Cantrips: Mind Sliver, Prestidigitiation, Mending \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity
 
-**Arcane Recovery:** \\
+**Arcane Recovery:** \
 You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
-
-**Wizard 2:** \
-Subclass: Chronurgy \
 
 **Chronal Shift:**
 At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
@@ -90,7 +87,6 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 Bag of Gold to return to my dad
 
 #### Future Levels:
-
 **Wizard 3:** \
 Tasha's Mind Whip, Find Vehicle (UA)
 
