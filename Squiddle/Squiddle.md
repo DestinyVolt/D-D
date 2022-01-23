@@ -34,11 +34,19 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Wizard 1:
 Cantrips: Mind Sliver, Mold Earth, Mending \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
-1st (5 Prepared): Detect Magic, Silvery Barbs, Shield 
+1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity
 
-**Arcane Recovery:**
+**Arcane Recovery:** \\
 You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
 
+**Wizard 2:** \
+Subclass: Chronurgy \
+
+**Chronal Shift:**
+At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
+
+**Temporal Awareness** \
+Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
 ### Racial Abilities
 **Illithid Nature:**
@@ -82,16 +90,6 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 Bag of Gold to return to my dad
 
 #### Future Levels:
-
-**Wizard 2:** \
-Subclass: Chronurgy \
-1st: Gift of Alacrity, Magnify Gravity
-
-**Chronal Shift:**
-At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
-
-**Temporal Awareness** \
-Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
 **Wizard 3:** \
 Tasha's Mind Whip, Find Vehicle (UA)
