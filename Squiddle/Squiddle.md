@@ -26,7 +26,7 @@ Thorn Whip: +6 to hit, 1d6 piercing + Drag 10 feet \
 Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
-Spell Slots: 2 \
+Spell Slots: 4, 2 \
 Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (6 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
