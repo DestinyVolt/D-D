@@ -100,10 +100,10 @@ Consume Brain (Booming Blade but Psychic) \
 Fey-Touched (+1 INT, Dissonant Whispers), Telepathic, or some other +1 INT half feat
 
 **Wizard 5:** \
-Slow, Tiny Servant 
+Slow, Haste
 
 **Wizard 6:**
-Pulse Wave, Haste \
+Pulse Wave, Tiny Servant \
 Temporal Freeze Ability \
 
 #### Spell Scrolls: 
