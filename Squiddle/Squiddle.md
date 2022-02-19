@@ -4,7 +4,7 @@ Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
 HP: 25 \
-AC: 14 \
+AC: 16 (Studded Leather + Shield + 2) \
 Prof: +2 \
 Speed: 35ft, Init: +6 \
 STR: 9  (-1) \
