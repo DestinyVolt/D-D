@@ -59,6 +59,8 @@ Level 1: Gift of the Chromatic Dragon \
 Level 4: Crossbow Expert \
 Level 8: Skill Expert (+1 Str, Intimidation, Athletics) \
 Level 12: Wild Talent (+1 Dex) 
+Level 16: +2 WIS
+Level 19: +2 WIS
 
 ### Backstory
 Can literally be bought as an egg from a sketchy creature vendor (for 15gp). Hatches and immediately imprints on the party. 
