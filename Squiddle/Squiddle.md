@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 25 \
+HP: 32 \
 AC: 16 (Studded Leather + Shield + 2) \
 Prof: +2 \
 Speed: 35ft, Init: +6 \
@@ -31,16 +31,21 @@ Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (6 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
 
-### Chronurgy Wizard 2:
+### Chronurgy Wizard 3:
 Cantrips: Mind Sliver, Prestidigitiation, Mending \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity
+2nd (2 Prepared): Tasha's Mind Whip, Find Vehicle (UA)
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
 
 **Chronal Shift:**
 At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
+
+**Cantrip Formulas (Optional):** 
+At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
+Reminder: Use this to switch between Prestidigitation, Mending, and Mold Earth, depending on how recently you've eaten and whether you're on the train.
 
 **Temporal Awareness** \
 Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
@@ -87,13 +92,6 @@ Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting f
 Bag of Gold to return to my dad
 
 #### Future Levels:
-**Wizard 3:** \
-Tasha's Mind Whip, Find Vehicle (UA)
-
-Cantrip Formulas (Optional): 
-At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
-Reminder: Use this to switch between Prestidigitation, Mending, and Mold Earth, depending on how recently you've eaten and whether you're on the train.
-
 **Wizard 4:** \
 Immovable Object, ??? \
 Consume Brain (Booming Blade but Psychic) \
