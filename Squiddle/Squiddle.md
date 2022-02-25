@@ -26,19 +26,23 @@ Thorn Whip: +6 to hit, 1d6 piercing + Drag 10 feet \
 Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
-Spell Slots: 4, 2 \
+Spell Slots: 4, 3 \
 Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (6 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
+1st (5 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
 
 ### Chronurgy Wizard 3:
 Cantrips: Mind Sliver, Prestidigitiation, Mending \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
-1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity
+Unprepared: None \
+1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
 2nd (2 Prepared): Tasha's Mind Whip, Find Vehicle (UA)
 
 **Arcane Recovery:** \
-You can recover half your Wizard Level's worth of Spell Slot levels on a short rest once per day. 
+You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
+
+**Temporal Awareness** \
+Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
 **Chronal Shift:**
 At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
@@ -46,9 +50,6 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 **Cantrip Formulas (Optional):** 
 At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
 Reminder: Use this to switch between Prestidigitation, Mending, and Mold Earth, depending on how recently you've eaten and whether you're on the train.
-
-**Temporal Awareness** \
-Starting at 2nd level, you can add your Intelligence modifiers to your initiative rolls.
 
 ### Racial Abilities
 **Illithid Nature:**
@@ -87,15 +88,15 @@ Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
 Waterskin, 50ft of Rope, Tinderbox, 10 Pitons \
-Tool Kit (counts as Thieves' and Tinker's Tools, can be used as a spellcasting focus): \
+Tool Kit (contains Thieves' and Tinker's Tools, can be used as a spellcasting focus): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Bag of Gold to return to my dad
 
 #### Future Levels:
 **Wizard 4:** \
-Immovable Object, ??? \
+Immovable Object, Nystul's Magic Aura \
 Consume Brain (Booming Blade but Psychic) \
-Fey-Touched (+1 INT, Dissonant Whispers), Telepathic, or some other +1 INT half feat
+Telepathic (+1 INT) 
 
 **Wizard 5:** \
 Slow, Haste
@@ -107,5 +108,5 @@ Temporal Freeze Ability \
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
 2nd: Continual Flame, Find Vehicle \
-3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell,  Vampiric Touch (Change to Psychic Damage for eating a brain?), Phantom Steed
+3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell, Phantom Steed
 \*Reminder: I can technically get these by copying them from the Artificer Spell list
