@@ -15,7 +15,7 @@ WIS: 12 (+1) \
 CHA: 9  (-1) 
 
 Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
-Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land)\
+Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land) \
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
@@ -83,7 +83,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
-Currency: 37gp, 0sp, 0cp \
+Currency: 47gp, 0sp, 0cp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
