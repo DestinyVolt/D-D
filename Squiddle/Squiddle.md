@@ -29,7 +29,7 @@ Vampiric Bite: +5 to hit, 1d4+3 piercing damage
 Spell Slots: 4, 3 \
 Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Catapult, Feather Fall, Expeditious Retreat, Sleep
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
 
 ### Chronurgy Wizard 3:
 Cantrips: Mind Sliver, Prestidigitiation, Mending \
