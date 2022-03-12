@@ -15,7 +15,7 @@ WIS: 12 (+1) \
 CHA: 9  (-1) 
 
 Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
-School Skills (+1d4): Deception, Investigation
+School Skills (+1d4): Deception, Investigation \
 Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land) \
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
