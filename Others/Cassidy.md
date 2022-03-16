@@ -14,7 +14,7 @@ WIS: ~16 (+1) \
 CHA: ~12
 
 ### Proficiencies
-Skills: Animal Handling, Survival, Insight, Persuasion, Perception
+Skills: Animal Handling, Survival, Insight, Persuasion, Perception \
 Combat Proficiencies: All Armor, All Weapons \
 Saving Throws: Wisdom, Charisma \
 Languages: Common, Celestial
@@ -30,9 +30,9 @@ War Priest: You can attack as a bonus action Wis times per day. \
 Channel Divinity: Guided Strike
 
 ### Spells (Prepared: Cleric Level + Wis)
-Cantrips: Message, Guidance, Thaumaturgy, Toll the Dead
-1st: Bless, Healing Word, Inflict Wounds + (Divine Favor, Shield of Faith)
-2nd: Borrowed Knowledge*, Hold Person + (Magic Weapon, Spiritual Weapon)
+Cantrips: Message, Guidance, Thaumaturgy, Toll the Dead \
+1st: Bless, Healing Word, Inflict Wounds + (Divine Favor, Shield of Faith) \
+2nd: Borrowed Knowledge*, Hold Person + (Magic Weapon, Spiritual Weapon) \
 3rd: Speak with Dead, Bestow Curse, Clairvoyance + (Crusader's Mantle, Spirit Guardians)
 
 ### Feats / ASIs: 
