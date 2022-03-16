@@ -27,7 +27,7 @@ Divine Favor: +1d4 to damage
 
 ### War Cleric X: 
 War Priest: You can attack as a bonus action Wis times per day. \ 
-Channel Divinity: Guided Strike
+Channel Divinity: Guided Strike (+10 to hit) 
 
 ### Spells (Prepared: Cleric Level + Wis)
 Cantrips: Message, Guidance, Thaumaturgy, Toll the Dead \
@@ -37,14 +37,14 @@ Cantrips: Message, Guidance, Thaumaturgy, Toll the Dead \
 
 ### Feats / ASIs: 
 Level 1 (Free): Initiate of High Sorcerery (Lunitari, Wisdom, Message, Gift of Alacrity)  \
-Level 1 (Race): Gunner (+1 Dex) 
+Level 1 (Race): Gunner (+1 Dex) \
 Level 4: Adept of the White Rose (Find Steed) \
 Level 8: +2 WIS
 
 ### Backstory
 Background: Folk Hero
 
-Personality Trait: I prefer to introduce myself to people before I kill them. It seems like the polite thing to do. 
-Ideal: "I don't have many friends, but I try to do right by the ones I have" (Neutral)
-Bond: {Ask GM} killed my wife. I want revenge. 
+Personality Trait: I prefer to introduce myself to people before I kill them. It seems like the polite thing to do. \
+Ideal: "I don't have many friends, but I try to do right by the ones I have" (Neutral) \
+Bond: {Ask GM} killed my wife. I want revenge. \
 Flaw: I have a weakness for the vices of the city, especially hard drink.
