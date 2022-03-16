@@ -22,11 +22,11 @@ Languages: Common, Celestial
 ### Attacks
 Gun: +(Dex + Prof) to hit, 1d8+Dex damage \
 Dagger: +(Dex + Prof) to hit, 1d4+Dex damage \
-Net: +(Dex + Prof) to hit, 0 damage \ 
+Net: +(Dex + Prof) to hit, 0 damage \
 Divine Favor: +1d4 to damage
 
 ### War Cleric X: 
-War Priest: You can attack as a bonus action Wis times per day. \ 
+War Priest: You can attack as a bonus action Wis times per day. \
 Channel Divinity: Guided Strike (+10 to hit) 
 
 ### Spells (Prepared: Cleric Level + Wis)
