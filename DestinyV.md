@@ -1,6 +1,6 @@
 ## Destiny Vargas
-Variant Human \ 
-Age: 21, Height: 5'9, Weight: 200lb \
+Variant Human \
+Age: 21, Height: 5'9, Weight: 200lb 
 
 HP: 38 + 7 * CON \
 AC: 17 (Breastplate + Dex + (+1 Shield)) \
