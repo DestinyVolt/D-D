@@ -6,7 +6,7 @@ Lawful Neutral
 HP: 76 \
 AC: 16 \
 Prof: +3 \
-Move: 35ft walk + climb \ 
+Move: 35ft walk + climb \
 STR: 18 \
 DEX: 14 \
 CON: 18 \
