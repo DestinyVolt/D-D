@@ -10,7 +10,7 @@ STR: ~16 (+3) \
 DEX: ~10 (0) \
 CON: ~16 (+3) \
 INT: ~18 (+4) \
-WIS: ~6 (+1) \
+WIS: ~6 (-2) \
 CHA: ~10 (0) 
 
 Skills: Arcana, Investigation, Athletics, History, Deception \
