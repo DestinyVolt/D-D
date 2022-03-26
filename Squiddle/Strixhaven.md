@@ -14,6 +14,6 @@ Strixhaven Stadium Groundskeeper
 ### Report Card
 | Year 2 | Rerolls | d4s | Skills |
 | :----: | :-----: | :-: | ------ | 
-| #1 | ☐☐ | ☐☐ | 
+| #1 | ☑☐ | ☑☐ | Investigation, Arcana 
 | #2 | ☐☐ | ☐☐ |
 | #3 | ☐☐ | ☐☐☐ |
