@@ -28,7 +28,7 @@ Vampiric Bite: +6 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
 Spell Slots: 4, 3, 2 \
-Save DC: 14, +6 to hit \
+Save DC: 16, +8 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
 
@@ -86,7 +86,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
-Currency: 47gp, 0sp, 0cp \
+Currency: 12gp, 0sp, 0cp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
