@@ -3,14 +3,14 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 32 \
-AC: 16 (Studded Leather + Shield + 2) \
-Prof: +2 \
-Speed: 35ft, Init: +6 \
+HP: 39 \
+AC: 18 (Scale Mail + Shield + 2) \
+Prof: +3 \
+Speed: 35ft, Init: +7 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
 CON: 17 (+3) \
-INT: 19 (+4) \
+INT: 20 (+5) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
 
@@ -22,22 +22,22 @@ Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
-Magic Stone: +6 to hit, 1d6+4 bludgeoning \
-Thorn Whip: +6 to hit, 1d6 piercing + Drag 10 feet \
-Vampiric Bite: +5 to hit, 1d4+3 piercing damage
+Magic Stone: +8 to hit, 1d6+5 bludgeoning \
+Thorn Whip: +8 to hit, 1d6 piercing + Drag 10 feet \
+Vampiric Bite: +6 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3 \
+Spell Slots: 4, 3, 2 \
 Save DC: 14, +6 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
 
 ### Chronurgy Wizard 3:
-Cantrips: Mind Sliver, Prestidigitiation, Mending \
+Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
-Unprepared: None \
+Unprepared: Glyph Of Warding \
 1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
-2nd (2 Prepared): Tasha's Mind Whip, Find Vehicle (UA)
+2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Nystul's Magic Aura \
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -67,6 +67,8 @@ While you are missing half or more of your hit points, you have advantage on att
 
 **Spider Climb:** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 
+**Telepathy:** You can speak telepathically to any creature you can see within 60 feet of you. You can cast the Detect Thoughts spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
+
 #### Background Feature: Faceless
 Upon donning a disguise and behaving as your persona, you are unidentifiable as your true self. By removing your disguise and revealing your true face, you are no longer identifiable as your persona. This allows you to change appearances between your two personalities as often as you wish, using one to hide the other or serve as convenient camouflage. However, should someone realize the connection between your persona and your true self, your deception might lose its effectiveness. To don your persona, you must cast a ritual spell, which hides your Illithid form for 24 hours. 
 
@@ -95,8 +97,7 @@ Bag of Gold to return to my dad
 
 #### Future Levels:
 **Wizard 4:** \
-Immovable Object, Nystul's Magic Aura \
-Consume Brain (Booming Blade but Psychic) \
+
 Telepathic (+1 INT) 
 
 **Wizard 5:** \
@@ -108,6 +109,6 @@ Temporal Freeze Ability \
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
-2nd: Continual Flame, Find Vehicle \
-3rd: Leomund's Tiny Hut, Glyph of Warding, Counterspell, Phantom Steed
+2nd: Continual Flame \
+3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed
 \*Reminder: I can technically get these by copying them from the Artificer Spell list
