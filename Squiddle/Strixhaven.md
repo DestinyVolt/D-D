@@ -1,11 +1,11 @@
 # STRIXHAVEN MEMORIES
 
-| Name                    | Points | Relationship | Insperation | Boon / Bane | 
+| Name                    | Points | Relationship | Inspiration | Boon / Bane | 
 | ----------------------- | ------ | ------------ |:---:|:---:|
 | Bhedum Rampart          |   1    |    Friend    |  ☐  | ??? |
 | Aurora Luna Wynterstarr |   1    |    Friend    |  ☐  | ??? |
-| Lorehold Mascot         |   1    |    Rival     |  ☐  | ??? | 
-| -                       |   -    |   -          |  ☐  |  -  |
+| Lorehold Mascot         |   1    |    Rival     |  ☐  | Screws me over in Mascot Stacking |
+| Grayson Wildemere       |   1    |    Riva      |  ☐  | ??? |
 
 ### Extracurriculars & Jobs
 Dragonchess Club (Investigation, Deception) \
