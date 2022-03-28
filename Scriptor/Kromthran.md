@@ -1,6 +1,6 @@
 Kromthran of the Deuragar \
 He / Him, We / Us \
-Age: 60 \
+Age: 180 \
 Lawful Neutral
 
 HP: 76 \
