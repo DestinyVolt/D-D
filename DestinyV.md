@@ -37,7 +37,7 @@ Protector: The cannon emits a burst of positive energy that grants itself and ea
 ### Homunculus
 HP: 8 \
 AC: 13 \
-Speed: 30ft (Flying) \ 
+Speed: 30ft (Flying) \
 Force Strike: Ranged Weapon Attack: +6, range 30 ft, 1d4 + 2 force damage. \
 Channel Magic: The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
 
