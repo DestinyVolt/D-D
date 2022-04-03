@@ -32,7 +32,7 @@ Save DC: 16, +8 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
 
-### Chronurgy Wizard 3:
+### Chronurgy Wizard 4:
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 Unprepared: Glyph Of Warding \
@@ -96,10 +96,6 @@ Tool Kit (contains Thieves' and Tinker's Tools, can be used as a spellcasting fo
 Bag of Gold to return to my dad
 
 #### Future Levels:
-**Wizard 4:** \
-
-Telepathic (+1 INT) 
-
 **Wizard 5:** \
 Slow, Haste
 
