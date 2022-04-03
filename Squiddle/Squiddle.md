@@ -37,7 +37,7 @@ Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 Unprepared: Glyph Of Warding \
 1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
-2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Nystul's Magic Aura \
+2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp\
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -86,7 +86,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
-Currency: 12gp, 0sp, 0cp \
+Currency: 0gp, 0sp, 0cp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
