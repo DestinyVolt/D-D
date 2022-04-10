@@ -4,11 +4,12 @@
 | ----------------------- | ------ | ------------ |:---:|:---:|
 | Bhedum Rampart          |   1    |    Friend    |  ☐  | ??? |
 | Aurora Luna Wynterstarr |   1    |    Friend    |  ☐  | ??? |
+| Greta Gorunn            |   1    |    Friend    |  ☐  | ???
 | Lorehold Mascot         |   1    |    Rival     |  ☐  | Screws me over in Mascot Stacking |
 | Grayson Wildemere       |   1    |    Riva      |  ☐  | ??? |
 
 ### Extracurriculars & Jobs
-Dragonchess Club (Investigation, Deception) \
+Self Defense Club (Arcana, Acrobatics) \
 Strixhaven Stadium Groundskeeper
 
 ### Report Card
