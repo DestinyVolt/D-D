@@ -106,7 +106,10 @@ Pulse Wave, Tiny Servant \
 Temporal Freeze Ability \
 
 **Wizard 7:**
-Fabricate, Dispel Magic \
+Polymorph, Dispel Magic \
+
+**Wizard 8**
+Fabricate, ???
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
