@@ -67,7 +67,7 @@ While you are missing half or more of your hit points, you have advantage on att
 
 **Spider Climb:** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 
-**Telepathy:** You can speak telepathically to any creature you can see within 60 feet of you. You can cast the Detect Thoughts spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
+**Telepathy:** You can speak telepathically to any creature you can see within 60 feet of you. You can cast the Detect Thoughts spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is Intelligence. If you have spell slots of 2nd level or higher, you can cast this spell with them.
 
 #### Background Feature: Faceless
 Upon donning a disguise and behaving as your persona, you are unidentifiable as your true self. By removing your disguise and revealing your true face, you are no longer identifiable as your persona. This allows you to change appearances between your two personalities as often as you wish, using one to hide the other or serve as convenient camouflage. However, should someone realize the connection between your persona and your true self, your deception might lose its effectiveness. To don your persona, you must cast a ritual spell, which hides your Illithid form for 24 hours. 
@@ -91,20 +91,25 @@ Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
 Waterskin, 50ft of Rope, Tinderbox, 10 Pitons \
-Tool Kit (contains Thieves' and Tinker's Tools, can be used as a spellcasting focus): \
+Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
-Bag of Gold to return to my dad
+Bag of Gold to return to my dad \
+[Cloak of Displacement](https://roll20.net/compendium/dnd5e/Cloak%20of%20Displacement#content)
 
 #### Future Levels:
 **Wizard 5:** \
-Slow, Haste
+Slow, Haste \
++1 3rd level slot, +1 Spell Prep'd
 
 **Wizard 6:**
 Pulse Wave, Tiny Servant \
 Temporal Freeze Ability \
 
+**Wizard 7:**
+Fabricate, Dispel Magic \
+
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
-2nd: Continual Flame \
+2nd: Continual Flame, Levitate \
 3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed
 \*Reminder: I can technically get these by copying them from the Artificer Spell list
