@@ -101,15 +101,19 @@ Bag of Gold to return to my dad \
 Slow, Haste \
 +1 3rd level slot, +1 Spell Prep'd
 
-**Wizard 6:**
+**Wizard 6:** \
 Pulse Wave, Tiny Servant \
-Temporal Freeze Ability \
+Temporal Freeze Ability 
 
-**Wizard 7:**
-Levitate, Dispel Magic \
+**Wizard 7:** \
+Fabricate, Dispel Magic 
 
-**Wizard 8**
-Fabricate, Summon Construct
+**Wizard 8:** \
+ASI: Eldritch Adept (Ascendant Step) (Ask DM) \
+???, Summon Construct
+
+**Wizard 9:** \
+Telekinesis, Temporal Shunt
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
