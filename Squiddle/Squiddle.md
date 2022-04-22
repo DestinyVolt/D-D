@@ -103,17 +103,21 @@ Slow, Haste \
 
 **Wizard 6:** \
 Pulse Wave, Tiny Servant \
-Temporal Freeze Ability 
+Temporal Freeze Ability \
++1 4th level slot, +1 Spell Prep'd
 
 **Wizard 7:** \
-Fabricate, Dispel Magic 
+Fabricate, Dispel Magic \
++1 4th level slot, +1 Spell Prep'd
 
 **Wizard 8:** \
-ASI: Eldritch Adept (Ascendant Step) (Ask DM) \
-???, Summon Construct
+ASI: Resilient (+1 CON, Wis Save Prof) \
+???, Summon Construct \
++1 4th level slot, +1 5th level slot, +1 Spell Prep'd
 
 **Wizard 9:** \
-Telekinesis, Temporal Shunt
+Telekinesis, Temporal Shunt \
++1 5th level slot, +1 Spell Prep'd
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
