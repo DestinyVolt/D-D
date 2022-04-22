@@ -114,7 +114,7 @@ Fabricate, Dispel Magic \
 **Wizard 8:** \
 ASI: Resilient (+1 CON, Wis Save Prof) \
 ???, Summon Construct \
-+1 4th level slot, +1 5th level slot, +1 Spell Prep'd
++1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
 
 **Wizard 9:** \
 Telekinesis, Temporal Shunt \
