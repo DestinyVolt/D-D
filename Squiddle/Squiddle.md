@@ -121,7 +121,7 @@ Telekinesis, Temporal Shunt \
 +1 5th level slot, +1 Spell Prep'd
 
 **Wizard 10:**
-Arcane Abeyance \ 
+Arcane Abeyance \
 Rary's Telepathic Bond, ???, Cantrip \
 +1 5th level slot, +1 Spell Prep'd
 
@@ -129,5 +129,6 @@ Rary's Telepathic Bond, ???, Cantrip \
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
 2nd: Continual Flame, Levitate \
 3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed \
-\*Reminder: I can technically get these by copying them from the Artificer Spell list
-5th: Teleportation Circle
+5th: Teleportation Circle \
+*Reminder: I can technically get these by copying them from the Artificer Spell list 
+
