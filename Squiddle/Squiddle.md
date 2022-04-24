@@ -112,7 +112,7 @@ Fabricate, Dispel Magic \
 +1 4th level slot, +1 Spell Prep'd
 
 **Wizard 8:** \
-ASI: Resilient (+1 CON, Wis Save Prof) \
+ASI: Squire of Solamnia (UA) \
 ???, Summon Construct \
 +1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
 
@@ -123,5 +123,5 @@ Telekinesis, Temporal Shunt \
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
 2nd: Continual Flame, Levitate \
-3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed
+3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed \
 \*Reminder: I can technically get these by copying them from the Artificer Spell list
