@@ -17,4 +17,4 @@ Strixhaven Stadium Groundskeeper
 | :----: | :-----: | :-: | ------ | 
 | #1 | ☑☐ | ☐☐ | Investigation, Arcana 
 | #2 | ☑☐ | ☑☑ | Investigation, Persuasion
-| #3 | ☐☐ | ☐☐☐ |
+| #3 | ☑☐ | ☐☐☐ |
