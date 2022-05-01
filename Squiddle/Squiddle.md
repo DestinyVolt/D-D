@@ -95,7 +95,8 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Bag of Gold to return to my dad \
 [Cloak of Displacement](https://roll20.net/compendium/dnd5e/Cloak%20of%20Displacement#content) \
-Old Recording of a Mathemagics Lecture 
+Old Recording of a Mathemagics Lecture \
+The Fiend Encyclopedia 
 
 #### Future Levels:
 **Wizard 5:** \
