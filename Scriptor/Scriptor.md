@@ -46,6 +46,6 @@ Breakthrough: Bless, Vortex Warp \
 Scrolls: Gift of Gab, Animate Dead, Erupting Earth
 
 #### Equipment
-~~Bestow Curse ~~\
-~~Cause Fear ~~\
+~~Bestow Curse~~\
+~~Cause Fear~~\
 ~~2 unknown 9th level spell scroll~~
