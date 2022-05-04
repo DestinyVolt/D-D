@@ -13,6 +13,14 @@ INT: 10 \
 WIS: 17 + 2 \
 CHA: 9
 
+Skills: Stealth, Perception, Athletics, Survival, Insight \
+Tools: Herbalism Kit \
+Armor: Light armor, Medium armor, Shields \
+Saving Throws: Strength, Dexterity \
+Languages: Common, Primordial, +1, +2 
+
+Attacks
+
 ### Attacks
 Ice Spear*: +7 to hit, 1d8+4 piercing \
 Ice Spear End: +7 to hit, 1d4+4 bludgeoning \
@@ -36,6 +44,10 @@ Once on each of your turns, immediately after you hit a creature with an attack 
 - When someone enters your reach, they trigger an opportunity attack from you. 
 
 #### Elemental (Aberrant) Mark
+
+#### Ice Genasi
+Ignore difficult terrain when using walking speed. \
+Darkvision (60ft) 
 
 ### Spellcasting
 Spell Slots: 4, 2 \
