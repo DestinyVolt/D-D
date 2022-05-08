@@ -51,7 +51,6 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 
 **Cantrip Formulas (Optional):** 
 At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
-Reminder: Use this to switch between Prestidigitation, Mending, and Mold Earth, depending on how recently you've eaten and whether you're on the train.
 
 ### Racial Abilities
 **Illithid Nature:**
