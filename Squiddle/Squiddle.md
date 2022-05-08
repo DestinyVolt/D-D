@@ -32,12 +32,12 @@ Save DC: 16, +8 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
 
-### Chronurgy Wizard 4:
+### Chronurgy Wizard 5:
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 Unprepared: Glyph Of Warding \
 1st (4 Prepared): Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
-2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp
+2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp \
 3rd (2 Prepared): Slow, Haste
 
 **Arcane Recovery:** \
