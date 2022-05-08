@@ -34,7 +34,7 @@ Cantrips: Magic Stone, Thorn Whip \
 
 ### Chronurgy Wizard 5:
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared: Glyph Of Warding \
 1st (4 Prepared): Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
 2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp \
