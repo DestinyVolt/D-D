@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 39 \
+HP: 48 \
 AC: 18 (Scale Mail + Shield + 2) \
 Prof: +3 \
 Speed: 35ft, Init: +7 \
@@ -27,7 +27,7 @@ Thorn Whip: +8 to hit, 1d6 piercing + Drag 10 feet \
 Vampiric Bite: +6 to hit, 1d4+3 piercing damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 2 \
+Spell Slots: 4, 3, 3 \
 Save DC: 16, +8 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
@@ -36,8 +36,9 @@ Cantrips: Magic Stone, Thorn Whip \
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk \
 Unprepared: Glyph Of Warding \
-1st (5 Prepared): Detect Magic, Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
+1st (4 Prepared): Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
 2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp
+3rd (2 Prepared): Slow, Haste
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -99,10 +100,6 @@ Old Recording of a Mathemagics Lecture \
 The Fiend Encyclopedia 
 
 #### Future Levels:
-**Wizard 5:** \
-Slow, Haste \
-+1 3rd level slot, +1 Spell Prep'd
-
 **Wizard 6:** \
 Pulse Wave, Tiny Servant \
 Temporal Freeze Ability \
