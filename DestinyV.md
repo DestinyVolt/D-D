@@ -6,10 +6,10 @@ HP: 24 \
 AC: 16 (Scale Mail + Shield) \
 Prof: +2 \
 Speed: 30ft\
-STR: 16 + 1 + 1 \
+STR: 18 \
 DEX: 10 \
 CON: 14 \
-INT: 17 + 1 \
+INT: 18 \
 WIS: 6 \
 CHA: 11
 
@@ -51,6 +51,9 @@ Active: [Homunculus](http://dnd5e.wikidot.com/artificer:infusions), Armor of Mag
 Guild Spells: Hellish Rebuke, Dissonant Whispers \
 Skills: Deception, History
 
+#### Level 4
+ASI: Warcaster \
++1 HP to Homunculus
 
 ### Equipment
 Shield, Scale Male, [Hacking Tools](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf) (laptop), Thieves' Tools, Quarterstaff, Light Hammer
