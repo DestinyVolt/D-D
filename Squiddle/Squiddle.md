@@ -110,7 +110,7 @@ Fabricate, Dispel Magic \
 
 **Wizard 8:** \
 ASI: Squire of Solamnia (UA) \
-Levitate, Summon Construct \
+Levitate, ??? \
 +1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
 
 **Wizard 9:** \
