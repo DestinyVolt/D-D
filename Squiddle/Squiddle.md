@@ -96,6 +96,8 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 Bag of Gold to return to my dad \
 [Cloak of Displacement](https://roll20.net/compendium/dnd5e/Cloak%20of%20Displacement#content) \
 Old Recording of a Mathemagics Lecture \
+The Rock \
+Bag of Ball Bearings \
 The Fiend Encyclopedia 
 
 #### Future Levels:
