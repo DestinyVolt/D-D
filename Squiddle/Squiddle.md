@@ -23,8 +23,8 @@ Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
 Magic Stone: +8 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +8 to hit, 1d6 piercing + Drag 10 feet \
-Vampiric Bite: +6 to hit, 1d4+3 piercing damage
+Thorn Whip: +8 to hit, 2d6 piercing + Drag 10 feet \
+Vampiric Bite: +6 to hit, 1d4+3 piercing + 1d8 psychic damage
 
 ### Artificer 1: 
 Spell Slots: 4, 3, 3 \
