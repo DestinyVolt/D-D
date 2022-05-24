@@ -1,7 +1,7 @@
 ## Libra
 Bugbear, ♀, 17, Chaotic Neutral
 
-HP: 110 (6d12, 3d10) \
+HP: 123 (7d12, 3d10) \
 AC: 18 \
 Speed: 40ft \
 Init: +6 (Adv) \
@@ -34,13 +34,14 @@ Fighting Style: Two Weapon Fighting \
 Spell Slots: 3, DC 14 \
 Spells: Disguise Self, Ensnaring Strike, Hunter's Mark, Snare, Speak with Animals* \
 Skill Expert (Stealth) \
-Danger Sense (Adv on Dex Saves)
+Danger Sense (Adv on Dex Saves) \
+Instinctive Pounce: You can move up to half your speed when you begin to rage. 
 
 ### Inventory
 5x Healing Potion \
 Ring of Jumping \
-70pp, 705gp, 6000sp, 700 cp \
-Experience: 68300
+170pp, 300gp, 115sp, 50 cp \
+Experience: 68,300 (Next Level: 85,000) 
 
 #### Magic Item Purchase Limit: 
 Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
