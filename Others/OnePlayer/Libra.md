@@ -39,7 +39,7 @@ Instinctive Pounce: You can move up to half your speed when you begin to rage.
 
 ### Inventory
 5x Healing Potion \
-Ring of Jumping \
+Ring of Jumping (Purchased) \
 170pp, 300gp, 115sp, 50 cp \
 Experience: 68,300 (Next Level: 85,000) 
 
