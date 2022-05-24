@@ -25,8 +25,8 @@ Saves: Strength, Constitution
 
 Chains: +9 to hit, 15ft, 1d6 + 5 bludgeoning \
 Claws: +9 to hit, 10ft, 1d6 + 7 bludgeoning \
-Dread Ambush: +1 Attack, +1d8 force damage
-Reckless Attack: Adventage for Advantage
+Dread Ambush: +1 Attack, +1d8 force damage \
+Reckless Attack: Adventage for Advantage \
 Surprise Attack: +2d6 per attack if you win initiative
 
 Rage: 4x, +2 damage \
