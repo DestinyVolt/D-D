@@ -49,6 +49,10 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 1x Permenant Rare \
 4x Consumable Uncommon
 
-### Completed Adventures:
-Abbey of the Black Prince (Meant for 4x Level 5, was Level 9) \
-Suggested next ones: Another level 5, and maybe a level 3, simply to grind gold and magic items
+### Adventures:
+
+| Adventure Name          | My Level | Intended Level | Completed |
+| ------------------------- | ------ | ------------ |:---:|
+| Abbey of the Black Prince |  9th   | 4x 5th       | ☑ |
+| The Horrors of Hill House | 10th   | 4x 5th       | ☐ |
+| The Forgotten Hold      |  ???   | 4x 5rd       | ☐ |
