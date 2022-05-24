@@ -32,7 +32,7 @@ Surprise Attack: +2d6 per attack if you win initiative
 Rage: 4x, +2 damage \
 Fighting Style: Two Weapon Fighting \
 Spell Slots: 3, DC 14 \
-Spells: Disguise Self, Ensnaring Strike, Absorb Elements, Snare, Speak with Animals* \
+Spells: Disguise Self, Ensnaring Strike, Cure Wounds, Snare, Speak with Animals* \
 Skill Expert (Stealth) \
 Danger Sense (Adv on Dex Saves) \
 Instinctive Pounce: You can move up to half your speed when you begin to rage. 
