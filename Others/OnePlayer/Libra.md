@@ -4,7 +4,7 @@ Bugbear, ♀, 17, Chaotic Neutral
 HP: 110 (6d12, 3d10) \
 AC: 18 \
 Speed: 40ft \
-Init: +6 \
+Init: +6 (Adv) \
 Prof: +4 \
 STR: 18 + 2 \
 DEX: 17 + 1 \
@@ -17,11 +17,11 @@ Height: 8ft \
 Weight: 300lb
 
 #### Proficiencies
-Skills: Intimidation, Perception, Survival, Sleight of Hand, Investigation \
+Skills: Intimidation, Perception, Survival, Sleight of Hand, Investigation, Animal Handling \
 Expertise: Stealth, Athletics \
 Saves: Strength, Constitution
 
-### Level 6 Beast Barbarian / Level 3 Gloom Stalker Ranger
+### Level 7 Beast Barbarian / Level 3 Gloom Stalker Ranger
 
 Chains: +9 to hit, 15ft, 1d6 + 5 bludgeoning \
 Claws: +9 to hit, 10ft, 1d6 + 7 bludgeoning \
@@ -37,5 +37,17 @@ Skill Expert (Stealth) \
 Danger Sense (Adv on Dex Saves)
 
 ### Inventory
-1x Healing Potion
-5gp 
+5x Healing Potion \
+Ring of Jumping \
+70pp, 705gp, 6000sp, 700 cp \
+Experience: 68300
+
+#### Magic Item Purchase Limit: 
+Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
+1x Permenant Uncommon \
+1x Permenant Rare \
+4x Consumable Uncommon
+
+### Completed Adventures:
+Abbey of the Black Prince (Meant for 4x Level 5, was Level 9) \
+Suggested next ones: Another level 5, and maybe a level 3, simply to grind gold and magic items
