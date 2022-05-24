@@ -6,9 +6,9 @@ AC: 18 \
 Speed: 40ft \
 Init: +6 (Adv) \
 Prof: +4 \
-STR: 18 + 2 \
-DEX: 17 + 1 \
-CON: 17 + 1 \
+STR: 20 \
+DEX: 18 \
+CON: 18 \
 INT: 10 \
 WIS: 14 \
 CHA: 7 
