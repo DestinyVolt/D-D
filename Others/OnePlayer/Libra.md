@@ -1,7 +1,7 @@
 ## Libra
 Bugbear, ♀, 17, Chaotic Neutral
 
-HP: 107 \
+HP: 110 (6d12, 3d10) \
 AC: 18 \
 Speed: 40ft \
 Init: +6 \
@@ -35,3 +35,7 @@ Spell Slots: 3, DC 14 \
 Spells: Disguise Self, Ensnaring Strike, Hunter's Mark, Snare, Speak with Animals* \
 Skill Expert (Stealth) \
 Danger Sense (Adv on Dex Saves)
+
+### Inventory
+1x Healing Potion
+5gp 
