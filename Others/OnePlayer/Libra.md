@@ -1,7 +1,9 @@
 ## Libra
+![](https://64.media.tumblr.com/4e4cce80bdc8ba0e10ebd895228fe21f/tumblr_p628a5eK9Z1wanp9fo3_400.png)
+
 Bugbear, ♀, 17, Chaotic Neutral
 
-HP: 123 (7d12, 3d10) \
+HP: 133 (7d12, 4d10) \
 AC: 19 \
 Speed: 40ft \
 Init: +6 (Adv) \
@@ -20,11 +22,13 @@ Weight: 300lb
 Skills: Intimidation, Perception, Survival, Sleight of Hand, Investigation (Adv), Animal Handling \
 Expertise: Stealth, Athletics (Adv) \
 Saves: Strength, Constitution, +1 to All
+Senses: 90ft Darkvision, 10ft Blindsight
 
-### Level 7 Beast Barbarian / Level 3 Gloom Stalker Ranger
+### Level 7 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 1 Fighter
 
-Chains: +9 to hit, 15ft, 1d6 + 5 bludgeoning \
-Claws: +9 to hit, 10ft, 1d6 + 7 bludgeoning \
+Left Chain:  +9 to hit, 15ft, 1d6 + 5(7) bludgeoning \
+Right Chain: +9 to hit, 15ft, 1d6 + 5(7) bludgeoning \
+Claws: +9 to hit, 10ft, 1d6 + 8 bludgeoning \
 Dread Ambush: +1 Attack, +1d8 force damage \
 Reckless Attack: Adventage for Advantage \
 Surprise Attack: +2d6 per attack if you win initiative
@@ -35,34 +39,50 @@ Spell Slots: 3, DC 14 \
 Spells: Disguise Self, Ensnaring Strike, Cure Wounds, Snare, Speak with Animals* \
 Skill Expert (Stealth) \
 Danger Sense (Adv on Dex Saves) \
-Instinctive Pounce: You can move up to half your speed when you begin to rage. 
+Instinctive Pounce: You can move up to half your speed when you begin to rage. \
+Second Wind: Bonus Action for 1d10+1 Healing
 
 ### Inventory
-5x Healing Potion \
-1x Unfinished Designs (Trade for chain infusion) \
-✯ Ring of Jumping (Purchased) \
+✯ Insignia of the Claws (Purchased) \
 ✯ Cloak of Protection \
+✯ Wand of Binding (7 Charges, 5 for Monster, 2 for person, 1 for advantage vs restrained/paralyzed) \
+Robe of Useful Items (Iron Door, 2x Riding Horse, 1x 2 Mastiffs, Window) \
+Periapt of Proof against Poison (Immunity to Poison!?) \
 Eyes of Minute Seeing \
 Bag of Holding \
-5x Javalins
+Frost Brand (Not Equiped) \
+5x Healing Potion \
+5x Javalins \
+4x Permenant Torches \
+2x Potion of Growth
 
-170pp, 2625gp, 543sp, 395 cp \
-Experience: 74,650 (Next Level: 85,000) 
+60pp, 3315gp, 543sp, 95 cp \
+Experience: 88550 (Next Level: 100,000) 
 
 #### To Sell: 
-1200gp in gems (Sell at full price to jeweler) \
+2x Arcane Designs (Trade for chain infusion) \
+3200gp in gems (Sell at full price to jeweler / in a Major City) \
 4x 1st level Spell Scroll (Can sell for 60gp to a Wizard, 30gp to other arcane casters) \
-2x 1st level Spell Scroll (Can sell for 60gp to a Church, 30gp to divine casters) 
+2x 1st level Spell Scroll (Can sell for 60gp to a Church, 30gp to divine casters) \
+3x 2nd level Spell Scroll (Can sell for 120gp to a Wizard, 60gp to other arcane casters) \
+
+#### To Buy:
+Greater Healing Potions? (?????, Uncommon / Rare) \
+Belt of the Storm Giant (80000, Legendary) \
+Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
 
 #### Magic Item Purchase Limit: 
 Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
-1x Permenant Uncommon \
+2x Permenant Uncommon (1 used) \
 1x Permenant Rare \
-4x Consumable Uncommon (Purchase Growth Potions?)
+1x Permenant Very Rare (1 used) \
+2x Consumable Uncommon \
+1x Consumable Rare
 
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed |
 | ------------------------- | ------ | ------------ |:---:|
 | Abbey of the Black Prince |  9th   | 4x 5th       | ☑ |
 | The Horrors of Hill House | 10th   | 4x 5th       | ☑ |
-| The Forgotten Hold        | 10th   | 4x 5th       | ☐ |
+| The Forgotten Hold        | 10th   | 4x 5th       | ☑ |
+| The Mines of Khazakahn    | 11th   | 4x 7th       | ☐ |
