@@ -65,6 +65,8 @@ Elemental Gem (Fire) \
 60pp, 20587gp, 543sp, 95 cp \
 Experience: 104,950 (Next Level: 120,000) 
 
+6xCR3, 12xCR1/2, 
+
 #### To Sell: 
 1x Arcane Designs (Trade for chain infusion) \
 4250gp in gems (Sell at full price to jeweler / in a Major City) \
@@ -93,7 +95,7 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | The Horrors of Hill House | 10th   | 4x 5th         | ☑ | Easy (Some Darkness, avoided Black Puddings) |
 | The Forgotten Hold        | 10th   | 4x 5th         | ☑ | Easy (Wizard was so Squishy) |
 | The Mines of Khazakahn    | 11th   | 4x 7th         | ☑ | Almost Died (Dropped to 2HP, had to run and heal) |
-| Wrath of the Demon Lord   | 12th   | 4x 8th         | ☐ | - |
+| Wrath of the Demon Lord   | 12th   | 4x 8th         | ☐ | Note: In the middle of, just defeated the demon soldiers outside the cathedral |
 | Curse of the Weregiant    | -      | 4x 9th         | ☐ | - |
 | Halls of Havareem         | -      | 4x 9th         | ☐ | - |
 | There Be Dragons          | -      | 4x 10th        | ☐ | - |
