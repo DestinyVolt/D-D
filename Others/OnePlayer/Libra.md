@@ -96,10 +96,10 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed | Challenge |
 | ------------------------- | ------ | -------------- |:---:|-----|
-| Abbey of the Black Prince |  9th   | 4x 5th         | ☑ | Hard (whole dungeon was after me in the end) |
-| The Horrors of Hill House | 10th   | 4x 5th         | ☑ | Easy (Some Darkness, avoided Black Puddings, no equipment lost) |
-| The Forgotten Hold        | 10th   | 4x 5th         | ☑ | Easy (Wizard was so Squishy) |
-| The Mines of Khazakahn    | 11th   | 4x 7th         | ☑ | Deadly (Dropped to 2HP, had to run and heal) |
+| Abbey of the Black Prince |  9th   | 4x 5th         | ☑ | Hard (whole dungeon was after me in the end, had to run, but took out the big bad) |
+| The Horrors of Hill House | 10th   | 4x 5th         | ☑ | Easy (Some Darkness, avoided Black Puddings, so no equipment lost) |
+| The Forgotten Hold        | 10th   | 4x 5th         | ☑ | Easy (Wizard was so Squishy, sneak attacked the Dragon) |
+| The Mines of Khazakahn    | 11th   | 4x 7th         | ☑ | Deadly (Took 2 fights at once, Dropped to 2HP, had to run and heal) |
 | Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard (Basically no damage taken, but if anything got a spell off I was dead) |
 | The Curse of Dusk Hollow  | 13th   | 4x 5th         | ☐ | In Progress: Just entered the Library, cleared every room but 10-12, piss easy so far, only raged once |
 | Curse of the Weregiant    | -      | 4x 9th         | ☐ | - |
