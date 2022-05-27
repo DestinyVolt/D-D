@@ -33,7 +33,7 @@ Tools: Smith's Tools, Chef's Tools
 ### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 2 Fighter
 
 Left Chain (Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
-Right Chain (Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 3d6 to dragons \
+Right Chain (Ild Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
 Claws: +11 to hit, 10ft, 1d6 + 8 bludgeoning \
 Dread Ambush: +1 Attack, +1d8 force damage \
 Reckless Attack: Adventage for Advantage \
@@ -75,14 +75,11 @@ Elemental Gem (Fire) \
 4x Javalins \
 4x Permenant Torches 
 
-30479gp, 543sp, 95 cp \
-Experience: 140,275 (Next Level: 165,000) \
-Killed So Far: 11xCR3 + 1xCR5 + 3xCR1 x 6x
+39029gp, 543sp, 95 cp \
+Experience: 160675 (Next Level: 165,000) 
 
 #### To Sell: 
-9 Werewolf Pelts \
 Cloak of Protection \
-Ring of Cold Resistance \
 0x Arcane Designs (Trade for chain infusion) \
 4250gp in gems (Sell at full price to jeweler / in a Major City) \
 6x 1st level Spell Scroll (Can sell for 60gp to a Wizard, 30gp to other arcane casters) \
@@ -93,7 +90,6 @@ Ring of Cold Resistance \
 
 #### To Buy:
 Potions of Growth \
-Opal of the Ild Rune (5000, Rare) \
 Bracers of Defense (6000, Very Rare) \
 Belt of the Storm Giant (80000, Legendary) \
 Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
@@ -114,8 +110,17 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | The Horrors of Hill House | 10th   | 4x 5th         | ☑ | Easy (Some Darkness, avoided Black Puddings, so no equipment lost) |
 | The Forgotten Hold        | 10th   | 4x 5th         | ☑ | Easy (Wizard was so Squishy, sneak attacked the Dragon) |
 | The Mines of Khazakahn    | 11th   | 4x 7th         | ☑ | Deadly (Took 2 fights at once, Dropped to 2HP, had to run and heal) |
-| Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard (Basically no damage taken, but if anything got a spell off I was dead) |
+| Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard 
+
+
+
+
+
+
+
+
+\pl(Basically no damage taken, but if anything got a spell off I was dead) |
 | The Curse of Dusk Hollow  | 13th   | 4x 5th         | ☑ | Very Easy, didn't even use all my rages |
-| Curse of the Weregiant    | 14th   | 4x 9th         | ☐ | In the Middle of: So far, Medium, until I contracted Bear Lycanthropy. Now it's Effortless. |
+| Curse of the Weregiant    | 14th   | 4x 9th         | ☑ | Medium, until I contracted Lycanthropy, then Effortless. |
 | Halls of Havareem         | -      | 4x 9th         | ☐ | - |
 | There Be Dragons          | -      | 4x 10th        | ☐ | - |
