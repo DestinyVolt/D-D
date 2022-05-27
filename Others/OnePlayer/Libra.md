@@ -100,7 +100,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 2x Permenant Rare (1 used) \
 1x Permenant Very Rare (1 used) \
 2x Consumable Uncommon \
-2x Consumable Rare \
 1x Consumable Very Rare 
 
 ### Adventures:
@@ -110,16 +109,7 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | The Horrors of Hill House | 10th   | 4x 5th         | ☑ | Easy (Some Darkness, avoided Black Puddings, so no equipment lost) |
 | The Forgotten Hold        | 10th   | 4x 5th         | ☑ | Easy (Wizard was so Squishy, sneak attacked the Dragon) |
 | The Mines of Khazakahn    | 11th   | 4x 7th         | ☑ | Deadly (Took 2 fights at once, Dropped to 2HP, had to run and heal) |
-| Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard 
-
-
-
-
-
-
-
-
-\pl(Basically no damage taken, but if anything got a spell off I was dead) |
+| Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard (Basically no damage taken, but if anything got a spell off I was dead) |
 | The Curse of Dusk Hollow  | 13th   | 4x 5th         | ☑ | Very Easy, didn't even use all my rages |
 | Curse of the Weregiant    | 14th   | 4x 9th         | ☑ | Medium, until I contracted Lycanthropy, then Effortless. |
 | Halls of Havareem         | -      | 4x 9th         | ☐ | - |
