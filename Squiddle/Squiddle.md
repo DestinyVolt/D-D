@@ -35,10 +35,10 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 5:
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
-Unprepared: Glyph Of Warding \
-1st (4 Prepared): Silvery Barbs, Shield, Gift of Alacrity, Magnify Gravity \
+Unprepared: Glyph Of Warding, Gift of Alacrity \
+1st (3 Prepared): Silvery Barbs, Shield, Magnify Gravity \
 2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp \
-3rd (2 Prepared): Slow, Haste
+3rd (3 Prepared): Slow, Haste, Sending
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
