@@ -87,7 +87,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 
 ### Equipment
 Currency: 10gp, 0sp, 0cp \
-Scroll Components: 150gp \
+Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
