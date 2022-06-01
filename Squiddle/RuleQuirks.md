@@ -21,8 +21,8 @@ And here are all the revival spells, alongside what happens if they are used on 
 - Crown of Madness (2nd level)
 - Hold Person (2nd level)
 - Animate Dead (3rd level)
-- Create Undead (3rd level)
 - Dominate Person (5th level)
+- Create Undead (6th level)
 - Magic Jar (6th level)
 - Simulacrum (7th level)
 
