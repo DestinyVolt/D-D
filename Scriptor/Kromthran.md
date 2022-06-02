@@ -26,7 +26,3 @@ You have advantage on Dexterity Saving throws, Initiative rolls, Strength Checks
 
 #### Dwarven Fortitude
 Can dodge to heal 1d12+4 health. 
-
-#### Aversion to Fire. 
-If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
-
