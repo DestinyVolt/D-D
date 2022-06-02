@@ -2,7 +2,8 @@
 Stoned-cursed Elf \
 She / Her \
 Age: 2152, Entombed for 2122 \
-Chaotic Good
+Chaotic Good \
+Level 8
 
 HP: 123 \
 AC: 14 \
