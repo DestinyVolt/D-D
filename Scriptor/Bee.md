@@ -1,6 +1,6 @@
 ## Bee
 Stoned-cursed Elf \
-She / Her \
+She / Her, but literally will not notice if you use others because she's so used to it \
 Age: 2152, Entombed for 2122 \
 Chaotic Good \
 Level 8
