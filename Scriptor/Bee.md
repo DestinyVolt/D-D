@@ -17,7 +17,7 @@ WIS: 9 \
 CHA: 12
 
 Attacks: 
-- Greataxe: +7 to hit, 1d12+4 Slashing
+- Greataxe: +7 to hit, 1d12+4 Slashing (Can be Thrown)
 - Claws: +7 to hit, 1d6 + 4 Slashing + 1d6 Acid
 - Rage: +2 Damage on all attacks, 4x per long rest
 - Reckless Attack: Advantage for you, Advantage for people targeting you
