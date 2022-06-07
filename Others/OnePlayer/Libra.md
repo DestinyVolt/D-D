@@ -3,7 +3,7 @@
 
 Bugbear (Werebear), ♀, 18, Chaotic Good
 
-HP: 178 (8d12, 5d10) \
+HP: 185 (8d12, 7d10) \
 AC: 20 (+1) \
 Speed: 40ft (+10ft, 30ft Climb) \
 Init: +6 (Adv) \
@@ -30,7 +30,7 @@ Senses: 90ft Darkvision, 10ft Blindsight \
 Languages: Common, Goblin, Dwarvish, Giant \
 Tools: Smith's Tools, Chef's Tools
 
-### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 3 Rune Knight Fighter
+### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 3 Rune Knight Fighter / Paladin 1
 
 Left Chain (+2 Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
 Right Chain (+1 Ild Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
@@ -41,13 +41,13 @@ Surprise Attack: +2d6 per attack if you win initiative \
 Giant's Might: +1d6 to one attack per turn, increase size by 1 stage \
 Fire Rune: +2d6 to one attack, DC 18 Strength Save vs Restrained + 2d6/per turn
 
+Spell Slots: 3, DC 15 \
+Spells: Disguise Self, Ensnaring Strike, Cure Wounds, Snare, Speak with Animals* \
 
 Rage: 4x, +2 damage \
 Fighting Style: Two Weapon Fighting \
 Starting Feat: Dual Wielder \
 Favored Foe: +1d4 damage, conc. \
-Spell Slots: 3, DC 14 \
-Spells: Disguise Self, Ensnaring Strike, Cure Wounds, Snare, Speak with Animals* \
 Skill Expert (Stealth) \
 Danger Sense (Adv on Dex Saves) \
 Instinctive Pounce: You can move up to half your speed when you begin to rage. \
@@ -56,8 +56,9 @@ Action Surge: Once per Rest, you can take an additional action. \
 Giant Might: Prof/Day, as a BA, you become large, your first attack does an extra 1d6 damage, and you have advantage on Strength Checks/Saves. \
 Cloud Rune: Once per Rest, you can use your reaction to force an attack targetting you to target another creature \
 Shapechanger: Can polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into her true form. \
-Keen Hearing and Smell: Advantage on Wisdom (Perception) checks that rely on hearing or smell.
-
+Keen Hearing and Smell: Advantage on Wisdom (Perception) checks that rely on hearing or smell. \
+Divine Sense: You can sense the location of extraplaner entities as an action, 3 times per long rest. \
+Lay on Hands: You have a pool of 5 hit points you can use to heal. You can curse disease for 5 hit points. 
 
 ### Inventory
 ✯ Insignia of the Claws (Purchased) \
@@ -75,8 +76,8 @@ Elemental Gem (Fire) \
 4x Javalins \
 4x Permenant Torches 
 
-43029gp, 543sp, 95 cp \
-Experience: 160675 + 8,400 (Next Level: 165,000) 
+72629gp, 543sp, 95 cp \
+Experience: 169,075 (Next Level: 195,000	) 
 
 #### To Sell: 
 Cloak of Protection \
@@ -87,14 +88,11 @@ Cloak of Protection \
 3x 2nd level Spell Scroll (Can sell for 120gp to a Wizard, 60gp to other arcane casters) \
 1x 2nd level Spell Scroll (Can sell for 120gp to a Church, 60gp to divine casters) \
 1x 18th level Spell Caster's Book (Can sell for 5000gp to a Wizard) 
-+1 wand of the war mage \
-Robe of the Archmagi (Gray) \
-Ring of Spell Storing 
 
 
 #### To Buy:
 Potions of Growth \
-Bracers of Defense (6000, Very Rare) \
+Rod of Absorbsion (50000, Very Rare) \
 Belt of the Storm Giant (80000, Legendary) \
 Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
 
