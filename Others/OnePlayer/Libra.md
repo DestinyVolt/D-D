@@ -115,5 +115,5 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard (Basically no damage taken, but if anything got a spell off I was dead) |
 | The Curse of Dusk Hollow  | 13th   | 4x 5th         | ☑ | Very Easy, didn't even use all my rages |
 | Curse of the Weregiant    | 14th   | 4x 9th         | ☑ | Medium, until I contracted Lycanthropy, then Effortless. |
-| Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Challenge I've had in a while. I hate those traps lol |
-| There Be Dragons          | 15th   | 4x 10th        | ☐ | In progress: On The Road to Icefang Fortress with a promise of 5000gp for a Horn |
+| Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Fight I've had in a while. I hate those traps lol |
+| There Be Dragons          | 15th   | 4x 10th        | ☐ | In progress: Entering Icefang Fortress with a promise of 5000gp for a Horn |
