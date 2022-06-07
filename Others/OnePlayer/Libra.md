@@ -95,6 +95,7 @@ Cloak of Protection \
 Potions of Growth \
 Rod of Absorbsion (50000, Very Rare) \
 Belt of the Storm Giant (80000, Legendary) \
+Ring of Fire Elemental Command (17000, Legendary) \
 Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
 
 #### Magic Item Purchase Limit: 
