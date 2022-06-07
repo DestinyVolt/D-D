@@ -78,7 +78,7 @@ Elemental Gem (Fire) \
 
 72629gp, 543sp, 95 cp \
 Experience: 169,075 (Next Level: 195,000) \
-Kills: 6x CR3 + 2x CR1/2
+Kills: 12x CR3 + 2x CR1/2
 
 #### To Sell: 
 Cloak of Protection \
