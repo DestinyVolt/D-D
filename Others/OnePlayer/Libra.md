@@ -30,7 +30,7 @@ Senses: 90ft Darkvision, 10ft Blindsight \
 Languages: Common, Goblin, Dwarvish, Giant \
 Tools: Smith's Tools, Chef's Tools
 
-### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 2 Fighter
+### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 3 Rune Knight Fighter
 
 Left Chain (+2 Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
 Right Chain (+1 Ild Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
@@ -75,17 +75,21 @@ Elemental Gem (Fire) \
 4x Javalins \
 4x Permenant Torches 
 
-39029gp, 543sp, 95 cp \
-Experience: 160675 (Next Level: 165,000) 
+43029gp, 543sp, 95 cp \
+Experience: 160675 + 8,400 (Next Level: 165,000) 
 
 #### To Sell: 
 Cloak of Protection \
 0x Arcane Designs (Trade for chain infusion) \
-4250gp in gems (Sell at full price to jeweler / in a Major City) \
+4750gp in gems (Sell at full price to jeweler / in a Major City) \
 6x 1st level Spell Scroll (Can sell for 60gp to a Wizard, 30gp to other arcane casters) \
 5x 1st level Spell Scroll (Can sell for 60gp to a Church, 30gp to divine casters) \
 3x 2nd level Spell Scroll (Can sell for 120gp to a Wizard, 60gp to other arcane casters) \
-1x 2nd level Spell Scroll (Can sell for 120gp to a Church, 60gp to divine casters) 
+1x 2nd level Spell Scroll (Can sell for 120gp to a Church, 60gp to divine casters) \
+1x 18th level Spell Caster's Book (Can sell for 5000gp to a Wizard) 
++1 wand of the war mage \
+Robe of the Archmagi (Gray) \
+Ring of Spell Storing 
 
 
 #### To Buy:
@@ -112,5 +116,5 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | Wrath of the Demon Lord   | 12th   | 4x 8th         | ☑ | Hard (Basically no damage taken, but if anything got a spell off I was dead) |
 | The Curse of Dusk Hollow  | 13th   | 4x 5th         | ☑ | Very Easy, didn't even use all my rages |
 | Curse of the Weregiant    | 14th   | 4x 9th         | ☑ | Medium, until I contracted Lycanthropy, then Effortless. |
-| Halls of Havareem         | -      | 4x 9th         | ☐ | - |
-| There Be Dragons          | -      | 4x 10th        | ☐ | - |
+| Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Challenge I've had in a while. I hate those traps lol |
+| There Be Dragons          | 15     | 4x 10th        | ☐ | - |
