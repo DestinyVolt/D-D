@@ -32,8 +32,8 @@ Tools: Smith's Tools, Chef's Tools
 
 ### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 2 Fighter
 
-Left Chain (Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
-Right Chain (Ild Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
+Left Chain (+2 Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
+Right Chain (+1 Ild Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
 Claws: +11 to hit, 10ft, 1d6 + 8 bludgeoning \
 Dread Ambush: +1 Attack, +1d8 force damage \
 Reckless Attack: Adventage for Advantage \
