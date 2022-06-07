@@ -77,7 +77,8 @@ Elemental Gem (Fire) \
 4x Permenant Torches 
 
 72629gp, 543sp, 95 cp \
-Experience: 169,075 (Next Level: 195,000	) 
+Experience: 169,075 (Next Level: 195,000) \
+Kills: 6x CR3 + 2x CR1/2
 
 #### To Sell: 
 Cloak of Protection \
@@ -115,4 +116,4 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | The Curse of Dusk Hollow  | 13th   | 4x 5th         | ☑ | Very Easy, didn't even use all my rages |
 | Curse of the Weregiant    | 14th   | 4x 9th         | ☑ | Medium, until I contracted Lycanthropy, then Effortless. |
 | Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Challenge I've had in a while. I hate those traps lol |
-| There Be Dragons          | 15     | 4x 10th        | ☐ | - |
+| There Be Dragons          | 15th   | 4x 10th        | ☐ | In progress: On The Road to Icefang Fortress with a promise of 5000gp for a Horn |
