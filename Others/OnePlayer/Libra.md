@@ -1,7 +1,7 @@
 ## Libra
 ![](https://64.media.tumblr.com/4e4cce80bdc8ba0e10ebd895228fe21f/tumblr_p628a5eK9Z1wanp9fo3_400.png)
 
-Bugbear (Werebear), ♀, 18, Chaotic Good
+Bugbear (Werebear), ♀, 20, Chaotic Good
 
 HP: 195 (8d12, 8d10) \
 AC: 21 (+1) \
@@ -17,7 +17,7 @@ CHA: 7
 
 Size: Medium (Large) \
 Height: 8ft (10ft) \
-Weight: 300lb
+Weight: 300lb (400lb)
 
 #### Proficiencies
 Skills: Intimidation, Survival, Sleight of Hand (Adv), Investigation (Adv), Animal Handling \
@@ -32,9 +32,9 @@ Tools: Smith's Tools, Chef's Tools
 
 ### Level 8 Beast Barbarian / Level 3 Gloom Stalker Ranger / Level 3 Rune Knight Fighter / Paladin 2 
 
-Left Chain (+2 Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
-Right Chain (+1 Ild Dragonslayer): +11 to hit, 15ft, 1d6 + 6(8) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
-Claws: +11 to hit, 10ft, 1d6 + 8 bludgeoning \
+Left Chain (+2 Adamantine Frostbrand):  +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 cold \
+Right Chain (+2 Silvered Ild Dragonslayer): +12 to hit, 15ft, 1d6 + 7(9) bludgeoning + 1d6 fire + 3d6 slashing to dragons \
+Claws: +11 to hit, 10ft, 1d6 + 8 Slashing \
 Dread Ambush: +1 Attack, +1d8 force damage \
 Reckless Attack: Adventage for Advantage \
 Surprise Attack: +2d6 per attack if you win initiative \
@@ -72,36 +72,32 @@ Periapt of Proof against Poison (Purchased) \
 Periapt of Health \
 Wand of Magic Missiles (5 Charges) \
 Eyes of Minute Seeing \
-Bag of Holding \
+2x Bag of Holding \
 Elemental Gem (Fire) \
 7x Healing Potion \
 2x Superior Healing Potion \
 1x Supreme Healing Potion \
-+2 Silvered Spear \
 4x Javalins \
 4x Permenant Torches 
 
-97655gp, 833sp, 95 cp \
-Experience: 204775 (Next Level: 225,000) \
+95772gp, 833sp, 95 cp \
+Experience: 210,250 (Next Level: 225,000) \
 
 #### To Sell: 
-1x Arcane Designs (Trade for chain infusion) \
+0x Arcane Designs (Trade for chain infusion) \
 9250gp in gems (Sell at full price to jeweler / in a Major City) \
 5000gp in rare books (Sell at full price to library / in a Major City) \
 6x 1st level Spell Scroll (Can sell for 60gp to a Wizard, 30gp to other arcane casters) \
-5x 1st level Spell Scroll (Can sell for 60gp to a Church, 30gp to divine casters) \
 3x 2nd level Spell Scroll (Can sell for 120gp to a Wizard, 60gp to other arcane casters) \
-1x 2nd level Spell Scroll (Can sell for 120gp to a Church, 60gp to divine casters) \
-1x 8th level Spell Scroll (Can sell for ???gp to a Wizard, ??gp to other arcane casters) \
-1x 18th level Spell Caster's Book (Can sell for 5000gp to a Wizard) 
-
+1x 8th level Spell Scroll (Can sell for 5120gp to a Wizard, 2560gp to other arcane casters) \
+1x 18th level Spell Caster's Book (Can sell for 10240gp to a Wizard) 
 
 
 #### To Buy:
 Potions of Growth \
-Rod of Absorbsion (50000, Very Rare) \
-Belt of the Storm Giant (80000, Legendary) \
 Ring of Fire Elemental Command (17000, Legendary) \
+Rod of Absorbsion (50000, Very Rare) \
+Belt of the Storm Giant (100000, Legendary) \
 Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
 
 #### Magic Item Purchase Limit: 
@@ -124,5 +120,16 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | Curse of the Weregiant    | 14th   | 4x 9th         | ☑ | Medium, until I contracted Lycanthropy, then Effortless. |
 | Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Fight I've had in a while. I hate those traps lol |
 | There Be Dragons          | 15th   | 4x 10th        | ☑ | Medium, very fun dragon fight |
-| A Dungeon and a Dragon    | ??th   | 4x 14th        | ☐ | Let's see what happpens when an Unstoppable Force (Me) meets an Immovable object (Tucker's Kobolds) |
-| Fire & Brimstone          | ??th   | 4x 15th        | ☐ | The hardest challenge I have set up. Insanity. I best prepare. |
+| Palace of the Fire Oracle | 16th   | 4x 3rd         | ☑ | Effortless (Took 18 damage total, but I needed to sell stuff to the church and do some forging) |
+| A Dungeon and a Dragon    | 16th   | 4x 15th        | ☐ | Let's see what happpens when an Unstoppable Force (Me) meets an Immovable object (Tucker's Kobolds + An Intelligent Dragon) |
+| Fire & Brimstone          | ??th   | 4x 15th        | ☐ | The hardest challenge I have set up. Prep is Key. |
+
+
+#### Note: Dragon's Lair has the following Loot, IF you manage to kill him before he drops the cave on top of you (rolled for on the DMG loot table)
+Belt of Fire Giants Strength (Dragon is Attuned to this) \
+Staff of Frost \
+Amulet of the planes (Dragon is attuned to this) \
+Staff of Power (Dragon is attuned to this) \
+1250gp worth of Gemstones \
+13000gp worth of Gold \
+1800pp worth of Platinum
