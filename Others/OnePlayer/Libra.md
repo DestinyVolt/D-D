@@ -104,7 +104,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 2x Permenant Uncommon (1 used) \
 2x Permenant Rare (1 used) \
 2x Permenant Very Rare (1 used) \
-2x Consumable Uncommon 
 
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed | Challenge |
