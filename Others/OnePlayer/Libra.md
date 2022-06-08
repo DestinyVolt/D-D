@@ -72,7 +72,8 @@ Periapt of Proof against Poison (Purchased) \
 Periapt of Health \
 Wand of Magic Missiles (5 Charges) \
 Eyes of Minute Seeing \
-2x Bag of Holding \
+Portable Hole (Purchased) \
+Bag of Holding \
 Elemental Gem (Fire) \
 7x Healing Potion \
 2x Superior Healing Potion \
@@ -81,7 +82,7 @@ Elemental Gem (Fire) \
 4x Javalins \
 4x Permenant Torches 
 
-50232gp, 833sp, 95 cp \
+46232gp, 833sp, 95 cp \
 Experience: 210,250 (Next Level: 225,000) \
 
 #### To Sell: 
@@ -99,10 +100,13 @@ Ring of Fire Elemental Command (17000, Legendary) \
 Belt of the Cloud Giant (80000, Legendary) \
 Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
 
+#### Next Level up:
+Fighter or Ranger 4: Mystic Conflux
+
 #### Magic Item Purchase Limit: 
 Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
 2x Permenant Uncommon (1 used) \
-2x Permenant Rare (1 used) \
+2x Permenant Rare (2 used) \
 2x Permenant Very Rare (1 used) \
 
 ### Adventures:
