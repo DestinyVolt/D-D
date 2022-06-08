@@ -66,7 +66,7 @@ Divine Smite: You can expend one spell slot to deal radiant damage to the target
 ### Inventory
 ✯ Insignia of the Claws (Purchased) \
 ✯ +2 Frost Branded Chains (Purchased and Forged) \
-✯ Wand of Binding (7 Charges, 5 for Monster, 2 for person, 1 for advantage vs restrained/paralyzed) \
+✯ Rod of Absorbsion (1 Charge, 41 Charges Left) \
 Robe of Useful Items (2x Riding Horse, 1x 2 Mastiffs, Window) \
 Periapt of Proof against Poison (Purchased) \
 Periapt of Health \
@@ -77,10 +77,11 @@ Elemental Gem (Fire) \
 7x Healing Potion \
 2x Superior Healing Potion \
 1x Supreme Healing Potion \
+2x Potion of Growth \
 4x Javalins \
 4x Permenant Torches 
 
-95772gp, 833sp, 95 cp \
+50232gp, 833sp, 95 cp \
 Experience: 210,250 (Next Level: 225,000) \
 
 #### To Sell: 
@@ -94,19 +95,16 @@ Experience: 210,250 (Next Level: 225,000) \
 
 
 #### To Buy:
-Potions of Growth \
 Ring of Fire Elemental Command (17000, Legendary) \
-Rod of Absorbsion (50000, Very Rare) \
-Belt of the Storm Giant (100000, Legendary) \
+Belt of the Cloud Giant (80000, Legendary) \
 Boon of Greater Attunement (Not really purchasable, but if I do a favor for a very powerful being, an increase in attunement slots would be great). 
 
 #### Magic Item Purchase Limit: 
 Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
 2x Permenant Uncommon (1 used) \
 2x Permenant Rare (1 used) \
-1x Permenant Very Rare (1 used) \
-2x Consumable Uncommon \
-1x Consumable Very Rare 
+2x Permenant Very Rare (1 used) \
+2x Consumable Uncommon 
 
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed | Challenge |
@@ -121,7 +119,7 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Fight I've had in a while. I hate those traps lol |
 | There Be Dragons          | 15th   | 4x 10th        | ☑ | Medium, very fun dragon fight |
 | Palace of the Fire Oracle | 16th   | 4x 3rd         | ☑ | Effortless (Took 18 damage total, but I needed to sell stuff to the church and do some forging) |
-| A Dungeon and a Dragon    | 16th   | 4x 15th        | ☐ | Let's see what happpens when an Unstoppable Force (Me) meets an Immovable object (Tucker's Kobolds + An Intelligent Dragon) |
+| A Dungeon and a Dragon    | 16th   | 4x 15th        | ☐ | Let's see what happpens when an Unstoppable Force (Me) meets an Immovable object (Tucker's Kobolds and an Intelligent Dragon) |
 | Fire & Brimstone          | ??th   | 4x 15th        | ☐ | The hardest challenge I have set up. Prep is Key. |
 
 
