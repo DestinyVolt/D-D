@@ -9,12 +9,12 @@ HP: 123 \
 AC: 14 \
 Prof: +3 \
 Speed: 30ft \
-STR: 18 \
-DEX: 4 \
-CON: 24 \
-INT: 16 \
-WIS: 9 \
-CHA: 12
+STR: 18 (+4) \
+DEX: 4 (-3) \
+CON: 24 (+6) \
+INT: 16 (+3) \
+WIS: 9 (-1) \
+CHA: 12 (+1)
 
 Attacks: 
 - Greataxe: +7 to hit, 1d12 + 6 Slashing damage (Can be Thrown up to 60ft)
