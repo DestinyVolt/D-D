@@ -25,6 +25,10 @@ Reckless Attack: Advantage on all attacks you make and targeting you.
 #### Symbiotic Instincts
 You have advantage on Dexterity Saving throws, Initiative rolls, Strength Checks, and Strength Saving throws.  
 
+#### Symbiotic Movement
+You can take the Dash action as a bonus action on your first turn. \
+Your symbiote can enhance your jumps. Whenver you make a jump (High Jump: 7ft, Long Jump: 18ft) you can make an Athletics check and extend your total jump distance by the total of the check. 
+
 #### Dwarven Fortitude
 You can take the dodge action to heal 1d12+4 health. \
 You have Resistance to Psychic, Bludgeoning, Piercing, and Slashing Damage \
