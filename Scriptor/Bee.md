@@ -1,7 +1,7 @@
 ## Bee
 Stoned-cursed Elf \
-She / Her, but literally will not notice if you use others because she's so used to it \
-Age: 2152, Entombed for 2122 \
+She / Her, but literally will not notice if you use others because she's so used to it from previous lives \
+Age: 2152, Petrified for 2122 \
 Chaotic Good \
 Level 8
 
@@ -17,15 +17,14 @@ WIS: 9 \
 CHA: 12
 
 Attacks: 
-- Greataxe: +7 to hit, 1d12+4 Slashing (Can be Thrown)
-- Claws: +7 to hit, 1d6 + 4 Slashing + 1d6 Acid
-- Rage: +2 Damage on all attacks, 4x per long rest
-- Reckless Attack: Advantage for you, Advantage for people targeting you
+- Greataxe: +7 to hit, 1d12 + 6 Slashing damage (Can be Thrown up to 60ft)
+- Claws: +7 to hit, 1d6 + 6 Slashing + 1d6 Acid
+- Reckless Attack: Advantage for your attacks, Advantage for people targeting you
 
 Skills: 
-- Proficient: Arcana, Stealth, History, Intimidation, Insight
-- Expertise: Athletics
-- Tools: All
+- Proficient: Arcana (+6), Stealth(+0), History (+6), Intimidation(+4), Insight(+2)
+- Expertise: Athletics (+9)
+- Tools: All (+6)
 - Languages: Old Common, Elvish 
 
 Race: 
@@ -34,6 +33,6 @@ Race:
 - You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to spread your curse to a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained as stone covers both of your bodies until the grapple ends.
-- You temporarily remember sporadic glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check, you can add a d6, prof times / long rest.
-- Because you are an elf, you can cast Druidcraft 
+- You temporarily remember sporadic glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check, you can add a d6, 3 times per long rest.
+- Because you are an elf, you can cast Druidcraft, which can set small fires, and mimic the weather up to 24 hours in the future. 
 
