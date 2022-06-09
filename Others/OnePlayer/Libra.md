@@ -39,7 +39,8 @@ Dread Ambush: +1 Attack, +1d8 force damage \
 Reckless Attack: Adventage for Advantage \
 Surprise Attack: +2d6 per attack if you win initiative \
 Giant's Might: +1d6 to one attack per turn, increase size by 1 stage \
-Fire Rune: +2d6 to one attack, DC 18 Strength Save vs Restrained + 2d6/per turn
+Fire Rune: +2d6 to one attack, DC 18 Strength Save vs Restrained + 2d6/per turn \
+Divine Smite: +1d8 radient + 1d8 radient per spell level
 
 Spell Slots: 3, DC 15 \
 Ranger Spells: Disguise Self, Ensnaring Strike, Cure Wounds, Snare, Speak with Animals* \
