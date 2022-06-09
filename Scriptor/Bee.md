@@ -27,7 +27,7 @@ Skills:
 - Tools: All (+6)
 - Languages: Old Common, Elvish 
 
-Race: 
+Racial Abilities: 
 - You have advantage on saving throws against disease, being poisoned, and death, and you have resistance to poison damage.
 - You don’t need to eat, drink, or breathe.
 - You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
