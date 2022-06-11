@@ -75,7 +75,7 @@ Eyes of Minute Seeing \
 Portable Hole (Purchased) \
 Bag of Holding \
 Elemental Gem (Fire) \
-Boots of Elvenkind \
+Boots of Elvenkind (Purchased) \
 7x Healing Potion \
 2x Superior Healing Potion \
 2x Supreme Healing Potion \
@@ -108,7 +108,7 @@ Barbarian 11: Relentless Rage, +1 Rage
 
 #### Magic Item Purchase Limit: 
 Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
-2x Permenant Uncommon (1 used) \
+2x Permenant Uncommon (2 used) \
 2x Permenant Rare (2 used) \
 2x Permenant Very Rare (1 used) \
 1x Legendary (0 used) 
