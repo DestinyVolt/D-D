@@ -81,10 +81,12 @@ Elemental Gem (Fire) \
 1x Supreme Healing Potion \
 2x Potion of Growth \
 4x Javalins \
-4x Permenant Torches 
+4x Permenant Torches \
+10x Kobold food \
+Babo the Kobold 
 
 46232gp, 833sp, 95 cp \
-Experience: 210,250 (Next Level: 225,000) \
+Experience: 219,700 (Next Level: 225,000) \
 
 #### To Sell: 
 0x Arcane Designs (Trade for chain infusion) \
@@ -123,7 +125,7 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | Halls of Havareem         | 14th   | 4x 9th         | ☑ | Hard, First Genuine Fight I've had in a while. I hate those traps lol |
 | There Be Dragons          | 15th   | 4x 10th        | ☑ | Medium, very fun dragon fight |
 | Palace of the Fire Oracle | 16th   | 4x 3rd         | ☑ | Effortless (Took 18 damage total, but I needed to sell stuff to the church and do some forging) |
-| A Dungeon and a Dragon    | 16th   | 4x 15th        | ☐ | Let's see what happpens when an Unstoppable Force (Me) meets an Immovable object (Tucker's Kobolds and an Intelligent Dragon) |
+| A Dungeon and a Dragon    | 16th   | 4x 15th        | ☐ | Current State: Finished Tuckers Kobolds, I just feel bad, I didn't want to hurt them. (1 baby optained) |
 | Fire & Brimstone          | ??th   | 4x 15th        | ☐ | The hardest challenge I have set up. Prep is Key. |
 
 
@@ -132,6 +134,7 @@ Belt of Fire Giants Strength (Dragon is Attuned to this) \
 Staff of Frost \
 Amulet of the planes (Dragon is attuned to this) \
 Staff of Power (Dragon is attuned to this) \
+Silvered Dragon's Claws (Guess who's using this?) \
 1250gp worth of Gemstones \
 13000gp worth of Gold \
 1800pp worth of Platinum
