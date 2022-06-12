@@ -79,7 +79,7 @@ Boots of Elvenkind (Purchased) \
 7x Healing Potion \
 2x Superior Healing Potion \
 2x Supreme Healing Potion \
-2x Potion of Growth \
+1x Potion of Growth \
 4x Javalins \
 4x Permenant Torches \
 9x Kobold food \
