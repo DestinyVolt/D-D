@@ -1,7 +1,7 @@
 ## Libra
 ![](https://64.media.tumblr.com/4e4cce80bdc8ba0e10ebd895228fe21f/tumblr_p628a5eK9Z1wanp9fo3_400.png)
 
-Bugbear (Werebear), ♀, 20, Chaotic Good
+Bugbear (Werebear), ♀, 21, Chaotic Good
 
 HP: 206 (10d12, 7d10) \
 AC: 20 (+1) \
