@@ -24,10 +24,10 @@ Skills: Intimidation, Survival, Sleight of Hand (Adv), Investigation (Adv), Anim
 Expertise: Perception (Adv), Stealth, Athletics (Adv) \
 Unskilled: Deception (Adv) \
 Saves: Strength, Constitution \
-Immunities: Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered \
-Resistances: Fire; (While Raging) Bludgeoning, Piercing, and Slashing \
+Immunities: Poison; Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered \
+Resistances: (While Raging) Bludgeoning, Piercing, and Slashing \
 Senses: 90ft Darkvision, 10ft Blindsight \
-Languages: Common, Goblin, Dwarvish, Giant \
+Languages: Common, Goblin, Dwarvish, Giant, Draconic \
 Tools (Expertise): Smith's Tools, Chef's Tools
 
 ### Level 10 Beast Barbarian / Level 4 Gloom Stalker Ranger / Level 3 Rune Knight Fighter
@@ -45,6 +45,9 @@ Brutal Critical: +1 Die on a crit
 
 Spell Slots: 3, DC 16 \
 Ranger Spells: Disguise Self, Detect Magic, Cure Wounds, Snare, Speak with Animals* 
+
+Ring Charges: 5, DC 17 \ 
+Ring Spells: Burning Hands (1), Dominate Monster (2), Fireball (2), Wall of Fire (3)
 
 Rage: 4x, +3 damage \
 Fighting Style: Two Weapon Fighting \
@@ -66,7 +69,7 @@ Mystic Conflux (+1 Attunement Slot)
 ✯ Belt of Fire Giant Strength \
 ✯ +2 Frost Branded Chains (Purchased and Forged) \
 ✯ Ioun Stone of Greater Absorption (50 Levels Left) \
-✯ None \
+✯ Ring of Fire Elemental Command (5 Charges) \
 Robe of Useful Items (2x Riding Horse, 1x 2 Mastiffs, Window) \
 Periapt of Proof against Poison (Purchased) \
 Periapt of Health \
@@ -76,31 +79,27 @@ Portable Hole (Purchased) \
 Bag of Holding \
 Elemental Gem (Fire) \
 Boots of Elvenkind (Purchased) \
+Manuel of Bodily Health (100 years to recharge) \
 7x Healing Potion \
 2x Superior Healing Potion \
 2x Supreme Healing Potion \
 1x Potion of Growth \
 4x Javalins \
 4x Permenant Torches \
+Bag of Beans (8 Beans) \
 9x Kobold food \
 Babo the Kobold (✯ Necklace of Adaptation (Purchased) ) 
 
-84402gp, 833sp, 95 cp \
+105602gp, 833sp, 95 cp \
 Experience: 247,200 (Next Level: 265,000) \
+7xCR5 
 
 #### To Sell: 
 0x Arcane Designs (Trade for chain infusion) \
-Amulet of the Planes (holy shit) \
-Staff of Power (Trading with the Archmage) \
-10500gp in gems (Sell at full price to jeweler / in a Major City) \
-5000gp in rare books (Sell at full price to library / in a Major City) \
-6x 1st level Spell Scroll (Can sell for 60gp to a Wizard, 30gp to other arcane casters) \
-4x 2nd level Spell Scroll (Can sell for 120gp to a Wizard, 60gp to other arcane casters) \
-1x 8th level Spell Scroll (Can sell for 5120gp to a Wizard, 2560gp to other arcane casters) \
-1x 18th level Spell Caster's Book (Can sell for 10240gp to a Wizard) 
+10500gp in gems (Sell at full price to jeweler / in a Major City) 
 
 #### To Buy:
-Ring of Fire Elemental Command (17000, Legendary) 
+???
 
 #### Next Level up:
 Fighter 4: Wild Talent (Strength, 1d12 Die) \
@@ -111,7 +110,7 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 2x Permenant Uncommon (2 used) \
 2x Permenant Rare (2 used) \
 2x Permenant Very Rare (1 used) \
-1x Legendary (0 used) 
+1x Legendary (1 used) 
 
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed | Challenge |
@@ -127,5 +126,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | There Be Dragons          | 15th   | 4x 10th        | ☑ | Medium, very fun dragon fight |
 | Palace of the Fire Oracle | 16th   | 4x 3rd         | ☑ | Effortless (Took 18 damage total, but I needed to sell stuff to the church and do some forging) |
 | A Dungeon and a Dragon    | 16th   | 4x 15th        | ☑ | Effort: Medium (1 baby obtained, entire treasure hoard obtained) |
-| Fire & Brimstone          | 17th   | 4x 15th        | ☐ | I'm traveling to the great town of Dennmarsh in order to purchase a Ring of Fire Elemental Command. I'm sure it will go great. |
+| Fire & Brimstone          | 17th   | 4x 15th        | ☐ | First fight would have been really tricky without Frostbrand. Traded with the Archmage. Ring Obtained and Upgraded. Time to find Vajna. |
+| Random Chaos            | ??th   | ????           | ☐ | I have to pull 3 cards from the DoMT and 8 beans from the Bag of beans at once. |
 
