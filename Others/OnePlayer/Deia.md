@@ -79,7 +79,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 #### On Level Up
 Aberrant Dragonmark would be good \
 PAM + Warcaster would be good \
-Conjure Minor Elementals for subjects \
 Misty Step / Flame Sphere 
 
 ### Adventures:
