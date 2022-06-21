@@ -30,7 +30,6 @@ Languages: Common, Giant, Celestial
 
 Shillelagh: +7 to hit, 1d8+5 \
 Booming Blade: +1d8 thunder damage if they move \
-
 Flame Blade: 5 fire damage to adjacent enemy \
 Agonizing Power: +5 Damage from Cantrips \
 Celestial Revelation: +2 radiant/necrotic damage \
@@ -84,8 +83,8 @@ Conjure Minor Elementals (for subjects) \
 Misty Step / Flame Sphere 
 
 ### Adventures:
-| Adventure Name          | My Level | Intended Level | Completed | Challenge |
-| ------------------------- | ------ | -------------- |:---:|-----|
-| ??? |  3rd   | 4x 1st         | ☐ | - |
+| Adventure Name          | My Level | Intended Level | Intended Final Level | Completed | Challenge |
+| ------------------------- | ------ | -------| -------------- |:---:|-----|
+| The Unquiet Dead |  3rd   | 4x 1st | 4x 3rd         | ☐ | - |
 
 
