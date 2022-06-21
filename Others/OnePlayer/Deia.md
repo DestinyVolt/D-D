@@ -1,5 +1,5 @@
 ## Deia
-![deia](https://user-images.githubusercontent.com/57691070/173487757-79d4f3de-00a0-498c-85c3-71d363600461.png)
+![deia](https://user-images.githubusercontent.com/57691070/174911183-2a3b05d8-6423-4caf-b3ac-a2b0a3b90a2c.png)
 
 Aasimar, ♀, 21, Neutral Evil
 
@@ -30,6 +30,7 @@ Languages: Common, Giant, Celestial
 
 Shillelagh: +7 to hit, 1d8+5 \
 Booming Blade: +1d8 thunder damage if they move \
+
 Flame Blade: 5 fire damage to adjacent enemy \
 Agonizing Power: +5 Damage from Cantrips \
 Celestial Revelation: +2 radiant/necrotic damage \
@@ -62,7 +63,7 @@ Giant Soul (+1 HP per level, Enlarge doesn't use concentration if cast on self u
 ✯ None \
 ✯ None \
 ✯ None \
-
+Component Pouch
 
 160gp, 0sp, 0 cp \
 Experience: ? (Next Level: ?) \
