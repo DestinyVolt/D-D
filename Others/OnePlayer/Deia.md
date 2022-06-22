@@ -74,11 +74,16 @@ Kills: 10xCR(1/4) + 1xCR1 + 8xCR(1/8) + 2xCR2
 50gp worth of gems
 
 #### To Buy:
-???
+Clockwork Amulet (500gp) \
+Earth Elemental Essence Shard (6000gp) \
+Periapt of Proof against Poison (5000gp) 
 
 #### Magic Item Purchase Limit: 
 Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-magic-items-and-how-many-should-i-be-handing-out) and [Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) \
-
+1x Permanent Common \
+1x Permanent Uncommon \
+1x Consumable Common \
+1x Consumable Uncommon 
 
 #### On Level Up
 Aberrant Dragonmark could be good \
