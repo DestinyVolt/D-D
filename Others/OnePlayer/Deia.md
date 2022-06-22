@@ -29,6 +29,7 @@ Languages: Common, Giant, Celestial
 ### Gestalt Level 3 (Giant Soul Sorcerer / Pact of the Celestial Tome Warlock) 
 
 Shillelagh: +7 to hit, 1d8+5 \
+Wild Talent: Can reroll a damage roll from a cantrip as a D6 \
 Booming Blade: +1d8 thunder damage if they move \
 Flame Blade: 5 fire damage to adjacent enemy \
 Agonizing Power: +5 Damage from Cantrips \
@@ -64,10 +65,13 @@ Giant Soul (+1 HP per level, Enlarge doesn't use concentration if cast on self u
 ✯ None \
 Component Pouch
 
-160gp, 0sp, 0 cp \
-Experience: ? (Next Level: ?) \
+234gp, 41sp, 0 cp \
+Experience: 1800 (Next Level: 5400) \
+Kills: 10xCR(1/4) + 1xCR1 + 8xCR(1/8) + 2xCR2
 
 #### To Sell: 
++1 Weapon \
+50gp worth of gems
 
 #### To Buy:
 ???
@@ -77,14 +81,14 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 
 
 #### On Level Up
-Aberrant Dragonmark would be good \
+Aberrant Dragonmark could be good \
 PAM + Warcaster would be good \
 Conjure Minor Elementals (for subjects) \
 Misty Step / Flame Sphere 
 
 ### Adventures:
-| Adventure Name          | My Level | Intended Level | Intended Final Level | Completed | Challenge |
-| ------------------------- | ------ | -------| -------------- |:---:|-----|
-| The Unquiet Dead |  3rd   | 4x 1st | 4x 3rd         | ☐ | - |
+| Adventure Name           | My Level | Intended Level | Completed | Notes |
+| ------------------------ | -------- | -------------- | --------- | --------- |
+| The Unquiet Dead         |   3rd    |    4x 1st      | ☐ | Currently at the Abandoned Temple |
 
 
