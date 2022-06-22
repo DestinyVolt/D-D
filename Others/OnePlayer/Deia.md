@@ -10,10 +10,10 @@ Init: +3 \
 Prof: +2 \
 STR: 14 \
 DEX: 16 \
-CON: 17 + 2\
+CON: 19 \
 INT: 13 \
 WIS: 9 \
-CHA: 18 + 1 + 1
+CHA: 20
 
 Size: Medium \
 Height: 6'10" \
