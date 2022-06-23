@@ -4,6 +4,8 @@ Neutral Good / Lawful Neutral
 Noble (Princess) / Retainer (Bodyguard)  
 Warlock / Familiar
 
+Note: Remake these with Chwinga as the insperation. 
+
 ## Shaylah
 Warlock, Pact of the Chain  
 Patron: The Genie (Dao)  
