@@ -92,7 +92,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 #### On Level Up
 Remember, you need 1.5x times the normal amount of EXP to level up \
 PAM + Warcaster could be good \
-Conjure Minor Elementals (subjects) \
 Misty Step / Flame Sphere / Literally any AoE spell
 
 ### Adventures:
