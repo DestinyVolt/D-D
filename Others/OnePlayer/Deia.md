@@ -1,7 +1,8 @@
 ## Deia
 ![deia](https://user-images.githubusercontent.com/57691070/174911183-2a3b05d8-6423-4caf-b3ac-a2b0a3b90a2c.png)
 
-Aasimar, ♀, 21, Neutral Evil
+Aasimar, ♀, 21, Neutral Evil \
+"Deva": Diancastra 
 
 HP: 49 (3d8) \
 AC: 13 (16) \
@@ -46,13 +47,13 @@ Sorcerer Spells: Mage Armor, Shield, Absorb Elements, Hold Person, Shatter \
 Warlock Spells: Armor of Agathys, Cure Wounds, Suggestion, Invisibility, Mirror Image \
 Other Spells (Free 1 / Day): Dissonant Whispers, Hex, Silvery Barbs, Pass without a Trace
 
-Sorcerery Points: 3 \
+Sorcerery Points: 4 \
 Metamagic: Subtle Spell, Twin spell
 
 Starting Feat: Wild Talent (Cha, 1d6) \
 Background Feat: Initiate of High Sorcerery \
 Healing Hands: 2d4 Healing \
-Healing Light: 4d6 Healing \
+Healing Light: 5d6 Healing \
 Invocations: \
 \- Agonizing Power \
 \- Aspect of the Moon \
@@ -72,7 +73,7 @@ Component Pouch
 
 14046gp, 261sp, 0 cp \
 Experience: 5500 (Next Level: 9750) \
-Kills: -
+Kills: (2xCR(1/2)  + 1xCR)/2 + (2x CR(1/4) + 1xCR(1/2)
 
 #### To Sell: 
 -
@@ -98,6 +99,6 @@ Misty Step / Flame Sphere / Literally any AoE spell
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
 | ------------------------ | -------- | -------------- | --------- | --------- |
 | The Unquiet Dead         | 3rd      | 4x 1st         | ☑ | Hard. Dropped into the single digits multiple times, had to use all 1/long rest abilties. |
-| The Road to Swordfall    | 4rd      | 4x 2st         | ☐ | - |
+| The Road to Swordfall    | 4rd      | 4x 2st         | ☐ | The Noble's Daughter [Alisha Dacre](https://i.imgur.com/9ezwZkL.jpg) likes me. Finished Day 2 |
 | Stonehill Blues          | ???      | 4x 3rd         | ☐ | - |
 
