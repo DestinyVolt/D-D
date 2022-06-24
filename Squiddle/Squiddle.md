@@ -50,7 +50,7 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
 
 **Cantrip Formulas (Optional):** 
-At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. \
+At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. 
 
 ### Racial Abilities
 **Illithid Nature:**
@@ -98,8 +98,7 @@ Bag of Gold to return to my dad \
 [Cloak of Displacement](https://roll20.net/compendium/dnd5e/Cloak%20of%20Displacement#content) \
 Old Recording of a Mathemagics Lecture \
 The Rock \
-Bag of Ball Bearings \
-The Fiend Encyclopedia 
+Bag of Ball Bearings 
 
 #### Future Levels:
 **Wizard 6:** \
