@@ -113,7 +113,7 @@ Fabricate, Dispel Magic \
 +1 4th level slot, +1 Spell Prep'd
 
 **Wizard 8:** \
-ASI: Squire of Solamnia (UA) \
+ASI: Heavily Armored (+1 Con) \
 Levitate, ??? \
 +1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
 
