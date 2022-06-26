@@ -109,12 +109,12 @@ Temporal Freeze Ability \
 +1 4th level slot, +1 Spell Prep'd
 
 **Wizard 7:** \
-Fabricate, Dispel Magic \
+Fabricate,  Greater Displacement \
 +1 4th level slot, +1 Spell Prep'd
 
 **Wizard 8:** \
 ASI: Heavily Armored (+1 Con) \
-Levitate, ??? \
+Levitate, Dispel Magic \
 +1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
 
 **Wizard 9:** \
