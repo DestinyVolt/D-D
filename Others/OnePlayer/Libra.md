@@ -92,7 +92,7 @@ Babo the Kobold (✯ Necklace of Adaptation (Purchased) )
 
 105602gp, 833sp, 95 cp \
 Experience: 247,200 (Next Level: 265,000) \
-7xCR5 
+11xCR5 + 1x CR13
 
 #### To Sell: 
 0x Arcane Designs (Trade for chain infusion) \
@@ -126,6 +126,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 | There Be Dragons          | 15th   | 4x 10th        | ☑ | Medium, very fun dragon fight |
 | Palace of the Fire Oracle | 16th   | 4x 3rd         | ☑ | Effortless (Took 18 damage total, but I needed to sell stuff to the church and do some forging) |
 | A Dungeon and a Dragon    | 16th   | 4x 15th        | ☑ | Effort: Medium (1 baby obtained, entire treasure hoard obtained) |
-| Fire & Brimstone          | 17th   | 4x 15th        | ☐ | First fight would have been really tricky without Frostbrand. Traded with the Archmage. Ring Obtained and Upgraded. Time to find Vajna. |
+| Fire & Brimstone          | 17th   | 4x 15th        | ☐ | First fight would have been really tricky without Frostbrand. Traded with the Archmage. Ring Obtained and Upgraded. Found Vajna, killed him and took the thing. Time to go to the Plane of Fire. |
 | Random Chaos            | ??th   | ????           | ☐ | I have to pull 3 cards from the DoMT and 8 beans from the Bag of beans at once. |
 
