@@ -6,7 +6,7 @@ You may not attune to any magic items, and you would find the need to do so insu
 The Soul of the Dragon Queen grants the following properties: 
 - 1 major beneficial property (You can't be Blinded, Deafened, Stunned, or Poisoned)
 - 2 minor detrimental properties (Other creatures cannot take short or long rests while within 300ft of you, Animals within 30ft of you are Hostile towards you )
-- 1 major detrimental property (Creatures of CR 0 and plants that aren't creatures immediately drop to 0HP in your presence )
+- 1 major detrimental property (Giants are always Hostile towards you.)
 
 ### Call Dragons
 While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
