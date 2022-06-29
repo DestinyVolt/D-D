@@ -6,7 +6,7 @@ AC: 17 \
 Speed: 35ft \
 Init: +4 \
 Prof: +2 \
-STR: 5 + 4 \
+STR: 9 \
 DEX: 19 \
 CON: 13 \
 INT: 12 \
@@ -70,5 +70,5 @@ a vial of antivenom
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
 | ------------------------ | -------- | -------------- | --------- | --------- |
 | Dirty Sewer Drake        | 3rd      | 4x 1st         | ☑ | Deadly. Got knocked to 0, but luckily it was kobolds so they didn't kill me. |
-| The Road to Swordfall    | 3rd      | 4x 2st         | ☐ | - |
+| Curse of the Blood Moon  | 3rd      | 4x 2st         | ☐ | This is probably gonna be bad. I gotta be smarter. |
 
