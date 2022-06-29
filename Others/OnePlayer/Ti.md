@@ -3,29 +3,31 @@ Kobold, ♀, Chaotic Evil
 
 HP: 21 \
 AC: 17 \
-Speed: 30ft \
+Speed: 35ft \
 Init: +4 \
 Prof: +2 \
-STR: 5 \
+STR: 5 + 4 \
 DEX: 19 \
 CON: 13 \
 INT: 12 \
 WIS: 16 \
 CHA: 12 
 
-Size: Small \
-Height: 3'6" \
-Weight: 40 
+Size: Medium \
+Height: 5'6" \
+Weight: 170 
 
 #### Proficiencies
 Skills: Athletics, Acrobatics, Persuasion, Intimidation, Investigation, Sleight of Hand \
 Expertise: Stealth, Perception \
 Saves: Dexterity, Wisdom, Intelligence, Charisma \
+Resistances: Fire, Cold, Acid, Poison \
+Immunities: Blinded, Deafened, Stunned, Poisoned \
 Senses: Darkvision (60ft) \
 Languages: Common, Draconic
 
 ### Attacks
-Draconic Claws: +6 to hit, 1d6 + 4 slashing damage \
+Draconic Claws: +7 to hit, 1d6 + 5 slashing damage \
 Sneak Attack: +2d6 damage to claw attack, once per turn \
 Booming Blade: +0d8 thunder damage to claw attack, +1d8 thunder damage if target moves \
 Green Flame Blade: +0d8 fire damage to claw attack, 1 fire damage to adjacent target
@@ -38,12 +40,14 @@ Cantrips: Guidance, Thaumaturgy, Resistance \
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
-Channel Divinity: Maximize Elemental Damage \
+Channel Divinity: Maximize Elemental Damage 
 
 ### Level 3 Arcane Rogue
 +3 to hit, DC 11 \
 Cantrips: Booming Blade, Prestidigitation \
 1st (2): Silvery Barbs, Sleep, Find Familiar
+
+Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. 
 
 #### Draconic Abilities
 Draconic Roar: Prof/Day Advantage \
@@ -53,8 +57,18 @@ Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 El
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Coin: 0gp, 0sp, 0cp \
-Experience: 1350 (Next Level: 4050) \
+Treasure Eaten: 1500gp \
+Coin: 74gp, 37sp, 0cp \
+Experience: 2300 (Next Level: 4050) \
 Kills: -
 
+Consumables: \
+potion of healing \
+a vial of antivenom 
+
+### Adventures:
+| Adventure Name           | My Level | Intended Level | Completed | Notes |
+| ------------------------ | -------- | -------------- | --------- | --------- |
+| Dirty Sewer Drake        | 3rd      | 4x 1st         | ☑ | Deadly. Got knocked to 0, but luckily it was kobolds so they didn't kill me. |
+| The Road to Swordfall    | 3rd      | 4x 2st         | ☐ | - |
 
