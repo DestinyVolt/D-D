@@ -52,9 +52,9 @@ Dark Dragonmark: Green Flame Blade, Shield \
 Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 Elemental damage
 
 #### Inventory
-✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md)
-Coin: 0gp, 0sp, 0cp
-Experience: 1350 (Next Level: 4050)
+✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
+Coin: 0gp, 0sp, 0cp \
+Experience: 1350 (Next Level: 4050) \
 Kills: -
 
 
