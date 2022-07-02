@@ -16,7 +16,7 @@ CHA: 9  (-1)
 
 Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
 School Skills (+1d4): Acrobatics, Arcana \
-Tools: Tinker's Tools, Thieves' Tools, Navigator’s Tools, Vehicles (Land) \
+Tools: Tinker's Tools, Thieves' Tools, Smith's Tools, Navigator’s Tools, Vehicles (Land) \
 Armor: Light armor, Medium armor, Shields \
 Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
