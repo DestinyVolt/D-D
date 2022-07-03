@@ -38,6 +38,7 @@ Note: Her Mother and Father never married, they don't live together, but they're
 
 
 #### The Fiddlelops (Mother's side of the Family)
+Aggy's Mom's side of the family, the Fiddlelops are a seperate gnomish clan who don't have much to do with the railroad. Aggy spend equal time between the two clans as a kid. Feel free to come up with what the Fiddlelops do, just lemme know. \
 Note: Literally every member of this family has a slightly different last name and will correct you if you get it wrong. They all call each other by their variation of their last name. For reference, Aggy's is Squiddlelop.\
 Ellidysa Fiddlelob \
 Grand-pop Fiddleplop \
