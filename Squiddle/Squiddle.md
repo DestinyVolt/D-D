@@ -97,7 +97,7 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 Bag of Gold to return to my dad \
 [Cloak of Displacement](https://roll20.net/compendium/dnd5e/Cloak%20of%20Displacement#content) \
 Old Recording of a Mathemagics Lecture \
-The Rock \
+The Rock (18/90) \
 Bag of Ball Bearings \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
