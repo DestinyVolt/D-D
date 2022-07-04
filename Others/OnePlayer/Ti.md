@@ -1,17 +1,17 @@
 ## Ti 
 Kobold, ♀, Chaotic Evil
 
-HP: 21 \
-AC: 17 \
+HP: 39 \
+AC: 19 \
 Speed: 35ft \
-Init: +4 \
-Prof: +2 \
+Init: +5 \
+Prof: +3 \
 STR: 9 \
-DEX: 19 \
-CON: 13 \
+DEX: 20 \
+CON: 14 \
 INT: 12 \
-WIS: 16 \
-CHA: 12 
+WIS: 18 \
+CHA: 12
 
 Size: Medium \
 Height: 5'6" \
@@ -27,27 +27,29 @@ Senses: Darkvision (60ft) \
 Languages: Common, Draconic
 
 ### Attacks
-Draconic Claws: +7 to hit, 1d6 + 5 slashing damage \
-Sneak Attack: +2d6 damage to claw attack, once per turn \
-Booming Blade: +0d8 thunder damage to claw attack, +1d8 thunder damage if target moves \
-Green Flame Blade: +0d8 fire damage to claw attack, 1 fire damage to adjacent target
+Draconic Claws: +9 to hit, 1d6 + 6 slashing damage \
+Sneak Attack: +3d6 damage to claw attack, once per turn \
+Booming Blade: +1d8 thunder damage to claw attack, +2d8 thunder damage if target moves \
+Green Flame Blade: +1d8 fire damage to claw attack, 1d8+2 fire damage to adjacent target
 
-### Level 3 Zeal Cleric
-+5 to hit, DC 13, 5 Prepared Spells \
-Cantrips: Guidance, Thaumaturgy, Resistance \
-1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic \
-2nd Level Spells (2): Magic Weapon\*, Shatter\*, Hold Person, Spiritual Weapon
+### Level 5 Zeal Cleric
++7 to hit, DC 15, 9 Prepared Spells \
+Cantrips: Guidance, Thaumaturgy, Word of Radiance \
+1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
+2nd Level Spells (3): Magic Weapon\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person
+3rd Level Spells (2): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
 Channel Divinity: Maximize Elemental Damage 
 
-### Level 3 Arcane Rogue
-+3 to hit, DC 11 \
-Cantrips: Booming Blade, Prestidigitation \
-1st (2): Silvery Barbs, Sleep, Find Familiar
+### Level 5 Arcane Rogue
++3 to hit, DC 12 \
+Cantrips: Booming Blade, Prestidigitation, Mage Hand \
+1st (3): Silvery Barbs, Sleep, Find Familiar, ~~Silent Image~~
 
-Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. 
+Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
+Uncanny Dodge: You can use your reaction to halve damage from an attack. 
 
 #### Draconic Abilities
 Draconic Roar: Prof/Day Advantage \
@@ -57,18 +59,22 @@ Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 El
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 1500gp \
-Coin: 74gp, 37sp, 0cp \
-Experience: 2300 (Next Level: 4050) \
+Treasure Eaten: 9565gp \
+Coin: 0gp, 7sp, 0cp \
+Experience: 13250 (Next Level: 14,000) \
 Kills: -
 
 Consumables: \
-potion of healing \
+4x potion of healing \
 a vial of antivenom 
 
 ### Adventures:
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
 | ------------------------ | -------- | -------------- | --------- | --------- |
 | Dirty Sewer Drake        | 3rd      | 4x 1st         | ☑ | Deadly. Got knocked to 0, but luckily it was kobolds so they didn't kill me. |
-| Curse of the Blood Moon  | 3rd      | 4x 2st         | ☐ | This is probably gonna be bad. I gotta be smarter. |
+| Curse of the Blood Moon  | 3rd      | 4x 2st         | ☑ | Got heavily carried by Channel Divinity and the Druid who was helping. |
+| Frozen Temple of the Ice Priest | 4th | 4x 3rd       | ☑ | Managed to get through it, but things got dicey with the final Ice Priest |
+| Forsaken Labyrinth of the Golden Baron | 4th | 4x 3rd | ☑ | Almost got killed by a Basilisk. Jesus. But I'm finally a decent level.  |
+| ??? | ??? | 4x ??? | ☐ | ??? |
+
 
