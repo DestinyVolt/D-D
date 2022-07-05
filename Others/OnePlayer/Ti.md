@@ -34,10 +34,10 @@ Green Flame Blade: +1d8 fire damage to claw attack, 1d8+2 fire damage to adjacen
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. 
 
 ### Level 6 Zeal Cleric
-+7 to hit, DC 15, 9 Prepared Spells \
++7 to hit, DC 15, 10 Prepared Spells \
 Cantrips: Guidance, Thaumaturgy, Word of Radiance \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
-2nd Level Spells (3): Magic Weapon\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person \
+2nd Level Spells (3): Magic Weapon\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
 3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality
 
 Unarmored Defense: AC = 10 + DEX + WIS \
