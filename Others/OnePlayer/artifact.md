@@ -45,6 +45,6 @@ Your Strength increases by 4, and the maximum score for all your abilities score
 #### Ascendant (1,000,000gp)
 You retain the benefits of the Awakened stage, but you now have a +3 bonus to attack and damage rolls made with your claws, and they deal 3d6 slashing damage on a hit. \
 Your size increases to Gargantuan, your reach increase by 5, and your speed increases by 10ft. \
-You gain the benefits of the Mask of the Dragon Queen, and your hit dice become d20s. \ 
+You gain the benefits of the Mask of the Dragon Queen, and your hit dice become d20s. \
 Whenever you make a melee attack, all creatures within 10 feet of the target take the attack as well. \
 Your Strength increases by 4, and the maximum score for all your abilities scores is 30. 
