@@ -1,7 +1,7 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 49 \
+HP: 59 \
 AC: 19 \
 Speed: 40ft \
 Init: +5 \
