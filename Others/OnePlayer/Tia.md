@@ -35,10 +35,10 @@ Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creat
 
 ### Level 7 Zeal Cleric
 +7 to hit, DC 15, 11 Prepared Spells \
-Cantrips: Guidance, Thaumaturgy, Word of Radiance \
+Cantrips: Guidance, Thaumaturgy, Resistance \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
 2nd Level Spells (3): Magic Weapon\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
-3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality
+3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality \
 4th Level Spells (1): Fire Shield\*, Freedom of Movement\*, Death Ward
 
 Unarmored Defense: AC = 10 + DEX + WIS \
