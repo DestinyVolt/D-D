@@ -1,4 +1,4 @@
-## Ti 
+## Tia 
 Kobold, ♀, Chaotic Evil
 
 HP: 49 \
