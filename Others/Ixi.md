@@ -1,4 +1,5 @@
 # Ixi (Ish-ee)
+Tortle (Small), ♀
 
 HP: ?? (Xd8) \
 AC: 17 (+4) \
@@ -7,23 +8,21 @@ DEX: 7 \
 CON: 15 + 1 \
 INT: 12 \
 WIS: 12 \
-CHA: 18 + ? 
-
-
+CHA: 18 + 2
 
 ### Level X College of Spirits Bard
 
 #### Spells: 
-Cantrips: Vicious Mockery (Reflavored for Necrotic), Mending, Guidance (60ft)
-1st: Dissonant Whispers, Cure Wounds, Healing Word, Silvery Barbs, Inflict Wounds \
-2nd: Borrowed Knowledge, Wither & Bloom \
+Cantrips: Vicious Mockery (Reflavored for Necrotic?), Mending, Guidance (60ft)
+1st: Dissonant Whispers, ~~Cure Wounds,~~ Healing Word, Silvery Barbs, Inflict Wounds \
+2nd: Borrowed Knowledge, Wither & Bloom, Aid \
 3rd: Bestow Curse, Fear \
 4th: Death Ward \
 5th: Raise Dead, Skill Empowerment \
 6th: - \
 7th: - \
 8th: - \
-9th: True Polymorph (Reflavor as Summon Undead) \
+9th: - \
 Spirit Session: Animate Dead \
 Magical Secrets: Spirit Guardians, Negative Energy Flood \
 Magical Secrets: Finger of Death, Create Undead \
