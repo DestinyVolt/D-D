@@ -29,7 +29,7 @@ Gabilam is a tinkerer, and a childhood friend of Aggy's. She works in the Tinker
 An old conductor who trained Aggy on how to be one, after she was turned and her old conductor refused to work with her. He calls her Tadpole. He's almost certainly smuggles stuff on the trains, but Aggy is too trusting to notice. 
 
 *Chomsky Frandlebim (Skylamp)* \
-Her Ex-Conductor, basically an Ex-boyfriend. He broke up w/ her after she was transformed. His nickname for her was "Dimples." She gets sad whenever someone calls her that. He calls her Egghead now. Kind of a dick. Runs a train that floats without needing the track. Probably has another engineer now, but Aggy doesn't know who it is.               
+Her Ex-Conductor, basically an Ex-boyfriend. He broke up w/ her after she was transformed. His nickname for her was "Dear." She gets sad whenever someone calls her that. He calls her Egghead now. Kind of a dick. Runs a train that floats without needing the track. Probably has another engineer now, but Aggy doesn't know who it is.               
 
 *Kasfan Locamote (Papa)* \
 Aggy's Father & Head Tinkerer, stereotypical gnomish tinkerer, very excentric, creates all sorts of crazy invetions to help the train line, loves to talk shop w/ Aggy. Easily distracted and not very good with emotions. Nickname for Aggy is Periwinkle. He calls almost everyone in the shop simply by their first name, and they all call him Bigwig.
