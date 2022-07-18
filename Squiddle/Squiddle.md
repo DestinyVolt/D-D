@@ -35,7 +35,7 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 6:
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
-Unprepared: Glyph Of Warding, Gift of Alacrity \
+Unprepared: Glyph Of Warding, Gift of Alacrity, Magnify Gravity, Sending \
 1st (3 Prepared): Silvery Barbs, Shield, Detect Magic \
 2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp \
 3rd (4 Prepared): Slow, Haste, Pulse Wave, Tiny Servant \
@@ -130,8 +130,9 @@ Rary's Telepathic Bond, ???, Cantrip \
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
-2nd: Continual Flame, Levitate \
+2nd: Continual Flame, Levitate, Borrowed Knowledge \
 3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed \
+4th: Banishment \
 5th: Teleportation Circle \
-*Reminder: I can technically get these by copying them from the Artificer Spell list 
+*Reminder: I can technically get these by copying them from the Artificer Spell list, though it's rather expensive.  
 
