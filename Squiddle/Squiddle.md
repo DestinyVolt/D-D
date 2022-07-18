@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 48 \
+HP: 55 \
 AC: 18 (Scale Mail + Shield + 2) \
 Prof: +3 \
 Speed: 35ft, Init: +7 \
@@ -27,18 +27,19 @@ Thorn Whip: +8 to hit, 2d6 piercing + Drag 10 feet \
 Vampiric Bite: +6 to hit, 1d4+3 piercing + 1d8 psychic damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3 \
+Spell Slots: 4, 3, 3, 1 \
 Save DC: 16, +8 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
 
-### Chronurgy Wizard 5:
+### Chronurgy Wizard 6:
 Cantrips: Mind Sliver, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared: Glyph Of Warding, Gift of Alacrity \
-1st (3 Prepared): Silvery Barbs, Shield, Magnify Gravity \
+1st (3 Prepared): Silvery Barbs, Shield, Detect Magic \
 2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Immovable Object, Vortex Warp \
-3rd (3 Prepared): Slow, Haste, Sending
+3rd (4 Prepared): Slow, Haste, Pulse Wave, Tiny Servant \
+4th (0 Prepared): -
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -49,8 +50,13 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 **Chronal Shift:**
 At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
 
+**Momentary Stasis**
+When you reach 6th level, as an action, you can magically force a Large or smaller creature you can see within 60 feet of you to make a Constitution saving throw against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is incapacitated and has a speed of 0.
+
+You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a long rest.
+
 **Cantrip Formulas (Optional):** 
-At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. 
+You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. 
 
 ### Racial Abilities
 **Illithid Nature:**
@@ -99,15 +105,11 @@ Bag of Gold to return to my dad \
 Old Recording of a Mathemagics Lecture \
 The Rock (18/90) \
 Bag of Ball Bearings \
+Net / Smith's Tools \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 
 #### Future Levels:
-**Wizard 6:** \
-Pulse Wave, Tiny Servant \
-Temporal Freeze Ability \
-+1 4th level slot, +1 Spell Prep'd
-
 **Wizard 7:** \
 Fabricate, Psychic Lance \
 +1 4th level slot, +1 Spell Prep'd
