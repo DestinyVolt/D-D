@@ -53,7 +53,7 @@ Ellywick Fiddlebock (female, aggy's cousin) \
 Subfamily 2 \
 Ellidysa Fiddlelob (Aggy's Mother) \
 Zook Fiddlezop (Aggy's Stepfather) \
-Bipnottin Fiddlelop (Aggy's stepbrother) \
+Bipnottin Fiddlelop (Aggy's half-brother) \
 Aggy Fiddletock (Aggy)
 
 Subfamily 3 \
