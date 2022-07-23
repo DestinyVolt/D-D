@@ -39,8 +39,32 @@ Note: Her Mother and Father never married, they don't live together, but they're
 
 #### The Fiddlelops (Mother's side of the Family)
 Aggy's Mom's side of the family, the Fiddlelops are a seperate gnomish clan who don't have much to do with the railroad. Aggy spend equal time between the two clans as a kid. Feel free to come up with what the Fiddlelops do, just lemme know. \
-Note: Literally every member of this family has a slightly different last name and will correct you if you get it wrong. They all call each other by their variation of their last name. For reference, Aggy's is Squiddlelop.\
-Ellidysa Fiddlelob (Aggy's Mother) \
+Note: Literally every member of this family has a slightly different last name and will correct you if you get it wrong. They all call each other by their variation of their last name. \ 
+The Clan Heads \
 Grand-pop Fiddleplop \
 Grandma Fliddlemop \
+
+Subfamily 1 \
+Boddynock Fiddlelob (aggy's uncle) \
+Breena Fiddlemock (aggy's aunt) \
+Duvamil Fiddlebop (nb, aggy's cousin) \
+Ellywick Fiddlebock (female, aggy's cousin) \
+
+Subfamily 2 \
+Ellidysa Fiddlelob (Aggy's Mother) \
+Zook Fiddlezop (Aggy's Stepfather) \
+Bipnottin Fiddlelop (Aggy's stepbrother) \
+Aggy Fiddletock (Aggy)
+
+Subfamily 3 \
+Alston Fliddleglomp (Aggy's Uncle) \
+Fonkin Flindlepok (Aggy's Cousin, male) \
+Frug Flindlepok (Aggy's Cousin, male) \
+Gerbo Flindlecop (Aggy's Cousin, male) \
+Tim Flindlenok (Aggy's Cousin, male)
+
+Mechagnomes \
+Hoptop Findlelop \
+Jebeddo Findlelop 
+
 (To the DM: Feel free to make more, please just tell me them. Squiddles got them memorized and considers this completely normal)
