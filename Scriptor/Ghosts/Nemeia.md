@@ -1,5 +1,5 @@
-Reina \
-Half Elf \
+Nemeia \
+Feral Tiefling \
 She / Her \
 Age: 95 \
 Lawful Neutral
