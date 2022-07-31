@@ -108,6 +108,9 @@ Bag of Ball Bearings \
 Net / Smith's Tools \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
+#### Reminders
+BUY ROPE \
+BUY SCROLL OF CONTINUAL FLAME
 
 #### Future Levels:
 **Wizard 7:** \
