@@ -14,7 +14,7 @@ Cha: 6
 Prof: Perception, Investigation, Survival, ~~Acrobatics~~, Athletics \
 Saves: Strength, Constitution
 
-Fighting Style: Superior Technique (1d6, Parry (Reduce damage by superiority die)) \
+Fighting Style: Superior Technique (1d6, Commander's Strike) \
 Second Wind: Bonus Actuon heal 1d10 + 2 \
 Action Surge: Once per day, you can take another action
 
