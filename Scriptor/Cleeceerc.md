@@ -9,6 +9,7 @@ Str: 14 \
 Dex: 10 \
 Con: 17 \
 Int: 12 \
+Wis: 10 \
 Cha: 6 
 
 Prof: Perception, Investigation, Survival, ~~Acrobatics~~, Athletics \
