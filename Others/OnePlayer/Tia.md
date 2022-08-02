@@ -1,14 +1,14 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 59 \
+HP: 76 \
 AC: 19 \
 Speed: 40ft \
 Init: +5 \
 Prof: +3 \
 STR: 13 \
 DEX: 20 \
-CON: 14 \
+CON: 17 \
 INT: 12 \
 WIS: 18 \
 CHA: 12
@@ -20,7 +20,7 @@ Weight: 1200lb
 #### Proficiencies
 Skills: Acrobatics, Persuasion, Investigation, Sleight of Hand \
 Expertise: Stealth, Perception, Athletics, Intimidation \
-Saves: Dexterity, Wisdom, Intelligence, Charisma \
+Saves: Dexterity, Constitution, Intelligence, Wisdom, Charisma \
 Resistances: Fire, Cold, Acid, Poison, Lightning, Thunder \
 Immunities: Blinded, Deafened, Stunned, Poisoned \
 Senses: Darkvision (60ft) \
@@ -29,17 +29,18 @@ Languages: Common, Draconic
 ### Attacks
 Draconic Claws: +9 to hit, 2d6 + 6 slashing damage \
 Sneak Attack: +4d6 damage to claw attack, once per turn \
+Divine Strike: +1d8 damage to claw attack, once per turn \
 Booming Blade: +1d8 thunder damage to claw attack, +2d8 thunder damage if target moves \
 Green Flame Blade: +1d8 fire damage to claw attack, 1d8+2 fire damage to adjacent target \
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. 
 
 ### Level 7 Zeal Cleric
 +7 to hit, DC 15, 11 Prepared Spells \
-Cantrips: Guidance, Thaumaturgy, Resistance \
+Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
-2nd Level Spells (3): Magic Weapon\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
-3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality \
-4th Level Spells (1): Fire Shield\*, Freedom of Movement\*, Death Ward
+2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
+3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse \
+4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
@@ -48,32 +49,37 @@ Channel Divinity: Maximize Elemental Damage (2 / Rest)
 ### Level 7 Arcane Rogue
 +4 to hit, DC 12 \
 Cantrips: Booming Blade, Prestidigitation, Mage Hand \
-1st (4): Silvery Barbs, Sleep, Find Familiar \
-2nd (2): Invisiblity, Suggestion
+1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~ \
+2nd (2): Invisiblity, Suggestion, Enlarge / Reduce
 
 Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
 Uncanny Dodge: You can use your reaction to halve damage from an attack. \
 Evasion: When forced to make a Dex save to take half damage, you take half damage on failure and no damage on success. 
 
 #### Draconic Abilities
-Draconic Roar: Prof/Day Advantage \
+Draconic Roar: Prof/Day Advantage BA \
 Draconic Ancestry: Advantage vs Frighten/Charm \
 Dark Dragonmark: Green Flame Blade, Shield \
-Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 Elemental damage
+Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 Elemental damage \
+Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 16666gp \
-Coin: 100gp, 7sp, 0cp \
-Experience: 31,850 (Next Level: 34,000) \
+Treasure Eaten: 30716gp \
+Coin: 147gp, 8sp, 0cp \
+Experience: 39750 (Next Level: 48,000) \
 Kills: -
 
+Sunstone (15ft sunlight?) \
+Eyes of Minute Seeing (2500gp)
 
 Consumables: \
 4x potion of healing \
 a vial of antivenom 
 
 #### Future ASI Levels:
+2x at 8
+16
 18
 
 ### Adventures:
@@ -84,7 +90,7 @@ a vial of antivenom
 | Frozen Temple of the Ice Priest | 4th | 4x 3rd       | ☑ | Managed to get through it, but things got dicey with the final Ice Priest |
 | Forsaken Labyrinth of the Golden Baron | 4th | 4x 3rd | ☑ | Almost got killed by a Basilisk. Lord. But I'm finally a decent level.  |
 | Tomb of the Grave Knight | 6th | 4x 5th | ☑ | Easy. I'm much stronger now. |
-| ??? | 7th | 4x 5th | ☐ | ???? |
+| A Deadly Disturbance | 7th | 4x 5th | ☑ | Easy. Wizards are always overconfident. |
 | Tomb of Tzentak | ?th | 4x 7th | ☐ | I heard rumor of LOTS of gold >:D |
 
 
