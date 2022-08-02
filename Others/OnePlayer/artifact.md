@@ -24,7 +24,7 @@ You have resistance to fire and poison damage. \
 The maximum score for your ability scores is 22. 
 
 #### Slumbering (1,000gp)
-You retain the benefits of the Dormant stage, and you have a +1 bonus to attack and damage rolls made with your claws. \
+You retain the benefits of the Dormant stage, and you have a +1 bonus to attack and damage rolls made with your claws, which are considered magical for the purposes of overcoming resistance and immunity to nonmagical attacks and damage. \
 Your size increases to Medium and your speed increases by 5ft. \
 You have resistance to cold and acid damage. \
 Your Strength increases by 4, and the maximum score for all your abilities scores is 24.  
