@@ -1,14 +1,14 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 105 \
+HP: 125 \
 AC: 19 \
 Speed: 40ft \
 Init: +5 \
 Prof: +4 \
 STR: 20 \
 DEX: 20 \
-CON: 18 \
+CON: 22 \
 INT: 12 \
 WIS: 18 \
 CHA: 12
@@ -22,6 +22,7 @@ Skills: Acrobatics, Persuasion, Investigation (Adv), Sleight of Hand \
 Expertise: Stealth, Perception, Athletics, Intimidation \
 Saves: Dexterity, Constitution, Intelligence, Wisdom, Charisma \
 Resistances: Fire, Cold, Acid, Poison, Lightning, Thunder \
+Advantage: Charm, Frightened \
 Immunities: Blinded, Deafened, Stunned, Poisoned \
 Senses: Darkvision (60ft) \
 Languages: Common, Draconic
@@ -31,12 +32,12 @@ Draconic Claws: +10 to hit, 2d6 + 6 slashing damage \
 Sneak Attack: +5d6 damage to claw attack, once per turn \
 Divine Strike: +1d8 damage to claw attack, once per turn \
 Booming Blade: +1d8 thunder damage to claw attack, +2d8 thunder damage if target moves \
-Green Flame Blade: +1d8 fire damage to claw attack, 1d8+2 fire damage to adjacent target \
+Green Flame Blade: +1d8 fire damage to claw attack, 1d8+6 fire damage to adjacent target \
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. 
 
 ### Level 10 Zeal Cleric
 +8 to hit, DC 16, 14 Prepared Spells \
-Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance \
+Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance, Sacred Flame \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
 2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
 3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse, Dispel Magic	\
@@ -68,10 +69,10 @@ Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 115,591gp \
+Treasure Eaten: 189,531gp \
 Coin: 147gp, 8sp, 0cp \
 Experience: 73000 (Next Level: 85,000) \
-Kills: -
+Kills: 8,400xp
 
 Consumables: \
 4x potion of healing \
@@ -94,6 +95,5 @@ Eyes of Minute Seeing
 | Tomb of the Grave Knight | 6th | 4x 5th | ☑ | Easy. I'm much stronger now. |
 | A Deadly Disturbance | 7th | 4x 5th | ☑ | Easy. Wizards are always overconfident. |
 | Tomb of Tzentak | 8th | 4x 7th | ☑ | So much gold... Almost died, but soo worth it. Thank goodness for Death Ward. |
-| The Halls of Havareem | 10th | 4x 9th | ☐ | Another Wizard. I'll crush him. |
-
-
+| The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
+| There be Dragons | 10th | 4x 10th | ☐ | A White Dragon has taken up residence in the mountains. His hoard will be mine. |
