@@ -1,21 +1,21 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 125 \
-AC: 19 \
-Speed: 40ft \
+HP: 163 \
+AC: 20 \
+Speed: 50ft \
 Init: +5 \
 Prof: +4 \
-STR: 20 \
+STR: 24 \
 DEX: 20 \
-CON: 22 \
+CON: 24 \
 INT: 12 \
-WIS: 18 \
-CHA: 12
+WIS: 20 \
+CHA: 14
 
 Size: Large \
-Height: 11" \
-Weight: 1200lb
+Height: 16"5' \
+Weight: 2050lb \
 
 #### Proficiencies
 Skills: Acrobatics, Persuasion, Investigation (Adv), Sleight of Hand \
@@ -28,58 +28,65 @@ Senses: Darkvision (60ft) \
 Languages: Common, Draconic
 
 ### Attacks
-Draconic Claws: +10 to hit, 2d6 + 6 slashing damage \
-Sneak Attack: +5d6 damage to claw attack, once per turn \
+Draconic Claws: +13 to hit, 2d6 + 9 slashing damage \
+Sneak Attack: +6d6 damage to claw attack, once per turn \
 Divine Strike: +1d8 damage to claw attack, once per turn \
-Booming Blade: +1d8 thunder damage to claw attack, +2d8 thunder damage if target moves \
-Green Flame Blade: +1d8 fire damage to claw attack, 1d8+6 fire damage to adjacent target \
-Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. 
+Booming Blade: +2d8 thunder damage to claw attack, +3d8 thunder damage if target moves \
+Green Flame Blade: +2d8 fire damage to claw attack, 2d8+7 fire damage to one adjacent target \
+Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. \
+Sweeping Claws: Whenever you make a claw attack, all creatures within 5 feet of the target must make a DC 19 Dex Save or become a target of the attack as well.
 
-### Level 10 Zeal Cleric
-+8 to hit, DC 16, 14 Prepared Spells \
+### Level 12 Zeal Cleric
++9 to hit, DC 17, 17 Prepared Spells \
 Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance, Sacred Flame \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
-2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
+2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison, Borrowed Knowledge \
 3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse, Dispel Magic	\
 4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward \
-5th Level Spells (2): Destructive Wave\*, Flame Strike\*, Greater Restoration
+5th Level Spells (2): Destructive Wave\*, Flame Strike\*, Greater Restoration, Geas \
+6th Level Spells (1): Heal
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
 Channel Divinity: Maximize Elemental Damage (2 / Rest) \
-Divine Intervention: 1/10th chance for Divine Intervention. 
+Divine Intervention: 12/100th chance for Divine Intervention. 
 
-### Level 10 Arcane Rogue
+### Level 12 Arcane Rogue
 +5 to hit, DC 13 \
-Cantrips: Booming Blade, Prestidigitation, Mage Hand \
+Cantrips: Booming Blade, Prestidigitation, Message \
 1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~, Disguise Self	 \
-2nd (3): Invisiblity, Suggestion, Enlarge / Reduce
+2nd (3): Invisiblity, Suggestion, Enlarge / Reduce, ~???~
 
 Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
 Uncanny Dodge: You can use your reaction to halve damage from an attack. \
 Evasion: When forced to make a Dex save to take half damage, you take half damage on failure and no damage on success. \
-Magical Ambush: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on saving throw against it.
+Magical Ambush: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on saving throw against it. \
+Reliable Talent: Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 #### Draconic Abilities
 Draconic Roar: Prof/Day Advantage BA \
 Draconic Ancestry: Advantage vs Frighten/Charm \
 Dark Dragonmark: Green Flame Blade, Shield \
 Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 Elemental damage \
+Draconic Wings: As a bonus action, you can grow/ungrow draconic wings, which let you fly. \
+Draconic Resistance: If you have two sources of resistance against cold, acid, lightning, fire, thunder, or poison damage, you have immunity to that damage. \
 Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
 Treasure Eaten: 189,531gp \
 Coin: 147gp, 8sp, 0cp \
-Experience: 73000 (Next Level: 85,000) \
-Kills: 8,400xp
+Experience: 117,050 (Next Level: 120,000	) \
+Kills: -
 
 Consumables: \
 4x potion of healing \
+potion of supreme healing \
 a vial of antivenom 
 
 #### Internalized Magic Items
 Sunstone (15ft sunlight) \
+Periapt of Health (Immunity to Disease) \
 Eyes of Minute Seeing 
 
 #### Future ASI Levels:
@@ -96,4 +103,5 @@ Eyes of Minute Seeing
 | A Deadly Disturbance | 7th | 4x 5th | ☑ | Easy. Wizards are always overconfident. |
 | Tomb of Tzentak | 8th | 4x 7th | ☑ | So much gold... Almost died, but soo worth it. Thank goodness for Death Ward. |
 | The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
-| There be Dragons | 10th | 4x 10th | ☐ | A White Dragon has taken up residence in the mountains. His hoard will be mine. |
+| There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should.  |
+| ??? | 12th | 4x ??th | ☐ | ?? |
