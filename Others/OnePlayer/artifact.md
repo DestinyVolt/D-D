@@ -44,8 +44,8 @@ Whenever you make a melee attack, all creatures within 5 feet of the target must
 Your Strength increases by 4, and the maximum score for all your abilities scores is 28.  
 
 #### Ascendant (1,000,000gp)
-You retain the benefits of the Awakened stage, but you now have a +3 bonus to attack and damage rolls made with your claws, and they deal 3d6 slashing damage on a hit. \
+You retain the benefits of the Awakened stage, but you now have a +3 bonus to attack and damage rolls made with your claws, and they deal 4d6 slashing damage on a hit. \
 Your size increases to Gargantuan, your reach increase by 5ft, and your speed increases by 10ft. \
 You gain the benefits of the Mask of the Dragon Queen, and your hit dice become d20s. \
-Whenever you make a melee attack, all creatures within 10 feet of the target and you take the attack as well. \
+Whenever you make a melee attack, all creatures within 10 feet of both the target and you suffer the attack as well. \
 Your Strength increases by 4, and the maximum score for all your abilities scores is 30. 
