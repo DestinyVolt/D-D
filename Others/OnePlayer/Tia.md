@@ -13,7 +13,7 @@ INT: 12 \
 WIS: 20 \
 CHA: 14
 
-Size: Large \
+Size: Huge \
 Height: 16"5' \
 Weight: 2050lb \
 
@@ -74,9 +74,9 @@ Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 189,531gp \
+Treasure Eaten: 234,301gp \
 Coin: 147gp, 8sp, 0cp \
-Experience: 117,050 (Next Level: 120,000	) \
+Experience: 118,850 (Next Level: 120,000) \
 Kills: -
 
 Consumables: \
@@ -89,7 +89,7 @@ Sunstone (15ft sunlight) \
 Periapt of Health (Immunity to Disease) \
 Eyes of Minute Seeing 
 
-#### Future ASI Levels:
+#### Future Extra ASI Levels:
 13, 14, 16, 18
 
 ### Adventures:
@@ -103,5 +103,5 @@ Eyes of Minute Seeing
 | A Deadly Disturbance | 7th | 4x 5th | ☑ | Easy. Wizards are always overconfident. |
 | Tomb of Tzentak | 8th | 4x 7th | ☑ | So much gold... Almost died, but soo worth it. Thank goodness for Death Ward. |
 | The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
-| There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should.  |
+| There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should. I am much more powerful now. |
 | ??? | 12th | 4x ??th | ☐ | ?? |
