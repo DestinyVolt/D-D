@@ -73,13 +73,13 @@ Coin: 147gp, 8sp, 0cp \
 Experience: 73000 (Next Level: 85,000) \
 Kills: -
 
-#### Internalized Magic Items
-Sunstone (15ft sunlight) \
-Eyes of Minute Seeing 
-
 Consumables: \
 4x potion of healing \
 a vial of antivenom 
+
+#### Internalized Magic Items
+Sunstone (15ft sunlight) \
+Eyes of Minute Seeing 
 
 #### Future ASI Levels:
 13, 14, 16, 18
