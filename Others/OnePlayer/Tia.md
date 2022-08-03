@@ -1,14 +1,14 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 76 \
+HP: 105 \
 AC: 19 \
 Speed: 40ft \
 Init: +5 \
-Prof: +3 \
-STR: 13 \
+Prof: +4 \
+STR: 20 \
 DEX: 20 \
-CON: 17 \
+CON: 18 \
 INT: 12 \
 WIS: 18 \
 CHA: 12
@@ -18,7 +18,7 @@ Height: 11" \
 Weight: 1200lb
 
 #### Proficiencies
-Skills: Acrobatics, Persuasion, Investigation, Sleight of Hand \
+Skills: Acrobatics, Persuasion, Investigation (Adv), Sleight of Hand \
 Expertise: Stealth, Perception, Athletics, Intimidation \
 Saves: Dexterity, Constitution, Intelligence, Wisdom, Charisma \
 Resistances: Fire, Cold, Acid, Poison, Lightning, Thunder \
@@ -27,34 +27,37 @@ Senses: Darkvision (60ft) \
 Languages: Common, Draconic
 
 ### Attacks
-Draconic Claws: +9 to hit, 2d6 + 6 slashing damage \
-Sneak Attack: +4d6 damage to claw attack, once per turn \
+Draconic Claws: +10 to hit, 2d6 + 6 slashing damage \
+Sneak Attack: +5d6 damage to claw attack, once per turn \
 Divine Strike: +1d8 damage to claw attack, once per turn \
 Booming Blade: +1d8 thunder damage to claw attack, +2d8 thunder damage if target moves \
 Green Flame Blade: +1d8 fire damage to claw attack, 1d8+2 fire damage to adjacent target \
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. 
 
-### Level 7 Zeal Cleric
-+7 to hit, DC 15, 11 Prepared Spells \
+### Level 10 Zeal Cleric
++8 to hit, DC 16, 14 Prepared Spells \
 Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
 2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison \
-3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse \
-4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward
+3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse, Dispel Magic	\
+4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward \
+5th Level Spells (2): Destructive Wave\*, Flame Strike\*, Greater Restoration
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
-Channel Divinity: Maximize Elemental Damage (2 / Rest)
+Channel Divinity: Maximize Elemental Damage (2 / Rest) \
+Divine Intervention: 1/10th chance for Divine Intervention. 
 
-### Level 7 Arcane Rogue
-+4 to hit, DC 12 \
+### Level 10 Arcane Rogue
++5 to hit, DC 13 \
 Cantrips: Booming Blade, Prestidigitation, Mage Hand \
-1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~ \
-2nd (2): Invisiblity, Suggestion, Enlarge / Reduce
+1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~, Disguise Self	 \
+2nd (3): Invisiblity, Suggestion, Enlarge / Reduce
 
 Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
 Uncanny Dodge: You can use your reaction to halve damage from an attack. \
-Evasion: When forced to make a Dex save to take half damage, you take half damage on failure and no damage on success. 
+Evasion: When forced to make a Dex save to take half damage, you take half damage on failure and no damage on success. \
+Magical Ambush: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on saving throw against it.
 
 #### Draconic Abilities
 Draconic Roar: Prof/Day Advantage BA \
@@ -65,22 +68,21 @@ Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 30716gp \
+Treasure Eaten: 115,591gp \
 Coin: 147gp, 8sp, 0cp \
-Experience: 39750 (Next Level: 48,000) \
+Experience: 73000 (Next Level: 85,000) \
 Kills: -
 
-Sunstone (15ft sunlight?) \
-Eyes of Minute Seeing (2500gp)
+#### Internalized Magic Items
+Sunstone (15ft sunlight) \
+Eyes of Minute Seeing 
 
 Consumables: \
 4x potion of healing \
 a vial of antivenom 
 
 #### Future ASI Levels:
-2x at 8
-16
-18
+13, 14, 16, 18
 
 ### Adventures:
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
@@ -91,6 +93,7 @@ a vial of antivenom
 | Forsaken Labyrinth of the Golden Baron | 4th | 4x 3rd | ☑ | Almost got killed by a Basilisk. Lord. But I'm finally a decent level.  |
 | Tomb of the Grave Knight | 6th | 4x 5th | ☑ | Easy. I'm much stronger now. |
 | A Deadly Disturbance | 7th | 4x 5th | ☑ | Easy. Wizards are always overconfident. |
-| Tomb of Tzentak | ?th | 4x 7th | ☐ | I heard rumor of LOTS of gold >:D |
+| Tomb of Tzentak | 8th | 4x 7th | ☑ | So much gold... Almost died, but soo worth it. Thank goodness for Death Ward. |
+| The Halls of Havareem | 10th | 4x 9th | ☐ | Another Wizard. I'll crush him. |
 
 
