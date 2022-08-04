@@ -40,6 +40,7 @@ Your Strength increases by 4, and the maximum score for all your abilities score
 You retain the benefits of the Stirring stage, but you now have a +2 bonus to attack and damage rolls made with your claws. \
 Your size increases to Huge, and your speed increases by 10ft. \
 If you have two sources of resistance against cold, acid, lightning, fire, thunder, or poison damage, you have immunity to that damage. \
+When you cast a spell that deals damage of a type you are resistant to, you can change the spell's damage type to that of another damage type you are resistant too. \
 Whenever you make a melee attack, all creatures within 5 feet of the target must make a Dexterity Saving Throw (DC: 8 + Prof + Str) or take the attack as well. \
 Your Strength increases by 4, and the maximum score for all your abilities scores is 28.  
 
