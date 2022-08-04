@@ -1,17 +1,17 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 163 \
-AC: 20 \
+HP: 194 \
+AC: 22 \
 Speed: 50ft \
 Init: +5 \
-Prof: +4 \
-STR: 24 \
+Prof: +5 \
+STR: 26 \
 DEX: 20 \
-CON: 24 \
-INT: 12 \
-WIS: 20 \
-CHA: 16
+CON: 26 \
+INT: 16 \
+WIS: 24 \
+CHA: 20
 
 Size: Huge \
 Height: 16"5' \
@@ -24,38 +24,40 @@ Saves: Dexterity, Constitution, Intelligence, Wisdom, Charisma \
 Resistances: Fire, Cold, Acid, Poison, Lightning, Thunder \
 Advantage: Charm, Frightened \
 Immunities: Blinded, Deafened, Stunned, Poisoned \
-Senses: Darkvision (60ft) \
+Senses: Darkvision (60ft), Blindsight (10ft) \
 Languages: Common, Draconic
 
 ### Attacks
-Draconic Claws: +13 to hit, 2d6 + 9 slashing damage \
-Sneak Attack: +6d6 damage to claw attack, once per turn \
-Divine Strike: +1d8 damage to claw attack, once per turn \
+Draconic Claws: +15 to hit, 2d6 + 10 slashing damage \
+Sneak Attack: +7d6 damage to claw attack, once per turn \
+Divine Strike: +2d8 damage to claw attack, once per turn \
 Booming Blade: +2d8 thunder damage to claw attack, +3d8 thunder damage if target moves \
-Green Flame Blade: +2d8 fire damage to claw attack, 2d8+7 fire damage to one adjacent target \
+Green Flame Blade: +2d8 fire damage to claw attack, 2d8+8 fire damage to one adjacent target \
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. \
-Sweeping Claws: Whenever you make a claw attack, all creatures within 5 feet of the target must make a DC 19 Dex Save or become a target of the attack as well.
+Sweeping Claws: Whenever you make a claw attack, all creatures within 5 feet of the target must make a DC 21 Dex Save or become a target of the attack as well.
 
-### Level 12 Zeal Cleric
-+9 to hit, DC 17, 17 Prepared Spells \
+### Level 14 Zeal Cleric
++12 to hit, DC 20, 21 Prepared Spells \
 Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance, Sacred Flame \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
 2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison, Borrowed Knowledge \
 3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse, Dispel Magic	\
 4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward \
 5th Level Spells (2): Destructive Wave\*, Flame Strike\*, Greater Restoration, Geas \
-6th Level Spells (1): Heal
+6th Level Spells (1): Heal \
+7th Level Spells (1): Divine Word, Fire Storm, Regenerate, Temple of the Gods
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
 Channel Divinity: Maximize Elemental Damage (2 / Rest) \
-Divine Intervention: 12/100th chance for Divine Intervention. 
+Divine Intervention: 14/100th chance for Divine Intervention. 
 
-### Level 12 Arcane Rogue
-+5 to hit, DC 13 \
+### Level 14 Arcane Rogue
++8 to hit, DC 16 \
 Cantrips: Booming Blade, Prestidigitation, Message \
 1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~, Disguise Self	 \
-2nd (3): Invisiblity, Suggestion, Enlarge / Reduce, ~???~
+2nd (3): Invisiblity, Suggestion, Enlarge / Reduce \
+3rd (2): Fear, Catnap, Ashardalon's Stride
 
 Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
 Uncanny Dodge: You can use your reaction to halve damage from an attack. \
@@ -70,19 +72,20 @@ Dark Dragonmark: Green Flame Blade, Shield \
 Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 Elemental damage \
 Draconic Wings: As a bonus action, you can grow/ungrow draconic wings, which let you fly. \
 Draconic Resistance: If you have two sources of resistance against cold, acid, lightning, fire, thunder, or poison damage, you have immunity to that damage. \
+Elemental Mastery: When you cast a spell that deals damage of a type you are resistant to, you can change the spell's damage type to that of another damage type you are resistant too. \
 Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 258,301gp \
-Coin: 147gp, 8sp, 0cp \
-Experience: 118,850 (Next Level: 120,000) \
+Treasure Eaten: 457,000gp \
+Coin: 48gp, 8sp, 0cp \
+Experience: 154,650 (Next Level: 165,000) \
 Kills: -
 
 Consumables: \
 4x potion of healing \
 potion of supreme healing \
-a vial of antivenom 
+Potion of Growth 
 
 #### Internalized Magic Items
 Sunstone (15ft sunlight) \
@@ -90,7 +93,7 @@ Periapt of Health (Immunity to Disease) \
 Eyes of Minute Seeing 
 
 #### Future Extra ASI Levels:
-13, 14, 16, 18
+16, 17, 18, 20
 
 ### Adventures:
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
@@ -104,4 +107,5 @@ Eyes of Minute Seeing
 | Tomb of Tzentak | 8th | 4x 7th | ☑ | So much gold... Almost died, but soo worth it. Thank goodness for Death Ward. |
 | The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
 | There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should. I am much more powerful now. |
-| You'll never take me alive, Coppers! | 12th | 4x ??th | ☐ | There's a dragon flying towards me. They better bow. |
+| You'll never take me alive, Coppers! | 12th | 4x ??th | ☑ | Copper Dragons thought they could best me, but they are slain and their hoard is mine. I intend to find more foolish metalics like them. |
+| ??? | 14th | 4x ??th | ☐ | There's rumors of a dragon who protects a small town in the mountains. It's a 2 week trek, but I'll draw him out. Might have some fun with the city while I do. |
