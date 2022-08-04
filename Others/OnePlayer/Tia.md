@@ -11,7 +11,7 @@ DEX: 20 \
 CON: 24 \
 INT: 12 \
 WIS: 20 \
-CHA: 14
+CHA: 16
 
 Size: Huge \
 Height: 16"5' \
@@ -74,7 +74,7 @@ Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 234,301gp \
+Treasure Eaten: 258,301gp \
 Coin: 147gp, 8sp, 0cp \
 Experience: 118,850 (Next Level: 120,000) \
 Kills: -
@@ -104,4 +104,4 @@ Eyes of Minute Seeing
 | Tomb of Tzentak | 8th | 4x 7th | ☑ | So much gold... Almost died, but soo worth it. Thank goodness for Death Ward. |
 | The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
 | There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should. I am much more powerful now. |
-| ??? | 12th | 4x ??th | ☐ | ?? |
+| You'll never take me alive, Coppers! | 12th | 4x ??th | ☐ | There's a dragon flying towards me. They better bow. |
