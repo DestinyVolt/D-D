@@ -4,7 +4,7 @@ Age: 90 \
 Lawful Evil \
 Level 10 Fighter
 
-HP: 90 \
+HP: 100 \
 AC: 17 \
 Prof: +4 \
 Move: 30ft \
