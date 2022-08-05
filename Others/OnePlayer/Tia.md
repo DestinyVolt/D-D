@@ -85,7 +85,8 @@ Kills: -
 Consumables: \
 4x potion of healing \
 potion of supreme healing \
-Potion of Growth 
+Charge of Power (Potion of Growth): 1x
+Draconic Souls (Miscibility Table per Soul type): White, Copper \
 
 #### Internalized Magic Items
 Sunstone (15ft sunlight) \
@@ -108,4 +109,4 @@ Eyes of Minute Seeing
 | The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
 | There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should. I am much more powerful now. |
 | You'll never take me alive, Coppers! | 12th | 4x ??th | ☑ | Copper Dragons thought they could best me, but they are slain and their hoard is mine. I intend to find more foolish metalics like them. |
-| ??? | 14th | 4x ??th | ☐ | There's rumors of a dragon who protects a small town in the mountains. It's a 2 week trek, but I'll draw him out. Might have some fun with the city while I do. |
+| Offerings to ~~Bahamut~~ Tiamat  | 14th | 4x ??th | ☐ | There's apparently a small town in the mountains that hosts a large festival to Bahamut. It's a 2 week trek, but I'm very happy to crash the party and take the offerings for myself. Supposedly some Silver Dragons like to show up to mingle among the crowd. Hopefully I'll be able to track them back to their hoards. |
