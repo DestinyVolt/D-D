@@ -4,11 +4,11 @@
 Aasimar, ♀, 21, Neutral Evil \
 "Deva": Diancastra 
 
-HP: 49 (3d8) \
+HP: 62 (5d8) \
 AC: 13 (16) \
 Speed: 30ft \
 Init: +3 \
-Prof: +2 \
+Prof: +3 \
 STR: 14 \
 DEX: 16 \
 CON: 20 \
@@ -27,36 +27,45 @@ Resistances: Radient, Necrotic \
 Senses: Darkvision (60ft) \
 Languages: Common, Giant, Celestial 
 
-### Gestalt Level 4 (Giant Soul Sorcerer / Pact of the Celestial Tome Warlock) 
+### Gestalt Level 5 (Giant Soul Sorcerer / Pact of the Celestial Tome Warlock) 
 
-Shillelagh: +7 to hit, 1d8+5 \
-Wild Talent: Can reroll a damage roll from a cantrip as a D6 \
-Booming Blade: +1d8 thunder damage if they move \
-Flame Blade: 5 fire damage to adjacent enemy \
+Shillelagh: +8 to hit, 1d8+5 \
+Wild Talent: Can reroll a damage roll from a cantrip as a d8 \
+Booming Blade: +1d8 thunder damage, +2d8 thunder damage if they move \
+Flame Blade: +1d8 fire damage, 1d8+5 fire damage to adjacent enemy \
 Agonizing Power: +5 Damage from Cantrips \
-Celestial Revelation: +2 radiant/necrotic damage \
+Celestial Revelation: +3 radiant/necrotic damage \
 \- Gain Flying (30ft), Cause Fear (Wis Save 10ft), or Deal Damage (2 radiant / turn, 10ft)
 
-
-Casting: DC 15 \
-Spell Slots: 4, 3 \
-Pact Slots: 2 (Level 2) \
+Casting: DC 16 \
+Spell Slots: 4, 3, 2 \
+Pact Slots: 2 (Level 3) \
 Cantrips: Light, Sacred Flame, Eldritch Blast, Booming Blade, Green Flame Blade, Message, Mind Sliver, Mage Hand, Prestidigitation, Guidance, Word of Radiance, Thorn Whip, Shocking Grasp \
-Sorcerer Spells: Mage Armor, Shield, Absorb Elements, Hold Person, Shatter \
-[Giant Soul](https://homebrewery.naturalcrit.com/share/HytFzPl9N) Spells: Shillelegh, Wrathful Smite, Enlarge(2)/Reduce  \
-Warlock Spells: Armor of Agathys, Cure Wounds, Suggestion, Invisibility, Mirror Image \
-Other Spells (Free 1 / Day): Dissonant Whispers, Hex, Silvery Barbs, Pass without a Trace
+Warlock Spells: \
+\- Armor of Agathys, Cure Wounds \
+\- Suggestion, Invisibility, Mirror Image \
+\- Hypnotic Pattern \
+Sorcerer Spells: \
+\- Mage Armor, Shield, Absorb Elements \
+\- Hold Person, Shatter \
+\- Fireball	\
+[Giant Soul](https://homebrewery.naturalcrit.com/share/HytFzPl9N) Spells: \
+\- Shillelagh, Wrathful Smite, Magic Weapon, Enlarge(2)/Reduce \
+Other Spells (Free 1 / Day): Dissonant Whispers, Hex, Silvery Barbs, Pass without a Trace \
+Book of Ancient Secrets: ~~Find Familiar~~, Detect Magic
 
-Sorcerery Points: 4 \
-Metamagic: Subtle Spell, Twin spell
+Sorcerery Points: 5 \
+Metamagic: Subtle Spell, Twin spell \
+Magical Guidance: Reroll ability checks for 1 Sorcery Point
 
 Starting Feat: Wild Talent (Cha, 1d6) \
 Background Feat: Initiate of High Sorcerery \
-Healing Hands: 2d4 Healing \
-Healing Light: 5d6 Healing \
+Healing Hands: 3d4 Healing \
+Healing Light: 6d6 Healing \
 Invocations: \
 \- Agonizing Power \
 \- Aspect of the Moon \
+\- Book of Ancient Secrets \
 Giant Soul (+1 HP per level, Enlarge doesn't use concentration if cast on self using SP) \
 Adept of the Red Robes: You can replace a roll of 9 or lower with a 10, prof + 1 times per rest. \
 Abberant Mark: 10% chance to gain epic boon, starting at level 10. 
@@ -71,9 +80,9 @@ Bag of Holding (Purchased) \
 Clockwork Amulet (Purchased) \
 Component Pouch
 
-14046gp, 261sp, 0 cp \
-Experience: 5500 (Next Level: 9750) \
-Kills: (2xCR(1/2)  + 1xCR)/2 + (2x CR(1/4) + 1xCR(1/2)
+14921gp, 261sp, 0 cp \
+Experience: 7,200 (Next Level: 14,000) \
+Kills: -
 
 #### To Sell: 
 -
@@ -90,7 +99,6 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 1x Consumable Uncommon (0 used)
 
 #### On Level Up
-Remember, you need 1.5x times the normal amount of EXP to level up \
 PAM + Warcaster could be good \
 Misty Step / Flame Sphere / Literally any AoE spell
 
@@ -98,6 +106,6 @@ Misty Step / Flame Sphere / Literally any AoE spell
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
 | ------------------------ | -------- | -------------- | --------- | --------- |
 | The Unquiet Dead         | 3rd      | 4x 1st         | ☑ | Hard. Dropped into the single digits multiple times, had to use all 1/long rest abilties. |
-| The Road to Swordfall    | 4rd      | 4x 2st         | ☐ | The Noble's Daughter [Alisha Dacre](https://i.imgur.com/9ezwZkL.jpg) likes me. Finished Day 2 |
+| The Road to Swordfall    | 4rd      | 4x 2st         | ☑ | The Noble's Daughter [Alisha Dacre](https://i.imgur.com/9ezwZkL.jpg) likes me. Cultists were fools to attack me. |
 | Stonehill Blues          | ???      | 4x 3rd         | ☐ | - |
 
