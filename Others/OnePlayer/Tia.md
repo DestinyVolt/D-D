@@ -1,7 +1,7 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 223 \
+HP: 240 \
 AC: 23 \
 Speed: 50ft \
 Init: +5 \
@@ -110,4 +110,5 @@ Eyes of Minute Seeing
 | The Halls of Havareem | 10th | 4x 9th | ☑ | A capable wizard, but no match for me. His traps couldn't hurt me. |
 | There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should. I am much more powerful now. |
 | You'll never take me alive, Coppers! | 12th | 4x ??th | ☑ | Copper Dragons thought they could best me, but they are slain and their hoard is mine. I intend to find more foolish metalics like them. |
-| Offerings to ~~Bahamut~~ Tiamat  | 14th | 4x ??th | ☐ | There's apparently a small town in the mountains that hosts a large festival to Bahamut. It's a 2 week trek, but I'm very happy to crash the party and take the offerings for myself. Supposedly some Silver Dragons like to show up to mingle among the crowd. Hopefully I'll be able to track them back to their hoards. |
+| Offerings to ~~Bahamut~~ Tiamat  | 14th | 4x ??th | ☑ | There was a small town in the mountains that hosts a large festival to Bahamut. The Offerings were paltry, but nice enough. Some foolish Silver dragons appeared, but I dealt with them. I think I know where their hoard is hidden. |
+| The Silver Hoard  | 16th | 4x ??th | ☐ | On my way up the mountain to reach the Silver's hoard. I'm looking forward to another good meal. |
