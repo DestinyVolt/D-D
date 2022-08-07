@@ -1,16 +1,16 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 194 \
-AC: 22 \
+HP: 223 \
+AC: 23 \
 Speed: 50ft \
 Init: +5 \
 Prof: +5 \
 STR: 26 \
 DEX: 20 \
-CON: 26 \
-INT: 16 \
-WIS: 24 \
+CON: 28 \
+INT: 18 \
+WIS: 26 \
 CHA: 20
 
 Size: Huge \
@@ -20,7 +20,7 @@ Weight: 2050lb \
 #### Proficiencies
 Skills: Acrobatics, Persuasion, Investigation (Adv), Sleight of Hand \
 Expertise: Stealth, Perception, Athletics, Intimidation \
-Saves: Dexterity, Constitution, Intelligence, Wisdom, Charisma \
+Saves: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma \
 Resistances: Fire, Cold, Acid, Poison, Lightning, Thunder \
 Advantage: Charm, Frightened \
 Immunities: Blinded, Deafened, Stunned, Poisoned \
@@ -29,35 +29,36 @@ Languages: Common, Draconic
 
 ### Attacks
 Draconic Claws: +15 to hit, 2d6 + 10 slashing damage \
-Sneak Attack: +7d6 damage to claw attack, once per turn \
+Sneak Attack: +8d6 damage to claw attack, once per turn \
 Divine Strike: +2d8 damage to claw attack, once per turn \
 Booming Blade: +2d8 thunder damage to claw attack, +3d8 thunder damage if target moves \
-Green Flame Blade: +2d8 fire damage to claw attack, 2d8+8 fire damage to one adjacent target \
+Green Flame Blade: +2d8 fire damage to claw attack, 2d8+9 fire damage to one adjacent target \
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. \
 Sweeping Claws: Whenever you make a claw attack, all creatures within 5 feet of the target must make a DC 21 Dex Save or become a target of the attack as well.
 
-### Level 14 Zeal Cleric
-+12 to hit, DC 20, 21 Prepared Spells \
+### Level 16 Zeal Cleric
++13 to hit, DC 21, 21 Prepared Spells \
 Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance, Sacred Flame \
 1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
 2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison, Borrowed Knowledge \
 3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse, Dispel Magic	\
 4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward \
 5th Level Spells (2): Destructive Wave\*, Flame Strike\*, Greater Restoration, Geas \
-6th Level Spells (1): Heal \
-7th Level Spells (1): Divine Word, Fire Storm, Regenerate, Temple of the Gods
+6th Level Spells (1): Heal, Harm, Word of Recall \
+7th Level Spells (1): Divine Word, Fire Storm, Regenerate, Temple of the Gods \
+8th Level Spells (1): Earthquake
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
 Channel Divinity: Maximize Elemental Damage (2 / Rest) \
-Divine Intervention: 14/100th chance for Divine Intervention. 
+Divine Intervention: 16/100th chance for Divine Intervention. 
 
-### Level 14 Arcane Rogue
-+8 to hit, DC 16 \
+### Level 16 Arcane Rogue
++9 to hit, DC 17 \
 Cantrips: Booming Blade, Prestidigitation, Message \
 1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~, Disguise Self	 \
 2nd (3): Invisiblity, Suggestion, Enlarge / Reduce \
-3rd (2): Fear, Catnap, Ashardalon's Stride
+3rd (2): Fear, Catnap, Ashardalon's Stride, Major Image
 
 Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
 Uncanny Dodge: You can use your reaction to halve damage from an attack. \
@@ -77,16 +78,16 @@ Resilience (CON): Proficiency in CON Saves
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 457,000gp \
-Coin: 48gp, 8sp, 0cp \
-Experience: 154,650 (Next Level: 165,000) \
+Treasure Eaten: 461,800gp \
+Coin: 52gp, 8sp, 0cp \
+Experience: 202,450 (Next Level: 225,000) \
 Kills: -
 
 Consumables: \
 4x potion of healing \
 potion of supreme healing \
 Charge of Power (Potion of Growth): 1x
-Draconic Souls (Miscibility Table per Soul type): White, Copper \
+Draconic Souls (Miscibility Table per Soul type): White, Copper, Silver \
 
 #### Internalized Magic Items
 Sunstone (15ft sunlight) \
@@ -94,7 +95,7 @@ Periapt of Health (Immunity to Disease) \
 Eyes of Minute Seeing 
 
 #### Future Extra ASI Levels:
-16, 17, 18, 20
+17, 18, 20
 
 ### Adventures:
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
