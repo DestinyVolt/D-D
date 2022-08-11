@@ -29,4 +29,5 @@ Frenzy: +1 Greataxe Attack
 Mindless Rage: You cannot be charmed or frightened while raging. \
 Brutal Critical: +1d12 on a crit \
 Danger Sense: Advantage vs Dex Saves \
-Reckless Attack: Advantage for Advantage 
+Reckless Attack: Advantage for Advantage \
+http://dnd5e.wikidot.com/wondrous-items:butchers-bib
