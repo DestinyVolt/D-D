@@ -86,8 +86,8 @@ Kills: -
 Consumables: \
 4x potion of healing \
 potion of supreme healing \
-Charge of Power (Potion of Growth): 1x
-Draconic Souls (Miscibility Table per Soul type): White, Copper, Silver \
+Charge of Power (Potion of Growth): 1x \
+Draconic Souls (Miscibility Table per Soul type): White, Copper, Silver 
 
 #### Internalized Magic Items
 Sunstone (15ft sunlight) \
