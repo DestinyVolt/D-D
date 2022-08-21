@@ -100,9 +100,9 @@ Pocket Watch that doubles as a Compass, various maps of the underdark railway (N
 Waterskin, 50ft of Rope, Tinderbox, 10 Pitons \
 Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
-[Cloak of Displacement](https://roll20.net/compendium/dnd5e/Cloak%20of%20Displacement#content) \
+Cloak of Displacement (BA Dodge, Prof / Rest) \
 Old Recording of a Mathemagics Lecture \
-The Rock (18/90) \
+The Rock (21/90) \
 Bag of Ball Bearings \
 Net / Smith's Tools \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
