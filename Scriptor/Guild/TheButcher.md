@@ -11,7 +11,7 @@ Move: 40ft \
 STR: 18 \
 DEX: 18 \
 CON: 20 \
-INT: 10 \
+INT: 6 \
 WIS: 11 \
 CHA: 13
 
