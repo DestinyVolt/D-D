@@ -1,10 +1,28 @@
 ## Ava (Avashtana Anterome)
-Sea Elf \
-Chaotic Good
-Age: Like, 7?
+Triton, Fathomless Chain Warlock\
+Chaotic Good \
+Age: Like, 12?
 
-Stat Levels: CHA, DEX(+2), CON(+1), WIS, INT, STR \
-Warlock (Patron: Lurker in the Deep, Pact of the Tome) 
+(Estimates)
+HP: 44 \
+AC: 13 \
+Speed: 30ft (40 in water) \
+STR: -1 \
+DEX: +2 \
+CON: +1 \
+INT: +0 \
+WIS: +1 \
+CHA: +4
+
+### Notable Actions:
+Eldritch Blast (2x): +7 to hit, 1d10+4 (knockback 10ft) \
+Tentacle (Summon 3/day, BA): +7 to hit, 1d8 (-10ft of movement) \
+[Squiddle](https://roll20.net/compendium/dnd5e/Octopus#content) (BA): +4 to hit, 1 + Grapple (DC 10 escape) \
+Knife: +4 to hit, 1d4+2 piercing damage
+
+### Notable Reactions
+Tentacle: Reduce damage taken by a creature within 10 feet by 1d8 \
+Chain Master: Give Squiddle Resistance to damage 
 
 ### Characteristics:
 Personality Trait: I hide scraps of food and trinkets away in my pockets. \
@@ -14,28 +32,26 @@ Bond: I owe my survival to Squiddle, who kept me alive after my parent's shipwre
 Flaw: It's not stealing if I need it more than someone else.
 
 ### Proficiencies 
-Skills: Perception, Sleight of Hand, Stealth, Nature, Deception \
+Skills: Sleight of Hand, Persuasion, Intimidation, Deception \
 Tools: Disguise Kit, Thieves' Tools \
-Weapons: Simple Weapons, Net, Tridant \
+Weapons: Simple Weapons \
 Saving Throws: Wisdom, Charisma \
-Languages: Common, Elvish, Aquan
+Languages: Common, Aquan
 
 ### Spells
-Cantrips: Magic Stone, Shocking Grasp, Eldrich Blast (lvl 5) \
-Tome Cantrips: Shape Water, Guidance, Mage Hand \
-1st Level Spells: Create or Destroy Water (R), Armor of Agathys, Arms of Hadar (lvl 2) \
-1st Level Tome Spells (lvl 3): Find Familiar (R), Tensors Floating Disk (R) \
-2nd Level Spells: Hold Person (lvl 3), Invisibility(lvl 4) \
-3rd Level Spells: Lightning Bolt (lvl 5)
+Cantrips: Eldrich Blast, Minor Illusion, Magic Stone \
+1st: Armor of Agathys, Hex, Fog Cloud\* \
+2nd: Darkness, Gust of Wind\* \
+3rd: Hunger of Hadar, Sleet Storm, Lightning Bolt, Thunder Step, Water Walk\*
 
 ### Invocations
-Armor of Shadows \
-Fiendish Vigor (For level 2 only, probably) \
-Book of Ancient Secrets (lvl 3) \
-Agonizing Blast (lvl 5)
+Agonizing Blast \
+Repelling Blast \
+Investment of the Chain Master \
+Devil's Sight (Eldritch Adept) 
 
 ### Equipment
-Componenent Pouch, Leather Armor, 2 Daggers, Ask: Net & Tridant instead of 2x simple weapons \
+Componenent Pouch, Leather Armor, 2 Daggers \
 From Dungeoneer's Pack: 2 days of Food, Waterskin, Backpack \
-Background: Small Knife, Home City Map (Ocean Map?), a pet mouse (ask for octopus), token to remember parents (Maybe the net or tridant?), common clothes, 10 gp \
+Background: Small Knife, Home City Map (Ocean Map?), token to remember parents, common clothes, 10 gp \
 Ask: Fish Bowl for Squiddle
