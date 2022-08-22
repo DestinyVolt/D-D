@@ -1,6 +1,7 @@
 # Kell
+The Face / The Seller \
 He / Him \
-Age: 120 \
+Age: 160 \
 Lawful Evil \
 Level 13 Rogue 
 
