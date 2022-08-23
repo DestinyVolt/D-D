@@ -117,4 +117,4 @@ Eyes of Minute Seeing
 | You'll never take me alive, Coppers! | 12th | 4x ??th | ☑ | Copper Dragons thought they could best me, but they are slain and their hoard is mine. I intend to find more foolish metalics like them. |
 | Offerings to ~~Bahamut~~ Tiamat  | 14th | 4x ??th | ☑ | There was a small town in the mountains that hosts a large festival to Bahamut. The Offerings were paltry, but nice enough. Some foolish Silver dragons appeared, but I dealt with them. I think I know where their hoard is hidden. |
 | The Silver Hoard  | 16th | 4x ??th | ☑ | Delicious~ |
-| The Chromatic Collective | 18th | 4x ??th | ☐ | I found a list of Chromatic Dragons in the Silver Dragon's cave. Time to call my vassels to me... |
+| The Chromatic Collective | 18th | 4x ??th | ☐ | The silver dragon was concerned by a meeting of chromatics. Apparently Icefang was part of a larger cromatic alliance. It's time to force them to bend the knee... |
