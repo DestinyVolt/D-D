@@ -1,21 +1,21 @@
 ## Tia 
 Kobold, ♀, Chaotic Evil
 
-HP: 240 \
-AC: 23 \
+HP: 322 \
+AC: 24 \
 Speed: 50ft \
 Init: +5 \
-Prof: +5 \
+Prof: +6 \
 STR: 26 \
 DEX: 20 \
-CON: 28 \
-INT: 18 \
-WIS: 26 \
-CHA: 20
+CON: 30 \
+INT: 20 \
+WIS: 28 \
+CHA: 24
 
 Size: Huge \
 Height: 16"5' \
-Weight: 2050lb \
+Weight: 2050lb 
 
 #### Proficiencies
 Skills: Acrobatics, Persuasion, Investigation (Adv), Sleight of Hand \
@@ -28,43 +28,47 @@ Senses: Darkvision (60ft), Blindsight (10ft) \
 Languages: Common, Draconic
 
 ### Attacks
-Draconic Claws: +15 to hit, 2d6 + 10 slashing damage \
-Sneak Attack: +8d6 damage to claw attack, once per turn \
+Draconic Claws: +16 to hit, 2d6 + 10 slashing damage \
+Sneak Attack: +9d6 damage to claw attack, once per turn \
 Divine Strike: +2d8 damage to claw attack, once per turn \
-Booming Blade: +2d8 thunder damage to claw attack, +3d8 thunder damage if target moves \
-Green Flame Blade: +2d8 fire damage to claw attack, 2d8+9 fire damage to one adjacent target \
+Booming Blade: +3d8 thunder damage to claw attack, +4d8 thunder damage if target moves \
+Green Flame Blade: +3d8 fire damage to claw attack, 4d8+10 fire damage to one adjacent target \
 Thunderous Blows: Whenever you deal Thunder Damage, you can knock back any creature your size or smaller 10 feet. \
-Sweeping Claws: Whenever you make a claw attack, all creatures within 5 feet of the target must make a DC 21 Dex Save or become a target of the attack as well.
+Sweeping Claws: Whenever you make a claw attack, all creatures within 5 feet of the target must make a DC 22 Dex Save or become a target of the attack as well. \
+Blaze of Glory: Reaction Attack against creature who downs you, Advantage, +5d10 fire damage + 5d10 weapon damage 
 
-### Level 16 Zeal Cleric
-+13 to hit, DC 21, 21 Prepared Spells \
+### Level 18 Zeal Cleric
++15 to hit, DC 23, 27 Prepared Spells \
 Cantrips: Guidance, Thaumaturgy, Resistance, Word of Radiance, Sacred Flame \
-1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith \
-2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Hold Person, Spiritual Weapon, Hold Person, Protection from Poison, Borrowed Knowledge \
+1st Level Spells (4): Thunderous Smite\*, Searing Smite\*, Bless, Cure Wounds, Detect Magic, Shield of Faith, Healing Word \
+2nd Level Spells (3): Dragon's Breath\*, Shatter\*, Spiritual Weapon, Hold Person, Protection from Poison, Borrowed Knowledge \
 3rd Level Spells (3): Fireball\*, Haste\*, Spirit Guardians, Aura of Vitality, Remove Curse, Dispel Magic	\
 4th Level Spells (2): Fire Shield\*, Freedom of Movement\*, Death Ward \
 5th Level Spells (2): Destructive Wave\*, Flame Strike\*, Greater Restoration, Geas \
 6th Level Spells (1): Heal, Harm, Word of Recall \
 7th Level Spells (1): Divine Word, Fire Storm, Regenerate, Temple of the Gods \
-8th Level Spells (1): Earthquake
+8th Level Spells (1): Earthquake, Antimagic Field \
+9th Level Spells (1): Power Word: Heal, Gate
 
 Unarmored Defense: AC = 10 + DEX + WIS \
 Priest of Zeal: Wis BA Attack / Day \
-Channel Divinity: Maximize Elemental Damage (2 / Rest) \
-Divine Intervention: 16/100th chance for Divine Intervention. 
+Channel Divinity: Maximize Elemental Damage (3 / Rest) \
+Divine Intervention: 18/100th chance for Divine Intervention. 
 
-### Level 16 Arcane Rogue
-+9 to hit, DC 17 \
+### Level 18 Arcane Rogue
++11 to hit, DC 19 \
 Cantrips: Booming Blade, Prestidigitation, Message \
 1st (4): Silvery Barbs, Sleep, ~~Find Familiar~~, Disguise Self	 \
 2nd (3): Invisiblity, Suggestion, Enlarge / Reduce \
-3rd (2): Fear, Catnap, Ashardalon's Stride, Major Image
+3rd (3): Fear, Catnap, Ashardalon's Stride, Major Image
 
 Cunning Action: You can Dash, Disengage, Hide, or Steady your Aim as a bonus action. \
 Uncanny Dodge: You can use your reaction to halve damage from an attack. \
 Evasion: When forced to make a Dex save to take half damage, you take half damage on failure and no damage on success. \
 Magical Ambush: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on saving throw against it. \
-Reliable Talent: Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+Reliable Talent: Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10. \
+Spell Thief: Reaction: Target must make a DC 18 spell save or the spell is countered and you learn it for 8 hours \
+Elusive: Attacks cannot have advantage against you. 
 
 #### Draconic Abilities
 Draconic Roar: Prof/Day Advantage BA \
@@ -74,13 +78,14 @@ Gift of the Chromatic Dragon: Prof / Day Resistance to Elements, 1 / Day +1d4 El
 Draconic Wings: As a bonus action, you can grow/ungrow draconic wings, which let you fly. \
 Draconic Resistance: If you have two sources of resistance against cold, acid, lightning, fire, thunder, or poison damage, you have immunity to that damage. \
 Elemental Mastery: When you cast a spell that deals damage of a type you are resistant to, you can change the spell's damage type to that of another damage type you are resistant too. \
-Resilience (CON): Proficiency in CON Saves
+Resilience (CON): Proficiency in CON Saves \
+Tough: +2 HP per Level
 
 #### Inventory
 ✯✯✯ [Soul of the Dragon Queen (Artifact)](https://github.com/DestinyVolt/D-D/blob/master/Others/OnePlayer/artifact.md) \
-Treasure Eaten: 461,800gp \
-Coin: 52gp, 8sp, 0cp \
-Experience: 202,450 (Next Level: 225,000) \
+Treasure Eaten: 544,000gp \
+Coin: 282gp, 8sp, 0cp \
+Experience: 284,950 (Next Level: 305,000) \
 Kills: -
 
 Consumables: \
@@ -95,7 +100,7 @@ Periapt of Health (Immunity to Disease) \
 Eyes of Minute Seeing 
 
 #### Future Extra ASI Levels:
-17, 18, 20
+20
 
 ### Adventures:
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
@@ -111,4 +116,5 @@ Eyes of Minute Seeing
 | There be Dragons | 10th | 4x 10th | ☑ | A strong foe, but a stupid one. It is a shame my former breathen do not follow me as they should. I am much more powerful now. |
 | You'll never take me alive, Coppers! | 12th | 4x ??th | ☑ | Copper Dragons thought they could best me, but they are slain and their hoard is mine. I intend to find more foolish metalics like them. |
 | Offerings to ~~Bahamut~~ Tiamat  | 14th | 4x ??th | ☑ | There was a small town in the mountains that hosts a large festival to Bahamut. The Offerings were paltry, but nice enough. Some foolish Silver dragons appeared, but I dealt with them. I think I know where their hoard is hidden. |
-| The Silver Hoard  | 16th | 4x ??th | ☐ | On my way up the mountain to reach the Silver's hoard. I'm looking forward to another good meal. |
+| The Silver Hoard  | 16th | 4x ??th | ☑ | Delicious~ |
+| The Chromatic Collective | 18th | 4x ??th | ☐ | I found a list of Chromatic Dragons in the Silver Dragon's cave. Time to call my vassels to me... |
