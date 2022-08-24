@@ -1,7 +1,7 @@
 ## Ava (Avashtana Anterome)
 Triton, Fathomless Chain Warlock\
 Chaotic Good \
-Age: Like, 12?
+Age: ??
 
 (Estimates)
 HP: 44 \
