@@ -16,7 +16,7 @@ Prof: Perception, Investigation, Survival, ~~Acrobatics~~, Athletics \
 Saves: Strength, Constitution
 
 #### Weapons
-Glaive: +4 to hit, 1d10+2 
+Glaive: +4 to hit, 1d10+2 \
 Spear: +4 to hit, 1d6+2
 
 Fighting Style: Superior Technique \
