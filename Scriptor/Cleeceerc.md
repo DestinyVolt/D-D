@@ -3,7 +3,7 @@ Cleeceerc
 Level 3 \
 HP: 33 \
 AC: 11 \
-XP: 975 \
+XP: 2275 \
 Prof: +2 \
 Str: 14 \
 Dex: 10 \
