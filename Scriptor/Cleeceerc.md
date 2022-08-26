@@ -19,7 +19,7 @@ Saves: Strength, Constitution
 Glaive: +4 to hit, 1d10+2 
 Spear: +4 to hit, 1d6+2
 
-Fighting Style: Superior Technique (1d6, Commander's Strike) \
+Fighting Style: Superior Technique \
 Second Wind: Bonus Actuon heal 1d10 + 3 \
 Action Surge: Once per day, you can take another action
 
