@@ -11,8 +11,8 @@ Move: 40ft \
 STR: 18 \
 DEX: 18 \
 CON: 20 \
-INT: 6 \
-WIS: 11 \
+INT: 11 \
+WIS: 6 \
 CHA: 13
 
 Proficiencies: Intimidation, Athletics, Arcana, Perception, Animal Handling, Medicine
