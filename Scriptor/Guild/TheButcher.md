@@ -15,7 +15,7 @@ INT: 6 \
 WIS: 11 \
 CHA: 13
 
-Proficiencies: Intimidation, Athletics, Arcana, Perception, Animal Handling, Medicine \
+Proficiencies: Intimidation, Athletics, Arcana, Perception, Animal Handling, Medicine
 
 #### Actions (2x)
 Greataxe: +8 to hit, 1d12+7 \
