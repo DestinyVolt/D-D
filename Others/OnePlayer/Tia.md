@@ -67,7 +67,7 @@ Uncanny Dodge: You can use your reaction to halve damage from an attack. \
 Evasion: When forced to make a Dex save to take half damage, you take half damage on failure and no damage on success. \
 Magical Ambush: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on saving throw against it. \
 Reliable Talent: Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10. \
-Spell Thief: Reaction: Target must make a DC 18 spell save or the spell is countered and you learn it for 8 hours \
+Spell Thief: Reaction: Target must make a DC 19 spell save or the spell is countered and you learn it for 8 hours \
 Elusive: Attacks cannot have advantage against you. 
 
 #### Draconic Abilities
