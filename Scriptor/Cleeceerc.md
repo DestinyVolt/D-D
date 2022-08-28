@@ -17,7 +17,8 @@ Saves: Strength, Constitution
 
 #### Weapons
 Glaive: +4 to hit, 1d10+2 \
-Spear: +4 to hit, 1d6+2
+Spear: +4 to hit, 1d6+2 \
+Talons: +4 to hit, 1d4+2
 
 Fighting Style: Superior Technique \
 Second Wind: Bonus Actuon heal 1d10 + 3 \
