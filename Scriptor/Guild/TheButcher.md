@@ -18,7 +18,7 @@ CHA: 13
 Proficiencies: Intimidation, Athletics, Arcana, Perception, Animal Handling, Medicine \
 
 #### Actions (2x)
-Greataxe: 1d12+8 \
+Greataxe: +8 to hit, 1d12+7 \
 Intimidating Presence (DC 13 Save v Frightened) 
 
 #### Bonus Actions
