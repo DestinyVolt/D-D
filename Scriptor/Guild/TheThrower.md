@@ -8,17 +8,17 @@ HP: 100 \
 AC: 17 \
 Prof: +4 \
 Move: 30ft \
-STR: 12
-DEX: 20
-CON: 16
-INT: 11
-WIS: 13
+STR: 12 \
+DEX: 20 \
+CON: 16 \
+INT: 11 \
+WIS: 13 \
 CHA: 12
 
 Proficiencies: Stealth, Athletics, Insight, Investigation
 
 #### Actions (2x)
-Dart: +6 to hit, 1d4+17 
+Dart: +6 to hit, 1d4+17 \
 Action Surge: Make 2 more attacks 
 
 #### Bonus Actions
