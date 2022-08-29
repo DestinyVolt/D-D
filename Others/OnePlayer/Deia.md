@@ -36,6 +36,9 @@ Flame Blade: +1d8 fire damage, 1d8+5 fire damage to adjacent enemy \
 Radiant Soul: +5 damage to one roll of a fire/radiant damage spell \
 Agonizing Power: +5 Damage from Cantrips \
 Eldritch Maul: +10ft reach, +1d6 damage \
+Soul of Lost Ostoria (Hill Giant): You can attempt to shove each creatures within 5ft of attack's target (while enlarged) \
+Soul of Lost Ostoria (Fire Giant): +CON to Fire spells 
+
 Celestial Revelation: +3 radiant/necrotic damage \
 \- Gain Flying (30ft), Cause Fear (Wis Save 10ft), or Deal Damage (3 radiant / turn, 10ft)
 
@@ -75,20 +78,23 @@ Abberant Mark: 10% chance to gain epic boon, starting at level 10.
 
 ### Inventory
 ✯ Eldritch Claw Tattoo (+1 to Unarmed Strikes) \
-✯ None \
+✯ Wand of Binding \
 ✯ None \
 Silvered Dagger (50g) \
 Bag of Holding (Purchased) \
 Clockwork Amulet (Purchased) \
 Component Pouch
 
-13286gp, 261sp, 0 cp \
+22902gp, 261sp, 7 cp \
 Experience: 14,400  (Next Level: 23,000	) \
-Kills: -
+Kills: 13,900xp
 
 Potion of Healing (6x) \
 Alchemist's Fire \
-Scroll of Greater Restoration (2x)
+Scroll of Greater Restoration (2x) \
+Elemental Gem (Water) \
+Robe of Useful Items (Roll)
+
 
 #### To Sell: 
 - 50gp Book
@@ -108,10 +114,8 @@ Sources: [Number](https://rpg.stackexchange.com/questions/89814/how-rare-are-mag
 PAM + Warcaster could be good 
 
 ### Obtained by Killing
-Soul of Lost Ostoria (Hill Giant, CR5): You can attempt to shove each creatures within 5ft of attack's target (while enlarged) \
 Soul of Lost Ostoria (Stone Giant, CR7): +CON to AC on Shield and Absorb Elements \
 Soul of Lost Ostoria (Frost Giant, CR8): Restore +CON THP to Armor of Agathys when Armor of Agathys deals damage \
-Soul of Lost Ostoria (Fire Giant, CR9): +CON to Fire spells \
 Soul of Lost Ostoria (Cloud Giant, CR9): Teleport 5\*CON ft after casting Mirror Image / Invisiblity / Hypnotic Pattern \
 Soul of Lost OStoria (Storm Giant, CR13): CON damage to 3 creatures within 30ft after dealing thunder damage.
 
