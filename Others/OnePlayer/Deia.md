@@ -109,12 +109,11 @@ PAM + Warcaster could be good
 
 ### Obtained by Killing
 Soul of Lost Ostoria (Hill Giant, CR5): You can attempt to shove each creatures within 5ft of attack's target (while enlarged) \
-Soul of Lost Ostoria (Fire Giant, CR9): +CON to Fire spells \
 Soul of Lost Ostoria (Stone Giant, CR7): +CON to AC on Shield and Absorb Elements \
-Soul of Lost Ostoria (Fire Giant, CR9): Restore +CON THP to Armor of Agathys when Armor of Agathys deals damage \
+Soul of Lost Ostoria (Frost Giant, CR8): Restore +CON THP to Armor of Agathys when Armor of Agathys deals damage \
+Soul of Lost Ostoria (Fire Giant, CR9): +CON to Fire spells \
 Soul of Lost Ostoria (Cloud Giant, CR9): Teleport 5\*CON ft after casting Mirror Image / Invisiblity / Hypnotic Pattern \
 Soul of Lost OStoria (Storm Giant, CR13): CON damage to 3 creatures within 30ft after dealing thunder damage.
-
 
 ### Adventures:
 | Adventure Name           | My Level | Intended Level | Completed | Notes |
