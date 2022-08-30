@@ -28,7 +28,7 @@ Maneuvers (5d8, DC 12):
 - Commander's Strike
 - Disarming Attack
 - Grappling Strike
-- Parry
+- Bait and Switch
 
 When you are successfully stabilized while dying, you regain hit points equal to your Constitution modifier (minimum of 1). \
 Whenever you regain hit points as a result of a spell, potion, or class feature (but not this feat), you regain additional hit points equal to your Constitution modifier (minimum of 1).
