@@ -5,7 +5,7 @@ Neutral Evil \
 Level 10 Barbarian
 
 HP: 147 \
-AC: 18 \
+AC: 19\
 Prof: +4 \
 Move: 40ft \
 STR: 18 \
