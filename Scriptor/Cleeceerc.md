@@ -24,7 +24,7 @@ Fighting Style: Superior Technique \
 Second Wind: Bonus Actuon heal 1d10 + 3 \
 Action Surge: Once per day, you can take another action
 
-Maneuvers (5d8, DC 12): 
+Maneuvers (5d8, DC 13): 
 - Commander's Strike
 - Disarming Attack
 - Grappling Strike
