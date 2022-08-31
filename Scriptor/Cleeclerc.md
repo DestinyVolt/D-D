@@ -14,7 +14,7 @@ Cha: 6
 Prof: Perception, Investigation, Survival, ~~Acrobatics~~, Athletics \
 Saves: Strength, Constitution
 
-#### Actions
+#### Weapons (Multiattack 2x)
 Glaive: +5 to hit, 1d10+2 \
 Spear: +5 to hit, 1d6+2 \
 Talons: +5 to hit, 1d6+2 \
