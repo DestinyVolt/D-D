@@ -92,12 +92,11 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
-Currency: 10gp, 0sp, 0cp \
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
-Waterskin, 50ft of Rope, Tinderbox, 10 Pitons \
+Waterskin, 2x 50ft of Rope, Tinderbox, 10 Pitons \
 Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Cloak of Displacement (BA Dodge, Prof / Rest) \
@@ -123,13 +122,13 @@ Telekinesis, Temporal Shunt \
 
 **Wizard 10:**
 Arcane Abeyance \
-Rary's Telepathic Bond, ???, Cantrip \
+Rary's Telepathic Bond, Summon Warrior Spririt (UA), Cantrip \
 +1 5th level slot, +1 Spell Prep'd
 
 #### Spell Scrolls: 
-1st: Identify (175gp)\*, Absorb Elements (75gp)\* \
-2nd: Continual Flame, Levitate, Borrowed Knowledge \
-3rd: Leomund's Tiny Hut, Counterspell, Phantom Steed \
+1st: Identify (175gp)\* \
+2nd: Continual Flame, Gentle Repose \
+3rd: Leomund's Tiny Hut, Phantom Steed \
 4th: Banishment \
 5th: Teleportation Circle \
 *Reminder: I can technically get these by copying them from the Artificer Spell list, though it's rather expensive.  
