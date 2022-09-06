@@ -21,7 +21,7 @@ Talons: +5 to hit, 1d6+2 \
 Improvised Weapons: +5 to hit, 1d4 + 2
 
 #### Bonus Actions
-Second Wind: Heal 1d10 + 4 \
+Second Wind: Heal 1d10 + 4 (+ 4)\
 Tavern Brawler: Grapple (+5)
 
 #### Reactions
