@@ -108,7 +108,7 @@ Azorius Charm (1x Hold Person (3rd) or Command or Counterspell)
 
 #### Future Levels:
 **Wizard 7:** \
-Fabricate, Psychic Lance \
+Fabricate, Gentle Repose \
 +1 4th level slot, +1 Spell Prep'd
 
 **Wizard 8:** \
