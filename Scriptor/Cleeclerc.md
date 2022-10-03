@@ -1,6 +1,6 @@
 Cleeclerc
 
-Level 5 \
+Level 5 (8140xp) \
 HP: 63 \
 AC: 11 \
 Prof: +3 \
