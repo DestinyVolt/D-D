@@ -129,7 +129,7 @@ Rary's Telepathic Bond, Summon Warrior Spririt (UA), +1 Cantrip \
 #### Spell Scrolls: 
 1st: Identify (175gp)\* \
 2nd: Continual Flame \
-3rd: Leomund's Tiny Hut, Phantom Steed \
+3rd: Leomund's Tiny Hut, Phantom Steed, Dispel Magic \
 4th: Banishment \
 5th: Teleportation Circle \
 *Reminder: I can technically get these by copying them from the Artificer Spell list, though it's rather expensive.  
