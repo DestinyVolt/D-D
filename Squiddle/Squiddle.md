@@ -123,12 +123,12 @@ Telekinesis, Temporal Shunt \
 
 **Wizard 10:**
 Arcane Abeyance \
-Rary's Telepathic Bond, Summon Warrior Spririt (UA), Cantrip \
+Rary's Telepathic Bond, Summon Warrior Spririt (UA), +1 Cantrip \
 +1 5th level slot, +1 Spell Prep'd
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\* \
-2nd: Continual Flame, Gentle Repose \
+2nd: Continual Flame \
 3rd: Leomund's Tiny Hut, Phantom Steed \
 4th: Banishment \
 5th: Teleportation Circle \
