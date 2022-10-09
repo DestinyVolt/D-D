@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 55 \
+HP: 64 \
 AC: 18 (Scale Mail + Shield + 2) \
 Prof: +3 \
 Speed: 35ft, Init: +7 \
@@ -27,19 +27,20 @@ Thorn Whip: +8 to hit, 2d6 piercing + Drag 10 feet \
 Vampiric Bite: +6 to hit, 1d4+3 piercing + 1d8 psychic damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 1 \
+Spell Slots: 4, 3, 3, 2 \
 Save DC: 16, +8 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Expeditious Retreat, Sleep
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
 
-### Chronurgy Wizard 6:
+### Chronurgy Wizard 7:
 Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
-Unprepared: Glyph Of Warding, Gift of Alacrity, Magnify Gravity, Sending, Magic Circle, Tasha's Mind Whip, Remove Curse \
-1st (3 Prepared): Silvery Barbs, Shield, Detect Magic \
-2nd (4 Prepared): Immovable Object, Find Vehicle (UA), Gentle Repose, Vortex Warp \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
+Unprepared  (Low Level): Magnify Gravity, Tasha's Mind Whip, Immovable Object \
+Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse \
+1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Pulse Wave \
-4th (0 Prepared): -
+4th (2 Prepared): Fabricate, Psychic Lance
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -105,16 +106,13 @@ The Rock (21/90) \
 Bag of Ball Bearings \
 Net / Smith's Tools \
 A Gallon of Glue \
+Anti-Magic Handcuffs \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
-**Wizard 7:** \
-Fabricate, Psychic Lance \
-+1 4th level slot, +1 Spell Prep'd
-
 **Wizard 8:** \
 ASI: Heavily Armored (+1 Con) \
-Greater Displacement (Invisiblity), Dispel Magic \
+Banishment, Summon Warrior Spirit (UA) \
 +1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
 
 **Wizard 9:** \
@@ -123,14 +121,14 @@ Telekinesis, Temporal Shunt \
 
 **Wizard 10:**
 Arcane Abeyance \
-Rary's Telepathic Bond, Summon Warrior Spririt (UA), +1 Cantrip \
+Rary's Telepathic Bond, Dominate Person, +1 Cantrip \
 +1 5th level slot, +1 Spell Prep'd
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\* \
 2nd: Continual Flame \
-3rd: Leomund's Tiny Hut, Phantom Steed, Dispel Magic \
-4th: Banishment \
+3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell \
+4th: - \
 5th: Teleportation Circle \
 *Reminder: I can technically get these by copying them from the Artificer Spell list, though it's rather expensive.  
 
