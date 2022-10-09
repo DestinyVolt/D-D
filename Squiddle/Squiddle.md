@@ -35,9 +35,9 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 6:
 Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
-Unprepared: Glyph Of Warding, Gift of Alacrity, Magnify Gravity, Sending, Magic Circle, Immovable Object, Remove Curse \
+Unprepared: Glyph Of Warding, Gift of Alacrity, Magnify Gravity, Sending, Magic Circle, Tasha's Mind Whip, Remove Curse \
 1st (3 Prepared): Silvery Barbs, Shield, Detect Magic \
-2nd (4 Prepared): Tasha's Mind Whip, Find Vehicle (UA), Gentle Repose, Vortex Warp \
+2nd (4 Prepared): Immovable Object, Find Vehicle (UA), Gentle Repose, Vortex Warp \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Pulse Wave \
 4th (0 Prepared): -
 
