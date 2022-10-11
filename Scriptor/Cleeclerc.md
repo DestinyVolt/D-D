@@ -2,7 +2,7 @@ Cleeclerc
 
 Level 5 (8140xp) \
 HP: 63 \
-AC: 11 \
+AC: 14 \
 Prof: +3 \
 Str: 14 \
 Dex: 10 \
