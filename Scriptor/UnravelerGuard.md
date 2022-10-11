@@ -43,4 +43,4 @@ You don't need to sleep, and magic can't put you to sleep.
 Cantrips: Guidance, Sacred Flame, Spare the Dying, Shocking Grasp \
 1st Level (4 slots): Sanctuary, Absorb Elements, Healing Word, Shield (Breakthrough) \
 2nd Level (3 slots): Arcane Lock, Spiritual Weapon (Breakthrough) \
-3rd Level (2 slots): Tiny Servant, Spiritual Guardians (Breakthrough)
+3rd Level (1 slots): Tiny Servant, Spiritual Guardians (Breakthrough)
