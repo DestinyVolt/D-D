@@ -26,7 +26,7 @@ Senses: Darkvision (60ft) \
 Languages: Common, Goblin, Terran, Kobold, ~~Giant~~
 
 #### Attacks
-Unarmed Strike: +3 to hit, 2d10+3 \
+Unarmed Strike: +3 to hit, 2d10+1\
 Soul Catching Gloves: On a successful unarmed strike, heal for damage dealt or gain advantage on next d20 roll. \
 Horde Breaker: You can make one additional attack on your turn, so long as not all your attacks target the same creature. \
 Fury of the Small: 1 / Rest, +Level to damage against larger creature
