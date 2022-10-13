@@ -55,9 +55,25 @@ Cantrips: Booming Blade, Sapping Sting, Minor Illusion  \
 1st Level (3): ~~Mage Armor~~, Shield, Feather Fall, Silvery Barbs, Detect Magic \
 2nd Level (2): Hold Person, Suggestion
 
-Warcaster: Advantage on Consitution Saves to maintain spells
+War Caster: Advantage on Consitution Saves to maintain spells
 
-#### Notes
+#### Inventory
+Coin: 16gp, 0sp, 0cp \
+Experience: 900 (Next Level: 2,700) \
+Kills: -
+
+✯ Gloves of Soul Catching \
+✯ None \
+✯ None \
+
+#### Future Levels
 We want Warcaster, INT++(4), PAM(4), Skill Expert (8), Tavern Brawler(8). \
 Stop Ranger levels at 11. \
 Next Level: Enlarge / Reduce, Invisibility
+
+
+### Adventures:
+| Adventure Name           | My Level | Intended Level | Completed | Notes |
+| ------------------------ | -------- | -------------- | --------- | --------- |
+| Lost Mine (Chapter 1)    | 3rd      | 4x 1st         | ☐ | :D |
+| Lost Mine (Chapter 2)    | ???      | 4x 2nd         | ☐ | Saving this unicode ☑ |
