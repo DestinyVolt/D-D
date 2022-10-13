@@ -18,7 +18,7 @@ Height: 4" \
 Weight: 80lb 
 
 #### Proficiencies
-Skills: Athletics, Acrobatics, Perception, Survival, Arcana, Investigation
+Skills: Athletics, Sleight of Hand, Perception, Survival, Arcana, Investigation \
 Expertise: Stealth \
 Tools: Thieves' Tools, Poisoner's Kit \
 Saves: Strength, Dexterity, Intelligence, Wisdom \
@@ -67,7 +67,7 @@ Kills: -
 ✯ None \
 
 #### Future Levels
-We want Warcaster, INT++(4), PAM(4), Skill Expert (8), Tavern Brawler(8). \
+INT++(4), PAM(4), Skill Expert (8), Tavern Brawler(8). \
 Stop Ranger levels at 11. \
 Next Level: Enlarge / Reduce, Invisibility
 
