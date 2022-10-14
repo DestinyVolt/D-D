@@ -63,9 +63,9 @@ Cantrips: Booming Blade, Sapping Sting, Minor Illusion, Prestidigitation \
 War Caster: Advantage on Consitution Saves to maintain spells
 
 #### Inventory
-Coin: 542gp \
+Coin: 647gp \
 Experience: 9000 (Next Level: 14,000) \
-Kills: -
+Kills: 450 + 300 + 50 + 700 + 
 
 Equipped:
 ✯ Gloves of Soul Catching \
@@ -83,7 +83,9 @@ Potion of Invisibility \
 Scroll of Fireball \
 Scroll of Charm Person \
 Scroll of Revifify \
-Scroll of Silence 
+Scroll of Silence \
+Boots of Striding and Springing \
+
 
 Carried by Entourage: \
 7x 10gp Gems \
@@ -93,8 +95,8 @@ Carried by Entourage: \
 120gp Censer \
 
 1000gp \
-768sp \
-654cp 
+948sp \
+1254cp 
 
 #### Future Levels
 Skill Expert (8), Tavern Brawler(8). \
