@@ -85,7 +85,7 @@ Scroll of Charm Person \
 Scroll of Revifify \
 Scroll of Silence 
 
-Carried by Servants: \
+Carried by Entourage: \
 7x 10gp Gems \
 7x 15gp Gems \
 1x 100gp Gem \
