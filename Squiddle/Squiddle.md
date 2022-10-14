@@ -126,7 +126,7 @@ Rary's Telepathic Bond, Dominate Person, +1 Cantrip \
 
 #### Spell Scrolls: 
 1st: Identify (175gp)\* \
-2nd: Continual Flame \
+2nd: Continual Flame, Rope Trick \
 3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell \
 4th: - \
 5th: Teleportation Circle \
