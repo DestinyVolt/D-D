@@ -1,7 +1,7 @@
 ## Fi 
 Golbin, ♀, Neutral Evil
 
-HP: 72 \
+HP: 91 \
 AC: 20 \
 Speed: 35ft \
 Prof: +3 \
@@ -23,7 +23,7 @@ Expertise: Stealth \
 Tools: Thieves' Tools, Poisoner's Kit \
 Saves: Strength, Dexterity, Intelligence, Wisdom \
 Senses: Darkvision (60ft) \
-Languages: Common, Goblin, Terran, Kobold, Orc, ~~Giant~~
+Languages: Common, Goblin, Terran, Kobold, Orc, Olman, ~~Giant~~
 
 #### Attacks
 Unarmed Strike: +4 to hit, 2d10+2 \
@@ -40,36 +40,40 @@ Nimble Escape: Hide or Disengage as a Bonus Action
 #### Reactions
 Arcane Deflection: +2 to AC or +4 to a saving throw \
 Defensive Stance: Attack against a creature moving within your reach \
-Opportunity Attack: Doesn't cost a reaction while in Defensive Stance \
 Arm Master: You can make an opportunity attack when someone enters your reach \
 War Caster: In place of an opportunity attack, you can use your reaction to cast a spell \
 Staff of Defense: Free Shield, 2x per day
 
-#### Hunter Ranger 6
+#### Non-Reactions
+Opportunity Attack: Doesn't cost a reaction while in Defensive Stance \
+Defensive Tactics: Gain +4 AC vs Consecutive Attacks on the same turn. 
+
+#### Hunter Ranger 7
 +6 to hit, DC 14: \
 1st Level (4): Absorb Elements, Zypher Strike \
-2nd Level (2): Pass without Trace, Protection from Poison
+2nd Level (2): Pass without Trace, Protection from Poison, Lesser Restoration 
 
 Favored Enemy (Elemental): Advantage on skill checks related to Elementals. \
 Favored Enemy (Goblin, Human): Advantage on skill checks related to Humans and/or Goblins. \
 Deft Explorer (Roving): You have a climbing and swimming speed equal to your walking speed. 
 
-#### War Wizard
+#### War Wizard 7
 +8 to hit, DC 16: \
-Rituals: Identify, Alarm, Detect Magic\
-Unprepared: ~~Find Familiar~~ (Can't Use), Mage Armor, Charm Person, Fireball \
+Rituals: Identify, Alarm, Detect Magic \
+Unprepared: ~~Find Familiar~~ (Can't Use), Mage Armor, ~~Erupting Earth~~ (Can't use yet) \
 Cantrips: Booming Blade, Sapping Sting, Minor Illusion, Prestidigitation \
-1st Level (4): Shield, Feather Fall, Silvery Barbs  \
+1st Level (4): Shield, Feather Fall, Silvery Barbs \
 2nd Level (3): Hold Person, Suggestion, Enlarge / Reduce, Invisibility \
 3rd Level (3): Haste, Fast Friends, Counterspell, Dispel Magic
+4th Level (1): Conjure Minor Elementals
 
 War Caster: Advantage on Consitution Saves to maintain spells \
 Power Surge: Gain a power surge by Counterspelling or Dispelling a spell. Reset to 1 on Long rest, Short rest grants one if you have none.  
 
 #### Inventory
-Coin: 15pp, 897gp \
-Experience: 21,000 (Next Level: 23,000) \
-Kills: 
+Coin: 15pp, 160gp \
+Experience: 31,000 (Next Level: 34,000) \
+Kills: 2,500
 
 Equipped:
 ✯ Gloves of Soul Catching \
@@ -77,35 +81,54 @@ Equipped:
 ✯ Boots of Striding and Springing \
 Earing (30gp) \
 Eyepatch (50gp) \
-Ritual Knife (60gp) 
+Ritual Knife (60gp) \
+Emerald Pendant (150gp) \
+Selkie Cloak (Dasa's) \
+Bracelet of Rock Magic \
+120gp Ruby Amulet \
+250gp Platinum Bracelet
+
+Charms: \
+- Charm of Secrets (Scrying, 3x)
+- Charm of Feather Falling (Perm Featherfall, 9 Days remain)
+- Charm of the Ghoul (Eat handful of flesh and gain 3d8+3 health (3 times))
 
 Bag: \
 Potion of Invisibility \
+Potion of Flight \
 6x Potion of Healing \
-+1 Longsword \
-Scroll of Revifify \
 Scroll of Silence \
-3x 100gp Diamond \
-Wand of Magic Missile (1 Charge) \
+Scroll of Misty Step \
+Scroll of Protection (Feline Beasts/Lycanthropes) \
+6x 100gp Diamond \
+Wand of Magic Missile (7 Charges) \
+100gp Pearl \
 Map to Dungeon?
 
 Entourage: \
-18 Goblins, 1 Bugbear, Droop \
+18 Goblins, 1 Bugbear, Droop, 1 Nereid \
 Carrying: \
+Scroll of Revifify \
 Spider Staff \
 Dawnbreaker \
 Dragonguard \
-Dragonsguard \
-16x 10gp Gems \
+Hew (+1 Axe) \
+Talon (+1 Longsword) \
+Sacrificial Knife (+1 Dagger) \
+26x 10gp Gems \
 7x 15gp Gems \
-1x 100gp Gem \
+3x 20gp Gems \
 150gp Chalice \
 100gp Mug \
 120gp Censer \
 150gp Pipe \
-1000gp \
-1108sp \
-2354cp 
+200gp Jade Statuette \
+150gp Silver Coffer \
+50gp Copper Statuette \
+50gp Fan \
+2000gp \
+2103sp \
+3054cp 
 
 #### Future Levels
 Skill Expert (8), Tavern Brawler(8). \
@@ -120,4 +143,5 @@ Favored Enemy: Humans + Goblins
 | Lost Mine (Chapter 2)    | 4th      | 4x 2nd         | ☑ | Towns are so rich, and yet we were so poor. God, our clan really was pathetic. I deserve better. |
 | Lost Mine (Cragmaw)      | 4th      | 4x 3rd         | ☑ | I'm the queen of Cragmaw now! I sit on my throne surrounded by gold, but I want more... I deserve more. |
 | Lost Mine (Echo Mines)   | 5th      | 4x 4th         | ☑ | Easy Peasy. I gained a new bugbear follower and I've got a lair now. This will be my castle until a more appropriate one is found. My people found a set of gauntlets underneath the ground, but they are too big for me to wear. I've given them to the pixie bugs so they can hopefully make some progress... or else, it's shatter time >:) |
-| Lost Mine (Thundertree)  | 6th      | 4x "3rd"       | ☐ | I guess I should go to that place that one family told me about. |
+| Lost Mine (Thundertree)  | 6th      | 4x "3rd"       | ☑ | The dragon was a coward, and his hoard is mine. The Pixies are finally making progress, but nothing good yet. |
+| The Hidden Shrine of Tamoachan (Level 1) | 7th | 4x 5th         | ☐ | I followed the map, but we fell into the lowest levels of a ruin, which was filled with poison. I lost two of my followers, but managed to get everyone else up out of the poison. I also found a water lady and stole her seal skin. She'll make a good addition, I just have to figure out how to get out of here. |
