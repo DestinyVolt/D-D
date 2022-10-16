@@ -36,10 +36,10 @@ Cantrips: Magic Stone, Thorn Whip \
 Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared  (Low Level): Magnify Gravity, Tasha's Mind Whip, Immovable Object \
-Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse \
+Unprepared (High Level): Glyph Of Warding, Pulse Wave, Magic Circle, Remove Curse \
 1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (4 Prepared): Slow, Haste, Tiny Servant, Pulse Wave \
+3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
 4th (2 Prepared): Fabricate, Psychic Lance
 
 **Arcane Recovery:** \
