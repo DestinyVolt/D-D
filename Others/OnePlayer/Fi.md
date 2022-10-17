@@ -65,7 +65,7 @@ Unprepared: ~~Find Familiar~~ (Can't Use), Mage Armor \
 Cantrips: Booming Blade, Sapping Sting, Minor Illusion, Prestidigitation \
 1st Level (4): Shield, Silvery Barbs \
 2nd Level (3): Hold Person, Suggestion, Enlarge / Reduce, Invisibility \
-3rd Level (3): Haste, Fast Friends, Counterspell, Dispel Magic, Erupting Earth
+3rd Level (3): Haste, Fast Friends, Counterspell, Dispel Magic, Erupting Earth \
 4th Level (2): Conjure Minor Elementals, Fabricate
 
 War Caster: Advantage on Consitution Saves to maintain spells \
@@ -84,12 +84,10 @@ Charms:
 - Charm of Biting Cold (+1d6 Cold damage for 1 Minute, 3 charges)
 - Simic Charm (Free cast of Enlarge / Reduce) 
 
-
-
 #### Inventory
 Coin: 15pp, 160gp \
 Experience: 34,200 (Next Level: 48,000) \
-Kills: -
+Kills: 2,900
 
 Equipped:
 ✯ Gloves of Soul Catching \
