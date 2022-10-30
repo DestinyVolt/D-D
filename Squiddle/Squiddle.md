@@ -35,10 +35,10 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 7:
 Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared  (Low Level): Magnify Gravity, Tasha's Mind Whip, Immovable Object \
+Unprepared  (Low Level): Magnify Gravity, Immovable Object, Gift of Alacrity \
 Unprepared (High Level): Glyph Of Warding, Pulse Wave, Magic Circle, Remove Curse \
-1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
+1st (3 Prepared): Silvery Barbs, Shield \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
 4th (2 Prepared): Fabricate, Psychic Lance
 
@@ -106,7 +106,6 @@ The Rock (21/90) \
 Bag of Ball Bearings \
 Net / Smith's Tools \
 A Gallon of Glue \
-Anti-Magic Handcuffs \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
