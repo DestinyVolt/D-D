@@ -16,7 +16,7 @@ Saves: Strength, Constitution
 
 #### Weapons (Multiattack 2x)
 Glaive: +5 to hit, 1d10+2 \
-Spear: +5 to hit, 1d6+2 \
+Spear (+1): +6 to hit, 1d6+3 \
 Talons: +5 to hit, 1d6+2 \
 Improvised Weapons: +5 to hit, 1d4 + 2
 
