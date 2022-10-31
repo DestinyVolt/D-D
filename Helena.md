@@ -61,7 +61,7 @@ In my case:
 ### Backstory
 Background: Noble \
 Feature: Position of Privilege \
-Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 
 Personality Trait: I like getting into fights, but I feel bad if the other person doesn't deserve it \
 Personality Trait: The best way to get me to do something is to tell me I can't do it. \
