@@ -10,17 +10,17 @@ Prof: +4 \
 STR: 12 \
 DEX: 14 \
 CON: 14 \
-INT: 18 \
+INT: 20 \
 WIS: 8 \
 CHA: 12
 
 ### Combat 
-Sacred Flame: DC 18 Wis Save, 2d8 damage \
-Spiritual Weapon: +8 to hit, 2d8+4 damage \
-Shocking Grasp: +10 to hit, 2d8 damage
+Sacred Flame: DC 19 Wis Save, 2d8 damage \
+Spiritual Weapon: +9 to hit, 2d8+4 damage \
+Shocking Grasp: +11 to hit, 2d8 damage
 
-Flash of Genius: +4 to a roll as a reaction \
-Spirit Guardians: DC 16 Wis Save vs 5d8 necrotic damage
+Flash of Genius: +5 to a roll as a reaction \
+Spirit Guardians: DC 17 Wis Save vs 5d8 necrotic damage
 
 Tiny Servant (1x): \
 10hp, AC 15, +5 to hit, 1d4+3 damage, DC 15 Wis Save vs Frighten
