@@ -2,7 +2,7 @@
 
 HP: 65 \
 AC: 15 \
-Speed: 35ft
+Speed: 35ft \
 Prof: +6 \
 STR: 13 \
 DEX: 20 \
