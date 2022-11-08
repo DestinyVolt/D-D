@@ -20,7 +20,8 @@ Languages: Common, Elvish, Druidic
 Combat Wild Shape: You can wild shape as a bonus action, turning into a creature of up to CR6. \
 Thousand Forms: You can cast Alter Self at will. \
 Elemental Wild Shape: You can wild shape into a basic CR5 Elemental. \
-Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. 
+Mask of the Wild: You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. \
+Beast Speech: You can cast Speak with Animals at will. 
 
 Save DC: 20, +12 to hit \
 Cantrips (4): Guidance, Frostbite, Thorn Whip, Primal Savagery (Snarl: 2 Attacks) \
