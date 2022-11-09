@@ -35,4 +35,4 @@ Save DC: 19, +11 to hit \
 2nd (3): Locate Object, Locate Animals and Plants \
 3rd (3): Nondetection, Dispel Magic	\
 4th (3): Locate Creature \
-5th (2): Steel Wind Strike \
+5th (2): Steel Wind Strike 
