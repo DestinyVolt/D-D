@@ -34,6 +34,5 @@ Save DC: 19, +11 to hit \
 1st (5): Silvery Barbs, Hunter's Mark, Charm Person, Ensnaring Strike, Zephyr Strike \
 2nd (3): Locate Object, Locate Animals and Plants \
 3rd (3): Nondetection, Dispel Magic	\
-4th (3): Locate Creature \	
+4th (3): Locate Creature \
 5th (2): Steel Wind Strike \
-Fey-Touched (Misty Step + Silvery Barbs)
