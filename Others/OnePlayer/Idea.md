@@ -40,6 +40,7 @@ Switch Discipline Focus:
 - Giant Growth: +5 reach
 
 #### Soul Knife Mystic 3
+Psi Points: 14 \
 Hone the Blade (Psi: 2): +1 to attack and damage
 
 ##### Disciplines
