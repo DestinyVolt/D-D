@@ -30,7 +30,7 @@ Cantrips (4): Guidance, Frostbite, Thorn Whip, Primal Savagery (Snarl: 2 Attacks
 3rd (3): Conjure Animals, Erupting Earth \
 4th (3): Guardian of Nature, Polymorph \
 5th (3): Tree Stride, Reincarnate, Cone of Cold, Mass Cure Wounds \
-6th (2): Heal, Druid Grove, Bones of the Earth \
+6th (2): Heal, Druid Grove, Wall of Thorns \
 7th (2): Regenerate \
 8th (1): Tsunami \
 9th (1): Storm of Vengeance
