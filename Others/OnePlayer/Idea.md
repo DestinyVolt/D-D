@@ -61,7 +61,7 @@ Scion of the Outer Planes (Lawful): Guidance, Resistance to Radiant Damage
 
 #### Inventory
 Coin: 10gp, 0sp, 0cp \
-Xp: 0 \
+Xp: 900	\
 Kills: -
 
 Thieves' Tools \
