@@ -14,8 +14,8 @@ WIS: 12 \
 CHA: 14
 
 Size: Medium \
-Height: 6' \
-Weight: 180lb
+Height: 7' \
+Weight: 220lb
 
 #### Proficiencies
 Skills: Insight, Perception, Athletics, Intimidation, Stealth, Investigation \
@@ -58,9 +58,18 @@ Ordered Mind: You have advantage on Wisdom (Insight) checks and Saving Throws vs
 Balance Chaos: Replace a d20 roll of 9 or less on a Saving Throw or Attack Roll with 10. \
 Scion of the Outer Planes (Lawful): Guidance, Resistance to Radiant Damage 
 
+#### Inventory
+Coin: 10gp, 0sp, 0cp \
+Xp: 0 \
+Kills: -
+
+Thieves' Tools \
+Fine Clothes 
+
+
 #### Future Level notes
 4th: Lawful Scion Feat, +2 DEX \
-5th: http://dnd5e.wikidot.com/discipline:bestial-form or http://dnd5e.wikidot.com/discipline:psionic-restoration
+5th: http://dnd5e.wikidot.com/discipline:bestial-form or http://dnd5e.wikidot.com/discipline:psionic-restoration \
 7th: http://dnd5e.wikidot.com/discipline:telepathic-contact \
 9th: http://dnd5e.wikidot.com/discipline:psychic-assault \
 12th: http://dnd5e.wikidot.com/discipline:bestial-form or http://dnd5e.wikidot.com/discipline:mantle-of-awe \
