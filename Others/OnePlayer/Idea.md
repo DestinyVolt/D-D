@@ -2,7 +2,7 @@
 Glitchling, ♀, Lawful Evil
 
 HP: 41 \
-AC: 18 \
+AC: 19 \
 Speed: 30ft \
 Prof: +2 \
 STR: 14 \
@@ -64,7 +64,7 @@ Psionic Rest: Once per day, you can meditate for 1 minute and reduce your Psioni
 
 #### Inventory
 Coin: 58gp, 247s, 0cp \
-Experience: 5700xp	\
+Experience: 6400xp	\
 Kills: -
 
 Thieves' Tools \
