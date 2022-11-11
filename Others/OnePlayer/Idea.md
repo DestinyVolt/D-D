@@ -1,10 +1,10 @@
 ## I, Dea 
 Glitchling, ♀, Lawful Evil
 
-HP: 41 \
+HP: 54 \
 AC: 19 \
 Speed: 30ft \
-Prof: +2 \
+Prof: +3 \
 STR: 14 \
 DEX: 20 \
 CON: 16 \
@@ -23,32 +23,41 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elvish, Draconic, Celestial, Telepathy (120ft)
 
 #### Attacks
-Soul Knives: +7 to hit, 1d8 + 1d4 + 5 psychic damage \
-Soul Knives (+1): +8 to hit, 1d8 + 1d4 + 6 psychic damage \
+Extra Attack: You can make two attacks when you take the Attack action on your turn. \
+Soul Knives: +8 to hit, 1d8 + 1d4 + 5 psychic damage \
+Soul Knives (+2): +10 to hit, 1d8 + 1d4 + 7 psychic damage \
+Wild Talent (DEX): Psionic die replaces one damage die per turn. 
+
+#### Psionics
+Psi Points: 27, Save DC: 15 \
 Mystic Charm: DC 15 Wisdom Save or apply Charm for 1 round \
-Wild Talent (DEX): Psionic die replaces one damage die. 
+Exacting Query (2 Psi): Int Save vs truthfully answering one question I ask telepathically \
+Occlude Mind (2 Psi): Int Save vs believe one <10 Word Sentence I say for 5 minutes \
+Break Will (5 Psi): Int Save or I control their Action and Movement next turn.
 
 #### Bonus Actions
 Light Step: Gain +10ft movement speed, get up without costing movement \
 Mystical Recovery: Heal 1 HP / Psi Point Spent on a Discipline \
-Ogre Form (2 Psi): +1d4 damage per turn, 10THP, +5 Reach \
-Second Wind (1/SR): Regain 1d10+3 HP \
+Ogre Form (2 Psi): +1d4 damage per turn, 10THP, +5ft Reach \
+Second Wind (1/SR): Regain 1d10+5 HP \
 Two Weapon Fighting: Additional Attack with Soul Knives \
 Parry: +2 AC until the beginning of your next turn \
 Psi Replenishment (1/LR): Restore Psionic Die to original size \
 Switch Discipline Focus: 
 - Nomadic Mind: Gain any single skill or tool proficiency
-- Giant Growth: +5 reach
+- Giant Growth: +5 reach 
+- Telepathic Contact: Mass Telepathy
 
 #### Soul Knife Mystic 4
-Psi Points: 17 \
-Hone the Blade (Psi: 2): +1 to attack and damage
+Hone the Blade (Psi: 2): +1 to attack and damage \
+Hone the Blade (Psi: 5): +2 to attack and damage
 
 ##### Disciplines
 http://dnd5e.wikidot.com/discipline:nomadic-mind \
-http://dnd5e.wikidot.com/discipline:giant-growth 
+http://dnd5e.wikidot.com/discipline:giant-growth \
+http://dnd5e.wikidot.com/discipline:telepathic-contact
 
-#### Brute Fighter 4
+#### Brute Fighter 5
 Fighting Style: Two Weapon Fighting \
 Action Surge: Take an additional action once per rest.
 
@@ -63,8 +72,8 @@ Metabolic Control: So long as your Psionic Die is not completely spent at the en
 Psionic Rest: Once per day, you can meditate for 1 minute and reduce your Psionic Die one size. You gain the benefits of a short rest. 
 
 #### Inventory
-Coin: 58gp, 247s, 0cp \
-Experience: 6400xp	\
+Coin: 78gp, 247s, 0cp \
+Experience: 6700xp	\
 Kills: -
 
 Thieves' Tools \
@@ -81,9 +90,8 @@ Immovable Rod \
 50gp Holy Symbol
 
 #### Future Level notes
-5th: http://dnd5e.wikidot.com/discipline:bestial-form or http://dnd5e.wikidot.com/discipline:psionic-restoration \
-7th: http://dnd5e.wikidot.com/discipline:telepathic-contact \
+7th: http://dnd5e.wikidot.com/discipline:psionic-restoration \
 9th: http://dnd5e.wikidot.com/discipline:psychic-assault \
-12th: http://dnd5e.wikidot.com/discipline:bestial-form or http://dnd5e.wikidot.com/discipline:mantle-of-awe \
+12th: http://dnd5e.wikidot.com/discipline:mantle-of-awe \
 15th: http://dnd5e.wikidot.com/discipline:psionic-weapon \
 18th: ???
