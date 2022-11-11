@@ -76,7 +76,9 @@ Alchemy Jug \
 Silvered Longsword \
 Silvered Dagger \
 Silvered Mace \
-Profane Skull (Pearl of Power) 
+Profane Skull (Pearl of Power) \
+Immovable Rod \
+50gp Holy Symbol
 
 #### Future Level notes
 5th: http://dnd5e.wikidot.com/discipline:bestial-form or http://dnd5e.wikidot.com/discipline:psionic-restoration \
