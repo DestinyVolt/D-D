@@ -22,7 +22,7 @@ Expertise: Athletics (+9), Deception (+7), Sleight of Hand (+7) \
 Weapon Proficiencies: Improvised Weapons, Claws \
 Saving Throws: Dexterity, Intelligence \
 Tools: Thieves' Tools, Dice Set, Cards \
-Languages: Common, Theives' Cant
+Languages: Common, Thieves' Cant
 
 ### Actions
 Improvised Weapon: +7 to hit, 1d4+5 damage \
@@ -33,7 +33,7 @@ Grab: +9 to grapple
 ### Bonus Actions
 Cunning Action: Hide, Dash, Disengage, Steady Aim \
 Fast Hands: Use an Object, Sleight of Hand, Thieves' Tools \
-Tavern Brawler: Attempt to Grapple 
+Tavern Brawler: Attempt a Grapple 
 
 ### Movement and Senses
 Walking/Climbing Speed: 30ft \
