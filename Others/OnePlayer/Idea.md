@@ -74,7 +74,7 @@ Psionic Rest: Once per day, you can meditate for 1 minute and reduce your Psioni
 #### Inventory
 Coin: 78gp, 247s, 0cp \
 Experience: 6700xp	\
-Kills: -
+Kills: 350xp
 
 Thieves' Tools \
 Fine Clothes 
