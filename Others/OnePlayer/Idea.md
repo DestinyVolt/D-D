@@ -109,3 +109,5 @@ Decanter of Endless Water (Trade for Ioun Stone of Mastery in a Desert)
 18th: ???
 
 Alisha is out there still
+
+Current Thing: True Love Never dies, heading into the temple with a revealed Suleesa.
