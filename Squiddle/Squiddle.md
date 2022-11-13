@@ -3,13 +3,13 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 64 \
+HP: 79 \
 AC: 18 (Scale Mail + Shield + 2) \
-Prof: +3 \
+Prof: +4 \
 Speed: 35ft, Init: +7 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
-CON: 17 (+3) \
+CON: 18 (+4) \
 INT: 20 (+5) \
 WIS: 12 (+1) \
 CHA: 9  (-1) 
@@ -22,25 +22,25 @@ Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
-Magic Stone: +8 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +8 to hit, 2d6 piercing + Drag 10 feet \
-Vampiric Bite: +6 to hit, 1d4+3 piercing + 1d8 psychic damage
+Magic Stone: +9 to hit, 1d6+5 bludgeoning \
+Thorn Whip: +9 to hit, 2d6 piercing + Drag 10 feet \
+Vampiric Bite: +8 to hit, 1d4+4 piercing + 1d8 psychic damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 2 \
-Save DC: 16, +8 to hit \
+Spell Slots: 4, 3, 3, 3, 1 \
+Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
 
-### Chronurgy Wizard 7:
-Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
+### Chronurgy Wizard 8:
+Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared  (Low Level): Magnify Gravity, Immovable Object, Gift of Alacrity \
-Unprepared (High Level): Glyph Of Warding, Pulse Wave, Magic Circle, Remove Curse \
+Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment \
 1st (3 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
-3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
-4th (2 Prepared): Fabricate, Psychic Lance
+3rd (4 Prepared): Slow, Haste, Tiny Servant, Pulse Wave \
+4th (2 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) 
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -109,11 +109,6 @@ A Gallon of Glue \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
-**Wizard 8:** \
-ASI: Heavily Armored (+1 Con) \
-Banishment, Summon Warrior Spirit (UA) \
-+1 4th level slot, +1 5th level slot, +1 Spell Prep'd, +1 Prof Bonus
-
 **Wizard 9:** \
 Telekinesis, Temporal Shunt \
 +1 5th level slot, +1 Spell Prep'd
