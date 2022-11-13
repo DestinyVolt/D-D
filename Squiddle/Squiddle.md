@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 79 \
+HP: 77 \
 AC: 18 (Scale Mail + Shield + 2) \
 Prof: +4 \
 Speed: 35ft, Init: +7 \
