@@ -20,6 +20,7 @@ Weight: 220lb
 Skills: Insight, Perception, Athletics, Intimidation, Stealth, Investigation \
 Saves: Strength, Constitution, Intelligence, Wisdom \
 Resistances: Radiant \
+Immunities: Poison \
 Senses: Darkvision (60ft) \
 Languages: Common, Elvish, Draconic, Celestial, Telepathy (120ft)
 
@@ -88,26 +89,30 @@ Metabolic Control: So long as your Psionic Die is not completely spent at the en
 Psionic Rest: Once per day, you can meditate for 1 minute and reduce your Psionic Die one size. You gain the benefits of a short rest. 
 
 #### Inventory
-Coin: 1,388gp, 247sp, 0cp \
-Experience: 24,200xp \
-Kills: 3150
+Coin: 3201gp, 247sp, 0cp \
+Experience: 32,950xp \
+Kills: -
+
+✯ Vampiric Rod (6 Charges, BA, 2d4+2 / Charge spent) \
+✯ - \
+✯ -
+Periapt of Protection against Poison
 
 Thieves' Tools \
 Fine Clothes (50gp)
 
-5x 250gp Gem \
-Emberblade (???) \
+Emberblade (+1d6 to Undead, Counts as Sunlight) \
 Alchemy Jug (Trade for Bag of Holding and 500gp) \
-Profane Skull (Trade for Periapt of Protection against Poison) \
 Immovable Rod (Trade for Bracers of Defense) \
-Decanter of Endless Water (Trade for Ioun Stone of Mastery in a Desert) 
+Decanter of Endless Water (Trade for Ioun Stone of Mastery in a Desert) \
+Wand of Magic Missiles
+
+#### Followers: 
+Suleesa (https://www.aidedd.org/dnd/monstres.php?vo=succubus) \
+Alisha is out there still
 
 #### Future Level notes
 9th: http://dnd5e.wikidot.com/discipline:mantle-of-awe \
 12th: http://dnd5e.wikidot.com/discipline:precognition \
 15th: http://dnd5e.wikidot.com/discipline:nomadic-mind \
 18th: ???
-
-Alisha is out there still
-
-Current Thing: True Love Never dies, heading into the temple with a revealed Suleesa.
