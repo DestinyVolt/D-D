@@ -28,7 +28,7 @@ Languages: Common, Elvish, Draconic, Celestial, Telepathy (120ft)
 #### Attacks
 Extra Attack: You can make two attacks when you take the Attack action on your turn. \
 Soul Knives: +10 to hit, 1d8 + 1d6 + 6 psychic damage \
-Soul Knives (+3): +13 to hit, 1d8 + 1d6 + 10 psychic damage \
+Soul Knives (+4): +13 to hit, 1d8 + 1d6 + 10 psychic damage \
 Augmented Knives: +16 to hit, 1d8 + 1d6 + 13 psychic damage \
 Potent Psionics: +1d8 psychic damage 1 / turn \
 +1 Whip: +10 to hit, 1d6+1d4+6 slashing damage \
@@ -44,7 +44,7 @@ Consumptive Power: You can use disciplines without using Psi Points, but it redu
 
 Psionic Guidance (Conc.): +1d4 to next ability check \
 Mystic Charm (Talent): Wisdom Save or apply Charm for 1 round \
-Mind Thrust: DC 17 Int save or take 2d10 + 5 psychic damage 
+Mind Thrust: DC 17 Int save or take 2d10 + 6 psychic damage 
 
 Exacting Query (2 Psi): Int Save vs truthfully answering one question I ask telepathically \
 Occlude Mind (2 Psi): Int Save vs believe one 10 Word Sentence I say for 5 minutes \
@@ -108,7 +108,7 @@ Psionic Meditation: Once per day, you can meditate for 1 minute and reduce your 
 #### Inventory
 Coin: 3776gp, 675sp, 345cp \
 Experience: 66,550 xp \
-Kills: 3500
+Kills: 3500+1200
 
 ✯ Crown of the Psion Queen \
 ✯ Cloak of Protection \
@@ -134,12 +134,13 @@ Sword Diagram (100gp) \
 #### Followers: 
 Suleesa (https://www.aidedd.org/dnd/monstres.php?vo=succubus) \
 ✯ - \
-✯ - \
-✯ - \
 Ring of Water Breathing \
 Wand of Magic Missiles
 
-Alisha is out there still
+Not Yet: 
+Alisha (http://dnd5e.wikidot.com/bard:glamour)\
+Bardic Inspiration: 5d8 \
+✯ - \
 
 #### Future Level notes
 12th: http://dnd5e.wikidot.com/discipline:precognition \
@@ -147,6 +148,6 @@ Alisha is out there still
 18th: http://dnd5e.wikidot.com/discipline:psychic-assault 
 
 The Crown of the Psion Queen:
-- Increases your Intellegence score and Maximum by 2
+- Increases your Intellegence score and maximum score by 2
 - Whenever you make an attack that deals psychic damage, you gain a +1 to the attack and damage rolls. 
 - You gain resistance to Force damage and immunity to Psychic damage. 
