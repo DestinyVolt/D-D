@@ -108,7 +108,7 @@ Psionic Meditation: Once per day, you can meditate for 1 minute and reduce your 
 #### Inventory
 Coin: 3776gp, 675sp, 345cp \
 Experience: 66,550 xp \
-Kills: -
+Kills: 3500
 
 ✯ Crown of the Psion Queen \
 ✯ Cloak of Protection \
