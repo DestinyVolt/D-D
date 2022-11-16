@@ -1,11 +1,11 @@
 ## I, Dea 
 Glitchling, ♀, Lawful Evil
 
-HP: 115 \
+HP: 127 \
 AC: 23 \
 Speed: 40ft \
-Prof: +4 \
-STR: 15 \
+Prof: +5 \
+STR: 16 \
 DEX: 20 \
 CON: 16 \
 INT: 20 (+2) \
@@ -19,7 +19,7 @@ Weight: 220lb
 #### Proficiencies
 Skills: Insight, Perception, Intimidation, Stealth, Investigation, Deception \
 Expertise: Athletics \
-Saves: Strength, Constitution, Intelligence, Wisdom \
+Saves: Strength, Dexterity, Constitution, Intelligence, Wisdom \
 Resistances: Radiant, Force \
 Immunities: Poison, Psychic \
 Senses: Darkvision (60ft) \
@@ -27,23 +27,24 @@ Languages: Common, Elvish, Draconic, Celestial, Telepathy (120ft)
 
 #### Attacks
 Extra Attack: You can make three attacks when you take the Attack action on your turn. \
-Soul Knives: +10 to hit, 1d8 + 1d6 + 6 psychic damage \
-Soul Knives (+4): +13 to hit, 1d8 + 1d6 + 10 psychic damage \
-Augmented Knives: +16 to hit, 1d8 + 1d6 + 13 psychic damage \
+Soul Knives: +11 to hit, 1d8 + 1d6 + 6 psychic damage \
+Soul Knives (+4): +14 to hit, 1d8 + 1d6 + 10 psychic damage \
+Augmented Knives: +17 to hit, 1d8 + 1d6 + 13 psychic damage \
 Potent Psionics: +1d8 psychic damage 1 / turn \
-+1 Whip: +10 to hit, 1d6+1d4+6 slashing damage \
-+1 Harpoon: +7 to hit, 2d6+3 damage, Strength contest to pull 20ft closer \
++1 Whip: +11 to hit, 1d6+1d4+6 slashing damage \
++1 Harpoon: +8 to hit, 2d6+3 damage, Strength contest to pull 20ft closer \
 Wild Talent (DEX): Psionic die replaces one damage die per turn. \
 Knock Back (1-7 Psi): Knock target of attack back 10\*Psi ft. If they collide with something, they take 1d6/Psi spent \
 Statis Strike: +1d8 force damage, DC 18 Wis Save vs Restrained \
 Mobile: After attacking a creature, they cannot opportunity attack you for the rest of the round
 
 #### Psionics
-Psi Points: 64, Limit: 7, Save DC: 18 \
+Psi Points: 64, Limit: 7, Save DC: 19 \
 Consumptive Power: You can use disciplines without using Psi Points, but it reduces your max hit points per the cost. \
 Psionic Mastery (1 / Rest): 9 Psi Points
 
 Psionic Guidance (Conc.): +1d4 to next ability check \
+Mystic Conflux (1 / Day): Identify, no components \
 Mystic Charm (Talent): Wisdom Save or apply Charm for 1 round \
 Blind Spot (Talent): Wisdom save or take 2d10 + 6 psychic damage 
 
@@ -59,25 +60,32 @@ Invoke Awe (7 psi; Conc). You exert an aura to subjugate those around you. 5 tar
 #### Bonus Actions
 Light Step: Gain +10ft movement speed, get up without costing movement \
 Mystical Recovery: Heal 1 HP / Psi Point Spent on a Discipline \
-Second Wind (1/SR): Regain 1d10+9 HP \
+Second Wind (1/SR): Regain 1d10+12 HP \
 Two Weapon Fighting: Additional Attack with Soul Knives \
 Parry: +2 AC until the beginning of your next turn \
 Psi Replenishment (1/LR): Restore Psionic Die to original size 
 
-Lethal Strike (1-7 Psi): Increase damage by 1d10 \* times Psi spent on next attack. \
-Ogre Form (2 Psi): +1d4 damage per turn, 10THP, +5ft Reach \
+Lethal Strike (1-7 Psi): Increase psychic damage by 1d10 \* times Psi spent on next attack. \
+Brutal Strike (1-7 Psi): Increase damage by 1d6 \* tmies Psi spent on next attack. \
+
 Feat of Strength (2 Psi): +5 bonus to Strength Checks until end of next turn \
+Mindless Charge (2 Psi): You and 2 allies can use your reaction to move
+
+Ogre Form (2 Psi, conc.): +1d4 damage per attack, 10THP, +5ft Reach \
+Aura of Bloodletting (3 Psi, conc.): Attack rolls have advantage \
 Augmented Weapon (5 Psi, conc.): +3 to attack rolls and damage \
-Giant Form (7 Psi): +2d6 damage per turn, 30THP, +10ft Reach 
+Giant Form (7 Psi, conc.): +2d6 damage per attack, 30THP, +10ft Reach 
+
 
 Switch Discipline Focus: 
 - Psionic Weapon: Does nothing for me
 - Brute Force: Advantage on Strength Checks
-- Giant Growth: +5 reach 
 - Telepathic Contact: Mass Telepathy
+- Giant Growth: +5 reach 
+- Mantle of Fury: +5ft movement
 - Mantle of Awe: +3 bonus to CHA checks
 
-#### Soul Knife Mystic 10
+#### Soul Knife Mystic 12
 Hone the Blade (Psi: 2): +1 to attack and damage \
 Hone the Blade (Psi: 5): +2 to attack and damage \
 Hone the Blade (Psi: 7): +4 to attack and damage \
@@ -88,9 +96,10 @@ http://dnd5e.wikidot.com/discipline:brute-force \
 http://dnd5e.wikidot.com/discipline:giant-growth \
 http://dnd5e.wikidot.com/discipline:telepathic-contact \
 http://dnd5e.wikidot.com/discipline:psionic-weapon \
-http://dnd5e.wikidot.com/discipline:mantle-of-awe
+http://dnd5e.wikidot.com/discipline:mantle-of-awe \
+http://dnd5e.wikidot.com/discipline:mantle-of-fury
 
-#### Brute Fighter 10
+#### Brute Fighter 12
 Fighting Style: Two Weapon Fighting \
 Action Surge: Take an additional action once per rest. \
 Brute Durability: You gain a +1d6 bonus to all saving throws. \
@@ -108,24 +117,24 @@ Psionic Meditation: Once per day, you can meditate for 1 minute and reduce your 
 
 #### Inventory
 Coin: 7226gp, 675sp, 345cp \
-Experience: 94,250 xp \
+Experience: 102,650xp \
 Kills: -
 
 ✯ Crown of the Psion Queen \
 ✯ Cloak of Protection \
 ✯ Bracers of Defense \
+✯ Ioun Stone of Mastery \
 Periapt of Protection against Poison \
 Eyes of Minute Seeing \
 Trident of Fish Command \
 Cloak of the Manta Ray \
 Bag of Holding 
 
-
 Thieves' Tools \
 Fine Clothes (50gp) 
 
 +1 Shield, +1 Shield, +1 Longsword, Emberblade, +2 Silvered Spear, Sword Diagram, Something Else (Trade for Horn of Valhalla?) \
-Decanter of Endless Water (Trade for Ioun Stone of Mastery in a Desert) \
+Ring of Spell Storing \
 3x 1st Level Arcane Spell Scrolls \
 3x 1st Level Divine Spell Scrolls 
 
@@ -141,14 +150,13 @@ Stats: 11, 12, 12, 12, 8, 16 \
 HP: 9, AC: 11 \
 Bardic Inspiration: 3d6 \
 Divinely Favored: Gift of Alacrity \
-Spells (2): Silvery Barbs, Charm Person, Healing Word \
+Spells (2): Silvery Barbs, Charm Person, Cure Wounds \
 ✯ - \
 Ring of Continual Flame 
 
 #### Future Level notes
-12th: http://dnd5e.wikidot.com/discipline:precognition \
-15th: http://dnd5e.wikidot.com/discipline:psychic-assault \
-18th: ???
+15th: http://dnd5e.wikidot.com/discipline:psionic-restoration \
+18th: http://dnd5e.wikidot.com/discipline:psychic-assault
 
 The Crown of the Psion Queen:
 - Increases your Intellegence score and maximum score by 2
