@@ -1,8 +1,8 @@
 ## I, Dea 
 Glitchling, ♀, Lawful Evil
 
-HP: 107 \
-AC: 21 \
+HP: 115 \
+AC: 23 \
 Speed: 40ft \
 Prof: +4 \
 STR: 15 \
@@ -26,7 +26,7 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elvish, Draconic, Celestial, Telepathy (120ft)
 
 #### Attacks
-Extra Attack: You can make two attacks when you take the Attack action on your turn. \
+Extra Attack: You can make three attacks when you take the Attack action on your turn. \
 Soul Knives: +10 to hit, 1d8 + 1d6 + 6 psychic damage \
 Soul Knives (+4): +13 to hit, 1d8 + 1d6 + 10 psychic damage \
 Augmented Knives: +16 to hit, 1d8 + 1d6 + 13 psychic damage \
@@ -40,11 +40,12 @@ Mobile: After attacking a creature, they cannot opportunity attack you for the r
 
 #### Psionics
 Psi Points: 64, Limit: 7, Save DC: 18 \
-Consumptive Power: You can use disciplines without using Psi Points, but it reduces your max hit points per the cost. 
+Consumptive Power: You can use disciplines without using Psi Points, but it reduces your max hit points per the cost. \
+Psionic Mastery (1 / Rest): 9 Psi Points
 
 Psionic Guidance (Conc.): +1d4 to next ability check \
 Mystic Charm (Talent): Wisdom Save or apply Charm for 1 round \
-Mind Thrust: DC 17 Int save or take 2d10 + 6 psychic damage 
+Blind Spot (Talent): Wisdom save or take 2d10 + 6 psychic damage 
 
 Exacting Query (2 Psi): Int Save vs truthfully answering one question I ask telepathically \
 Occlude Mind (2 Psi): Int Save vs believe one 10 Word Sentence I say for 5 minutes \
@@ -106,46 +107,48 @@ Metabolic Control: So long as your Psionic Die is not completely spent at the en
 Psionic Meditation: Once per day, you can meditate for 1 minute and reduce your Psionic Die one size. You gain the benefits of a short rest. 
 
 #### Inventory
-Coin: 3776gp, 675sp, 345cp \
-Experience: 66,550 xp \
-Kills: 3500+1200
+Coin: 7226gp, 675sp, 345cp \
+Experience: 94,250 xp \
+Kills: -
 
 ✯ Crown of the Psion Queen \
 ✯ Cloak of Protection \
-✯ Vampiric Rod (6 Charges, BA, 2d4+2 / Charge spent)  \
+✯ Bracers of Defense \
 Periapt of Protection against Poison \
 Eyes of Minute Seeing \
 Trident of Fish Command \
 Cloak of the Manta Ray \
-Ring of Continual Flame \
 Bag of Holding 
 
-Thieves' Tools \
-Fine Clothes (50gp)
 
-Immovable Rod, +1 Shield, Emberblade, Something Else (Trade for Horn of Valhalla?) \
-Alchemy Jug (Trade for Bracers of Defense) \
+Thieves' Tools \
+Fine Clothes (50gp) 
+
++1 Shield, +1 Shield, +1 Longsword, Emberblade, +2 Silvered Spear, Sword Diagram, Something Else (Trade for Horn of Valhalla?) \
 Decanter of Endless Water (Trade for Ioun Stone of Mastery in a Desert) \
-Sword Diagram (100gp) \
-12x 100gp Jewels \
 3x 1st Level Arcane Spell Scrolls \
 3x 1st Level Divine Spell Scrolls 
 
 #### Followers: 
-Suleesa (https://www.aidedd.org/dnd/monstres.php?vo=succubus) \
-✯ - \
+Devida (https://www.aidedd.org/dnd/monstres.php?vo=succubus) \
+✯ +2 Flametongue Whip (+7 to hit, 1d4 + 2d6 + 5 damage) \
+✯ Vampiric Rod (6 Charges, BA, 2d4+2 / Charge spent) \
 Ring of Water Breathing \
 Wand of Magic Missiles
 
-Not Yet: 
-Alisha (http://dnd5e.wikidot.com/bard:glamour)\
-Bardic Inspiration: 5d8 \
+Alisha (http://dnd5e.wikidot.com/bard:glamour) \
+Stats: 11, 12, 12, 12, 8, 16 \
+HP: 9, AC: 11 \
+Bardic Inspiration: 3d6 \
+Divinely Favored: Gift of Alacrity \
+Spells (2): Silvery Barbs, Charm Person, Healing Word \
 ✯ - \
+Ring of Continual Flame 
 
 #### Future Level notes
 12th: http://dnd5e.wikidot.com/discipline:precognition \
-15th: http://dnd5e.wikidot.com/discipline:intellect-fortress \
-18th: http://dnd5e.wikidot.com/discipline:psychic-assault 
+15th: http://dnd5e.wikidot.com/discipline:psychic-assault \
+18th: ???
 
 The Crown of the Psion Queen:
 - Increases your Intellegence score and maximum score by 2
