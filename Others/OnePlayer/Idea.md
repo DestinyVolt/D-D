@@ -118,7 +118,7 @@ Psionic Meditation: Once per day, you can meditate for 1 minute and reduce your 
 #### Inventory
 Coin: 7226gp, 675sp, 345cp \
 Experience: 102,650xp \
-Kills: -
+Kills: 2200
 
 ✯ Crown of the Psion Queen \
 ✯ Cloak of Protection \
@@ -134,7 +134,6 @@ Thieves' Tools \
 Fine Clothes (50gp) 
 
 +1 Shield, +1 Shield, +1 Longsword, Emberblade, +2 Silvered Spear, Sword Diagram, Something Else (Trade for Horn of Valhalla?) \
-Ring of Spell Storing \
 3x 1st Level Arcane Spell Scrolls \
 3x 1st Level Divine Spell Scrolls 
 
@@ -147,11 +146,11 @@ Wand of Magic Missiles
 
 Alisha (http://dnd5e.wikidot.com/bard:glamour) \
 Stats: 11, 12, 12, 12, 8, 16 \
-HP: 9, AC: 11 \
+HP: 23, AC: 11, DC: 13, XP: 2200 \
 Bardic Inspiration: 3d6 \
 Divinely Favored: Gift of Alacrity \
-Spells (2): Silvery Barbs, Charm Person, Cure Wounds \
-✯ - \
+Spells (4, 2): Silvery Barbs, Cure Wounds, Enlarge/Reduce, Suggestion	\
+✯ Ring of Spell Storing \
 Ring of Continual Flame 
 
 #### Future Level notes
