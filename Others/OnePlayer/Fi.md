@@ -89,7 +89,7 @@ Coin: 15pp, 160gp \
 Experience: 34,200 (Next Level: 48,000) \
 Kills: 2,900
 
-Equipped:
+Equipped: \
 ✯ Gloves of Soul Catching \
 ✯ Staff of Defense \
 ✯ Boots of Striding and Springing \
