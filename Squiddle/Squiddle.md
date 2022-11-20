@@ -6,7 +6,7 @@ Age: 35, Height: 2'6, Weight: 25lb
 HP: 77 \
 AC: 20 (Plate + Shield) \
 Prof: +4 \
-Speed: 35ft, Init: +7 \
+Speed: 25ft, Init: +7 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
 CON: 18 (+4) \
