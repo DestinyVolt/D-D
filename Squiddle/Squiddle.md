@@ -4,7 +4,7 @@ Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
 HP: 77 \
-AC: 18 (Scale Mail + Shield + 2) \
+AC: 20 (Plate + Shield) \
 Prof: +4 \
 Speed: 35ft, Init: +7 \
 STR: 9  (-1) \
@@ -17,7 +17,7 @@ CHA: 9  (-1)
 Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
 School Skills (+1d4): Acrobatics, Arcana \
 Tools: Tinker's Tools, Thieves' Tools, Smith's Tools, Navigator’s Tools, Vehicles (Land) \
-Armor: Light armor, Medium armor, Shields \
+Armor: Light armor, Medium armor, Heavy Armor, Shields \
 Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
@@ -30,17 +30,17 @@ Vampiric Bite: +8 to hit, 1d4+4 piercing + 1d8 psychic damage
 Spell Slots: 4, 3, 3, 3, 1 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Sanctuary, Sleep
 
 ### Chronurgy Wizard 8:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared  (Low Level): Magnify Gravity, Immovable Object, Gift of Alacrity \
 Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment \
-1st (3 Prepared): Silvery Barbs, Shield \
+1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Pulse Wave \
-4th (2 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) 
+4th (3 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) 
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -93,6 +93,9 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
+☆ Cloak of Displacement (Modified) \
+☆ Mind Carapace Armor (Plate) \
+☆ Hat of Wizardry \
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
@@ -102,7 +105,7 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Cloak of Displacement (BA Dodge, Prof / Rest) \
 Old Recording of a Mathemagics Lecture \
-The Rock (21/90) \
+The Rock (In Progress) \
 Bag of Ball Bearings \
 Net / Smith's Tools \
 A Gallon of Glue \
