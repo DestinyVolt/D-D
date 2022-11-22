@@ -1,7 +1,10 @@
 Future Character, uses Artificer Maverick (CHA base) to represent a Tattoo artist with magical tattoos.
 
-General Stat Spread:
+General Stat Spread: \
 CHA >> CON ≈ DEX (14) > INT = WIS = STR
+
+Stat Spread if I can't use CHA base: \
+INT(20) > CHA (16) > DEX (14) > CON (12) > STR = INT
 
 Skills: Stealth, Animal Handling, Intimidation, Persuasion, Deception
 
@@ -13,13 +16,15 @@ Cantrips: Booming Blade / Shocking Grasp, Guidance
 
 Level 2: \
 Infusion: Homunculus (Looks like Inkling, probably) \
-Infusion: 3x Spell Wrought Tattoo 
+Infusion: Spell Wrought Tattoo (Find Familiar) \
+Infusion: Spell Wrought Tattoo (Arms of Hadar) \
+Infusion: Spell Wrought Tattoo (Disguise Self) 
 
-Level 3 Breakthrough: Druid, get Shillelagh 
+Level 3 Breakthrough: Druid, get Shillelagh and Entangle
 
 Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic) 
 
-Level 5 Breakthrough: Paladin, for Find Steed 
+Level 5 Breakthrough: Paladin, for Find Steed, Wrathful Smite
 
 Level 6: \
 Infusion: Cloak of Elvenkind \
@@ -29,7 +34,7 @@ Level 9 Breakthrough: Cleric (Bestow Curse / Spirit Guardians)
 
 Wants: 
 Big Request: \
-Can I use a background feature from Ravnica (Azorius Functionary)? I basically just want Ensnaring Strike. 
+Can I use a background feature from Ravnica (Azorius Guild Spells)? I basically just want Ensnaring Strike. 
 
 Small Changes (imo) for Flavor: \
 Can I play a Charisma based Artificer if I swear off multiclassing? It keeps to the more artistic sorcerer vibes I'm kinda hoping for with the character \
