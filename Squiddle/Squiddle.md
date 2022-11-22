@@ -34,13 +34,13 @@ Cantrips: Magic Stone, Thorn Whip \
 
 ### Chronurgy Wizard 8:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared  (Low Level): Magnify Gravity, Immovable Object, Gift of Alacrity \
-Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
+Unprepared  (Low Level): Magnify Gravity, Immovable Object \
+Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment, Fabricate \
 1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
-3rd (4 Prepared): Slow, Haste, Tiny Servant, Pulse Wave \
-4th (3 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) 
+3rd (5 Prepared): Slow, Haste, Tiny Servant, Pulse Wave, Phantom Steed \
+4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) 
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -121,11 +121,20 @@ Arcane Abeyance \
 Rary's Telepathic Bond, Dominate Person, +1 Cantrip \
 +1 5th level slot, +1 Spell Prep'd
 
+Future Spells: \
+3rd: Intellect Fortress
+5th: Planar Binding (For Silas) \
+6th: Contingency, Fizban's Platinum Shield, Tenser's Transformation (?) \
+7th: Dream of the Blue Veil \
+8th: Mind Blank, Reality Break \
+9th: True Polymorph (I'd rather someone else take this), Shapechange, Wish
+
 #### Spell Scrolls: 
-1st: Identify (175gp)\* \
+1st: Identify (175gp if I just copy it using the Artificer spell list) \
 2nd: Continual Flame, Rope Trick \
-3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell \
+3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell, Ashardalon's Stride \
 4th: - \
-5th: Teleportation Circle \
-*Reminder: I can technically get these by copying them from the Artificer Spell list, though it's rather expensive.  
+5th: Teleportation Circle \* \
+8th: Demiplane \* \
+*Reminder: Hopefully I can get this from Oswyn?
 
