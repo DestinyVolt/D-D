@@ -38,7 +38,7 @@ Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared  (Low Level): Magnify Gravity, Immovable Object \
 Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment, Fabricate \
 1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
+2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
 3rd (5 Prepared): Slow, Haste, Tiny Servant, Pulse Wave, Phantom Steed \
 4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) 
 
