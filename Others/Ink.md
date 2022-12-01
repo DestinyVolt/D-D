@@ -8,6 +8,8 @@ INT(20) > CHA (16) > DEX (14) > CON (12) > STR = INT
 
 Skills: Stealth, Animal Handling, Intimidation, Persuasion, Deception
 
+Note: If possible, Elf (Mark of Shadow) would be better, giving me time to craft at night and a few new spells. We would lose one of our proficiencies (Probably Stealth), but that's probably fine. 
+
 General Requirements: \
 Level 1: \
 Starting Feat: Strixhaven Initiate (Silverquill, Vicious Mockery, Thaumaturgy, Puppet or Dissonant Whispers) \
@@ -34,11 +36,11 @@ Level 9 Breakthrough: Cleric (Bestow Curse / Spirit Guardians)
 
 Wants: 
 Big Request: \
-Can I use a background feature from Ravnica (Azorius Guild Spells)? I basically just want Ensnaring Strike. 
+Using an Eberron exclusive Race
 
 Small Changes (imo) for Flavor: \
 Can I play a Charisma based Artificer if I swear off multiclassing? It keeps to the more artistic sorcerer vibes I'm kinda hoping for with the character \
 Can I reflavor Shillelagh as just a touch attack where my tattoos spread off my skin onto theirs, hurting them? I'll keep a hand free that would have been holding a staff. \
-Can I change the damage type of Booming Blade to Necrotic Damage (Both rare damages, Necrotic is basically just worse)
+Can I change the damage type of Booming Blade to Necrotic Damage (Both rare damages, Necrotic is basically just worse. Instead of a boom, the target just screams)
 
 Note: Ensnaring Strike and other Smites are affected by the Cantrip DC increase during the initial hit
