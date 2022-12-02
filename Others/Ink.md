@@ -8,7 +8,7 @@ INT(20) > CHA (16) > DEX (14) > CON (12) > STR = INT
 
 Skills: Stealth, Animal Handling, Intimidation, Persuasion, Deception
 
-Note: If possible, Elf (Mark of Shadow) would be better, giving me time to craft at night and a few new spells. We would lose one of our proficiencies (Probably Stealth), but that's probably fine. 
+Note: If possible, Elf (Mark of Shadow) would be better, giving me time to craft at night and a few new spells. We would lose stealth in place of perception, but since I gain Power Word: Trace. 
 
 General Requirements: \
 Level 1: \
