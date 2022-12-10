@@ -39,8 +39,8 @@ Unprepared  (Low Level): Magnify Gravity, Immovable Object \
 Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment, Fabricate \
 1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
 2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
-3rd (5 Prepared): Slow, Haste, Tiny Servant, Pulse Wave, Phantom Steed \
-4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) 
+3rd (4 Prepared): Slow, Haste, Tiny Servant, Phantom Steed \
+4th (1 Prepared): Psychic Lance, Summon Warrior Spirit (UA)
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
