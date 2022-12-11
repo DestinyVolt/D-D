@@ -109,7 +109,8 @@ The Rock (In Progress) \
 Bag of Ball Bearings \
 Net / Smith's Tools \
 A Gallon of Glue \
-Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
+Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
+300gp Diamond
 
 #### Future Levels:
 **Wizard 9:** \
