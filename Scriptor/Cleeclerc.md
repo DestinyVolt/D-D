@@ -1,28 +1,28 @@
 Cleeclerc
 
-Level 5 (8140xp) \
-HP: 63 \
+Level 6 \
+HP: 75 \
 AC: 20 \
 Prof: +3 \
-Str: 14 \
-Dex: 10 \
+Str: 16 \
+Dex: 14 \
 Con: 18 \
 Int: 12 \
 Wis: 10 \
 Cha: 6 
 
-Prof: Perception, Investigation, Survival, ~~Acrobatics~~, Athletics \
+Prof: Perception, Investigation, Survival, Acrobatics, Athletics \
 Saves: Strength, Constitution
 
 #### Weapons (Multiattack 2x)
-Glaive: +5 to hit, 1d10+2 \
-Spear (+1): +6 to hit, 1d6+3 \
-Talons: +5 to hit, 1d6+2 \
-Improvised Weapons: +5 to hit, 1d4 + 2
+Glaive: +6 to hit, 1d10+3 \
+Spear (+1): +7 to hit, 1d6+4 \
+Talons: +6 to hit, 1d6+3 \
+Improvised Weapons: +6 to hit, 1d4 + 3
 
 #### Bonus Actions
-Second Wind: Heal 1d10 + 4 (+ 4)\
-Tavern Brawler: Grapple (+5)
+Second Wind: Heal 1d10 + 6 (+ 4) \
+Tavern Brawler: Grapple (+6)
 
 #### Reactions
 Fighting Style: Interception (1d10 + 3) 
