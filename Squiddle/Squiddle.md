@@ -24,7 +24,8 @@ Languages: Common, Gnomish, Undercommon, Deep Speech
 ### Attacks
 Magic Stone: +9 to hit, 1d6+5 bludgeoning \
 Thorn Whip: +9 to hit, 2d6 piercing + Drag 10 feet \
-Vampiric Bite: +8 to hit, 1d4+4 piercing + 1d8 psychic damage
+Vampiric Bite: +8 to hit, 1d4+4 piercing + 1d8 psychic damage \
+Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 
 ### Artificer 1: 
 Spell Slots: 4, 3, 3, 3, 1 \
@@ -35,8 +36,9 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 8:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
-Unprepared  (Low Level): Magnify Gravity, Immovable Object \
-Unprepared (High Level): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Banishment, Fabricate, Pulse Wave \
+Unprepared (1-2): Magnify Gravity, Immovable Object \
+Unprepared   (3): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Pulse Wave \
+Unprepared   (4): Banishment, Fabricate \
 1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
 2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Phantom Steed \
@@ -56,7 +58,7 @@ When you reach 6th level, as an action, you can magically force a Large or small
 
 You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a long rest.
 
-**Cantrip Formulas (Optional):** 
+**Cantrip Formulas:** 
 You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. 
 
 ### Racial Abilities
@@ -107,10 +109,9 @@ Cloak of Displacement (BA Dodge, Prof / Rest) \
 Old Recording of a Mathemagics Lecture \
 The Rock (In Progress) \
 Bag of Ball Bearings \
-Net / Smith's Tools \
+Metal Net / Smith's Tools \
 A Gallon of Glue \
-Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
-300gp Diamond
+Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
 **Wizard 9:** \
@@ -133,7 +134,7 @@ Future Spells: \
 #### Spell Scrolls: 
 1st: Identify (175gp if I just copy it using the Artificer spell list) \
 2nd: Continual Flame, Rope Trick \
-3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell, Ashardalon's Stride \
+3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell \
 4th: - \
 5th: Teleportation Circle \* \
 8th: Demiplane \* \
