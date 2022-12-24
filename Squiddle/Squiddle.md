@@ -31,18 +31,18 @@ Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 Spell Slots: 4, 3, 3, 3, 1 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Sanctuary, Sleep
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
 
 ### Chronurgy Wizard 8:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
-Unprepared (1-2): Magnify Gravity, Immovable Object \
-Unprepared   (3): Glyph Of Warding, Sending, Magic Circle, Remove Curse, Pulse Wave \
-Unprepared   (4): Banishment, Fabricate \
-1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
-2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Tasha's Mind Whip \
-3rd (4 Prepared): Slow, Haste, Tiny Servant, Phantom Steed \
-4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA)
+Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
+Unprepared   (3): Glyph Of Warding, Sending, Magic Circle, Pulse Wave \
+Unprepared   (4): Banishment \
+1st (2 Prepared): Silvery Barbs, Shield \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
+3rd (5 Prepared): Slow, Haste, Tiny Servant, Phantom Steed, Remove Curse \
+4th (3 Prepared): Psychic Lance, Summon Warrior Spirit (UA), Fabricate
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -121,7 +121,7 @@ Telekinesis, Temporal Shunt \
 **Wizard 10:**
 Arcane Abeyance \
 Rary's Telepathic Bond, Dominate Person, +1 Cantrip \
-+1 5th level slot, +1 Spell Prep'd
++1 5th level slot, +1 Spell Prep'd, Cantrip Scaling!
 
 Future Spells: \
 3rd: Intellect Fortress
