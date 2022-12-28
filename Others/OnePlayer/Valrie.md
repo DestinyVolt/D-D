@@ -63,7 +63,7 @@ Umbral Sight: Invisibility to Darkvision
 
 ### Inventory
 Coins: 11pp, 1154gp, 487ep, 1302sp, 3050cp \
-Exp: 26,100xp (34,000 for next level)
+Exp: 27,100xp (34,000 for next level)
 
 Attuned Items: \
 ✯ Ring of Protection \
