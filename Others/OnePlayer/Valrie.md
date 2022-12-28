@@ -34,7 +34,7 @@ Starlight Step (2 uses): As a bonus action, you can magically teleport up to 30 
 
 ### Artificer
 Cantrips: Dancing Lights, Guidance, Resistance \
-1st (2 slots): Faerie Fire, Arcane Weapon, Cure Wounds, Feather Fall, *Magic Missile, Thunderwave*
+1st (3 slots): Faerie Fire, Arcane Weapon, Cure Wounds, Feather Fall, *Magic Missile, Thunderwave*
 
 Infusions Active: \
 Bag of Holding \
@@ -45,9 +45,9 @@ Enhanced Defense \
 Rope of Climbing 
 
 ### Ranger
-Favored Enemy: Orcs, Goblins 
-Fighting Style: Archery
-Spells: Entangle, Detect Magic, Absorb Elements, Disguise Self
+Favored Enemy: Orcs, Goblins \
+Fighting Style: Archery \
+Spells (3 slots): Entangle, Detect Magic, Absorb Elements, Disguise Self
 
 ### Inventory
 Coins: 88gp, 126sp, 600cp \
@@ -68,4 +68,4 @@ Dungeoneer's Pack \
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed | Challenge |
 | ------------------------- | ------ | -------------- |:---:|-----|
-| Phandelver (Chapter 1) |  1st   | 4x 1th         | ☑ | Jesus Christ. Death Saves 3 times. Made it out. Owe the Priestess a favor. |
+| Phandelver (Chapter 1) |  1st   | 4x 1th         | ☑ | Jesus Christ. Was bleeding out 3 times, but I managed to do it. Sildar is avenged. Owe the Priestess a favor. Also want to ask around, see what Sildar wanted to do here. |
