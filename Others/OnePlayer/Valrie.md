@@ -1,10 +1,10 @@
 ## Valrie
 Astral Elf, ♀, 21, Neutral
 
-HP: 56 \
-AC: 18 (Studded Leather, RoP) \
-Speed: 35ft \
-Init: +7 \
+HP: 75 \
+AC: 18 (Dragonsguard, RoP) \
+Speed: 40ft (Climb, Swim) \
+Init: +8 \
 Prof: +3 \
 STR: 12 \
 DEX: 20 \
@@ -15,12 +15,11 @@ CHA: 12
 
 #### Proficiencies
 Skills: Perception, Survival, Insight, Investigation, Acrobatics \
-Astral Knowledge: None (Weapon), Intimidation \
-Expertise: Stealth (Adv.) \
-Tools: Tinker's Tools, Thieves' Tools, Navigator’s tools, Smith's Tools \
-Saves: Strength, Dexterity, Constitution, Intelligence \
+Astral Knowledge: None (Weapon), Athletics \
+Expertise: Stealth (Adv.), Tinker's Tools, Thieves' Tools, Navigator’s tools, Smith's Tools \
+Saves: Strength, Dexterity, Constitution, Intelligence, Wisdom \
 Senses: Darkvision (90ft) \
-Languages: Common, Elvish, Sylvan, Draconic, Primordial, Orc, Goblin
+Languages: Common, Elvish, Sylvan, Draconic, Primordial, Goblin, Undercommon, +1
 
 ### Attacks
 Starry Armament: +10 to hit, 1d6 + 5 + 1d6 once per round (90/300) \
@@ -37,33 +36,39 @@ Elven Accuracy: Triple Advantage when you have Advantage
 ### Bonus Actions
 Starlight Step (3 uses): As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. 
 
-### Artificer 5
+### Artificer 7
+Flash of Genius (3 uses): As a reaction, add +3 to a roll 
+
 Cantrips: Dancing Lights, Guidance, Resistance \
 1st (4 slots): Faerie Fire, Arcane Weapon, Cure Wounds, *Magic Missile, Thunderwave* \
-2nd (2 slots): Web, Spider Climb, *Mirror Image, Shatter*
+2nd (3 slots): Levitate, Invisibility, Enhance Ability, *Mirror Image, Shatter*
 
 Infusions Active: \
 Bag of Holding \
-Repeating Weapon
+Repeating Weapon \
+Ring of Water Walking 
 
 Infusions Known: \
 Enhanced Defense \
-Enhanded Weapon
+Enhanded Weapon \
+Spell-Refueling Ring 
 
-### Gloomstalker 5
-Favored Enemy: Orcs, Goblins \
+### Gloomstalker 7
+Favored Enemy: Drow, Goblins, +1 \
 Fighting Style: Archery \
-1st (4 slots): Goodberry, Absorb Elements, *Disguise Self* \
-2nd (2 slots): Spike Growth, Pass Without Trace, *Rope Trick*
+1st (4 slots): Goodberry, Zypher Strike, Absorb Elements, *Disguise Self* \
+2nd (3 slots): Lesser Restoration, Pass Without Trace, *Rope Trick*
 
 Umbral Sight: Invisibility to Darkvision 
 
 ### Inventory
-Coins: 914gp, 97ep, 742sp, 1350cp \
-Exp: 8,000xp (14,000 for next level)
+Coins: 11pp, 1154gp, 487ep, 1302sp, 3050cp \
+Exp: 26,100xp (34,000 for next level)
 
-Attuned Items:
-✯ Ring of Protection 
+Attuned Items: \
+✯ Ring of Protection \
+✯ Dragonsguard \
+✯ Spider Staff
 
 Belt: \
 2x Shortswords \
@@ -77,13 +82,22 @@ Sling
 
 Bag of Holding: \
 Staff of Defense \
-Longbow, 19 Arrows \
+Lightbringer (+1) \
 Talon (+1 Longsword) \
-5x Healing potions \
+Gauntlets of Ogre Strength
+
+Longbow, 19 Arrows \
+Studded Leather \
 Dungeoneer's Pack \
 8 days of Rations \
+7x Healing potions 
+
 2x 100gp Pearl \
-25gp Jeweled Box \
+3x 100gp Diamond \
+150gp Pipe \
+100gp Ale Mug \
+2x 75gp Platinum Rings \
+9x 10gp Jewels \
 10gp Jewel from Home
 
 
@@ -93,4 +107,7 @@ Dungeoneer's Pack \
 | Phandelver (Chapter 1) |  1st   | 4x 1th         | ☑ | Jesus Christ. Was bleeding out 3 times, but I managed to do it. Sildar is avenged. Owe the Priestess a favor.|
 | Phandelver (Chapter 2) | 3rd | 4x 2nd | ☑ | I'm much more competent now. I can do this. I'm going to figure out what happened to that Dwarf who hired me. |
 | Phandelver (Chapter 3) | 4th | 4x 3rd | ☑ | Almost died to Orcs. I got cocky. I wasn't expecting them to run so fast. I had to use all the scrolls I was saving... Almost back to Phandelan |
-| Phandelver (Chapter 3.5) | 5th | 4x 3rd |   |  |
+| Phandelver (Chapter 3.5) | 5th | 4x 3rd | ☑ | Cragmaw Castle cleared. Turns out the Goblins are working with the Drow. Typical. I rescued Gundren, and he's offered me a 10% share of the mine if I can figure out what happened to his Brothers and deal with this "Black Spider." It's likely a drow. I'm following the map he gave me. |
+| Phandelver (Chapter 4) | 5th | 4x 4th | ☑ |  Nezznar is dead. He luckily kept me alive to torture me for information, and I was able to escape and kill him.|
+| Phandelver (Chapter 4.5) | 6th | 4x 4th | ☑ | I managed to rescue one of Gundren's brothers, but the other was dead when I arrived. As a favor to them, I cleared out the rest of the mines. That Flameskull was annoying. |
+| Phandelver (Chapter 5) | 7th | 4x 5th | ☐ | I'm going to head to Thundertree. One of the Villagers mentioned that the town had been overrun by undead, I figured I might clear them out. |
