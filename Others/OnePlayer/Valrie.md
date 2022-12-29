@@ -1,11 +1,11 @@
 ## Valrie
 Astral Elf, ♀, 21, Neutral
 
-HP: 83 \
+HP: 92 \
 AC: 19 (Enhanced Studded Leather, RoP) \
 Speed: 40ft (Climb, Swim) \
 Init: +9 \
-Prof: +3 \
+Prof: +4 \
 STR: 12 \
 DEX: 20 \
 CON: 16 \
@@ -22,10 +22,10 @@ Senses: Darkvision (90ft) \
 Languages: Common, Elvish, Sylvan, Draconic, Primordial, Goblin, Undercommon, +1
 
 ### Attacks
-Starry Armament: +10 to hit, 1d6 + 5 + 1d6 once per round (90/300) \
-Repeating Heavy Crossbow: +11 to hit, 1d12 + 6 (100/400) \
-Elven Shortswords: +8 to hit, 1d6 + 5 (1d6 if bonus action) \
-Unarmed Strike: +4 to hit, 2 damage
+Enhanced Starry Armament: +12 to hit, 1d6  + 6 + 1d6 once per round (90/300) \
+Repeating Heavy Crossbow: +12 to hit, 1d12 + 6 (100/400) \
+Elven Shortswords: +9 to hit, 1d6 + 5 (1d6 if bonus action) \
+Unarmed Strike: +5 to hit, 2 damage
 
 Extra Attack: You can make 2 attacks instead of one. \
 Sharpshooter: -5 to hit, +10 damage; Ignore Cover; Ignore Disadvantage from Long Distance \
@@ -34,39 +34,41 @@ Dread Ambusher: Additional attack on the first turn of combat, +1d8 force damage
 Elven Accuracy: Triple Advantage when you have Advantage
 
 ### Bonus Actions
-Starlight Step (3 uses): As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. 
+Starlight Step (4 uses): As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. 
 
-### Artificer 8
+### Artificer 9
 Flash of Genius (4 uses): As a reaction, add +4 to a roll 
 
-Save DC: 15 \
+Save DC: 16 \
 Cantrips: Dancing Lights, Guidance, Resistance \
 1st (4 slots): Faerie Fire, Arcane Weapon, Cure Wounds, *Magic Missile, Thunderwave* \
 2nd (3 slots): Levitate, Invisibility, Enhance Ability, *Mirror Image, Shatter* \
-+2 Prepared
+3rd (2 slots): Fly, Dispel Magic, *Hypnotic Pattern, Lightning Bolt*
 
 Infusions Active: \
 Enhanced Defense \
 Repeating Weapon \
-Ring of Water Walking 
-
-Infusions Known: \
-Bag of Holding \
 Enhanded Weapon \
-Spell-Refueling Ring 
+Spell-Refueling Ring \
+Ring of Water Walking \
+Goggles of Night
 
-### Gloomstalker 8
+Infusions Known: 
+
+
+### Gloomstalker 9
 Favored Enemy: Drow, Goblins, +1 \
 Fighting Style: Archery \
 1st (4 slots): Goodberry, Zypher Strike, Absorb Elements, *Disguise Self* \
-2nd (3 slots): Lesser Restoration, Pass Without Trace, *Rope Trick*
+2nd (3 slots): Lesser Restoration, Pass Without Trace, *Rope Trick* \
+3rd (2 slots): Revifivy, *Fear*
 
 Umbral Sight: Invisibility to Darkvision \
 Land's Stride: Immunity to Non-magical Difficult Terrain and Advantage vs Magical Plants
 
 ### Inventory
-Coins: 10pp, 2534gp, 486ep, 2102sp, 3050cp \
-Exp: 40,850xp (48,000 for next level)
+Coins: 10pp, 2037gp, 450ep, 2102sp, 3050cp \
+Exp: 48,100xp (48,000 for next level)
 
 Attuned Items: \
 ✯ Ring of Protection \
@@ -89,6 +91,7 @@ Sling
 
 Bag of Holding: \
 Staff of Defense \
+Dragonsguard (Gifted to the Prince) \
 Gauntlets of Ogre Power
 
 Longbow, 19 Arrows \
@@ -100,7 +103,7 @@ Dungeoneer's Pack \
 2x 100gp Pearl \
 6x 100gp Diamond \
 Scroll of Lightning Bolt \
-Scroll of Misty Step \
+Scroll of Misty Step 
 
 
 ### Adventures:
@@ -114,4 +117,5 @@ Scroll of Misty Step \
 | Phandelver (Chapter 4.5) | 6th | 4x 4th | ☑ | I managed to rescue one of Gundren's brothers, but the other was dead when I arrived. As a favor to them, I cleared out the rest of the mines. That Flameskull was annoying. |
 | Phandelver (Chapter 5) | 7th | 4x 5th | ☑ | I'm going to head to Thundertree. One of the Villagers mentioned that the town had been overrun by undead, I figured I might clear them out. |
 | Wages of Vice | 7th | 4x 5th | ☑ | I have found a place known as the Radient Citadel. It is connected to many worlds, I may be able to find my way home from here... |
-| Sins of Our Elders | 8th | 4x 6th | ☐ |  |
+| Sins of Our Elders | 8th | 4x 6th | ☑ | I put to rest the spirit of that poor Magistrate. I hope she is peaceful, whereever she went. |
+| Gold for Fools and Princes | 9th | 4x 7th | ☐ | Oh my god these princes are fools. Both of them were almost killed by the Scorpions. No tactical sense. |
