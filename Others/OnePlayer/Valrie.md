@@ -2,7 +2,7 @@
 Astral Elf, ♀, 21, Neutral
 
 HP: 92 \
-AC: 19 (Enhanced Studded Leather, RoP) \
+AC: 21 (Enhanced Arcane Serpent Scale Armor, RoP) \
 Speed: 40ft (Climb, Swim) \
 Init: +9 \
 Prof: +4 \
@@ -67,13 +67,13 @@ Umbral Sight: Invisibility to Darkvision \
 Land's Stride: Immunity to Non-magical Difficult Terrain and Advantage vs Magical Plants
 
 ### Inventory
-Coins: 10pp, 2037gp, 450ep, 2102sp, 3050cp \
-Exp: 48,100xp (48,000 for next level)
+Coins: 10pp, 5037gp, 450ep, 2102sp, 3050cp \
+Exp: 63,050xp (64,000 for next level)
 
 Attuned Items: \
 ✯ Ring of Protection \
-✯ Spider Staff \
-✯ (none)
+✯ Ring of Warmth (Gift from Prince Simbom) \
+✯ Nature's Mantle
 
 Belt: \
 2x Shortswords \
@@ -91,8 +91,10 @@ Sling
 
 Bag of Holding: \
 Staff of Defense \
-Dragonsguard (Gifted to the Prince) \
-Gauntlets of Ogre Power
+Gauntlets of Ogre Power \
+Chime of Opening \
+Spider Staff \
+Serpent's Fang 
 
 Longbow, 19 Arrows \
 Dungeoneer's Pack \
@@ -118,4 +120,8 @@ Scroll of Misty Step
 | Phandelver (Chapter 5) | 7th | 4x 5th | ☑ | I'm going to head to Thundertree. One of the Villagers mentioned that the town had been overrun by undead, I figured I might clear them out. |
 | Wages of Vice | 7th | 4x 5th | ☑ | I have found a place known as the Radient Citadel. It is connected to many worlds, I may be able to find my way home from here... |
 | Sins of Our Elders | 8th | 4x 6th | ☑ | I put to rest the spirit of that poor Magistrate. I hope she is peaceful, whereever she went. |
-| Gold for Fools and Princes | 9th | 4x 7th | ☐ | Oh my god these princes are fools. Both of them were almost killed by the Scorpions. No tactical sense. |
+| Gold for Fools and Princes | 8th | 4x 7th | ☑ | Stupid Traitorous Prince. Both princes were in way over their heads, but at least Simbon realized it. I leave with a ring as a gift, and an invitation to return whenever I desire. I let him keep Dragonsguard. Reminder for him to be steadfast. For now, I must continue my travels. |
+| Book of Cylinders | 9th | 4x 6th | ☑ | Simbon reccomended by services to someone at a Library known as the Candlekeep. It was a pretty easy job helping some Frogfolk out, and got a nice set of armor from it. |
+| Trail of Distruction | 9th | 4x 8th | ☐ | The Cidadel asked me to investigate potential dangers in a connected land. |
+
+
