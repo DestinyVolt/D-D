@@ -1,7 +1,7 @@
 ## Valrie
 Astral Elf, ♀, 21, Neutral
 
-HP: 103 \
+HP: 115 \
 AC: 22 (Enhanced Arcane Serpent Scale Armor, RoP) \
 Speed: 40ft (Climb, Swim) \
 Init: +9 \
