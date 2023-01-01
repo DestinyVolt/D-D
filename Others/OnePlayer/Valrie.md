@@ -148,10 +148,11 @@ War Cleric 1 / Champion 3 / Rogue 1/2/3/5
 | Wages of Vice | 7th | 4x 5th | ☑ | I have found a place known as the Radient Citadel. It is connected to many worlds, I may be able to find my way home from here... |
 | Sins of Our Elders | 8th | 4x 6th | ☑ | I put to rest the spirit of that poor Magistrate. I hope she is peaceful, whereever she went. |
 | Gold for Fools and Princes | 8th | 4x 7th | ☑ | Stupid Traitorous Prince. Both princes were in way over their heads, but at least Simbon realized it. I leave with a ring as a gift, and an invitation to return whenever I desire. I let him keep Dragonsguard. Reminder for him to be steadfast. For now, I must continue my travels. |
-| Book of Cylinders | 9th | 4x 6th | ☑ | Simbon reccomended by services to someone at a Library known as the Candlekeep. It was a pretty easy job helping some Frogfolk out, and got a nice set of armor from it. |
+| Book of Cylinders | 9th | 4x 6th | ☑ | Simbon reccomended my services to someone at a Library known as the Candlekeep. It was a pretty easy job helping some Frogfolk out, and got a nice set of armor from it. |
 | Trail of Distruction | 9th | 4x 8th | ☑ | Some twink tiefling almost got me killed saving him from some Salamanders, and I had to fight a massive elemental. |
 | In the Mists of Manivarsha | 11th | 4x 9th | ☑ | I learned of a Magical Artifact known as the Robe of Stars, that might allow me to return home... It seems like obtaining one will be extremely costly, however. I need more money, so I'm taking up extra jobs here and there, including this one. |
-| Between Tangled Roots | 12th | 4x 10th | ☐ | The Robe is apparently being auctioned within a year. It is expected to go for almost 60,000gp. Rumors of a horendous monster attacking a town have reached me, and I'm going to go see if I can help. Hopefully, this adventuring business keeps being profitable. I want to go home. |
+| Between Tangled Roots | 12th | 4x 10th | ☑ | The Robe is apparently being auctioned within a year. It is expected to go for almost 60,000gp. Rumors of a horendous monster attacking a town have reached me, and I'm going to go see if I can help. Hopefully, this adventuring business keeps being profitable. I want to go home. |
+| ??? | 14th | 4x 12th | ☐ | I sold most of my magical artifacts in order to raise funds for the auction, but I barely have half the expected price. I'll continue adventuring, but I'm not sure what to do. Some things I don't feel like it would be right for me to sell... |
 
 
 
