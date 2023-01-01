@@ -1,4 +1,4 @@
-## Valrie
+## Xerastra "Astra" Ephemzel
 Astral Elf, ♀, 21, Neutral
 
 HP: 144 \
