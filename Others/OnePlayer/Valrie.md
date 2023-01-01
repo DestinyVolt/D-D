@@ -1,52 +1,56 @@
 ## Valrie
 Astral Elf, ♀, 21, Neutral
 
-HP: 115 \
+HP: 144 \
 AC: 22 (Enhanced Arcane Serpent Scale Armor, RoP) \
 Speed: 40ft (Climb, Swim) \
 Init: +9 \
-Prof: +4 \
+Prof: +5 \
 STR: 12 \
 DEX: 20 \
-CON: 16 \
+CON: 17 \
 INT: 18 \
 WIS: 18 \
 CHA: 12
 
 #### Proficiencies
 Skills: Perception, Survival, Insight, Investigation, Acrobatics \
-Astral Knowledge: None (Weapon), Persuasion \
+Astral Knowledge: None (Weapon), Performance \
 Expertise: Stealth (Adv.), Tinker's Tools, Thieves' Tools, Navigator’s tools, Smith's Tools \
 Saves: Strength, Dexterity, Constitution, Intelligence, Wisdom \
-Senses: Darkvision (90ft) \
+Senses: Darkvision (90ft), Blindsight (10ft) \
 Languages: Common, Elvish, Sylvan, Draconic, Primordial, Goblin, Undercommon, +1
 
 ### Attacks
-Enhanced Starry Armament: +13 to hit, 1d6 + 7 + 1d6 once per round (90/300) \
-Elven Shortswords: +9 to hit, 1d6 + 5 (1d6 if bonus action) \
-Unarmed Strike: +5 to hit, 2 damage
+Enhanced Starry Armament: +14 to hit, 1d6 + 7 + 1d6 once per round (90/300) \
+Repeating Crossbow: +13 to hit, 1d12 + 6 (100 / 400) \
+Elven Shortswords: +10 to hit, 1d6 + 5 (1d6 if bonus action) \
+Unarmed Strike: +6 to hit, 2 damage
 
 Extra Attack: You can make 2 attacks instead of one. \
 Stalker's Flurry: Once per turn, when you miss with an attack, you can make an additional attack \
 Sharpshooter: -5 to hit, +10 damage; Ignore Cover; Ignore Disadvantage from Long Distance \
 Close Quarters Shooter: Ignore Disadvantage due to close range combat \
 Dread Ambusher: Additional attack on the first turn of combat, +1d8 force damage \
-Elven Accuracy: Triple Advantage when you have Advantage
+Elven Accuracy: Triple Advantage when you have Advantage \
+Improved Critical: You crit on a 19 or a 20. 
 
 ### Bonus Actions
-Starlight Step (4 / LR): As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. \
-Nature's Veil (4 / LR): As a bonus action, you become invisible until the start of your next turn. \
-Nature's Mantle: Hide in Light Obscurment(+13, adv) 
+Starlight Step (5 / LR): As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. \
+Nature's Veil (5 / LR): As a bonus action, you become invisible until the start of your next turn. \
+Second Wind (1 / SR): As a bonus action, heal 1d10+3 \
+Nature's Mantle: Hide in Light Obscurment(+15, adv) 
 
-### Artificer 11
-Flash of Genius (4 uses): As a reaction, add +4 to a roll 
-Spell Storing Item (8 uses): As a reaction, fucking die. 
+### Artificer 14
+Flash of Genius (4 uses): As a reaction, add +4 to a roll \
+Spell Storing Item (8 uses): Cure Wounds
 
-Save DC: 16 \
+Save DC: 17 \
 Cantrips: Dancing Lights, Guidance, Resistance, Mage Hand \
 1st (4 slots): Faerie Fire, Arcane Weapon, Cure Wounds, Feather Fall, *Magic Missile, Thunderwave* \
 2nd (3 slots): Levitate, Invisibility, Enhance Ability, *Mirror Image, Shatter* \
-3rd (2 slots): Fly, Dispel Magic, *Hypnotic Pattern, Lightning Bolt*
+3rd (2 slots): Fly, Dispel Magic, *Hypnotic Pattern, Lightning Bolt* \
+4th (1 slots): Elemental Bane, Freedom of Movement, *Fire Shield, Greater Invisibility*
 
 Infusions Active: \
 Enhanced Defense \
@@ -54,13 +58,16 @@ Enhanced Weapon \
 Repeating Weapon \
 Ring of Water Walking \
 Helm of Awareness \
-Periapt of Wound Closure 
+Periapt of Wound Closure \
+Ring of Free Action
 
 Infusions Known: 
 Spell-Refueling Ring \
-Gloves of Missile Snatching\
+Gloves of Missile Snatching \
+Dimensional Shackles \
 
-### Gloomstalker 11
+
+### Gloomstalker 11 / Champion 3
 Favored Enemy: Drow, Goblins, +1 \
 Fighting Style: Archery \
 1st (4 slots): Goodberry, Zypher Strike, Absorb Elements, *Disguise Self* \
@@ -70,57 +77,56 @@ Fighting Style: Archery \
 Umbral Sight: Invisibility to Darkvision \
 Land's Stride: Immunity to Non-magical Difficult Terrain and Advantage vs Magical Plants \
 Deft Explorer (4 / LR): As an action, you can give yourself 1d8+4 temp hit points. \
-Tireless: Whenever you finish a short rest, you can reduce one level of exhaustion. 
+Tireless: Whenever you finish a short rest, you can reduce one level of exhaustion. \
+Remarkable Recovery: Whenever you stablize, you regain 3HP. Whenever you're healed via another method, you gain an additional 3 hit points. \
+Action Surge (1 / SR): You can take an additional action on your turn. 
 
 ### Inventory
-Coins: 10pp, 6337gp, 450ep, 2102sp, 3050cp \
-Exp: 92,050xp (100,000 for next level)
+Coin: 33855gp, 450ep, 7902sp, 3050cp \
+Exp: 148,300xp (160,000 for next level)
 
 Attuned Items: \
 ✯ Ring of Protection \
 ✯ Nature's Mantle \
+✯ Repeating Crossbow \
 ✯ Periapt of Wound Closure \
 ✯ Helm of Awareness
 
 Belt: \
 2x Shortswords \
 1x Hand Crossbow (20 Bolts) \
-1x Healing Potion \
-1x Potion of Flying \
+1x Healing Potion (Superior) \
 1x Potion of Fire Resistance \
 Thieves' Tools 
 
-
 Neck: \
-Periapt of Proof against Poison
+Periapt of Proof against Poison 
 
 Fingers: \
 Ring of Warmth (Gift from Prince Simbom) \
-Ring of Water Walking
+Ring of Water Walking \
+Ring of Free Action (Unattuned) \
+Clockwork Amulet Ring 
 
 Hidden in Boot: \
 2x Daggers \
 Sling
 
 Bag of Holding: \
-Staff of Defense \
-Gauntlets of Ogre Power \
-Chime of Opening \
-Spider Staff \
 Decanter of Endless Water \
-Serpent's Fang 
+Stone of Good Luck \
+Necklace of Prayer Beads (Wind Walk, Bless, 2x Cure Wounds (Second Level / Lesser Restoration) \
+Necklace of Adaptation 
 
 Longbow, 19 Arrows \
 Dungeoneer's Pack \
 8 days of Rations \
-7x Healing potions \
+8x Healing potions \
+1x 100gp Pearl \
+6x 100gp Diamond \
+Potion of Flying \
 10gp Jewel from Home
 
-2x 100gp Pearl \
-6x 100gp Diamond \
-4x 760gp Bejeweled Sconces \
-Scroll of Lightning Bolt \
-Scroll of Misty Step 
 
 ### Future Progression
 Genuinely consider whether it's worth going past this level of Ranger. Can't even use Swift Quiver with my arm, so what's the point of continuing. Rogue, Cleric, and Fighter might be better progression. Champion Fighter 3 might be worth it. 
@@ -144,7 +150,8 @@ War Cleric 1 / Champion 3 / Rogue 1/2/3/5
 | Gold for Fools and Princes | 8th | 4x 7th | ☑ | Stupid Traitorous Prince. Both princes were in way over their heads, but at least Simbon realized it. I leave with a ring as a gift, and an invitation to return whenever I desire. I let him keep Dragonsguard. Reminder for him to be steadfast. For now, I must continue my travels. |
 | Book of Cylinders | 9th | 4x 6th | ☑ | Simbon reccomended by services to someone at a Library known as the Candlekeep. It was a pretty easy job helping some Frogfolk out, and got a nice set of armor from it. |
 | Trail of Distruction | 9th | 4x 8th | ☑ | Some twink tiefling almost got me killed saving him from some Salamanders, and I had to fight a massive elemental. |
-| ??? | 11th | 4x 9th | ☐ | Reminder to go shopping |
+| In the Mists of Manivarsha | 11th | 4x 9th | ☑ | I learned of a Magical Artifact known as the Robe of Stars, that might allow me to return home... It seems like obtaining one will be extremely costly, however. I need more money, so I'm taking up extra jobs here and there, including this one. |
+| Between Tangled Roots | 12th | 4x 10th | ☐ | The Robe is apparently being auctioned within a year. It is expected to go for almost 60,000gp. Rumors of a horendous monster attacking a town have reached me, and I'm going to go see if I can help. Hopefully, this adventuring business keeps being profitable. I want to go home. |
 
 
 
