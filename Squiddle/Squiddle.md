@@ -37,12 +37,12 @@ Cantrips: Magic Stone, Thorn Whip \
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
-Unprepared   (3): Glyph Of Warding, Sending, Magic Circle, Pulse Wave \
-Unprepared   (4): Banishment \
+Unprepared   (3): Glyph Of Warding, Magic Circle, Pulse Wave, Phantom Steed (R) \
+Unprepared   (4):  Summon Warrior Spirit (UA) \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (5 Prepared): Slow, Haste, Tiny Servant, Phantom Steed, Remove Curse \
-4th (3 Prepared): Psychic Lance, Summon Warrior Spirit (UA), Fabricate
+3rd (5 Prepared): Slow, Haste, Tiny Servant, Remove Curse, Sending \
+4th (3 Prepared): Psychic Lance, Banishment, Fabricate
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
