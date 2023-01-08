@@ -34,7 +34,7 @@ Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
 
 ### Chronurgy Wizard 8:
-Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
+Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
 Unprepared   (3): Glyph Of Warding, Magic Circle, Pulse Wave, Phantom Steed (R) \
