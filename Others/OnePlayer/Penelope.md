@@ -28,7 +28,7 @@ Volatile Concoctions (120ft): +10 to hit, 2x 1d6+5 acid damage
 ### Bonus Actions
 Psi Replenishment (1/LR): Restore Psi Die to a d8
 
-### Wizard 4
+### Wizard 5
 Rituals: Find Familiar, Unseen Servant, Identify, Comprehend Languages, Detect Magic \
 Cantrips: Prestidigitation, Acid Splash, Shocking Grasp  \
 1st (4): Shield, Silvery Barbs, Magic Missile \
