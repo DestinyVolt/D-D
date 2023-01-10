@@ -40,7 +40,7 @@ Spell Secrets: Whenever you cast a spell that does a damage type that isn't blud
 
 ### Artificer 5
 Cantrips: Magical Tinkering, Guidance, Mending \
-1st (4): Inflict Wounds, Tasha's Caustic Brew, Absorb Elements, Sanctuary, *Healing Word, Ray of Sickness*
+1st (4): Inflict Wounds, Tasha's Caustic Brew, Absorb Elements, Sanctuary, *Healing Word, Ray of Sickness* \
 2nd (2): Wither and Bloom, Invisibility, Lesser Restoration	*Flaming Sphere, Melf's Acid Arrow*
 
 Alchemical Savant: +5 bonus to Fire, Acid, Poison, and Necrotic Damage 
@@ -121,7 +121,8 @@ Member of the Fantastical Horticulture Club (Nature, Survival)
 | Strixhaven (Chapter 1.1) |  2nd   | 4x 1th         | ☑ | I managed to get a job thanks to Urz (He doesn't like when I call him that ;p) and I won a frog race, but then the frogs got really big and attacked and I had to fight them off and they turned normal.  |
 | Strixhaven (Chapter 1.3) |  3rd   | 4x 2th         | ☑ | I passed my first exam. School has been going really well and I've made another friend, after I won a game of Wizard Gizzard and was attacked by a bunch of Steam Mephits, but I managed to take them out while the other students dealt with a bug infestation. |
 | Strixhaven (Chapter 1.4) |  3rd   | 4x 2th         | ☑ | I've been doing well on my exams! Quin, that butt, tried to embarress me by sending me to find some rude doll in a campus mansion, but I actually managed to find it. Made him eat his words :D |
-| Strixhaven (Chapter 1.5) |  3th   | 4x 3rd         | ☐ | I helped a professor figure out what's been going on this year with all the attacks! I managed to purify the source of the problem. In return, she got me this awesome Alchemy Kit! |
+| Strixhaven (Chapter 1.5) |  3th   | 4x 3rd         | ☑ | I helped a professor figure out what's been going on this year with all the attacks! I managed to purify the source of the problem. In return, she got me this awesome Alchemy Kit! |
+| Strixhaven (Chapter 2) | 5th | 4x 4th | ☐ | Time for my second year! I'm now officially a student of Witherbloom! On top of that, Jav convinced me to join up with him for the Mage Tower competition, and I convinced Urz to join us :D |
 
 ### Side Note: 
 Using a homebrew version of the Alchemist: https://www.gmbinder.com/share/-N9_jBm0J8bU2CHpYcGZ \
