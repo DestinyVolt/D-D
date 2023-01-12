@@ -78,7 +78,7 @@ Wild Talent (Int): 1d8 Psionic Die \
 Eldritch Concoction: +5 damage to Volitile Concoctions 
 
 ### Inventory
-Coin: 1pp, 765gp, 0sp, 0cp \
+Coin: 1pp, 95gp, 0sp, 0cp \
 Exp: 42,000xp (48,000xp for next level)
 
 Herbalism Kit \
@@ -96,9 +96,10 @@ Magic Items: \
 Bag of Holding
 
 Gub Items: \
-Belt of Drarvenkind (+4HP, Resistance to Poison, Beard) \
-Cloak of Displacement (Attacks have disadvantage) \
-Stone of Good Luck (+1 Saves, +1 Ability Checks) 
+✯ Belt of Drarvenkind (+4HP, Resistance to Poison, Beard) \
+✯ Cloak of Displacement (Attacks have disadvantage) \
+✯ Stone of Good Luck (+1 Saves, +1 Ability Checks) \
+Half-Plate Armor (AC 17)
 
 Unattuned Items: \
 Silverquill Primer 
@@ -130,7 +131,14 @@ Member of the Fantastical Horticulture Club (Nature, Survival)
 | :----: | :-----: | :-: | ------ | 
 | #1 | ☑☐ | ☑☑ | Investigation, Arcana |
 | #2 | ☑☐ | ☑☑ | Investigation, Persuasion |
-| #3 | ☐☐ | ☑☑☑ | History, Insight | 
+| #3 | ☑☐ | ☑☑☑ | History, Insight | 
+
+
+| Year 3 | Rerolls | d4s | Skills |
+| :----: | :-----: | :-: | ------ | 
+| #1 | ☐☐ | ☐☐ |  |
+| #2 | ☐☐ | ☐☐ |  |
+| #3 | ☐☐ | ☐☐ |  | 
 
 
 ### Adventures:
