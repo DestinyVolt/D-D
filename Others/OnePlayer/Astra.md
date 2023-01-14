@@ -1,7 +1,7 @@
 ## Xerastra "Astra" Ephemzel
 Astral Elf, ♀, 21, Neutral
 
-HP: 144 \
+HP: 152 \
 AC: 22 (Enhanced Arcane Serpent Scale Armor, RoP) \
 Speed: 40ft (Climb, Swim) \
 Init: +9 \
@@ -14,15 +14,18 @@ WIS: 18 \
 CHA: 12
 
 #### Proficiencies
-Skills: Perception, Survival, Insight, Investigation, Acrobatics \
-Astral Knowledge: None (Weapon), Performance \
-Expertise: Stealth (Adv.), Tinker's Tools, Thieves' Tools, Navigator’s tools, Smith's Tools \
+Skills: Perception, Survival, Insight, Investigation, Acrobatics, Persuasion \
+Astral Knowledge: None (Weapon), Deception \
+Expertise: Stealth (Adv.), Perception, Acrobatics \
+Tools (Exp.): Tinker's Tools, Thieves' Tools, Navigator’s tools, Smith's Tools \
 Saves: Strength, Dexterity, Constitution, Intelligence, Wisdom \
 Senses: Darkvision (90ft), Blindsight (10ft) \
-Languages: Common, Elvish, Sylvan, Draconic, Primordial, Goblin, Undercommon, +1
+Languages: Common, Elvish, Sylvan, Draconic, Primordial, Goblin, Undercommon, Thieves' Cant, +1
 
 ### Attacks
-Enhanced Starry Armament: +14 to hit, 1d6 + 7 + 1d6 once per round (90/300) \
+Enhanced Starry Armament: +14 to hit, 2d6 + 7 (90/300) \
+\- Glimmering Starstuff: Any creature struck by this attack has disadvantage on attack rolls against you, and you have advantage on attack rolls against it, until your next turn.  
+\- Sneak Attack: +1d6 damage if you have advantage, once per turn \
 Repeating Crossbow: +13 to hit, 1d12 + 6 (100 / 400) \
 Elven Shortswords: +10 to hit, 1d6 + 5 (1d6 if bonus action) \
 Unarmed Strike: +6 to hit, 2 damage
@@ -41,7 +44,7 @@ Nature's Veil (5 / LR): As a bonus action, you become invisible until the start 
 Second Wind (1 / SR): As a bonus action, heal 1d10+3 \
 Nature's Mantle: Hide in Light Obscurment(+15, adv) 
 
-### Artificer 14
+### Artificer 15
 Flash of Genius (4 uses): As a reaction, add +4 to a roll \
 Spell Storing Item (8 uses): Cure Wounds
 
@@ -49,8 +52,8 @@ Save DC: 17 \
 Cantrips: Dancing Lights, Guidance, Resistance, Mage Hand \
 1st (4 slots): Faerie Fire, Arcane Weapon, Cure Wounds, Feather Fall, *Magic Missile, Thunderwave* \
 2nd (3 slots): Levitate, Invisibility, Enhance Ability, *Mirror Image, Shatter* \
-3rd (2 slots): Fly, Dispel Magic, *Hypnotic Pattern, Lightning Bolt* \
-4th (1 slots): Elemental Bane, Freedom of Movement, *Fire Shield, Greater Invisibility*
+3rd (3 slots): Fly, Dispel Magic, *Hypnotic Pattern, Lightning Bolt* \
+4th (2 slots): Elemental Bane, Freedom of Movement, *Fire Shield, Greater Invisibility*
 
 Infusions Active: \
 Enhanced Defense \
@@ -67,7 +70,7 @@ Gloves of Missile Snatching \
 Dimensional Shackles \
 
 
-### Gloomstalker 11 / Champion 3
+### Gloomstalker 11 / Champion 3 / Rogue 1
 Favored Enemy: Drow, Goblins, +1 \
 Fighting Style: Archery \
 1st (4 slots): Goodberry, Zypher Strike, Absorb Elements, *Disguise Self* \
@@ -82,8 +85,8 @@ Remarkable Recovery: Whenever you stablize, you regain 3HP. Whenever you're heal
 Action Surge (1 / SR): You can take an additional action on your turn. 
 
 ### Inventory
-Coin: 33855gp, 450ep, 7902sp, 3050cp \
-Exp: 148,300xp (160,000 for next level)
+Coin: 56800gp, 50ep, 5952sp, 3050cp \
+Exp: 179,200xp (195,000 for next level)
 
 Attuned Items: \
 ✯ Ring of Protection \
@@ -103,7 +106,6 @@ Neck: \
 Periapt of Proof against Poison 
 
 Fingers: \
-Ring of Warmth (Gift from Prince Simbom) \
 Ring of Water Walking \
 Ring of Free Action (Unattuned) \
 Clockwork Amulet Ring 
@@ -114,23 +116,17 @@ Sling
 
 Bag of Holding: \
 Decanter of Endless Water \
-Stone of Good Luck \
-Necklace of Prayer Beads (Wind Walk, Bless, 2x Cure Wounds (Second Level / Lesser Restoration) \
-Necklace of Adaptation 
+Necklace of Prayer Beads (Wind Walk) 
 
 Longbow, 19 Arrows \
 Dungeoneer's Pack \
 8 days of Rations \
 8x Healing potions \
 1x 100gp Pearl \
-6x 100gp Diamond \
 Potion of Flying \
 10gp Jewel from Home
 
-
 ### Future Progression
-Genuinely consider whether it's worth going past this level of Ranger. Can't even use Swift Quiver with my arm, so what's the point of continuing. Rogue, Cleric, and Fighter might be better progression. Champion Fighter 3 might be worth it. 
-
 Consider: \
 War Cleric 1 / Champion 3 / Rogue 1/2/3/5
 
@@ -152,7 +148,8 @@ War Cleric 1 / Champion 3 / Rogue 1/2/3/5
 | Trail of Distruction | 9th | 4x 8th | ☑ | Some twink tiefling almost got me killed saving him from some Salamanders, and I had to fight a massive elemental. |
 | In the Mists of Manivarsha | 11th | 4x 9th | ☑ | I learned of a Magical Artifact known as the Robe of Stars, that might allow me to return home... It seems like obtaining one will be extremely costly, however. I need more money, so I'm taking up extra jobs here and there, including this one. |
 | Between Tangled Roots | 12th | 4x 10th | ☑ | The Robe is apparently being auctioned within a year. It is expected to go for almost 60,000gp. Rumors of a horendous monster attacking a town have reached me, and I'm going to go see if I can help. Hopefully, this adventuring business keeps being profitable. I want to go home. |
-| ??? | 14th | 4x 12th | ☐ | I sold most of my magical artifacts in order to raise funds for the auction, but I barely have half the expected price. I'll continue adventuring, but I'm not sure what to do. Some things I don't feel like it would be right for me to sell... |
+| The Curious Tale of Wisteria Vale | 14th | 4x 11th | ☑ | I sold most of my magical artifacts in order to raise funds for the auction, but I barely have half the expected price. I'll continue adventuring, but I'm not sure what to do. Some things I don't feel like it would be right for me to sell... The Harpers have promised me 5000gp if I can cure a Bard within a magical book within a Library. I'm up to 2/3rds of the money, but time in the book was not scaled linearly with time outside... The Auction is tomorrow and I don't have enough... |
+| The Auction | 15th | - | ☐ | I sold some of the prayer beads given by the priestess on the rainbow bridge, but it feels wrong to sell all of them, so I kept the Wind Walking one. I sold all my diamonds. There's nobody here who would resurrect me anyway. I sold the lucky shell given to me in Manivarsha. I sold the Ring Simbon gave to me. I hope he understands... I will remember all the places I have been, all the people I have met, but I can't risk what might be my only chance of going home... I was at wits end, trying to think of something else I had worth selling, when I was contacted by a mysterious person. They offered me the rest of the money I needed, up front, in exchange for going on a mission for Secretary Wei of the nation of Great Xing. They say it is a simple job, but I don't trust them. Regardless, I have to accept. I have to get home. |
 
 
 
