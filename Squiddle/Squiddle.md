@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 77 \
+HP: 85 \
 AC: 20 (Plate + Shield) \
 Prof: +4 \
 Speed: 25ft, Init: +7 \
@@ -28,21 +28,22 @@ Vampiric Bite: +8 to hit, 1d4+4 piercing + 1d8 psychic damage \
 Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 1 \
+Spell Slots: 4, 3, 3, 3, 2 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
 
-### Chronurgy Wizard 8:
+### Chronurgy Wizard 9:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
-Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
+Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave, Phantom Steed (R) \
 Unprepared   (4): Summon Warrior Spirit (UA) \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (5 Prepared): Slow, Haste, Tiny Servant,  Phantom Steed (R), Sending \
-4th (3 Prepared): Psychic Lance, Banishment, Fabricate
+3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
+4th (3 Prepared): Psychic Lance, Banishment, Fabricate \
+5th (2 Prepared): Telekinesis, Wall of Force
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -116,14 +117,10 @@ Bag of Keys \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
-**Wizard 9:** \
-Telekinesis, Temporal Shunt \
-+1 5th level slot, +1 Spell Prep'd
-
 **Wizard 10:**
 Arcane Abeyance \
-Rary's Telepathic Bond, Dominate Person, +1 Cantrip \
-+1 5th level slot, +1 Spell Prep'd, Cantrip Scaling!
+Temporal Shunt, Dominate Person, +1 Cantrip \
++1 5th level slot, +1 Spell Prep'd, +1 6th level slot, Cantrip Scaling!
 
 Future Spells: \
 3rd: Intellect Fortress
