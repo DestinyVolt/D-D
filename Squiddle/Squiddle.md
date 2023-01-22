@@ -34,14 +34,14 @@ Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sleep
 
 ### Chronurgy Wizard 8:
-Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
+Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
 Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
-Unprepared   (3): Glyph Of Warding, Magic Circle, Pulse Wave, Phantom Steed (R) \
-Unprepared   (4):  Summon Warrior Spirit (UA) \
+Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
+Unprepared   (4): Summon Warrior Spirit (UA) \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (5 Prepared): Slow, Haste, Tiny Servant, Remove Curse, Sending \
+3rd (5 Prepared): Slow, Haste, Tiny Servant,  Phantom Steed (R), Sending \
 4th (3 Prepared): Psychic Lance, Banishment, Fabricate
 
 **Arcane Recovery:** \
@@ -107,11 +107,12 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Cloak of Displacement (BA Dodge, Prof / Rest) \
 Old Recording of a Mathemagics Lecture \
-The Rock (In Progress) \
+The Rock (Complete) \
 Bag of Ball Bearings \
 Metal Net / Smith's Tools \
 A Gallon of Glue \
 Bag of Keys \
+5 Bottles of Wine (3gp) \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
