@@ -1,6 +1,7 @@
 ## Donovan
 
-HP: 12
+HP: 12 \
+AC: 14 \
 STR: 14
 DEX: 17
 CON: 14
