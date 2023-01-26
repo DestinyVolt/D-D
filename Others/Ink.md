@@ -16,7 +16,7 @@ Level 2: \
 Infusion: Homunculus (Maybe Looks like a Dragon) \
 Infusion: Spell Wrought Tattoo (Find Familiar (Spider) ) \
 Infusion: Spell Wrought Tattoo (Disguise Self) \
-Infusion: Enhanced Weapon
+Infusion: Masque Charm (Strixhaven) 
 
 Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic) 
 
