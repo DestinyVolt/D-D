@@ -1,6 +1,6 @@
 ## Donovan
 
-HP: 12 \
+HP: 28 \
 AC: 14 \
 STR: 14
 DEX: 17
@@ -13,6 +13,7 @@ Skills: Stealth, Athletics, Acrobatics, Percetion \
 Expertise: Survival
 
 Shortsword: +4 to hit, 1d6 + 2
-Longbow: +5 to hit, 1d8+3
+Longbow: +7 to hit, 1d8+3
 
-Feat: TDB
+Fighting Style: Archery \
+Feat: Sharpshooter
