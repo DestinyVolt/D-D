@@ -9,7 +9,7 @@ INT: 8
 WIS: 14
 CHA: 8
 
-Skills: Stealth, Athletics, Acrobatics, Percetion \
+Skills: Stealth, Athletics, Acrobatics, Perception \
 Expertise: Survival
 
 Shortsword: +4 to hit, 1d6 + 2
