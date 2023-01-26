@@ -1,11 +1,11 @@
 ## Penelope
-Chaotic Good, ♀, 19, Neutral
+Chaotic Good, ♀, 20, Neutral
 
-HP: 99 \
-AC: 19 (Enhanced Scale Mail, CoP) \
+HP: 117 \
+AC: 20 (Enhanced Half Plate, CoP) \
 Speed: 30ft \
-Init: +5 (Int Based) \
-Prof: +3 \
+Init: +10 (Int Based, Alert) \
+Prof: +4 \
 STR: 10 \
 DEX: 14 \
 CON: 16 \
@@ -22,8 +22,8 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elvish, Gnomish, Auran 
 
 ### Actions
-Acid Splash (60ft): DC 21 Dex Save, 2d6+5 Acid Damage, 2 adjacent targets \
-Volatile Concoctions (30ft): DC 21 Dex Save, 1d6+10 acid damage, two targets
+Acid Splash (60ft): DC 21 Dex Save, 3d6+5 Acid Damage, 2 adjacent targets \
+Volatile Concoctions (30ft): DC 21 Dex Save, 1d6+10 acid damage, three shots
 
 ### Bonus Actions
 Psi Replenishment (1/LR): Restore Psi Die to a d8
@@ -31,48 +31,49 @@ Psi Replenishment (1/LR): Restore Psi Die to a d8
 ### Reactions
 Flash of Genius (5/LR): +5 to a roll
 
-### Wizard 10
-Rituals: Find Familiar, Unseen Servant, Identify, Comprehend Languages, Detect Magic \
+### Wizard 12
+Rituals: Find Familiar, Unseen Servant, Identify, Comprehend Languages, Detect Magic, Alarm, Water Breathing	 \
 Unprepared: Glyph of Warding, Rime's Binding, Scorching Ray, Legend Lore, Spirit Shroud \
 Cantrips: Prestidigitation, Acid Splash, Shocking Grasp  \
 1st (4): Shield, Silvery Barbs, Magic Missile \
 2nd (3): Dragon's Breath, Borrowed Knowledge \
 3rd (3): Fireball, Counterspell, Dispel Magic, Remove Curse \
 4th (3): Elemental Bane, Greater Invisiblity, Dimension Door, Banishment, Fire Shield \
-5th (1): Skill Empowerment
+5th (2): Skill Empowerment
+6th (1): Contingency, Disintegrate
 
 Arcane Recovery: Recover half your Wizard level (rounded up) in spell slots during a short rest, once per long rest. \
+Prodigious Memory (1 / R): As a bonus action, you can replace a spell you have prepared with one in your spellbook. 
 Spell Secrets: Whenever you cast a spell that does a damage type that isn't bludgeoning, piercing, or slashing, you can change the damage type to any type that is not on that list. Additionally, you can change the saving throw type once on a spell you cast, once per long rest. \
 Alchemical Casting: 
 - You can expend a first level slot to deal 2d10 to one target of the spell
 - You can expend a second level slot to increase range from 30ft to a mile
 - You can expend a third level slot to increase save DC by 2
 
-### Artificer 10
+### Artificer 12
 Cantrips: Magical Tinkering, Guidance, Mending \
 1st (4): Inflict Wounds, Tasha's Caustic Brew, Absorb Elements, Sanctuary, *Healing Word, Ray of Sickness* \
 2nd (3): Wither and Bloom, Invisibility, Enhance Ability *Flaming Sphere, Melf's Acid Arrow*
-3rd (2): Intellect Fortress, Ashardalon's Stride, Vampiric Touch, *Gaseous Form, Mass Healing Word*
+3rd (3): Intellect Fortress, Ashardalon's Stride, Vampiric Touch, *Gaseous Form, Mass Healing Word*
 
-Alchemical Savant: +5 bonus to Fire, Acid, Poison, and Necrotic Damage 
-Restorative Reagents: Lesser Restoration, 5 / day
+Alchemical Savant: +5 bonus to Fire, Acid, Poison, and Necrotic Damage \
+Restorative Reagents: Lesser Restoration, 5 / day \
+Spell Storing Item (10x): Cure Wounds
 
 2 Random One per day, 4x10 Minutes to choose 4 \
 Experimental Elixirs (12 THP): \
-0x Healing (4d4+5) \
-2x Flying (30ft, 10 minutes) \
-1x Boldness (2d4, 1 minute) \
-0x Alter Self (1 hour) \
+
 
 Infusions Active: \
 Homunculus Servant (Froge) \
 Enhanced Defense \
 Enhanced Arcane Focus \
-Boots of Elvenkind
+Eyes of the Eagle	
+
 
 Infusions Known: \
 Alchemy Jug \
-Spell Restoring Ring \
+Boots of Elvenkind \
 Mind Sharpener \
 Cloak of Protection	
 
@@ -80,11 +81,12 @@ Cloak of Protection
 Witherbloom Initiate: Druidcraft, Spare the Dying, Cure Wounds \
 Witherbloom Mascot: Gub, Attack command, 1/LR + 2nd Slot teleport \
 Wild Talent (Int): 1d8 Psionic Die \
-Eldritch Concoction: +5 damage to Volitile Concoctions 
+Eldritch Concoction: +5 damage to Volitile Concoctions \
+Mystic Conflux (1 / LR): Identify \
+
 
 ### Inventory
-Coin: 1pp, 365gp, 0sp, 0cp \
-Exp: 46,000xp (48,000xp for next level)
+Coin: 1pp, 115gp, 0sp, 0cp \
 
 Herbalism Kit \
 Alchemy Kit \
@@ -98,6 +100,7 @@ Magic Items: \
 ✯ Cloak of Protection \
 ✯ All-Purpose Tool (+2) \
 ✯ Enhanced Arcane Focus (+2)  \
+✯ Eyes of the Eagle	\
 ✯ \
 Bag of Holding
 
@@ -147,6 +150,11 @@ Member of the Fantastical Horticulture Club (Nature, Survival)
 | #2 | ☑☐ | ☑☑☑ | History, Insight |
 | #3 | ☑☐ | ☑☑ | Arcana, Investigation, Persuasion | 
 
+| Year 4 | Rerolls | d4s | Skills |
+| :----: | :-----: | :-: | ------ | 
+| #1 | ☐☐ | ☐☐ |  |
+| #2 | ☐☐ | ☐☐ |  |
+| #3 | ☐☐ | ☐☐ |  | 
 
 ### Adventures:
 | Adventure Name          | My Level | Intended Level | Completed | Challenge |
@@ -167,7 +175,7 @@ Member of the Fantastical Horticulture Club (Nature, Survival)
 | Strixhaven (Chapter 3.3) | 8th | 4x 6th | ☑ | I may have... worked a bit to hard on my outfit, I'm exhausted... BUt I have to walk the dress for the fashion show, so Utz is giving me (hehehe I pestered himm) a smalll magical energy patch that should keep me awake until after the show, but he warned me I'll probably crash afterwards, it's fine- Update: I fell unconcious, but my outfit auctioned for 1500gp!!! |
 | Strixhaven (Chapter 3.4) | 8th | 4x 6th | ☑ | Me and 9 other students were asked to go gather some things in the witherbloom swamps. Besides a couple alligators, it was pretty uneventful. I also helped move some stuff out of the Biblioplex, which was pretty boring, but I snuck away for a moment to do some research. Apparently, 200 years ago, various students were effected by a sickness. That's what caused all those people to die. Given how some people are describing being sick, I'm a little worried. Anyway, my exam went well, but the Dean missed it. Rumor is, she's missing a lot of classes, and seems to have been struck with some Malady. gosh, I hope she's going to be okay. I know it's probably nothing, but given what I read in the records, I'm feeling skitish. |
 | Strixhaven (Chapter 3.5) | 9th | 4x 6th | ☑ | I did dance lessons with Urz today! He was saying that it was silly, but I could tell he was just nervous; it was really cute. Anyway, a group of us were setting up for the dance today and it was just a complete mess. A box fell on my head, Javenesh felt sick and had to leave, I noticed something wrong with one of the firework setups, and then a couple hours later, Jav and everyone else feeling sick suddenly went crazy and started fight everyone and try to escape. I ended up calming them down, but gosh that was scary. I did some investigating after what happened, and met with the Dean to ask what was going on, but she acted really weird. I'm getting really worried. You know... She's still go that weird orb... (Finals went well, but the Dean was absent again.) |
-| Strixhaven (Chapter 3.6) | 10th | 4x 7th | ☐ | Oh my gosh it's the day of the event and one of Urzy's experiments got lose and he has to fix it and now he can't come oh this is the WORST EVER. Honestly I might sneak out and go figure out what's going on with the dean while this is going oh. If Urz can't be there, what's the point? - It was alright. Not having my boyfriend there seriously put a damper on things. A lot of people complemented my dress though! The Dean was acting weird, and when she left, I followed. Three Lorehold students seemed to be affected by the visions, but I quickly knocked them unconcious. Something is very wrong. I disguised myself as the Dean and made my way to the Deans' Repository. She was clearly possessed and attacked me! I managed to knock her unconcious, but then the orb summoned some creep named Murgaxor. He said he was the most powerful strixhaven wizard ever, and that he'd have his revenge. I ended up destroying the orb. The Dean covered for me after the fact, thank goodness. I leanred from the dean that apparently he was a student long ago who was expelled for sucking the life force of his fellow students. I'm worried he might target me in the future, but for now, I'm safe. I'm going to go home. |
+| Strixhaven (Chapter 3.6) | 10th | 4x 7th | ☐ | Oh my gosh it's the day of the event and one of Urzy's experiments got lose and he has to fix it and now he can't come oh this is the WORST EVER. Honestly I might sneak out and go figure out what's going on with the dean while this is going oh. If Urz can't be there, what's the point? - It was alright. Not having my boyfriend there seriously put a damper on things. A lot of people complemented my dress though! The Dean was acting weird, and when she left, I followed. Three Lorehold students seemed to be affected by the visions, but I quickly knocked them unconcious. Something is very wrong. I disguised myself as the Dean and made my way to the Deans' Repository. She was clearly possessed and attacked me! I managed to knock her unconcious, but then the orb summoned some creep named Murgaxor. He said he was the most powerful strixhaven wizard ever, and that he'd have his revenge. I ended up destroying the orb. The Dean covered for me after the fact, thank goodness. I leanred from the dean that apparently he was a student long ago who was expelled and defeated for sucking the life force of his fellow students. I'm worried he might target me in the future, but for now, I'm safe. I'm going to go home. I'll rest, and then maybe train, just in case. |
 
 ### Side Note: 
 Using a homebrew version of the Alchemist: https://www.gmbinder.com/share/-N9_jBm0J8bU2CHpYcGZ \
