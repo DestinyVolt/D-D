@@ -39,7 +39,7 @@ Cantrips: Prestidigitation, Acid Splash, Shocking Grasp  \
 2nd (3): Dragon's Breath, Borrowed Knowledge \
 3rd (3): Fireball, Counterspell, Dispel Magic, Remove Curse \
 4th (3): Elemental Bane, Greater Invisiblity, Dimension Door, Banishment, Fire Shield \
-5th (2): Skill Empowerment
+5th (2): Skill Empowerment \
 6th (1): Contingency, Disintegrate
 
 Arcane Recovery: Recover half your Wizard level (rounded up) in spell slots during a short rest, once per long rest. \
