@@ -27,6 +27,7 @@ Languages: Common, Thieves' Cant
 ### Actions
 Improvised Weapon: +7 to hit, 1d4+5 damage \
 Claws / Unarmed Strikes: +7 to hit, 1d4+5 slashing damage \
+Crowbar: +7 to hit, 1d6 + 5 bludgeoning damage \
 Sneak Attack: +2d6 damage \
 Grab: +9 to grapple
 
