@@ -108,7 +108,6 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Cloak of Displacement (BA Dodge, Prof / Rest) \
 Old Recording of a Mathemagics Lecture \
-The Rock (Complete) \
 Bag of Ball Bearings \
 Metal Net / Smith's Tools \
 A Gallon of Glue \
