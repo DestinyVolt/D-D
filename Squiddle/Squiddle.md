@@ -97,7 +97,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 
 ### Equipment
 ☆ Cloak of Displacement (Modified) \
-☆ Mind Carapace Armor (Plate) \
+☆ Mind Carapace Armor (Plate) + Clockwork Amulet \
 ☆ Hat of Wizardry \
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
@@ -116,15 +116,19 @@ Bag of Keys \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
 #### Future Levels:
-**Wizard 10:**
+**Wizard 10:** \
 Arcane Abeyance \
 Temporal Shunt, Dominate Person, +1 Cantrip \
-+1 5th level slot, +1 Spell Prep'd, +1 6th level slot, Cantrip Scaling!
++1 5th level slot, +1 Spell Prep'd, +1 6th level slot, Cantrips Scale!
+
+**Wizard 11:** \
+6th: Contigency, Fizban's Platinum Shield \
++1 Spell Prep'd
 
 Future Spells: \
 3rd: Intellect Fortress
 5th: Planar Binding (For Silas) \
-6th: Contingency, Fizban's Platinum Shield, Tenser's Transformation (?) \
+6th: Fizban's Platinum Shield, Tenser's Transformation (?) \
 7th: Dream of the Blue Veil \
 8th: Mind Blank, Reality Break \
 9th: True Polymorph (I'd rather someone else take this), Shapechange, Wish
@@ -132,7 +136,7 @@ Future Spells: \
 #### Spell Scrolls: 
 1st: Identify (175gp if I just copy it using the Artificer spell list) \
 2nd: Continual Flame, Rope Trick \
-3rd: Leomund's Tiny Hut, Dispel Magic, Counterspell \
+3rd: Dispel Magic, Counterspell \
 4th: - \
 5th: Teleportation Circle \* \
 8th: Demiplane \* \
