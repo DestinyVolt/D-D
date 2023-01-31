@@ -130,7 +130,7 @@ Temporal Shunt, Dominate Person, Mind Sliver \
 +1 Spell Prep'd, +1 6th level slot, Cantrip Scaling
 
 **Wizard 11:** \
-6th: Contigency, Fizban's Platinum Shield \
+6th: Contigency (Start trying to get this commissioned ASAP), Fizban's Platinum Shield \
 +1 Spell Prep'd
 
 Future Spells: \
