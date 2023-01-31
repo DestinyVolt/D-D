@@ -136,7 +136,7 @@ Temporal Shunt, Dominate Person, Mind Sliver \
 Future Spells: \
 3rd: Intellect Fortress
 5th: Planar Binding (For Silas) \
-6th: Fizban's Platinum Shield, Tenser's Transformation (?) \
+6th: Create Homunculus \
 7th: Dream of the Blue Veil \
 8th: Mind Blank, Reality Break \
 9th: True Polymorph (I'd rather someone else take this), Shapechange, Wish
