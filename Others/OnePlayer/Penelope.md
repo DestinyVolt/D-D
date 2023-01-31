@@ -23,9 +23,9 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elvish, Gnomish, Auran 
 
 ### Actions
-Volatile Concoctions (30ft): DC 22 Dex Save, 1d6+10 Alchemical Savant damage, three shots
+Volatile Concoctions (30ft): DC 22 Dex Save, 1d6+10 Alchemical Savant damage, three shots \
 Vampiric Touch: +12 to hit, 3d6+5 Necrotic Damage, heal half \
-Acid Splash (60ft): DC 22 Dex Save, 3d6+5 Acid Damage, 2 adjacent targets \
+Acid Splash (60ft): DC 22 Dex Save, 3d6+5 Acid Damage, 2 adjacent targets 
 
 
 ### Bonus Actions
@@ -95,7 +95,7 @@ Witherbloom Initiate: Druidcraft, Spare the Dying, Cure Wounds \
 Witherbloom Mascot: Gub, Attack command, 1/LR + 2nd Slot teleport \
 Wild Talent (Int): 1d8 Psionic Die \
 Eldritch Concoction: +5 damage to Volitile Concoctions \
-Mystic Conflux (1 / LR): Identify \
+Mystic Conflux (1 / LR): Identify 
 
 
 ### Inventory
@@ -138,7 +138,7 @@ Cloak of Elvenkind
 
 | Name                    | Points | Relationship | Inspiration | Boon / Bane | 
 | ----------------------- | ------ | ------------ |:---:|:---:|
-| Urzmaktok | 7 | Fiancé | X | Study Buddy is always available :D |
+| Urzmaktok | 7 | Fiancé | ✓ | Study Buddy is always available :D |
 | Javenesh | 3 | Friend | X | - |
 | Melwythorne | 2 | Friend | X | - |
 | Greta | 1 | Friend | X | - |
