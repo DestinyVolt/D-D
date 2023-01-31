@@ -35,9 +35,9 @@ Cantrips: Magic Stone, Thorn Whip \
 
 ### Chronurgy Wizard 9:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
-Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave, Phantom Steed (R) \
+Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
 Unprepared   (4): Summon Warrior Spirit (UA) \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
@@ -99,6 +99,14 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 ☆ Cloak of Displacement (Modified) \
 ☆ Mind Carapace Armor (Plate) + Clockwork Amulet \
 ☆ Hat of Wizardry \
+
+Dimensional Anchors (Magical Tinkering) \
+⁕ Universe, Location (Do next Session!) \
+⁕ (None) \
+⁕ (None) \
+⁕ (None) \
+⁕ (None) 
+
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
@@ -118,8 +126,8 @@ Azorius Charm (1x Hold Person (3rd) or Command or Counterspell)
 #### Future Levels:
 **Wizard 10:** \
 Arcane Abeyance \
-Temporal Shunt, Dominate Person, +1 Cantrip \
-+1 5th level slot, +1 Spell Prep'd, +1 6th level slot, Cantrips Scale!
+Temporal Shunt, Dominate Person, Mind Sliver \
++1 Spell Prep'd, +1 6th level slot, Cantrip Scaling
 
 **Wizard 11:** \
 6th: Contigency, Fizban's Platinum Shield \
@@ -136,9 +144,9 @@ Future Spells: \
 #### Spell Scrolls: 
 1st: Identify (175gp if I just copy it using the Artificer spell list) \
 2nd: Continual Flame, Rope Trick \
-3rd: Dispel Magic, Counterspell \
+3rd: Dispel Magic, Counterspell, Intellect Fortress \
 4th: - \
-5th: Teleportation Circle \* \
+5th: Teleportation Circle \*, Planar Binding \
 8th: Demiplane \* \
 *Reminder: Hopefully I can get this from Oswyn?
 
