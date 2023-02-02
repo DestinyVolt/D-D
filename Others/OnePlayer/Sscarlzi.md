@@ -45,3 +45,7 @@ Cantrips: Druidcraft, Eldritch Blast, Prestidigitation \
 #### Feats
 Abberant Mark (Green Flame Blade, Silvery Barbs) \
 Scion Of Elemental Earth
+
+| Adventure Name          | My Level | Intended Level | Completed | Challenge |
+| ------------------------- | ------ | -------------- |:---:|-----|
+|  |  1st   | 4x 1th         | ☑ | It's my first day working for the Library |
