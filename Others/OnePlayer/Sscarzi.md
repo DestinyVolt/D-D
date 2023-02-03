@@ -1,4 +1,4 @@
-## Sscalzi
+## Sscarzi
 Naga, ♀, 25, Neutral
 
 HP: 14 \
