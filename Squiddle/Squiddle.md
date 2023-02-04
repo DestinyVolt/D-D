@@ -123,6 +123,11 @@ Bag of Keys \
 5 Bottles of Wine (3gp) \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
 
+#### To Do:
+Setup Dimensional Anchor (Universe Beta, Capital, Oakenbranch Residence) \
+Commission Ivory Statue of Cildri and Aggy \
+Get a mask for fighting in the capital
+
 #### Future Levels:
 **Wizard 10:** \
 Arcane Abeyance \
