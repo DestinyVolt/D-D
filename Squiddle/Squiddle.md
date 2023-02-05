@@ -92,20 +92,24 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 (Bond) I was taken by mindflayers and turned into this form. I hate all illithid. \
 (Flaw) I'm very easily peer pressured into things. \
 (Flaw) I'm overly nice to people who are rude to me, so long as they don't get violent. \
-(Flaw} I'm scared of anything getting near my eyes, and I'm terrified of leeches. \
+(Flaw) I'm scared of anything getting near my eyes, and I'm terrified of leeches. \
 (Flaw) I need to eat a brain once a month. 
 
 ### Equipment
+**Magic Items** \
 ☆ Cloak of Displacement (Modified) \
-☆ Mind Carapace Armor (Plate) + Clockwork Amulet \
+☆ Mind Carapace Armor (Plate) \
 ☆ Hat of Wizardry \
+Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
+Smith's Tools Net \
+Clockwork Amulet
 
-Dimensional Anchors (Magical Tinkering) \
-⁕ Universe, Location (Do next Session!) \
-⁕ (None) \
-⁕ (None) \
-⁕ (None) \
-⁕ (None) 
+**Dimensional Anchors (Magical Tinkering)** \
+✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
+✦ (None) \
+✦ (None) \
+✦ (None) \
+✦ (None) 
 
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
@@ -114,18 +118,14 @@ Pocket Watch that doubles as a Compass, various maps of the underdark railway (N
 Waterskin, 2x 50ft of Rope, Tinderbox, 10 Pitons \
 Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
-Cloak of Displacement (BA Dodge, Prof / Rest) \
 Old Recording of a Mathemagics Lecture \
-Bag of Ball Bearings \
-Metal Net / Smith's Tools \
-A Gallon of Glue \
-Bag of Keys \
 5 Bottles of Wine (3gp) \
-Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) 
+Bag of Ball Bearings \
+A Gallon of Glue \
+Bag of Keys 
 
 #### To Do:
-Setup Dimensional Anchor (Universe Beta, Capital, Oakenbranch Residence) \
-Commission Ivory Statue of Cildri and Aggy \
+(4 Days) Pick up Ivory Statue Commission \
 Get a mask for fighting in the capital
 
 #### Future Levels:
@@ -139,8 +139,7 @@ Temporal Shunt, Dominate Person, Mind Sliver \
 +1 Spell Prep'd
 
 Future Spells: \
-3rd: Intellect Fortress
-5th: Planar Binding (For Silas) \
+3rd: Intellect Fortress \
 6th: Create Homunculus \
 7th: Dream of the Blue Veil \
 8th: Mind Blank, Reality Break \
