@@ -20,3 +20,5 @@ Feat: Sharpshooter \
 Hordebreaker: +1 Attack per round 
 
 Spell Slots (3): Zypher's Strike, Hunter's Mark, Snare
+
+xp: 3950
