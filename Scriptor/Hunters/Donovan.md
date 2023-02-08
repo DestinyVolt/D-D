@@ -16,4 +16,7 @@ Shortsword: +4 to hit, 1d6 + 2
 Longbow: +7 to hit, 1d8+3
 
 Fighting Style: Archery \
-Feat: Sharpshooter
+Feat: Sharpshooter \
+Hordebreaker: +1 Attack per round 
+
+Spell Slots (3): Zypher's Strike, Hunter's Mark, Snare
