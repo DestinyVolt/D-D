@@ -36,13 +36,13 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 9:
 Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared (1-2): Magnify Gravity, Immovable Object, Gift of Alacrity, Tasha's Mind Whip \
-Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
-Unprepared   (4): Summon Warrior Spirit (UA) \
-1st (2 Prepared): Silvery Barbs, Shield \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
-4th (3 Prepared): Psychic Lance, Banishment, Fabricate \
+Unprepared (1-2): Magnify Gravity, Tasha's Mind Whip \
+Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave, Sending \
+Unprepared   (4): Summon Warrior Spirit (UA), Fabricate \
+1st (3 Prepared): Silvery Barbs, Shield, Gift of Alacrity \
+2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Immovable Object \
+3rd (3 Prepared): Slow, Haste, Tiny Servant \
+4th (2 Prepared): Psychic Lance, Banishment \
 5th (2 Prepared): Telekinesis, Wall of Force
 
 **Arcane Recovery:** \
