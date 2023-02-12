@@ -125,7 +125,7 @@ A Gallon of Glue \
 Bag of Keys 
 
 #### To Do:
-(4 Days) Pick up Ivory Statue Commission \
+(3 Days) Pick up Ivory Statue Commission \
 Get a mask for fighting in the capital
 
 #### Future Levels:
