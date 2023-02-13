@@ -15,14 +15,14 @@ Cantrips: Shocking Grasp, Guidance
 Level 2: \
 Infusion: Homunculus (Maybe Looks like a Dragon) \
 Infusion: Spell Wrought Tattoo (Find Familiar (Spider) ) \
-Infusion: Spell Wrought Tattoo (Disguise Self) \
+Infusion: Spell Wrought Tattoo (Ensnaring Strike) \
 Infusion: Masque Charm (Strixhaven) 
 
 Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic) 
 
 Level 6: \
 Infusion: Cloak of Elvenkind \
-Infusion: Spell-Refueling Ring
+Infusion: Enhanced Arcane Focus
 
 Breakthroughs: \
 Level 3 (Druid): Shillelagh, Entangle, Summon Beast, Conjure Animals, Summon Elemental, Summon Draconic Spirit \
