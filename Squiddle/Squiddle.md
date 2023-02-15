@@ -126,6 +126,8 @@ Bag of Keys
 
 #### To Do:
 (3 Days) Pick up Ivory Statue Commission \
+Coat a Dragon scale in platinum (500gp) \
+Adamantine Weaponry \
 Get a mask for fighting in the capital
 
 #### Future Levels:
@@ -135,12 +137,14 @@ Temporal Shunt, Dominate Person, Mind Sliver \
 +1 Spell Prep'd, +1 6th level slot, Cantrip Scaling
 
 **Wizard 11:** \
-6th: Contigency (Start trying to get this commissioned ASAP), Fizban's Platinum Shield \
+6th: Contigency, Fizban's Platinum Shield \
 +1 Spell Prep'd
 
+**Wizard 12:** \
+6th: Create Homunculus, Guards and Wards \
++1 Spell Prep'd, +1 7th level slot
+
 Future Spells: \
-3rd: Intellect Fortress \
-6th: Create Homunculus \
 7th: Dream of the Blue Veil \
 8th: Mind Blank, Reality Break \
 9th: True Polymorph (I'd rather someone else take this), Shapechange, Wish
