@@ -1,11 +1,11 @@
 Future Character, uses Artificer Maverick (CHA base) to represent a Tattoo artist with magical tattoos.
 
 General Stat Spread: \
-CHA >> CON ≈ DEX (14) > INT = WIS = STR
+CHA > DEX > CON > INT = WIS = STR
 
 Race: Mark of Shadow Elf
 
-Skills: Perception, Animal Handling, Intimidation, Persuasion, Deception
+Skills: Perception, Sleight of Hand, Intimidation, Persuasion, Deception
 
 General Progression: \
 Level 1: \
@@ -14,8 +14,8 @@ Cantrips: Shocking Grasp, Guidance
 
 Level 2: \
 Infusion: Homunculus (Maybe Looks like a Dragon) \
-Infusion: Spell Wrought Tattoo (Find Familiar (Spider) ) \
-Infusion: Spell Wrought Tattoo (Ensnaring Strike) \
+Infusion: Spell Wrought Tattoo ( Find Familiar (Spider) ) \
+Infusion: Spell Wrought Tattoo ( Zypher Strike ) \
 Infusion: Masque Charm (Strixhaven) 
 
 Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic) 
@@ -23,6 +23,10 @@ Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic)
 Level 6: \
 Infusion: Cloak of Elvenkind \
 Infusion: Enhanced Arcane Focus
+
+Level 8: 
+- If no rogue: Skill Expert (+1 CHA, Stealth, Stealth)
+- If no face: Diplomat (+1 CHA)
 
 Breakthroughs: \
 Level 3 (Druid): Shillelagh, Entangle, Summon Beast, Conjure Animals, Summon Elemental, Summon Draconic Spirit \
