@@ -67,7 +67,7 @@ Thanks to your noble birth, people are inclined to think the best of you. You ar
 Personality Trait: I like getting into fights, but I feel bad if the other person doesn't deserve it \
 Personality Trait: The best way to get me to do something is to tell me I can't do it. \
 Ideal: Independence. I can handle myself without any of coddling or barriers from my family. \
-Bond: (Hopefully something related to the local Brockhollows) \
+Bond: I've been invited to work for famous detective Hazel Luckstrim, after helping her solve the Murder of Squire Brockhollow. \
 Flaw: By my words and actions, I often bring shame to my family. 
 
 Backstory (Brief): \
