@@ -17,8 +17,8 @@ WIS: 7 \
 CHA: 15
 
 ### Proficiencies
-Skills: Stealth (+5), Intimidation (+5), Investigation (+4), Insight (+0) \
-Expertise: Athletics (+9), Deception (+7), Sleight of Hand (+7) \
+Skills: Stealth (+5), Investigation (+4), Insight (+0), Intimidation (+4) \
+Expertise: Athletics (+9), Sleight of Hand (+7), Deception (+6)  \
 Weapon Proficiencies: Improvised Weapons, Claws \
 Saving Throws: Dexterity, Intelligence \
 Tools: Thieves' Tools, Dice Set, Cards \
