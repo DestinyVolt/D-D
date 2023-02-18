@@ -125,10 +125,10 @@ A Gallon of Glue \
 Bag of Keys 
 
 #### To Do:
-(3 Days) Pick up Ivory Statue Commission \
+(2 Days) Pick up Ivory Statue Commission \
 Coat a Dragon scale in platinum (500gp) \
-Adamantine Weaponry \
-Get a mask for fighting in the capital
+Buy a gilded Playing Card (300gp) \ 
+Adamantine Weaponry 
 
 #### Future Levels:
 **Wizard 10:** \
