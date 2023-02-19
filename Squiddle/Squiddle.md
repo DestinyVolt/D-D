@@ -99,10 +99,11 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 **Magic Items** \
 ☆ Cloak of Displacement (Modified) \
 ☆ Mind Carapace Armor (Plate) \
-☆ Hat of Wizardry \
+☆ Gem of True Seeing \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net \
-Clockwork Amulet
+Clockwork Amulet \
+Hat of Wizardry
 
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
@@ -126,8 +127,9 @@ Bag of Keys
 
 #### To Do:
 (2 Days) Pick up Ivory Statue Commission \
+(3 Days) Pick up Gilded Playing Card (150gp due) \
+(4 Days) Til the Gala \
 Coat a Dragon scale in platinum (500gp) \
-Buy a gilded Playing Card (300gp) \ 
 Adamantine Weaponry 
 
 #### Future Levels:
