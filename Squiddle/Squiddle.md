@@ -126,9 +126,9 @@ A Gallon of Glue \
 Bag of Keys 
 
 #### To Do:
-(2 Days) Pick up Ivory Statue Commission \
-(3 Days) Pick up Gilded Playing Card (150gp due) \
-(4 Days) Til the Gala \
+(1 Days) Pick up Ivory Statue Commission \
+(2 Days) Pick up Gilded Playing Card (150gp due) \
+(3 Days) Til the Gala \
 Coat a Dragon scale in platinum (500gp) \
 Adamantine Weaponry 
 
