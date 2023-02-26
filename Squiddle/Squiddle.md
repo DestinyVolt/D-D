@@ -31,7 +31,7 @@ Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 Spell Slots: 4, 3, 3, 3, 2 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Diguise Self
 
 ### Chronurgy Wizard 9:
 Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
