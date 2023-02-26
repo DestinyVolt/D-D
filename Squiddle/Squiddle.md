@@ -34,7 +34,7 @@ Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Diguise Self
 
 ### Chronurgy Wizard 9:
-Cantrips: Shape Water, Prestidigitiation, Mending, Consume Brain \
+Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Gift of Alacrity, Tasha's Mind Whip \
 Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
@@ -123,13 +123,12 @@ Old Recording of a Mathemagics Lecture \
 5 Bottles of Wine (3gp) \
 Bag of Ball Bearings \
 A Gallon of Glue \
-Bag of Keys 
+Bag of Keys \
+Ivory Statuette with space for Gem to be inlaid
 
 #### To Do:
-(1 Days) Pick up Ivory Statue Commission \
-(2 Days) Pick up Gilded Playing Card (150gp due) \
+(1 Days) Pick up Gilded Playing Card (150gp due) \
 (3 Days) Til the Gala \
-Coat a Dragon scale in platinum (500gp) \
 Adamantine Weaponry 
 
 #### Future Levels:
