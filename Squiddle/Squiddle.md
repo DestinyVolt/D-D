@@ -127,8 +127,8 @@ Bag of Keys \
 Ivory Statuette with space for Gem to be inlaid
 
 #### To Do:
-(1 Days) Pick up Gilded Playing Card (150gp due) \
-(3 Days) Til the Gala \
+(0 Days) Pick up Gilded Playing Card (150gp due) \
+(2 Days) Til the Gala \
 Adamantine Weaponry 
 
 #### Future Levels:
