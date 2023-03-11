@@ -36,13 +36,13 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 9:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared (1-2): Magnify Gravity, Gift of Alacrity, Tasha's Mind Whip \
+Unprepared (1-2): Magnify Gravity, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
 Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
-Unprepared   (4): Summon Warrior Spirit (UA), Banishment \
+Unprepared   (4): , Banishment \
 1st (3 Prepared): Silvery Barbs, Shield \
-2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Immovable Object \
+2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
 3rd (3 Prepared): Slow, Haste, Tiny Servant, Sending \
-4th (2 Prepared): Psychic Lance, Fabricate \
+4th (2 Prepared): Psychic Lance, Fabricate, Summon Warrior Spirit (UA) \
 5th (2 Prepared): Telekinesis, Wall of Force
 
 **Arcane Recovery:** \
@@ -124,12 +124,11 @@ Old Recording of a Mathemagics Lecture \
 Bag of Ball Bearings \
 A Gallon of Glue \
 Bag of Keys \
-Ivory Statuette with space for Gem to be inlaid
+Ivory Statuette with space for Gem to be inlaid \
+Dragonscale Coated in Platinum (500gp)
 
 #### To Do:
-(0 Days) Pick up Gilded Playing Card (150gp due) \
-(2 Days) Til the Gala \
-Adamantine Weaponry 
+(2 Days) Til the Gala 
 
 #### Future Levels:
 **Wizard 10:** \
