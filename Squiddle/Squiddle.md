@@ -122,7 +122,6 @@ Tool Kit (contains Thieves' and Tinker's Tools): \
 Old Recording of a Mathemagics Lecture \
 5 Bottles of Wine (3gp) \
 Bag of Ball Bearings \
-A Gallon of Glue \
 Bag of Keys \
 Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp)
