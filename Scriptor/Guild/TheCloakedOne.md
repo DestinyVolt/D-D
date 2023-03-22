@@ -6,7 +6,7 @@ Level 13 Rogue
 
 HP: 95 \
 AC: 18 (Mage Armor) \
-Prof: +4 \
+Prof: +5 \
 Move: 30ft, (30ft Climb) \
 STR: 10 \
 DEX: 20 \
