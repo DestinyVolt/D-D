@@ -36,7 +36,7 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Chronurgy Wizard 9:
 Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared (1-2): Magnify Gravity, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
+Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
 Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
 Unprepared   (4): , Banishment \
 1st (3 Prepared): Silvery Barbs, Shield \
