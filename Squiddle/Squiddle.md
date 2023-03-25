@@ -136,11 +136,11 @@ Temporal Shunt, Dominate Person, Mind Sliver \
 +1 Spell Prep'd, +1 6th level slot, Cantrip Scaling
 
 **Wizard 11:** \
-6th: Contigency, Fizban's Platinum Shield \
+6th: Create Homunculus, Fizban's Platinum Shield \
 +1 Spell Prep'd
 
 **Wizard 12:** \
-6th: Create Homunculus, Guards and Wards \
+6th: Contigency, Guards and Wards \
 +1 Spell Prep'd, +1 7th level slot
 
 Future Spells: \
