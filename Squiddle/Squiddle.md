@@ -124,7 +124,8 @@ Old Recording of a Mathemagics Lecture \
 Bag of Ball Bearings \
 Bag of Keys \
 Ivory Statuette with space for Gem to be inlaid \
-Dragonscale Coated in Platinum (500gp)
+Dragonscale Coated in Platinum (500gp) \
+Toffee Candy (from leader of House Jorasco, Magical)
 
 #### To Do:
 (2 Days) Til the Gala 
