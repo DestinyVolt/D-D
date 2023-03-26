@@ -103,7 +103,8 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net \
 Clockwork Amulet \
-Hat of Wizardry
+Hat of Wizardry \
+Aberrational Pendant
 
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
@@ -125,10 +126,13 @@ Bag of Ball Bearings \
 Bag of Keys \
 Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
-Toffee Candy (from leader of House Jorasco, Magical)
+Toffee Candy (from leader of House Jorasco, Magical) \
+Potion of Haste \
+Scroll of Tensor's Transformation
 
 #### To Do:
-(2 Days) Til the Gala 
+(0 Days) Til the Gala \
+(0 Days) Get Guards and Wards scroll from Oswyn
 
 #### Future Levels:
 **Wizard 10:** \
