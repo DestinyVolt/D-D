@@ -128,7 +128,8 @@ Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
 Toffee Candy (from leader of House Jorasco, Magical) \
 Potion of Haste \
-Scroll of Tensor's Transformation
+Scroll of Tensor's Transformation \
+Scroll of Guards and Wards
 
 #### To Do:
 (0 Days) Til the Gala \
