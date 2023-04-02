@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 85 \
+HP: 93 \
 AC: 20 (Plate + Shield) \
 Prof: +4 \
 Speed: 25ft, Init: +7 \
@@ -23,27 +23,27 @@ Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
 Magic Stone: +9 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +9 to hit, 2d6 piercing + Drag 10 feet \
-Vampiric Bite: +8 to hit, 1d4+4 piercing + 1d8 psychic damage \
+Thorn Whip: +9 to hit, 3d6 piercing + Drag 10 feet \
+Vampiric Bite: +8 to hit, 1d4+4 piercing + 2d8 psychic damage \
 Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 2 \
+Spell Slots: 4, 3, 3, 3, 2, 1 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Diguise Self
 
-### Chronurgy Wizard 9:
-Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain \
+### Chronurgy Wizard 10:
+Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain, Mind Splinter \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave \
-Unprepared   (4): , Banishment \
+Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave, Intellect Fortress \
+Unprepared   (4): Banishment \
 1st (3 Prepared): Silvery Barbs, Shield \
 2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (3 Prepared): Slow, Haste, Tiny Servant, Sending \
+3rd (3 Prepared): Slow, Haste, Tiny Servant, Sending,  \
 4th (2 Prepared): Psychic Lance, Fabricate, Summon Warrior Spirit (UA) \
-5th (2 Prepared): Telekinesis, Wall of Force
+5th (2 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -58,6 +58,11 @@ At 2nd level, you can magically exert limited control over the flow of time arou
 When you reach 6th level, as an action, you can magically force a Large or smaller creature you can see within 60 feet of you to make a Constitution saving throw against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is incapacitated and has a speed of 0.
 
 You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a long rest.
+
+**Arcane Abeyance**
+At 10th level, when you cast a spell using a spell slot of 4th level or lower, you can condense the spell's magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the caster for all other purposes. 
+
+Once you create a bead with this feature, you can't do so again until you finish a short or long rest.
 
 **Cantrip Formulas:** 
 You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. 
@@ -136,17 +141,12 @@ Scroll of Guards and Wards
 (0 Days) Get Guards and Wards scroll from Oswyn
 
 #### Future Levels:
-**Wizard 10:** \
-Arcane Abeyance \
-Temporal Shunt, Dominate Person, Mind Sliver \
-+1 Spell Prep'd, +1 6th level slot, Cantrip Scaling
-
 **Wizard 11:** \
 6th: Create Homunculus, Fizban's Platinum Shield \
 +1 Spell Prep'd
 
 **Wizard 12:** \
-6th: Contigency, Guards and Wards \
+6th: Contigency, Planar Binding \
 +1 Spell Prep'd, +1 7th level slot
 
 Future Spells: \
