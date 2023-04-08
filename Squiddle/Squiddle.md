@@ -31,19 +31,19 @@ Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 Spell Slots: 4, 3, 3, 3, 2, 1 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Diguise Self
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Disguise Self
 
 ### Chronurgy Wizard 10:
-Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain, Mind Splinter \
+Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Glyph Of Warding, Magic Circle, Remove Curse, Pulse Wave, Intellect Fortress \
-Unprepared   (4): Banishment \
-1st (3 Prepared): Silvery Barbs, Shield \
-2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (3 Prepared): Slow, Haste, Tiny Servant, Sending,  \
-4th (2 Prepared): Psychic Lance, Fabricate, Summon Warrior Spirit (UA) \
-5th (2 Prepared): Telekinesis, Wall of Force, Temporal Shunt
+Unprepared   (3): Sending, Magic Circle, Remove Curse, Pulse Wave, Intellect Fortress \
+Unprepared   (4): Banishment, Fabricate \
+1st (2 Prepared): Silvery Barbs, Shield \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
+3rd (5 Prepared): Slow, Haste, Tiny Servant, Glyph Of Warding, Sending \
+4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) \
+5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -113,7 +113,7 @@ Aberrational Pendant
 
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
-✦ (None) \
+✦ Stick (Universe Alpha, Capital, Rift Drop Off Point) \
 ✦ (None) \
 ✦ (None) \
 ✦ (None) 
