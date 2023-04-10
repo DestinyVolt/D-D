@@ -5,7 +5,7 @@ Age: 8 \
 Lawful Evil \
 
 HP: 44 \
-AC: 14 \
+AC: 17 \
 Prof: +3 \
 Speed: 35ft \
 STR: 7 (-2) \
