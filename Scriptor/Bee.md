@@ -3,15 +3,15 @@ Stoned-cursed Elf \
 She / Her, but literally will not notice if you use others because she's so used to it from previous lives \
 Age: 2152, Petrified for 2122 \
 Chaotic Good \
-Level 8
+Level 9
 
-HP: 123 \
+HP: 138 \
 AC: 14 \
 Prof: +3 \
 Speed: 30ft \
 STR: 18 (+4) \
 DEX: 4 (-3) \
-CON: 24 (+6) \
+CON: 24 (+7) \
 INT: 16 (+3) \
 WIS: 9 (-1) \
 CHA: 12 (+1)
@@ -19,12 +19,15 @@ CHA: 12 (+1)
 Attacks: 
 - Greataxe: +7 to hit, 1d12 + 6 Slashing damage (Can be Thrown up to 60ft)
 - Claws: +7 to hit, 1d6 + 6 Slashing + 1d6 Acid
-- Grapple: +9 to hit, you are now grabbing them, preventing them from moving
+- Grapple: +12 to grapple, you are now grabbing them, preventing them from moving
 - Reckless Attack: Advantage for your attacks, Advantage for people targeting you
+
+Spells: \
+Flesh to Stone: DC 15 (from Bracelet of Rock Magic)
 
 Skills: 
 - Proficient: Arcana (+6), Stealth(+0), History (+6), Intimidation(+4), Insight(+2)
-- Expertise: Athletics (+9)
+- Expertise: Athletics (+12)
 - Tools: All (+6)
 - Languages: Old Common, Elvish 
 
