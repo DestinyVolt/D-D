@@ -21,6 +21,6 @@ Fighting Style: Archery \
 Feat: Sharpshooter \
 Hordebreaker: +1 Attack per round 
 
-1st Level Slots (4): Zypher's Strike, Hunter's Mark, Snare
+1st Level Slots (4): Zypher's Strike, Hunter's Mark, Snare \
 2nd Level Slots (2): Pass without Trace
 
