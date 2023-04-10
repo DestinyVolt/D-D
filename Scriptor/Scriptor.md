@@ -4,7 +4,7 @@ They / It \
 Age: 215, Active for 10 \
 Lawful Neutral
 
-HP: 67 \
+HP: 80 \
 AC: 15 \
 Prof: +3 \
 STR: 12 \
@@ -15,8 +15,10 @@ WIS: 4 (-3) \
 CHA: 12
 
 #### Attacks
-Firebolt: +9 to hit, 2d10 fire damage \
-Sapping Sting: DC 17 CON, 2d4 necrotic + prone
+Firebolt: +10 to hit, 3d10 fire damage \
+Sapping Sting: DC 18 CON, 3d4 necrotic + prone \
+Minuscript (BA): +9 to hit, 1d4 + 4 force damage \
+Magic Stone: +9 to hit, 1d6 + 5 bludgeoning damage
 
 #### Proficiencies:
 Skills: Arcana, Religion, History, Investigation, Nature \
@@ -32,20 +34,20 @@ You don’t need to eat, drink, or breathe. \
 You are immune to disease. \
 You don't need to sleep, and magic can't put you to sleep.
 
-### Artificer 8 (Maverick)
-Whenever you finish a short rest, you can swap out a cantrip for another cantrip off the Artificer or Druid spell lists. \
-Whenever you finish a long rest, you can prepare an additional 1st and 2nd spell from the Druid and Paladin spell lists. \
-Whenever you finish a long rest, you can create 2 spell scrolls, which last until your next long rest. \
-Once per long rest, you can replace a cantrip you know with a cantrip from the Artificer or Druid spell list as an Action. \
+### Artificer 11 (Maverick)
+Whenever you finish a short rest, you can swap out a cantrip for another cantrip off the Artificer, Druid, or Wizard spell lists. \
+Whenever you finish a long rest, you can prepare an additional 1st, 2nd, and 3rd level spell from the Druid, Paladin, and Wizard spell lists. \
+Whenever you finish a long rest, you can create 3 spell scrolls, which last until your next long rest. \
+Once per long rest, you can replace a cantrip you know with a cantrip from the Artificer, Druid, or Wizard spell list as an Action. \
 Five times per long rest, you can use your reaction to grant a +5 to a roll of your choice. 
 
-Cantrips: Firebolt, Sapping Sting, Spare the Dying \
-1st Level (4 slots): Expiditious Retreat, Cure Wounds, Detect Magic, Catapult \
+Cantrips: Firebolt, Sapping Sting, Spare the Dying, Magic Stone \
+1st Level (4 slots): Expiditious Retreat, Cure Wounds, Detect Magic, Catapult, Identify \
 2nd Level (3 slots): Heat Metal, Enhance Ability, Aid \
-Breakthrough: Bless, Vortex Warp \
+3rd Level (3 slots): Dispel Magic, Haste
+10x Uses: Magic Weapon
+Breakthrough: Bless, Tasha's Mind Whip, Counterspell \
 Scrolls: Gift of Gab, Animate Dead, Erupting Earth
 
 #### Equipment
-~~Bestow Curse~~\
-~~Cause Fear~~\
-~~2 unknown 9th level spell scroll~~
+None
