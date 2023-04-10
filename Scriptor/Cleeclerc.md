@@ -1,10 +1,11 @@
 Cleeclerc
 
-Level 6 \
-HP: 75 \
-AC: 20 \
-Prof: +3 \
-Str: 16 \
+Level 9 \
+HP: 117 \
+AC: 16 \
+Prof: +4 \
+Speed: 
+Str: 18 \
 Dex: 14 \
 Con: 18 \
 Int: 12 \
@@ -15,25 +16,27 @@ Prof: Perception, Investigation, Survival, Acrobatics, Athletics \
 Saves: Strength, Constitution
 
 #### Weapons (Multiattack 2x)
-Glaive: +6 to hit, 1d10+3 \
-Spear (+1): +7 to hit, 1d6+4 \
-Talons: +6 to hit, 1d6+3 \
-Improvised Weapons: +6 to hit, 1d4 + 3
+Glaive: +8 to hit, 1d10+4 \
+Spear (+1): +9 to hit, 1d6+5 \
+Talons: +8 to hit, 1d6+4 \
+Improvised Weapons: +8 to hit, 1d4 + 4
 
 #### Bonus Actions
-Second Wind: Heal 1d10 + 6 (+ 4) \
-Tavern Brawler: Grapple (+6)
+Second Wind: Heal 1d10 + 9 (+ 4) \
+Tavern Brawler: Grapple (+7)
 
 #### Reactions
-Fighting Style: Interception (1d10 + 3) 
+Fighting Style: Interception (1d10 + 4) 
 
 #### Abilities
-Action Surge: Once per day, you can take another action
+Action Surge: Once per short rest, you can take another action \
+Indominable: Once per day, you can choose succeed on a saving throw you fail. 
 
-Maneuvers (4d8, DC 15): 
+Maneuvers (4d8, DC 16): 
 - Commander's Strike
 - Trip Attack
 - Bait and Switch
+- Quick Toss
 
 When you are successfully stabilized while dying, you regain hit points equal to your Constitution modifier (minimum of 1). \
 Whenever you regain hit points as a result of a spell, potion, or class feature (but not this feat), you regain additional hit points equal to your Constitution modifier (minimum of 1).
