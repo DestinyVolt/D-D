@@ -4,7 +4,7 @@ Level 9 \
 HP: 117 \
 AC: 16 \
 Prof: +4 \
-Speed: 
+Speed: 30ft walking, 50ft flying \
 Str: 18 \
 Dex: 14 \
 Con: 18 \
