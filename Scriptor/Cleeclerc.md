@@ -23,7 +23,7 @@ Improvised Weapons: +8 to hit, 1d4 + 4
 
 #### Bonus Actions
 Second Wind: Heal 1d10 + 9 (+ 4) \
-Tavern Brawler: Grapple (+7)
+Tavern Brawler: Grapple (+8)
 
 #### Reactions
 Fighting Style: Interception (1d10 + 4) 
