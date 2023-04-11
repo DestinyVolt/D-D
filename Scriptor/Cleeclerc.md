@@ -32,7 +32,7 @@ Fighting Style: Interception (1d10 + 4)
 Action Surge: Once per short rest, you can take another action \
 Indominable: Once per day, you can choose succeed on a saving throw you fail. 
 
-Maneuvers (4d8, DC 16): 
+Maneuvers (5d8, DC 16): 
 - Commander's Strike
 - Trip Attack
 - Bait and Switch
