@@ -17,8 +17,8 @@ WIS: 9 (-1) \
 CHA: 12 (+1)
 
 Attacks (2x): 
-- Greataxe: +7 to hit, 1d12 + 6 Slashing damage (Can be Thrown up to 60ft)
-- Claws: +7 to hit, 1d6 + 6 Slashing + 1d6 Acid
+- Greataxe: +8 to hit, 1d12 + 6 Slashing damage (Can be Thrown up to 60ft)
+- Claws: +8 to hit, 1d6 + 6 Slashing + 1d6 Acid
 - Grapple: +12 to grapple, you are now grabbing them, preventing them from moving
 - Reckless Attack: Advantage for your attacks, Advantage for people targeting you
 
