@@ -38,11 +38,11 @@ Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
 Unprepared   (3): Sending, Magic Circle, Remove Curse, Pulse Wave, Intellect Fortress \
-Unprepared   (4): Banishment, Fabricate \
+Unprepared   (4): Banishment, Psychic Lance \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
 3rd (5 Prepared): Slow, Haste, Tiny Servant, Glyph Of Warding, Sending \
-4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) \
+4th (2 Prepared): Fabricate, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
 **Arcane Recovery:** \
@@ -137,8 +137,7 @@ Scroll of Tensor's Transformation \
 Scroll of Guards and Wards
 
 #### To Do:
-(0 Days) Til the Gala \
-(0 Days) Get Guards and Wards scroll from Oswyn
+Create a Permenant Immovable Object
 
 #### Future Levels:
 **Wizard 11:** \
@@ -150,7 +149,7 @@ Scroll of Guards and Wards
 +1 Spell Prep'd, +1 7th level slot
 
 Future Spells: \
-7th: Dream of the Blue Veil \
+7th: Dream of the Blue Veil, Force Cage, Simulacrum \
 8th: Mind Blank, Reality Break \
 9th: True Polymorph (I'd rather someone else take this), Shapechange, Wish
 
