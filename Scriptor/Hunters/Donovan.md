@@ -4,7 +4,7 @@ HP: 41 \
 AC: 17 \
 Speed: 35ft \
 STR: 14 \
-DEX: 17 \
+DEX: 18 \
 CON: 14 \
 INT: 8 \
 WIS: 14 \
@@ -13,7 +13,8 @@ CHA: 8
 Skills: Stealth, Athletics, Acrobatics, Perception \
 Expertise: Survival
 
-Shortsword: +6 to hit, 1d6 + 4 \
+Attacks (3x): \
+Shortsword: +7 to hit, 1d6 + 4 \
 Longbow: +9 to hit, 1d8 + 4 \
 Sharpshooter: +4 to hit, 1d8 + 14
 
