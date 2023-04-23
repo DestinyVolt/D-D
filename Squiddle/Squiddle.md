@@ -34,15 +34,15 @@ Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Disguise Self
 
 ### Chronurgy Wizard 10:
-Cantrips: Shape Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
+Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
+Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip \
 Unprepared   (3): Sending, Magic Circle, Remove Curse, Pulse Wave, Intellect Fortress \
-Unprepared   (4): Banishment, Psychic Lance \
+Unprepared   (4): Banishment, Psychic Lance, Fabricate \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Immovable Object \
 3rd (5 Prepared): Slow, Haste, Tiny Servant, Glyph Of Warding, Sending \
-4th (2 Prepared): Fabricate, Summon Warrior Spirit (UA) \
+4th (2 Prepared): Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
 **Arcane Recovery:** \
@@ -156,7 +156,7 @@ Future Spells: \
 #### Spell Scrolls: 
 1st: Identify (175gp if I just copy it using the Artificer spell list) \
 2nd: Continual Flame, Rope Trick \
-3rd: Dispel Magic, Counterspell, Intellect Fortress \
+3rd: Dispel Magic, Counterspell \
 4th: - \
 5th: Teleportation Circle \*, Planar Binding \
 8th: Demiplane \* \
