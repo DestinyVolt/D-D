@@ -151,7 +151,7 @@ Create a Permenant Immovable Object
 Future Spells: \
 7th: Dream of the Blue Veil, Force Cage, Simulacrum \
 8th: Mind Blank, Reality Break \
-9th: True Polymorph (I'd rather someone else take this), Shapechange, Wish
+9th: Shapechange, Wish
 
 #### Spell Scrolls: 
 1st: Identify (175gp if I just copy it using the Artificer spell list) \
