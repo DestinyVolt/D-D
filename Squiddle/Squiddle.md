@@ -31,17 +31,17 @@ Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 Spell Slots: 4, 3, 3, 3, 2, 1 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Disguise Self
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
 
 ### Chronurgy Wizard 10:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip \
-Unprepared   (3): Slow, Magic Circle, Remove Curse, Pulse Wave, Intellect Fortress \
+Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
+Unprepared   (3): Slow, Magic Circle, Remove Curse, Pulse Wave \
 Unprepared   (4): Banishment, Fabricate \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Immovable Object \
-3rd (4 Prepared): Haste, Tiny Servant, Glyph Of Warding, Sending \
+2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, \
+3rd (4 Prepared): Haste, Tiny Servant, Glyph Of Warding, Sending, Intellect Fortress \
 4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
