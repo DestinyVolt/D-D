@@ -114,7 +114,7 @@ Aberrational Pendant
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
 ✦ Stick (Universe Alpha, Capital, Rift Drop Off Point) \
-✦ (None) \
+✦ Pebble (Universe Alpha, Strixhaven, Courtyard) \
 ✦ (None) \
 ✦ (None) 
 
