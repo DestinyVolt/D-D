@@ -37,12 +37,12 @@ Cantrips: Magic Stone, Thorn Whip \
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Slow, Magic Circle, Remove Curse, Pulse Wave \
+Unprepared   (3): Slow, Magic Circle, Remove Curse, Pulse Wave, Sending \
 Unprepared   (4): Banishment, Fabricate \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, \
-3rd (4 Prepared): Haste, Tiny Servant, Glyph Of Warding, Sending, Intellect Fortress \
-4th (2 Prepared): Psychic Lance, Summon Warrior Spirit (UA) \
+3rd (4 Prepared): Haste, Tiny Servant, Glyph Of Warding, Intellect Fortress \
+4th (2 Prepared): Banishment, Psychic Lance, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
 **Arcane Recovery:** \
@@ -106,7 +106,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 ☆ Mind Carapace Armor (Plate) \
 ☆ Gem of True Seeing \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
-Smith's Tools Net \
+Smith's Tools Net (6th Level Immovable Object) \
 Clockwork Amulet \
 Hat of Wizardry \
 Aberrational Pendant
@@ -133,11 +133,7 @@ Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
 Toffee Candy (from leader of House Jorasco, Magical) \
 Potion of Haste \
-Scroll of Tensor's Transformation \
-Scroll of Guards and Wards
-
-#### To Do:
-Create a Permenant Immovable Object
+Scroll of Tensor's Transformation
 
 #### Future Levels:
 **Wizard 11:** \
