@@ -37,12 +37,12 @@ Cantrips: Magic Stone, Thorn Whip \
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Slow, Magic Circle, Remove Curse, Pulse Wave, Sending \
-Unprepared   (4): Banishment, Fabricate \
+Unprepared   (3): Haste, Magic Circle, Remove Curse, Pulse Wave, Sending, Glyph Of Warding \
+Unprepared   (4): , Fabricate \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, \
-3rd (4 Prepared): Haste, Tiny Servant, Glyph Of Warding, Intellect Fortress \
-4th (2 Prepared): Banishment, Psychic Lance, Summon Warrior Spirit (UA) \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, \
+3rd (4 Prepared): Slow, Tiny Servant, Intellect Fortress \
+4th (3 Prepared): Banishment, Psychic Lance, Banishment, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
 
 **Arcane Recovery:** \
