@@ -28,7 +28,7 @@ Vampiric Bite: +8 to hit, 1d4+4 piercing + 2d8 psychic damage \
 Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 2, 1 \
+Spell Slots: 4, 3, 3, 3, 2, 1, 1 \
 Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
@@ -37,13 +37,15 @@ Cantrips: Magic Stone, Thorn Whip \
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Haste, Magic Circle, Remove Curse, Pulse Wave, Sending, Glyph Of Warding \
-Unprepared   (4): , Fabricate \
+Unprepared   (3): Haste, Magic Circle, Remove Curse, Sending, Glyph Of Warding \
+Unprepared   (4): Fabricate \
+Unprepared   (6): Fizban's Platinum Shield
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, \
-3rd (4 Prepared): Slow, Tiny Servant, Intellect Fortress \
-4th (3 Prepared): Banishment, Psychic Lance, Banishment, Summon Warrior Spirit (UA) \
-5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
+3rd (4 Prepared): Slow, Tiny Servant, Pulse Wave, Intellect Fortress \
+4th (3 Prepared): Banishment, Psychic Lance, Summon Warrior Spirit (UA) \
+5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
+6th (1 Prepared): Contingency
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -133,19 +135,21 @@ Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
 Toffee Candy (from leader of House Jorasco, Magical) \
 Potion of Haste \
-Scroll of Tensor's Transformation
+Scroll of Tensor's Transformation \
+Blaze Rod
 
 #### Future Levels:
-**Wizard 11:** \
-6th: Create Homunculus, Fizban's Platinum Shield \
-+1 Spell Prep'd
 
 **Wizard 12:** \
-6th: Contigency, Planar Binding \
+6th: Create Homunculus, Planar Binding \
 +1 Spell Prep'd, +1 7th level slot
 
+**Wizard 13:** \
+7th: Dream of the Blue Veil, Force Cage \
++1 Spell Prep'd
+
 Future Spells: \
-7th: Dream of the Blue Veil, Force Cage, Simulacrum \
+7th: Simulacrum \
 8th: Mind Blank, Reality Break \
 9th: Shapechange, Wish
 
