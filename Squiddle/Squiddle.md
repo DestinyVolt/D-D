@@ -33,7 +33,7 @@ Save DC: 17, +9 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
 
-### Chronurgy Wizard 10:
+### Chronurgy Wizard 11:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
