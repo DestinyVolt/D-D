@@ -39,7 +39,7 @@ Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Ste
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
 Unprepared   (3): Haste, Magic Circle, Remove Curse, Sending, Glyph Of Warding \
 Unprepared   (4): Fabricate \
-Unprepared   (6): Fizban's Platinum Shield
+Unprepared   (6): Fizban's Platinum Shield \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
 3rd (4 Prepared): Slow, Tiny Servant, Pulse Wave, Intellect Fortress \
