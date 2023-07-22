@@ -3,9 +3,9 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 99 \
+HP: 112 \
 AC: 20 (Plate + Shield) \
-Prof: +4 \
+Prof: +5 \
 Speed: 25ft, Init: +7 \
 STR: 9  (-1) \
 DEX: 14 (+2) \
@@ -22,16 +22,20 @@ Saving Throws: Intelligence, Constitution \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
-Magic Stone: +9 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +9 to hit, 3d6 piercing + Drag 10 feet \
-Vampiric Bite: +8 to hit, 1d4+4 piercing + 2d8 psychic damage \
-Metal Net: +2 to hit w/ Disadvantage, applies Restrained condition
+Magic Stone: +10 to hit, 1d6+5 bludgeoning \
+Thorn Whip: +10 to hit, 3d6 piercing + Drag 10 feet \
+Vampiric Bite: +9 to hit, 1d4+4 piercing + 2d8 psychic damage \
+Metal Net: +7 to hit w/ Disadvantage, applies Restrained condition
 
 ### Artificer 1: 
 Spell Slots: 4, 3, 3, 3, 2, 1, 1 \
-Save DC: 17, +9 to hit \
+Save DC: 18, +10 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
+
+### Fighter 1:
+Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
+Fighting Style: Quick Toss (1/SR, 1d6)
 
 ### Chronurgy Wizard 11:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
