@@ -116,7 +116,7 @@ Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
 Clockwork Amulet \
 Hat of Wizardry \
-Aberrational Pendant
+Aberrational Pendant 
 
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
@@ -139,14 +139,14 @@ Bag of Keys \
 Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
 Toffee Candy (from leader of House Jorasco, Magical) \
-Potion of Haste \
-Scroll of Tensor's Transformation \
+Scroll of Create Homunculus \
+Scroll of Synaptic Static \
 Blaze Rod
 
 #### Future Levels:
 
 **Wizard 12:** \
-6th: Create Homunculus, Planar Binding \
+6th: Tensor's Transformation, Planar Binding \
 +1 Spell Prep'd, +1 7th level slot
 
 **Wizard 13:** \
