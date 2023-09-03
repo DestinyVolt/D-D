@@ -3,22 +3,22 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 112 (11d6, 1d8, 1d10) \
+HP: 120 (12d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
 Prof: +5 \
 Speed: 25ft, Init: +7 \
-STR: 9  (-1) \
+STR: 8  (-1) \
 DEX: 14 (+2) \
 CON: 18 (+4) \
 INT: 20 (+5) \
-WIS: 12 (+1) \
+WIS: 13 (+1) \
 CHA: 9  (-1) 
 
 Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
 School Skills (+1d4): Acrobatics, Arcana \
 Tools: Tinker's Tools, Thieves' Tools, Smith's Tools, Navigator’s Tools, Vehicles (Land) \
 Armor: Light armor, Medium armor, Heavy Armor, Shields \
-Saving Throws: Intelligence, Constitution \
+Saving Throws: Intelligence, Constitution, Wisdom \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
@@ -36,13 +36,14 @@ Cantrips: Magic Stone, Thorn Whip \
 
 ### Fighter 1:
 Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
-Fighting Style: Quick Toss (1/SR, 1d6)
+Fighting Style: Quick Toss (1/SR, 1d6) \
+Squire of Solamnia: Advantage + 1d8 damage, 5/day
 
-### Chronurgy Wizard 11:
+### Chronurgy Wizard 12:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Pulse Wave, Magic Circle, Haste, Sending, Glyph Of Warding \
+Unprepared   (3): Pulse Wave, Magic Circle, Haste, Sending, Glyph Of Warding, Major Image \
 Unprepared   (4): Banishment \
 Unprepared   (6): Contingency \
 1st (2 Prepared): Silvery Barbs, Shield \
@@ -50,7 +51,7 @@ Unprepared   (6): Contingency \
 3rd (4 Prepared): Slow, Intellect Fortress, Tiny Servant, Remove Curse \
 4th (3 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (1 Prepared): Fizban's Platinum Shield
+6th (1 Prepared): Fizban's Platinum Shield, Tenser's Transformation
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -82,7 +83,8 @@ You qualify as an Abberation instead of a Humanoid.
 While you are mounted and aren't incapacitated, you gain the following benefits: \
 • You have advantage on melee attack rolls against unmounted creatures that are smaller than your mount. \
 • You can force an attack targeted at your mount to target you instead. \
-• If your mount is subjected to an effect that allows it to make a Dexterity save to take only half damage, it takes no damage if it succeeds and half damage if it fails.
+• If your mount is subjected to an effect that allows it to make a Dexterity save to take only half damage, it takes no damage if it succeeds and half damage if it fails. \
+• Mounting or dismounting costs you only 5 feet of movement.
 
 **Illithid Bite:**
 While you are missing half or more of your hit points, you have advantage on attack rolls you make with your bite. When you use your bite and hit a creature that isn’t a Construct or an Undead, you can either regain hit points equal to the damage dealt by the bite or gain a bonus to the next ability check or attack roll you make equal to the damage dealt by the bite. You can empower yourself with your bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
