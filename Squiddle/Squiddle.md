@@ -43,15 +43,15 @@ Squire of Solamnia: Advantage + 1d8 damage, 5/day
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Pulse Wave, Magic Circle, Haste, Sending, Glyph Of Warding, Major Image \
+Unprepared   (3): Pulse Wave, Magic Circle, Intellect Fortress, Glyph Of Warding, Major Image, Remove Curse \
 Unprepared   (4): Banishment \
-Unprepared   (6): Contingency \
+Unprepared   (6): Contingency, Create Homunculus  \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
-3rd (4 Prepared): Slow, Intellect Fortress, Tiny Servant, Remove Curse \
+3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
 4th (3 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (1 Prepared): Fizban's Platinum Shield, Tenser's Transformation
+6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -116,6 +116,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 ☆ Gem of True Seeing \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
+2x Metal Net (6th Level Immovable Object) \
 Clockwork Amulet \
 Hat of Wizardry \
 Aberrational Pendant 
@@ -141,7 +142,6 @@ Bag of Keys \
 Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
 Toffee Candy (from leader of House Jorasco, Magical) \
-Scroll of Create Homunculus \
 Scroll of Synaptic Static \
 Blaze Rod
 
