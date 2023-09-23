@@ -51,7 +51,7 @@ Unprepared   (6): Contingency, Create Homunculus  \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
 4th (3 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation
+6th (2 Prepared): Create Homunculus, Tenser's Transformation
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
