@@ -41,17 +41,17 @@ Squire of Solamnia: Advantage + 1d8 damage, 5/day
 
 ### Chronurgy Wizard 12:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed \
-Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA) \
+Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Find Vehicle (UA) \
 Unprepared   (3): Pulse Wave, Magic Circle, Intellect Fortress, Glyph Of Warding, Major Image, Remove Curse \
 Unprepared   (4): Banishment \
-Unprepared   (6): Contingency, Create Homunculus  \
+Unprepared   (6): Contingency  \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp \
+2nd (3 Prepared): Immovable Object, Gentle Repose, Vortex Warp \
 3rd (4 Prepared): Slow, Haste, Tiny Servant, Sending \
 4th (3 Prepared): Fabricate, Psychic Lance, Summon Warrior Spirit (UA) \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (2 Prepared): Create Homunculus, Tenser's Transformation
+6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -146,10 +146,6 @@ Scroll of Synaptic Static \
 Blaze Rod
 
 #### Future Levels:
-
-**Wizard 12:** \
-6th: Tensor's Transformation, Planar Binding \
-+1 Spell Prep'd, +1 7th level slot
 
 **Wizard 13:** \
 7th: ~~Dream of the Blue Veil~~, Force Cage \
