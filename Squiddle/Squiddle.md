@@ -116,7 +116,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 ☆ Gem of True Seeing \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
-2x Metal Net (6th Level Immovable Object) \
+1x Metal Net (6th Level Immovable Object) \
 Clockwork Amulet \
 Hat of Wizardry \
 Aberrational Pendant 
@@ -132,7 +132,7 @@ Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
 Conductor / Engineer's outfit (Studded Leather Armor) \
 Pocket Watch that doubles as a Compass, various maps of the underdark railway (Navigator's Tools) \
-Waterskin, 2x 50ft of Rope, Tinderbox, 10 Pitons \
+Waterskin, 2x 50ft of Rope, Tinderbox, 10 Pitons, 2 Oil Flasks \
 Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Old Recording of a Mathemagics Lecture \
