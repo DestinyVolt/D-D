@@ -2,44 +2,44 @@ Future Character, uses Artificer Maverick (CHA base) to represent a Tattoo artis
 
 General Stat Spread: \
 CHA > DEX > CON > INT = WIS = STR
+Saves: Con, Cha
 
 Race: Mark of Shadow Elf
 
-Skills: Perception, Sleight of Hand, Intimidation, Persuasion, Deception
+Skills: Perception, Intimidation, Deception, Stealth (+1d4), Sleight of Hand \
+Tools: Tinker's Tools, Thieves' Tools, Tattoo Kit, Hacking Tools \
+Languages: Common, Elvish, Probably Infernal / Demonic \
 
 General Progression: \
 Level 1: \
-Starting Feat: Strixhaven Initiate (Silverquill, Vicious Mockery, Thaumaturgy, Inflict Wounds) \
+Starting Feat: Sentinel Raven (Prerequisite for Strixhaven Mascot, Cannot Take Silvery Bards) \
+Magical Tinkering: Tattoos on people's skin :D \
 Cantrips: Shocking Grasp, Guidance 
 
 Level 2: \
-Infusion: Homunculus (Maybe Looks like a Dragon) \
+Infusion: Homunculus (Decide Appearance) \
 Infusion: Spell Wrought Tattoo ( Find Familiar (Spider) ) \
-Infusion: Spell Wrought Tattoo ( Zypher Strike ) \
-Infusion: Masque Charm (Strixhaven) 
+Infusion: Spell Wrought Tattoo ( Ensnaring Strike ) \
+Infusion: Bag of Holding
 
-Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic) 
+Level 3: \
+Breakthrough: Warlock (Hex or Puppet) \
+Cantrip Specialist: +1 Cantrip, Gain True Strike, Chill Touch, ~~Shocking Grasp~~
+
+Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic)
+
+Level 5: 
+Cantrip Savant: +1 to Attack Rolls and Save DC while casting a cantrip (Improves Smites & Strikes) \
+Breakthrough: Ranger (Ensnaring Strike, Summon Beast) 
 
 Level 6: \
-Infusion: Cloak of Elvenkind \
-Infusion: Enhanced Arcane Focus
+Infusion: Boots of Elvenkind \
+Infusion: Enhanced Arcane Focus \
+Remove SWT (ES), gain Enhanced Weapon
 
 Level 8: 
-- If no rogue: Skill Expert (+1 CHA, Stealth, Stealth)
-- If no face: Diplomat (+1 CHA)
-
-Breakthroughs: \
-Level 3 (Druid): Shillelagh, Entangle, Summon Beast, Conjure Animals, Summon Elemental, Summon Draconic Spirit \
-Level 5 (Paladin): Smites, Find Steed, Crusader's Mantle, Find Greater Steed, Destructive Wave \
-Level 9 (Cleric): Spiritual Weapon, Bestow Curse, Spirit Guardians, Death Ward, Summon Celestial \
-Level 13 (Warlock): Eldritch Blast, Armor of Agathys, Counterspell, Shadow Of Moil, Hold Monster
+- +2 CHA, or +1 CHA or DEX, Elven Accuracy maybe, or maybe Skill Expert (+1 CHA or DEX, Persuasion Proficiency, Stealth Expertise)
 
 Wants: \
 Big Request: \
 Using an Eberron exclusive Race
-
-Small Changes (imo) for Flavor: \
-Can I play a Charisma based Artificer if I swear off multiclassing? It keeps to the more artistic sorcerer vibes I'm kinda hoping for with the character \
-Can I change the damage type of Booming Blade to Necrotic Damage (Both rare damages, Necrotic is basically just worse. Instead of a boom, the target just screams)
-
-Note: Ensnaring Strike and other Smites are affected by the Cantrip DC increase during the initial hit
