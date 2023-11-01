@@ -6,9 +6,9 @@ Saves: Con, Cha
 
 Race: Mark of Shadow Elf
 
-Skills: Perception, Intimidation, Deception, Stealth (+1d4), Sleight of Hand \
+Skills: Perception, Intimidation, Deception, Stealth (+1d4), Arcana \
 Tools: Tinker's Tools, Thieves' Tools, Tattoo Kit, Hacking Tools \
-Languages: Common, Elvish, Probably Infernal / Demonic \
+Languages: Common, Elvish, Probably Infernal / Demonic 
 
 General Progression: \
 Level 1: \
@@ -26,16 +26,17 @@ Level 3: \
 Breakthrough: Warlock (Hex or Puppet) \
 Cantrip Specialist: +1 Cantrip, Gain True Strike, Chill Touch, ~~Shocking Grasp~~
 
-Level 4 Feat: Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic)
+Level 4: \
+Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic)
 
-Level 5: 
+Level 5: \
 Cantrip Savant: +1 to Attack Rolls and Save DC while casting a cantrip (Improves Smites & Strikes) \
-Breakthrough: Ranger (Ensnaring Strike, Summon Beast) 
+Breakthrough: Ranger (Ensnaring Strike, Summon Beast) \
+Remove SWT (ES), gain Enhanced Arcane Focus
 
 Level 6: \
 Infusion: Boots of Elvenkind \
-Infusion: Enhanced Arcane Focus \
-Remove SWT (ES), gain Enhanced Weapon
+Infusion: Masque Charm
 
 Level 8: 
 - +2 CHA, or +1 CHA or DEX, Elven Accuracy maybe, or maybe Skill Expert (+1 CHA or DEX, Persuasion Proficiency, Stealth Expertise)
