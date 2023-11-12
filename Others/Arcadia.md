@@ -34,6 +34,7 @@ Level 5: \
 Cantrip Savant: +1 to Attack Rolls and Save DC while casting a cantrip (Improves Smites & Strikes) \
 Breakthrough: Ranger (Ensnaring Strike, Summon Beast) \
 Remove SWT (ES), gain Bag of Holding
+
 Level 6: \
 Infusion: Boots of Elvenkind \
 Infusion: Enhanced Weapon
