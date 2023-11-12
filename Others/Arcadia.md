@@ -7,7 +7,7 @@ Saves: Con, Cha
 Race: Mark of Shadow Elf
 
 Skills: Perception, Intimidation, Deception, Stealth (+1d4), Arcana \
-Tools: Tinker's Tools, Thieves' Tools, Tattoo Kit, Hacking Tools \
+Tools: Thieves' Tools, Tattoo Kit, Hacking Tools, Pan Flute \
 Languages: Common, Elvish, Probably Infernal / Demonic 
 
 General Progression: \
@@ -27,7 +27,7 @@ Breakthrough: Warlock (Hex or Puppet) \
 Cantrip Specialist: +1 Cantrip, Gain True Strike, Chill Touch, ~~Shocking Grasp~~
 
 Level 4: \
-Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic)
+Strixhaven Mascot (Silverquill, Inkling Mascot, Very thematic) \
 Remove SWT (FF), gain Enhanced Arcane Focus
 
 Level 5: \
