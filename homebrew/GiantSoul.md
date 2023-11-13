@@ -44,3 +44,12 @@ Once you use this feature, you can’t use it again until you finish a short or 
 At 18th level, your Constitution score increases by 2, up to a maximum of 22.
 
 In addition, you can now use Rage of Fallen Ostoria twice between rests, but no more than once on a turn. If you use that feature while under its effects, its increases to your size, hit points, reach, and walking speed are cumulative.
+
+
+#### Design Notes
+This subclass is designed on the following assumptions:
+- Sorcerer will be the main class of the player. This subclass cannot be "dipped" into without explicit DM permission. Jotun Resilience is far too tempting for a Giant Barbarian or a Rune Knight, in my opinion. 
+- Tensor's Transformation should be on the Sorcerer spell list. The only reason it is not is because WOTC hates sorcerers (It's actually probably because a wizard invented the spell, but this spell is much more Sorcerer coded than wizards mechanically, imo.) I highly suggest allowing the player to learn the spell on level up, but if not, granting it to them as part of Rage of Fallen Ostoria would be appropriate.
+- The 14 + CON modifier was chosen as a compromised version of the Stone Sorcerer's equivalent ability, which was only 13 + CON, but gave proficiency in and allowed use of a shield, and did not require resource expenditure like this subclass.
+- Colossus Sorcery only works on the first level spells and Enlarge. It does not work on the Giant Type specific second level spells. That would be nuts. It is designed to remove the annoying concentration components of the Smite/Strike spells and Enlarge, so that using the main mechanics of the subclass do not *weaken* your character (because concentration is that valuable.)
+- Do not use a variant of sorcerer that uses Constitution as a casting stat with this subclass.
