@@ -119,7 +119,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 ☆ Ulitharid Beak Enhancer (DWW, Wakened) \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
-1x Metal Net (6th Level Immovable Object) \
+2x Metal Net (6th Level Immovable Object) \
 Clockwork Amulet \
 Hat of Wizardry \
 Aberrational Pendant \
