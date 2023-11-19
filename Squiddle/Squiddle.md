@@ -14,7 +14,7 @@ INT: 20 (+5) \
 WIS: 13 (+1) \
 CHA: 9  (-1) 
 
-Skills: Arcana, Acrobatics, Stealth, History, Perception, Investigation \
+Skills: Arcana, Acrobatics, Stealth, History, Perception, Insight, Investigation \
 School Skills (+1d4): Acrobatics, Arcana \
 Tools: Tinker's Tools, Thieves' Tools, Smith's Tools, Navigator’s Tools, Vehicles (Land) \
 Armor: Light armor, Medium armor, Heavy Armor, Shields \
@@ -24,12 +24,15 @@ Languages: Common, Gnomish, Undercommon, Deep Speech
 ### Attacks
 Magic Stone: +10 to hit, 1d6+5 bludgeoning \
 Thorn Whip: +10 to hit, 3d6 piercing + Drag 10 feet \
-Vampiric Bite: +9 to hit, 1d4+4 piercing + 2d8 psychic damage \
-Metal Net (15ft): +7 to hit w/ Disadvantage, applies Restrained condition \
-Dagger (20/60ft): +7 to hit, 1d4 + 2 
+Ulitharid Bite: +11 to hit, 1d4 + 6 piercing + 2d8 psychic damage (+5 psychic damage on a crit) \
+Tensor's Bite: +11 to hit, 1d4 + 6 piercing + 2d12 force damage (+5 psychic damage on a crit) \
+Metal Net (15ft): +7 to hit w/ Disadvantage, applies Restrained condition (DC28) \
+Dagger (20/60ft): +7 to hit, 1d4 + 2 piercing + 2d6 psychic
+
+Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 2, 1 \
+Spell Slots: 4, 3, 3, 3, 2, 1, 1 \
 Save DC: 18, +10 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
@@ -113,13 +116,14 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 **Magic Items** \
 ☆ Cloak of Displacement (Modified) \
 ☆ Mind Carapace Armor (Plate) \
-☆ Ring of Mind Shielding \
+☆ Ulitharid Beak Enhancer (DWW, Wakened) \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
 1x Metal Net (6th Level Immovable Object) \
 Clockwork Amulet \
 Hat of Wizardry \
-Aberrational Pendant 
+Aberrational Pendant \
+Ring of Mind Shielding
 
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
