@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 35, Height: 2'6, Weight: 25lb 
 
-HP: 120 (12d6, 1d8, 1d10) \
+HP: 128 (13d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
 Prof: +5 \
 Speed: 25ft, Init: +7 \
@@ -35,26 +35,28 @@ Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 Spell Slots: 4, 3, 3, 3, 2, 1, 1 \
 Save DC: 18, +10 to hit \
 Cantrips: Magic Stone, Thorn Whip \
-1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Identify, Sanctuary
+1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Disguise Self, Sanctuary
 
 ### Fighter 1:
 Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
 Fighting Style: Quick Toss (1/SR, 1d6) \
 Squire of Solamnia: Advantage + 1d8 damage, 5/day
 
-### Chronurgy Wizard 12:
+### Chronurgy Wizard 13:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
-Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA) \
+Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Find Vehicle (UA) \
 Unprepared   (3): Pulse Wave, Magic Circle, Glyph Of Warding, Major Image, Sending, Slow \
 Unprepared   (4): Fabricate \
 Unprepared   (6): Contingency \
+Unprepared   (7): Simulacrum \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Immovable Object, Gentle Repose, Vortex Warp \
 3rd (4 Prepared): Haste, Tiny Servant, Intellect Fortress, Remove Curse \
 4th (3 Prepared): Psychic Lance, Summon Warrior Spirit (UA), Banishment \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation
+6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation \
+7th (1 Prepared): Draconic Transformation
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -156,12 +158,11 @@ Blaze Rod
 +1 Spell Prep'd
 
 Future Spells: \
-7th: Simulacrum \
-8th: Mind Blank, Reality Break \
+7th: Teleport, Tether(?) \
+8th: Mind Blank, Reality Break(?) \
 9th: Shapechange, Wish
 
 #### Spell Scrolls: 
-1st: Identify (175gp if I just copy it using the Artificer spell list) \
 2nd: Continual Flame, Rope Trick \
 3rd: Dispel Magic, Counterspell \
 4th: - \
