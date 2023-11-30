@@ -32,7 +32,7 @@ Remove SWT (FF), gain Enhanced Arcane Focus
 
 Level 5: \
 Cantrip Savant: +1 to Attack Rolls and Save DC while casting a cantrip (Improves Smites & Strikes) \
-Breakthrough: Ranger (Ensnaring Strike, Summon Beast) \
+Breakthrough: Ranger (Ensnaring Strike, Beast Bond, Summon Beast) \
 Remove SWT (ES), gain Bag of Holding
 
 Level 6: \
@@ -42,4 +42,5 @@ Infusion: Enhanced Weapon
 Level 8: 
 - +2 CHA, or +1 CHA or DEX, Elven Accuracy maybe, or maybe Skill Expert (+1 CHA or DEX, Persuasion Proficiency, Stealth Expertise)
 
-Reminder: Vote on Crit Rules :p 
+Reminder: Vote on Crit Rules :p \
+Reminder: Wizard as the 13th level one, Honestly 17th level doesn't matter I think, BARD FUCK IFORGOT BARD
