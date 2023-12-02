@@ -128,11 +128,11 @@ Ring of Mind Shielding
 
 
 **Dimensional Anchors (Magical Tinkering)** \
-✦ Bent Washer (Universe Beta, Capital, Oakenbranch Residence) \
 ✦ Stick (Universe Alpha, Capital, Rift Drop Off Point) \
 ✦ Mask (Universe Alpha, Rebel Base, Cooking Yard) \
 ✦ Pebble (Universe Alpha, Sword Location, Near Darktowe) \
-✦ -
+✦ Bent Washer (Universe Beta, Capital, Oakenbranch Residence) \
+✦ Flower (Universe Beta, Capital, Strixhaven) 
 
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
