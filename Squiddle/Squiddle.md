@@ -27,7 +27,7 @@ Thorn Whip: +10 to hit, 3d6 piercing + Drag 10 feet \
 Ulitharid Bite: +11 to hit, 1d4 + 6 piercing + 2d8 psychic damage (+5 psychic damage on a crit) \
 Tensor's Bite: +11 to hit, 1d4 + 6 piercing + 2d12 force damage (+5 psychic damage on a crit) \
 Metal Net (15ft): +7 to hit w/ Disadvantage, applies Restrained condition (DC28) \
-Dagger (20/60ft): +7 to hit, 1d4 + 2 piercing + 2d6 psychic
+Dagger (20/60ft): +7 to hit, 1d4 + 2 piercing 
 
 Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 
@@ -56,7 +56,7 @@ Unprepared   (7): Simulacrum \
 4th (3 Prepared): Psychic Lance, Summon Warrior Spirit (UA), Banishment \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation \
-7th (1 Prepared): Draconic Transformation
+7th (1 Prepared): Teleport 
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -116,23 +116,23 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 
 ### Equipment
 **Magic Items** \
-☆ Cloak of Displacement (Modified) \
+☆ Ulitharid Beak Enhancer (DWW, Awakened)  \
 ☆ Mind Carapace Armor (Plate) \
-☆ Ulitharid Beak Enhancer (DWW, Wakened) \
+☆ Multiversal Tentacle Rings \
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
 2x Metal Net (6th Level Immovable Object) \
 Clockwork Amulet \
-Hat of Wizardry \
 Aberrational Pendant \
 Ring of Mind Shielding
+
 
 **Dimensional Anchors (Magical Tinkering)** \
 ✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
 ✦ Stick (Universe Alpha, Capital, Rift Drop Off Point) \
 ✦ Pebble (Universe Alpha, Strixhaven, Courtyard) \
 ✦ Mask (Universe Alpha, Rebel Base, Cooking Yard) \
-✦ (None) 
+✦ Rock (Universe Alpha, Sword Location, Near Darktowe) 
 
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
@@ -149,11 +149,11 @@ Ivory Statuette with space for Gem to be inlaid \
 Dragonscale Coated in Platinum (500gp) \
 Toffee Candy (from leader of House Jorasco, Magical) \
 Scroll of Synaptic Static \
-Blaze Rod
+Blaze Rod (100gp)
 
 #### Future Levels:
 
-**Wizard 13:** \
+**Wizard 14:** \
 7th: ~~Dream of the Blue Veil~~, Force Cage \
 +1 Spell Prep'd
 
