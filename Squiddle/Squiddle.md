@@ -1,7 +1,7 @@
 ## Aggy Locamote ("Squiddle") 
 Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
-Age: 35, Height: 2'6, Weight: 25lb 
+Age: 36, Height: 2'6, Weight: 25lb 
 
 HP: 128 (13d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
@@ -18,7 +18,7 @@ Skills: Arcana, Acrobatics, Stealth, History, Perception, Insight, Investigation
 School Skills (+1d4): Acrobatics, Arcana \
 Tools: Tinker's Tools, Thieves' Tools, Smith's Tools, Navigator’s Tools, Vehicles (Land) \
 Armor: Light armor, Medium armor, Heavy Armor, Shields \
-Saving Throws: Intelligence, Constitution, Wisdom \
+Saving Throws: Constitution, Intelligence, Wisdom \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
@@ -47,13 +47,13 @@ Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Find Vehicle (UA) \
 Unprepared   (3): Pulse Wave, Magic Circle, Glyph Of Warding, Major Image, Sending, Slow \
-Unprepared   (4): Fabricate \
+Unprepared   (4): Banishment \
 Unprepared   (6): Contingency \
 Unprepared   (7): Simulacrum \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Immovable Object, Gentle Repose, Vortex Warp \
 3rd (4 Prepared): Haste, Tiny Servant, Intellect Fortress, Remove Curse \
-4th (3 Prepared): Psychic Lance, Summon Warrior Spirit (UA), Banishment \
+4th (3 Prepared): Psychic Lance, Summon Warrior Spirit (UA), Fabricate \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation \
 7th (1 Prepared): Teleport 
@@ -122,17 +122,17 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
 2x Metal Net (6th Level Immovable Object) \
-Clockwork Amulet \
+Clockwork Circlet \
 Aberrational Pendant \
 Ring of Mind Shielding
 
 
 **Dimensional Anchors (Magical Tinkering)** \
-✦ Humanoid Statuette (Universe Beta, Capital, Oakenbranch Residence) \
+✦ Bent Washer (Universe Beta, Capital, Oakenbranch Residence) \
 ✦ Stick (Universe Alpha, Capital, Rift Drop Off Point) \
-✦ Pebble (Universe Alpha, Strixhaven, Courtyard) \
 ✦ Mask (Universe Alpha, Rebel Base, Cooking Yard) \
-✦ Rock (Universe Alpha, Sword Location, Near Darktowe) 
+✦ Pebble (Universe Alpha, Sword Location, Near Darktowe) \
+✦ -
 
 Scroll Components: 50gp \
 Sling, Dagger, Light Crossbow (20 bolts) \
@@ -145,9 +145,8 @@ Old Recording of a Mathemagics Lecture \
 5 Bottles of Wine (3gp) \
 Bag of Ball Bearings \
 Bag of Keys \
-Ivory Statuette with space for Gem to be inlaid \
+~~Ivory Statuette with space for Gem to be inlaid~~ \
 Dragonscale Coated in Platinum (500gp) \
-Toffee Candy (from leader of House Jorasco, Magical) \
 Scroll of Synaptic Static \
 Blaze Rod (100gp)
 
