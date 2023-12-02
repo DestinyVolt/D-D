@@ -122,7 +122,7 @@ I don't really like lying, but I will if it means helping a friend or hiding my 
 Azorius Charm (1x Hold Person (3rd) or Command or Counterspell) \
 Smith's Tools Net (6th Level Immovable Object) \
 2x Metal Net (6th Level Immovable Object) \
-Clockwork Circlet \
+2x Clockwork Amulet \
 Aberrational Pendant \
 Ring of Mind Shielding
 
@@ -142,13 +142,11 @@ Waterskin, 2x 50ft of Rope, Tinderbox, 10 Pitons, 2 Oil Flasks \
 Tool Kit (contains Thieves' and Tinker's Tools): \
 *Wrench, Hammer, Crowbar, Pliers, Scissors, Small File, Set of Lockpicks, small gears, nuts, and bolts* \
 Old Recording of a Mathemagics Lecture \
-5 Bottles of Wine (3gp) \
 Bag of Ball Bearings \
 Bag of Keys \
 ~~Ivory Statuette with space for Gem to be inlaid~~ \
 Dragonscale Coated in Platinum (500gp) \
-Scroll of Synaptic Static \
-Blaze Rod (100gp)
+Scroll of Synaptic Static 
 
 #### Future Levels:
 
