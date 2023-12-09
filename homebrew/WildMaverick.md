@@ -1,5 +1,5 @@
 # Wild Maverick
-***In the world of artifice, the Wild Maverick is categorized as "loose cannons" and "performing egregious abuse of the Weave." These fighters augment their martial mastery with magical prowess, but unlike Eldritch Knights and Artificers, they replace careful study and reliable invention with alchemical concoctions and infusions that are just barely on this side of functional. Critics say that the swirling wild magic of a Maverick's gimmicks are just as likely to blow up in their own face as they are an enemy's. Regardless, a Wild Maverick is a terrifying force on the battlefield.***
+***In the world of artifice, Wilds Maverick are categorized as "loose cannons" and "performing egregious abuse of the Weave." These fighters augment their martial mastery with magical prowess, but unlike Eldritch Knights and Artificers, they replace careful study and reliable invention with alchemical concoctions and infusions that are just barely on this side of functional. Critics say that the swirling wild magic of a Maverick's gimmicks are just as likely to blow up in their own face as they are an enemy's. Regardless, a Wild Maverick is a terrifying force on the battlefield.***
 
 | Fighter Level | Cantrips | Wild Gimmicks | 1st | 2nd | 3rd | 4th |
 | ------------- | -------- | ------------- | :-: | :-: | :-: | :-: |
@@ -59,7 +59,7 @@ At 7th level, you gain expertise with alchemist's supplies.
 Additionally, if you use a non-magical object that forces a Saving Throw, you can use your Spell Save DC in place of the default DC. 
 
 ### Improved Wild Gimmicks
-Beginning at 7th level, whenever you expend a spell slot to fuel a Wild Gimmick, you can do so as if using a spell slot one level higher than the spell slot you expend.
+Beginning at 10th level, whenever you expend a spell slot to fuel a Wild Gimmick, you can do so as if using a spell slot one level higher than the spell slot you expend.
 
 ### Wild Legerdemain 
 Starting at 15th level, you can use the bonus action granted by your Quick Fingers to activate a Wild Gimmick that normally requires an action to use. 
@@ -74,7 +74,7 @@ When you select this Wild Gimmick option, choose a school of magic other than Du
 
 You can use your action to expend a spell slot and imbue a thrown weapon or piece of ammunition with the following property until the end of your next long rest:
 
-When you make a ranged attack with the projectile, but before you choose a target, the Dungeon Master will randomly determine a leveled spell of the selected school that is no more than one level higher than the expended spell slot. Knowing the spell, you must select a target for the attack. The target of the attack (or the location of the target), also becomes the target of the spell. Hit or Miss, the magic on the projectile fades. 
+When you make a ranged attack with the projectile, but before you choose a target, the Dungeon Master will randomly determine a leveled spell of the selected school that is no more than one level higher than the expended spell slot. Knowing the spell, you must select a target for the attack. The target of the attack (or the location of the target), also becomes the target of the spell. The spell takes effect immediately, regardless of casting time. Hit or Miss, the magic on the projectile fades. 
 
 If the spell requires concentration, you need not concentrate on the spell.
 
@@ -95,7 +95,17 @@ When you make a ranged attack with the projectile, after selecting a target but 
 
 If the wild magic surge creates a spell, it does not require concentration.
 
+### Unreliable Potions (10th level or Higher)
+(UNWRITTEN, JUST GETTING IDEAS DOWN): 2nd Level slot required. Fill a Vial or Breakaway Vial with a mysterious concoction that possibly has the effects of a table of various potions. When you take the action, make an Alchemy Tools check. On a 10, you can remove one of the list concoctions from the possibilities. On a 15, you can remove 2, on a 20, three, and so on. If you expend a 4th level slot, the potion gains two properties instead of 1. 
+
+(Unreliable Potions Table)
+
+### Wild Weaponry (10th level or higher)
+(UNWRITTEN, JUST GETTING IDEAS DOWN): Expend Slot to modify a weapon so that when used, instead of rolling a d20, it uses an alternative die type (2nd Level: 1d16, 3rd Level: 1d24, 4th level: 1d30, 5th Level: 2d16). Weapon fails to hit on a one and causes a roll on the Wild Weaponry Table, Weapon crits on a maximum roll of the die. If there are multiple die, either rolling maximum counts as a crit, and each rolled one causes a roll on the table. No auto miss unless both dice roll a 1.  
+
+(Wild Weaponry Table)
+
 ### Spellhavoc Projectile (15th Level or Higher)
-You can use your action to expend a 3nd level or higher spell slot and imbue a thrown weapon or piece of ammunition with the following property until the end of your next long rest:
+You can use your action to expend a 3rd level or higher spell slot and imbue a thrown weapon or piece of ammunition with the following property until the end of your next long rest:
 
 As a reaction to a creature you can see casting a spell, you can make an attack with the Spellhavoc Projectile against the triggering creature. On a hit, the spellcasting fails, and the struck creature rolls on the Wild Magic Surge table. A creature may use a Legendary Resistance to cause the spellcasting to not fail, but the Wild Magic Surge occurs regardless.
