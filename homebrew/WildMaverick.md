@@ -1,5 +1,5 @@
 # Wild Maverick
-***Description***
+***In the world of artifice, the Wild Maverick is categorized as "loose cannons" and "performing egregious abuse of the Weave." These fighters augment their martial mastery with magical prowess, but unlike Eldritch Knights and Artificers, they replace careful study and reliable invention with alchemical concoctions and infusions that are just barely on this side of functional. Critics say that the swirling wild magic of a Maverick's gimmicks are just as likely to blow up in their own face as they are an enemy's. Regardless, a Wild Maverick is a terrifying force on the battlefield.***
 
 | Fighter Level | Cantrips | Wild Gimmicks | 1st | 2nd | 3rd | 4th |
 | ------------- | -------- | ------------- | :-: | :-: | :-: | :-: |
@@ -58,14 +58,14 @@ At 7th level, you gain expertise with alchemist's supplies.
 
 Additionally, if you use a non-magical object that forces a Saving Throw, you can use your Spell Save DC in place of the default DC. 
 
-### Greater Gimmicks
-Whenever you expend a spell slot to fuel a Wild Gimmick, you can do so as if using a spell slot one level higher than the spell slot you expend.
+### Improved Wild Gimmicks
+Beginning at 7th level, whenever you expend a spell slot to fuel a Wild Gimmick, you can do so as if using a spell slot one level higher than the spell slot you expend.
 
-### Improved Quick Fingers
+### Wild Legerdemain 
 Starting at 15th level, you can use the bonus action granted by your Quick Fingers to activate a Wild Gimmick that normally requires an action to use. 
 
-### Level 18th Ability
-Once per long rest, you can use an action to magically create a Gnomengarde Grenade. If not used by dawn, the Gnomengarde Grenade explodes immediately. 
+### Incendiary Chaos
+Starting at 18th level, once per long rest, you can use an action to magically create a Gnomengarde Grenade. If not used by dawn, the Gnomengarde Grenade explodes immediately. 
 
 ## Wild Gimmick Options
 
