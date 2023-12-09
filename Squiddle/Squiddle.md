@@ -45,13 +45,13 @@ Squire of Solamnia: Advantage + 1d8 damage, 5/day
 ### Chronurgy Wizard 13:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
-Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Find Vehicle (UA) \
+Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Find Vehicle (UA), Immovable Object \
 Unprepared   (3): Pulse Wave, , Glyph Of Warding, Major Image, Sending, Slow \
 Unprepared   (4): Banishment, Summon Warrior Spirit (UA) \
 Unprepared   (6): Contingency \
 Unprepared   (7): Simulacrum \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (3 Prepared): Immovable Object, Gentle Repose, Vortex Warp \
+2nd (3 Prepared): Gentle Repose, Vortex Warp, Continual Flame \
 3rd (5 Prepared): Magic Circle, Haste, Tiny Servant, Intellect Fortress, Remove Curse \
 4th (2 Prepared): Psychic Lance, Fabricate \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
