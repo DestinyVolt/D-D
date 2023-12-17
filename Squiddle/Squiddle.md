@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 36, Height: 2'6, Weight: 25lb 
 
-HP: 128 (13d6, 1d8, 1d10) \
+HP: 136 (14d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
 Prof: +5 \
 Speed: 25ft, Init: +7 \
@@ -32,7 +32,7 @@ Dagger (20/60ft): +7 to hit, 1d4 + 2 piercing
 Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 2, 1, 1 \
+Spell Slots: 4, 3, 3, 3, 2, 1, 1, 1 \
 Save DC: 18, +10 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Disguise Self, Sanctuary
@@ -42,17 +42,19 @@ Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
 Fighting Style: Quick Toss (1/SR, 1d6) \
 Squire of Solamnia: Advantage + 1d8 damage, 5/day
 
-### Chronurgy Wizard 13:
+### Chronurgy Wizard 14:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
-Unprepared (1-2): Magnify Gravity, Sleep, Gift of Alacrity, Tasha's Mind Whip, Immovable Object \
-Unprepared   (3): Pulse Wave, , Glyph Of Warding, Major Image, Sending, Slow \
+Unprepared   (1): Magnify Gravity, Sleep, Gift of Alacrity \
+Unprepared   (2): Vortex Warp, Tasha's Mind Whip \
+Unprepared   (3): Pulse Wave, Magic Circle,  Glyph Of Warding, Major Image, Slow \
 Unprepared   (4): Banishment, Summon Warrior Spirit (UA) \
+Unprepared   (5): Planar Binding \
 Unprepared   (6): Contingency \
-Unprepared   (7): Simulacrum \
+Unprepared   (7): Simulacrum, Dream of the Blue Veil \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Vortex Warp, Continual Flame \
-3rd (5 Prepared): Magic Circle, Haste, Tiny Servant, Intellect Fortress, Remove Curse \
+2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Continual Flame, Immovable Object \
+3rd (5 Prepared): Haste, Tiny Servant, Intellect Fortress, Remove Curse, Sending \
 4th (2 Prepared): Psychic Lance, Fabricate \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation \
