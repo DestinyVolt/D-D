@@ -69,15 +69,20 @@ Starting at 2nd level, you can add your Intelligence modifiers to your initiativ
 **Chronal Shift:**
 At 2nd level, you can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll. You can use this ability twice, and you regain any expended use when you finish a long rest.
 
-**Momentary Stasis**
+**Momentary Stasis:**
 When you reach 6th level, as an action, you can magically force a Large or smaller creature you can see within 60 feet of you to make a Constitution saving throw against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is incapacitated and has a speed of 0.
 
 You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a long rest.
 
-**Arcane Abeyance**
+**Arcane Abeyance:**
 At 10th level, when you cast a spell using a spell slot of 4th level or lower, you can condense the spell's magic into a mote. The spell is frozen in time at the moment of casting and held within a gray bead for 1 hour. A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the caster for all other purposes. 
 
 Once you create a bead with this feature, you can't do so again until you finish a short or long rest.
+
+**Convergent Future:**
+Starting at 14th level, you can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice).
+
+When you use this feature, you gain one level of exhaustion. Only by finishing a long rest can you remove a level of exhaustion gained in this way.
 
 **Cantrip Formulas:** 
 You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list. 
@@ -152,20 +157,18 @@ Scroll of Synaptic Static
 
 #### Future Levels:
 
-**Wizard 14:** \
-7th: ~~Dream of the Blue Veil~~, Force Cage \
+**Wizard 15:** \
+8th: Mind Blank, Reality Break \
 +1 Spell Prep'd
 
 Future Spells: \
-7th: Teleport, Tether(?) \
-8th: Mind Blank, Reality Break(?) \
 9th: Shapechange, Wish
 
 #### Spell Scrolls: 
-2nd: Continual Flame, Rope Trick \
+2nd: Rope Trick \
 3rd: Dispel Magic, Counterspell \
 4th: - \
-5th: Teleportation Circle \*, Planar Binding \
+5th: Teleportation Circle \* \
 8th: Demiplane \* \
 *Reminder: Hopefully I can get this from Oswyn?
 
