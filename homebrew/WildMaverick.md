@@ -1,5 +1,5 @@
 # Wild Maverick
-***In the world of artifice, Wilds Maverick are categorized as "loose cannons" and "performing egregious abuse of the Weave." These fighters augment their martial mastery with magical prowess, but unlike Eldritch Knights and Artificers, they replace careful study and reliable invention with alchemical concoctions and infusions that are just barely on this side of functional. Critics say that the swirling wild magic of a Maverick's gimmicks are just as likely to blow up in their own face as they are an enemy's. Regardless, a Wild Maverick is a terrifying force on the battlefield.***
+***In the world of artifice, Wild Mavericks are categorized as "loose cannons" and "performing egregious abuse of the Weave." These fighters augment their martial mastery with magical prowess, but unlike Eldritch Knights and Artificers, they replace careful study and reliable invention with alchemical concoctions and infusions that are just barely on this side of functional. Critics say that the swirling wild magic of a Maverick's gimmicks are just as likely to blow up in their own face as they are an enemy's. Regardless, a Wild Maverick is a terrifying force on the battlefield.***
 
 | Fighter Level | Cantrips | Wild Gimmicks | 1st | 2nd | 3rd | 4th |
 | ------------- | -------- | ------------- | :-: | :-: | :-: | :-: |
