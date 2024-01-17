@@ -27,7 +27,7 @@ Languages: Old Common, Elvish
 Returning Greataxe: +10 to hit, 1d12 + 5 Slashing damage (Can be Thrown up to 60ft) \
 (Stone-Cursed) Claws: +10 to hit, 1d6 + 9 Slashing + 2d6 Acid \
 Grapple: +15 to grapple, you are now grabbing them, preventing them from moving \
-Spread Curse: +15 grapple against grappled target, restrains both you and target until grapple ends \
+Spread Curse: +15 grapple against grappled or grappling target, restrains both you and target until grapple ends \
 Reckless Attack: Advantage for your attacks, Advantage for people targeting you \
 
 #### Stone-Cursed Form (5/day, 1 minute, *Rage*):
