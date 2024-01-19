@@ -23,7 +23,7 @@ Languages: Common, Druidic, Thieves' Can't
 
 ### Actions:
 Radient Pellets (2x): +10, 3d4 radiant damage \
-Vicious Mockery: DC 18 , 3d4 psychic damage + disadvantage on next attack \
+Vicious Mockery: DC 18 , 3d4 psychic damage + disadvantage on next attack
 
 ### Bonus Actions: 
 ***Grasping Root (Recharge 6):*** Grapple a creature within 30ft with a vine, pull 25ft closer. DC 8+PROF+STR Dex save to avoid. \
