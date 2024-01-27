@@ -46,7 +46,7 @@ Squire of Solamnia: Advantage + 1d8 damage, 5/day
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared   (1): Magnify Gravity, Sleep, Gift of Alacrity \
-Unprepared   (2): Vortex Warp, Tasha's Mind Whip, Continual Flame \
+Unprepared   (2): Tasha's Mind Whip, Continual Flame \
 Unprepared   (3): Pulse Wave, Magic Circle,  Glyph Of Warding, Major Image, Remove Curse, Sending, Intellect Fortress \
 Unprepared   (4): Fabricate \
 Unprepared   (5): Planar Binding \
@@ -54,7 +54,7 @@ Unprepared   (6): Contingency \
 Unprepared   (7): Simulacrum, Dream of the Blue Veil \
 1st (2 Prepared): Silvery Barbs, Shield, Sleep \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Immovable Object, Vortex Warp \
-3rd (5 Prepared): Haste, Tiny Servant,  Slow \
+3rd (5 Prepared): Haste, Tiny Servant, Slow \
 4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance, Banishment \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transformation \
