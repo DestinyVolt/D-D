@@ -51,7 +51,7 @@ Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Intellect
 Unprepared   (4): Fabricate, Banishment \
 Unprepared   (5): Planar Binding \
 Unprepared   (6): Contingency, Fizban's Platinum Shield \
-Unprepared   (7): Simulacrum, Dream of the Blue Veil \
+Unprepared   (7): Simulacrum, Dream of the Blue Veil, Demiplane \
 1st (2 Prepared): Silvery Barbs, Shield, Sleep \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Immovable Object, Vortex Warp \
 3rd (5 Prepared): Haste, Tiny Servant, Slow, Sending \
@@ -59,6 +59,7 @@ Unprepared   (7): Simulacrum, Dream of the Blue Veil \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Tenser's Transformation \
 7th (1 Prepared): Teleport 
+8th (1 Prepared): Mind Blank
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -157,9 +158,9 @@ Scroll of Synaptic Static
 
 #### Future Levels:
 
-**Wizard 15:** \
-8th: Mind Blank, Reality Break \
-+1 Spell Prep'd
+**Wizard 16:** \
+8th: Reality Break \
+ASI
 
 Future Spells: \
 9th: Shapechange, Wish
