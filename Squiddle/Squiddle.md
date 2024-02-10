@@ -5,7 +5,7 @@ Age: 36, Height: 2'6, Weight: 25lb
 
 HP: 144 (15d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
-Prof: +5 \
+Prof: +6 \
 Speed: 25ft, Init: +7 \
 STR: 8  (-1) \
 DEX: 14 (+2) \
@@ -22,18 +22,18 @@ Saving Throws: Constitution, Intelligence, Wisdom \
 Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
-Magic Stone: +10 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +10 to hit, 3d6 piercing + Drag 10 feet \
-Ulitharid Bite: +11 to hit, 1d4 + 6 piercing + 2d8 psychic damage (+5 psychic damage on a crit) \
-Tensor's Bite: +11 to hit, 1d4 + 6 piercing + 2d12 force damage (+5 psychic damage on a crit) \
-Metal Net (15ft): +7 to hit w/ Disadvantage, applies Restrained condition (DC28) \
-Dagger (20/60ft): +7 to hit, 1d4 + 2 piercing 
+Magic Stone: +11 to hit, 1d6+5 bludgeoning \
+Thorn Whip: +11 to hit, 3d6 piercing + Drag 10 feet \
+Ulitharid Bite: +12 to hit, 1d4 + 6 piercing + 2d8 psychic damage (+5 psychic damage on a crit) \
+Tensor's Bite: +12 to hit, 1d4 + 6 piercing + 2d12 force damage (+5 psychic damage on a crit) \
+Metal Net (15ft): +8 to hit w/ Disadvantage, applies Restrained condition (DC28) \
+Dagger (20/60ft): +8 to hit, 1d4 + 2 piercing 
 
 Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 
 ### Artificer 1: 
 Spell Slots: 4, 3, 3, 3, 2, 1, 1, 1 \
-Save DC: 18, +10 to hit \
+Save DC: 19, +11 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Disguise Self, Sanctuary
 
