@@ -59,7 +59,7 @@ Unprepared   (8): Demiplane
 4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance, Glyph of Warding \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Tenser's Transformation \
-7th (1 Prepared): Teleport 
+7th (1 Prepared): Teleport \
 8th (1 Prepared): Mind Blank
 
 **Arcane Recovery:** \
