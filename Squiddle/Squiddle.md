@@ -23,8 +23,8 @@ Languages: Common, Gnomish, Undercommon, Deep Speech
 
 ### Attacks
 Magic Stone: +11 to hit, 1d6+5 bludgeoning \
-Thorn Whip: +11 to hit, 3d6 piercing + Drag 10 feet \
-Ulitharid Bite: +12 to hit, 1d4 + 6 piercing + 2d8 psychic damage (+5 psychic damage on a crit) \
+Thorn Whip: +11 to hit, 4d6 piercing + Drag 10 feet \
+Ulitharid Bite: +12 to hit, 1d4 + 6 piercing + 3d8 psychic damage (+5 psychic damage on a crit) \
 Tensor's Bite: +12 to hit, 1d4 + 6 piercing + 2d12 force damage (+5 psychic damage on a crit) \
 Metal Net (15ft): +8 to hit w/ Disadvantage, applies Restrained condition (DC28) \
 Dagger (20/60ft): +8 to hit, 1d4 + 2 piercing 
