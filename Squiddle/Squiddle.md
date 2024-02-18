@@ -40,7 +40,7 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Fighter 1:
 Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
 Fighting Style: Quick Toss (1/SR, 1d6) \
-Squire of Solamnia: Advantage + 1d8 damage, 5/day
+Squire of Solamnia: Advantage + 1d8 damage, 6/day
 
 ### Chronurgy Wizard 14:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
