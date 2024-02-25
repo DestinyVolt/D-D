@@ -42,7 +42,7 @@ Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
 Fighting Style: Quick Toss (1/SR, 1d6) \
 Squire of Solamnia: Advantage + 1d8 damage, 6/day
 
-### Chronurgy Wizard 14:
+### Chronurgy Wizard 15:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared   (1): Magnify Gravity, Sleep, Gift of Alacrity \
@@ -56,7 +56,7 @@ Unprepared   (8):  \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Immovable Object, Vortex Warp \
 3rd (5 Prepared): Haste, Tiny Servant, Slow, Sending, Intellect Fortress \
-4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance,  \
+4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Tenser's Transformation \
 7th (1 Prepared): Teleport \
