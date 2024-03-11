@@ -16,10 +16,9 @@ Prof: Perception, Investigation, Survival, Acrobatics, Athletics \
 Saves: Strength, Constitution
 
 #### Weapons (Multiattack 3x)
-Glaive: +11 to hit, 1d10+4 \
-Spear (+1): +12 to hit, 1d6+5 \
-Talons: +11 to hit, 1d6+5 \
-Improvised Weapons: +11 to hit, 1d4 +5
+Spear (+1): +12 to hit, 1d6 + 6 \
+Talons: +11 to hit, 1d6 + 5 \
+Improvised Weapons: +11 to hit, 1d4 + 5
 
 #### Bonus Actions
 Second Wind: Heal 1d10 + 17 (+ 5) \
