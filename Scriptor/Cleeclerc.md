@@ -2,7 +2,7 @@ Cleeclerc
 
 Level 17 \
 HP: 197 \
-AC: 16 \
+AC: 19 (Shield, Half-Plate) \
 Prof: +4 \
 Speed: 30ft walking, 50ft flying \
 Str: 20 \
