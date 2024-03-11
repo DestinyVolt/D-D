@@ -24,7 +24,7 @@ Improvised Weapons: +11 to hit, 1d4 +5
 #### Bonus Actions
 Second Wind: Heal 1d10 + 17 (+ 5) \
 Tavern Brawler: Grapple (+11) \
-Shield Master: Shvoe (+11) 
+Shield Master: Shove (+11) 
 
 #### Reactions
 Fighting Style: Interception (1d10 + 6) \
