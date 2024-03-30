@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 36, Height: 2'6, Weight: 25lb 
 
-HP: 144 (15d6, 1d8, 1d10) \
+HP: 152 (16d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
 Prof: +6 \
 Speed: 25ft, Init: +7 \
@@ -32,7 +32,7 @@ Dagger (20/60ft): +8 to hit, 1d4 + 2 piercing
 Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 2, 1, 1, 1 \
+Spell Slots: 4, 3, 3, 3, 2, 1, 1, 1, 1 \
 Save DC: 19, +11 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Disguise Self, Sanctuary
@@ -40,19 +40,20 @@ Cantrips: Magic Stone, Thorn Whip \
 ### Fighter 1:
 Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
 Fighting Style: Quick Toss (1/SR, 1d6) \
-Squire of Solamnia: Advantage + 1d8 damage, 6/day
+Squire of Solamnia: Advantage + 1d8 damage, 6/day \
+Knight of the Rose: Bonus Action, 6/day, ally reaction attacks, +1d8 damage
 
-### Chronurgy Wizard 15:
+### Chronurgy Wizard 16:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared   (1): Magnify Gravity, Sleep, Gift of Alacrity \
 Unprepared   (2): Tasha's Mind Whip, Continual Flame \
-Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Glyph of Warding \
+Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Glyph of Warding, Water Wall \
 Unprepared   (4): Fabricate, Banishment \
 Unprepared   (5): Planar Binding \
 Unprepared   (6): Contingency, Fizban's Platinum Shield \
 Unprepared   (7): Simulacrum, Dream of the Blue Veil \
-Unprepared   (8):  \
+Unprepared   (8): \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (3 Prepared): Find Vehicle (UA), Gentle Repose, Immovable Object, Vortex Warp \
 3rd (5 Prepared): Haste, Tiny Servant, Slow, Sending, Intellect Fortress \
@@ -60,7 +61,7 @@ Unprepared   (8):  \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Tenser's Transformation \
 7th (1 Prepared): Teleport \
-8th (1 Prepared): Mind Blank, Demiplane
+8th (1 Prepared): Mind Blank, Demiplane, Reality Break
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
