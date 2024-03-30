@@ -9,7 +9,7 @@ Prof: +6 \
 Speed: 25ft, Init: +7 \
 STR: 8  (-1) \
 DEX: 14 (+2) \
-CON: 18 (+4) \
+CON: 19 (+4) \
 INT: 20 (+5) \
 WIS: 13 (+1) \
 CHA: 9  (-1) 
