@@ -9,13 +9,13 @@ AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
 CON: 14 \
-INT: 18 \ 
+INT: 18 \
 WIS: 11 \
-CHA: 11 \ 
+CHA: 11 
 
 ### Proficiencies
 Class Proficiencies: Acrobatics, Investigation, History, Arcana, Stealth \
-Tool Proficiencies: Music Box, 2x Tools \
+Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
 Combat Proficiencies: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
 Languages: Common, Adept Linguist
@@ -34,11 +34,11 @@ Cantrips: True Strike, Mending \
 1st Level: Healing Word, Silent Image, Detect Magic, Identify, Sleep
 
 ### Racial Features
-***Built for Success.*** +1d4 to d20 roll, Prof / Day 
-***Healing Machine.*** You are a Construct, but the following spells work on you: Cure Wounds, Healing Word, Mass Cure Wounds, Mass Healing Word, and Spare the Dying.
-***Mechanical Nature.*** You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don't need to eat, drink, or breathe.
-***Sentry's Rest.*** When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
-***Keen Mind.*** You always know which way is north, You always know the number of hours left before the next sunrise or sunset and You can accurately recall anything you have seen or heard within the past month.
+***Built for Success.*** +1d4 to d20 roll, Prof / Day \
+***Healing Machine.*** You are a Construct, but the following spells work on you: Cure Wounds, Healing Word, Mass Cure Wounds, Mass Healing Word, and Spare the Dying. \
+***Mechanical Nature.*** You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don't need to eat, drink, or breathe. \
+***Sentry's Rest.*** When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious. \
+***Keen Mind.*** You always know which way is north, You always know the number of hours left before the next sunrise or sunset and You can accurately recall anything you have seen or heard within the past month. \
 ***Porcelain Skin.*** The outer Shell of your body is formed from a fragile porcelain. Once you are below half health, any further damage you take is dealt as damage to both your HP and your Maximum HP, down to half your normal Maximum. This can be repaired by casting the Mending Spell, which allows you to spend a hit die to regain HP and remove damage to your Maximum HP, equal to a roll of the hit die plus your constitution modifier. 
 
 ### Background
