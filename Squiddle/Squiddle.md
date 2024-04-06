@@ -51,7 +51,7 @@ Unprepared   (2): Tasha's Mind Whip, Continual Flame \
 Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Glyph of Warding, Sending \
 Unprepared   (4): Fabricate \
 Unprepared   (5): Planar Binding \
-Unprepared   (6): Contingency, Fizban's Platinum Shield \
+Unprepared   (6): Contingency, Tenser's Transformation \
 Unprepared   (7): Simulacrum, Dream of the Blue Veil \
 Unprepared   (8): Demiplane \
 1st (2 Prepared): Silvery Barbs, Shield \
@@ -59,7 +59,7 @@ Unprepared   (8): Demiplane \
 3rd (5 Prepared): Haste, Tiny Servant, Slow, Water Wall, Intellect Fortress \
 4th (2 Prepared): Summon Warrior Spirit (UA), Banishment, Psychic Lance \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (2 Prepared): Tenser's Transformation \
+6th (2 Prepared): Fizban's Platinum Shield \
 7th (1 Prepared): Teleport \
 8th (1 Prepared): Mind Blank, Reality Break
 
