@@ -160,10 +160,6 @@ Scroll of Synaptic Static
 
 #### Future Levels:
 
-**Wizard 16:** \
-8th: Reality Break \
-ASI
-
 Future Spells: \
 9th: Shapechange, Wish
 
