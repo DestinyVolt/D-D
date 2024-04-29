@@ -10,8 +10,8 @@ STR: 8 \
 DEX: 17 \
 CON: 14 \
 INT: 18 \
-WIS: 12 \
-CHA: 10
+WIS: 13 \
+CHA: 9
 
 ### Proficiencies
 Class Proficiencies: Acrobatics, Investigation, History, Arcana, Stealth \
