@@ -18,7 +18,7 @@
 - **Zula, Arhja and Moonfall:** 
 	- Turn 1: Ancient Red Dragon Multiattack + Breath Weapon
 	- Turn 2: 1 Druid and 1 Cleric spell of your choice, 5th level or lower
-- **Holly+Bronk:**
+- **Holly & Bronk:**
 	- Charges through battlefield, 50 Non-Magical BPS damage in a line
 	- 1d10 healing to a target of your choice
 - **Bibble:**
