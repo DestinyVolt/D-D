@@ -12,7 +12,7 @@
 
 ### Incite The Host
 - **Tamont Goblins (R):**
-  - 3 Goblins enter combat with a set +10 to all d20 rolls and resistance to all damage
+  - 3 Goblins are hucked into combat with a set +10 to all d20 rolls and resistance to all damage
   - 20 temp hit points to all goblins
 - **Boogie and the Undergoblins**
 	- All Goblins gain Invisibility for 1 round
