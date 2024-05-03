@@ -4,7 +4,7 @@ Aartok Starhorror (He/Any) \
 Chaotic Neutral \
 Age: ???
 
-HP: 113 \
+HP: 134 \
 AC: 14 (Natural Armor) \
 Speed: 20ft (spider climb) \
 Init: +7 \
@@ -22,8 +22,8 @@ Saving Throws: Dexterity, Charisma \
 Languages: Common, Druidic, Thieves' Can't
 
 ### Actions:
-Radient Pellets (2x): +10, 3d4 radiant damage \
-Vicious Mockery: DC 18 , 3d4 psychic damage + disadvantage on next attack
+Radient Pellets (2x): +10, 4d4 radiant damage \
+Vicious Mockery: DC 19, 3d4 psychic damage + disadvantage on next attack
 
 ### Bonus Actions: 
 ***Grasping Root (Recharge 6):*** Grapple a creature within 30ft with a vine, pull 25ft closer. DC 8+PROF+STR Dex save to avoid. \
@@ -47,6 +47,7 @@ Cantrips: Minor Illusion, Vicious Mockery, Friends \
 6th (1): \
 7th (1): Regenerate \
 8th (1): Glibness
+9th (1): Mass Heal, Power Word Heal
 
 ### Psionics
 No Components Required \
