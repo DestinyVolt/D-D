@@ -1,9 +1,9 @@
 Cleeclerc
 
-Level 17 \
-HP: 197 \
+Level 20 \
+HP: 244 \
 AC: 19 (Shield, Half-Plate) \
-Prof: +4 \
+Prof: +6 \
 Speed: 30ft walking, 50ft flying \
 Str: 20 \
 Dex: 14 \
@@ -15,13 +15,13 @@ Cha: 6
 Prof: Perception, Investigation, Survival, Acrobatics, Athletics \
 Saves: Strength, Constitution
 
-#### Weapons (Multiattack 3x)
+#### Weapons (Multiattack 4x)
 Spear (+1): +12 to hit, 1d6 + 6 \
 Talons: +11 to hit, 1d6 + 5 \
 Improvised Weapons: +11 to hit, 1d4 + 5
 
 #### Bonus Actions
-Second Wind: Heal 1d10 + 17 (+ 5) \
+Second Wind: Heal 1d10 + 25 \
 Tavern Brawler: Grapple (+11) \
 Shield Master: Shove (+11) 
 
@@ -30,10 +30,11 @@ Fighting Style: Interception (1d10 + 6) \
 Shield Master: Evasion (& +2 to Dex Saves)
 
 #### Abilities
-Action Surge: Twoice per short rest, you can take another action \
+Action Surge: Twice per short rest, once per turn, you can take another action \
 Indominable: Thrice per day, you can choose succeed on a saving throw you fail. 
+Precise Strike: 6 times per day, once per turn, you can gain advantage on an attack roll and add 1d8 to the damage.
 
-Maneuvers (6d10, DC 16): 
+Maneuvers (6d12, DC 19): 
 - Commander's Strike
 - Trip Attack
 - Bait and Switch
