@@ -34,7 +34,3 @@ Cantrips (4): Guidance, Frostbite, Thorn Whip, Primal Savagery (Snarl: 2 Attacks
 7th (2): Regenerate, Whirlwind \
 8th (1): Animal Shapes \
 9th (1): Shapechange
-
-Shapechange Order:
-- Elemental Tempest (CR 18) 
-- Lightning Hulk
