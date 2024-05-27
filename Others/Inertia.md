@@ -45,7 +45,8 @@ Cantrips: True Strike, Mending \
 Thieves' Tools \
 Rope Dart \
 Mal Tobaner Outfit \
-Lint
+Lint \
+Medal of the Conch
 
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
