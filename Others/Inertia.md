@@ -31,7 +31,7 @@ Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, or saving thr
 #### Spellcasting
 Save DC: 14, Attack: +6 \
 Cantrips: True Strike, Mending \
-1st Level: Healing Word, Silent Image, Detect Magic, Identify, Sleep
+1st Level (2): Healing Word, Silent Image, Detect Magic, Identify, Sleep
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
