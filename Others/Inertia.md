@@ -1,7 +1,7 @@
 ## Inertia 
 Autognome (Small) \
 Female, Age: ??? \
-Height: 4', Weight: ???lb \
+Height: 4', Weight: 280lb \
 Neutral Good
 
 HP: 10 (1d8) \
