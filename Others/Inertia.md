@@ -41,6 +41,9 @@ Cantrips: True Strike, Mending \
 ***Keen Mind.*** You always know which way is north, You always know the number of hours left before the next sunrise or sunset and You can accurately recall anything you have seen or heard within the past month. \
 ***Porcelain Skin.*** The outer Shell of your body is formed from a fragile porcelain. Once you are below half health, any further damage you take is dealt as damage to both your HP and your Maximum HP, down to half your normal Maximum. This can be repaired by casting the Mending Spell, which allows you to spend a hit die to regain HP and remove damage to your Maximum HP, equal to a roll of the hit die plus your constitution modifier. 
 
+### Magic Items
+☆ Pearl of Power
+
 ### Inventory
 Thieves' Tools \
 Rope Dart \
