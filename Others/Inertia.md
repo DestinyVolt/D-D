@@ -4,7 +4,7 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 10 (1d8) \
+HP: 16 (2d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
@@ -14,7 +14,7 @@ WIS: 12 \
 CHA: 10
 
 ### Proficiencies
-Class Proficiencies: Acrobatics, Investigation, History, Arcana, Stealth \
+Class Proficiencies (JoaT): Acrobatics, Investigation, History, Arcana, Stealth \
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
 Combat Proficiencies: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
@@ -25,8 +25,9 @@ Rope Dart (15/20): +5 to hit, 1d6 + 3 piercing damage \
 True Strike (15/20): +6 to hit, 1d6 + 4 radiant damage \
 (Both do a d4 or have disadvantage in melee)
 
-### Bard 1
-Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, or saving throw
+### Bard 2
+Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, or saving throw \
+Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice.
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
@@ -48,8 +49,9 @@ Cantrips: True Strike, Mending \
 Thieves' Tools \
 Rope Dart \
 Mal Tobaner Outfit \
-Lint \
-Medal of the Conch
+Lint (more) \
+Medal of the Conch \
+Lantern of Revealing
 
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
