@@ -18,7 +18,7 @@ Class Proficiencies (JoaT): Acrobatics, Investigation, History, Arcana, Stealth 
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
 Combat Proficiencies: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
-Languages: Common, Adept Linguist
+Languages: Common, 2 Languages (Unknown, could also be tools), Adept Linguist
 
 ### Attacks
 Rope Dart (15/20): +5 to hit, 1d6 + 3 piercing damage \
