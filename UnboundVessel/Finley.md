@@ -23,6 +23,7 @@ Skills:
 ### Attacks: 
 - Shocking Grasp: +3 to hit, 1d8 lightning damage
 - Fin's Reavers (SS): 1d6 + 4 slashing damage
+- Fin's Reavers (BA, SS): 1d6 slashing damage 
 
 ### Fighter 1
 Mariner: +1 AC, Climbing and Swimming Speed \
