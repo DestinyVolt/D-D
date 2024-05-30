@@ -62,7 +62,7 @@ Unprepared   (9):
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Tenser's Transformation \
 7th (1 Prepared): Teleport \
-8th (2 Prepared): Mind Blank, Reality Break
+8th (2 Prepared): Mind Blank, Reality Break \
 9th (2 Prepared): Wish, Time Stop
 
 **Arcane Recovery:** \
