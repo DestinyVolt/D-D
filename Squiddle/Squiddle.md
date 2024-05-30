@@ -54,7 +54,7 @@ Unprepared   (5): Planar Binding \
 Unprepared   (6): Contingency, Fizban's Platinum Shield \
 Unprepared   (7): Simulacrum, Dream of the Blue Veil \
 Unprepared   (8): Demiplane \
-Unprepared   (9): 
+Unprepared   (9): \
 1st (2 Prepared): Silvery Barbs, Shield \
 2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Immovable Object, Vortex Warp \
 3rd (5 Prepared): Haste, Tiny Servant, Slow, Sending, Intellect Fortress \
