@@ -52,7 +52,7 @@ Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Glyph of 
 Unprepared   (4): Fabricate, Banishment \
 Unprepared   (5): Planar Binding \
 Unprepared   (6): Contingency, Fizban's Platinum Shield \
-Unprepared   (7): Simulacrum, Dream of the Blue Veil \
+Unprepared   (7): Teleport, Simulacrum \
 Unprepared   (8): Demiplane \
 Unprepared   (9): \
 1st (2 Prepared): Silvery Barbs, Shield \
@@ -61,7 +61,7 @@ Unprepared   (9): \
 4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Tenser's Transformation \
-7th (1 Prepared): Teleport \
+7th (1 Prepared): Dream of the Blue Veil \
 8th (2 Prepared): Mind Blank, Reality Break \
 9th (2 Prepared): Wish, Time Stop
 
