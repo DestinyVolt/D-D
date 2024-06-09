@@ -3,7 +3,7 @@ Rock Gnome Ceramorph (Dhampir lineage) \
 Alignment: Lawful Good \
 Age: 36, Height: 2'6, Weight: 25lb 
 
-HP: 160 (17d6, 1d8, 1d10) \
+HP: 168 (18d6, 1d8, 1d10) \
 AC: 20 (Plate + Shield) \
 Prof: +6 \
 Speed: 25ft, Init: +7 \
@@ -32,7 +32,7 @@ Dagger (20/60ft): +8 to hit, 1d4 + 2 piercing
 Mind Blast (1/Dawn): 30ft Cone, DC 15 Intelligence Save, 8d6 Psychic Damage
 
 ### Artificer 1: 
-Spell Slots: 4, 3, 3, 3, 3, 1, 1, 1, 1 \
+Spell Slots: 4, 3, 3, 3, 3, 2, 1, 1, 1 \
 Save DC: 19, +11 to hit \
 Cantrips: Magic Stone, Thorn Whip \
 1st (5 Prepared): Cure Wounds, Absorb Elements, Feather Fall, Disguise Self, Sanctuary
@@ -43,27 +43,30 @@ Fighting Style: Quick Toss (1/SR, 1d6) \
 Squire of Solamnia: Advantage + 1d8 damage, 6/day \
 Knight of the Rose: Bonus Action, 6/day, ally reaction attacks, +1d8 damage
 
-### Chronurgy Wizard 17:
+### Chronurgy Wizard 18:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared   (1): Magnify Gravity, Sleep, Gift of Alacrity \
-Unprepared   (2): Tasha's Mind Whip, Continual Flame \
-Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Glyph of Warding, Wall of Water \
+Unprepared   (2): Find Vehicle (UA), Tasha's Mind Whip, Continual Flame,  \
+Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Remove Curse, Glyph of Warding, Sending \
 Unprepared   (4): Fabricate, Banishment \
 Unprepared   (5): Planar Binding \
-Unprepared   (6): Contingency, Fizban's Platinum Shield \
-Unprepared   (7): Teleport, Simulacrum \
+Unprepared   (6): Contingency, Tenser's Transformation \
+Unprepared   (7): Dream of the Blue Veil, Simulacrum \
 Unprepared   (8): Demiplane \
-Unprepared   (9): \
+Unprepared   (9): Time Stop \
 1st (2 Prepared): Silvery Barbs, Shield \
-2nd (4 Prepared): Find Vehicle (UA), Gentle Repose, Immovable Object, Vortex Warp \
-3rd (5 Prepared): Haste, Tiny Servant, Slow, Sending, Intellect Fortress \
+2nd (4 Prepared): Mirror Image, Gentle Repose, Immovable Object, Vortex Warp \
+3rd (5 Prepared): Haste, Tiny Servant, Slow, Wall of Water, Intellect Fortress \
 4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
-6th (2 Prepared): Tenser's Transformation \
-7th (1 Prepared): Dream of the Blue Veil \
+6th (2 Prepared): Fizban's Platinum Shield \
+7th (1 Prepared): Teleport \
 8th (2 Prepared): Mind Blank, Reality Break \
-9th (2 Prepared): Wish, Time Stop
+9th (2 Prepared): Wish, Shapechange
+
+**Arcane Mastery:** \
+You can cast *Silvery Barbs* and *Immovable Object* without needing to expend a spell slot. You can change one of these spells over the course of a long rest. 
 
 **Arcane Recovery:** \
 You can recover half your Wizard Level (rounded up)'s worth of Spell Slot levels on a short rest once per day. 
@@ -160,13 +163,8 @@ Bag of Keys \
 Dragonscale Coated in Platinum (500gp) \
 Scroll of Synaptic Static 
 
-#### Future Levels:
-
-Future Spells: \
-9th: Shapechange, Mirror Image
-
 #### Spell Scrolls: 
-2nd: Rope Trick, Mirror Image \
+2nd: Rope Trick \
 3rd: Dispel Magic, Counterspell \
 4th: - \
 5th: Teleportation Circle \* \
