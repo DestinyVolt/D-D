@@ -48,17 +48,17 @@ Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
 Rituals: Find Familiar, Alarm, Tenser's Floating Disk, Detect Magic, Phantom Steed, Find Vehicle (UA), Identify \
 Unprepared   (1): Magnify Gravity, Sleep, Gift of Alacrity \
 Unprepared   (2): Find Vehicle (UA), Tasha's Mind Whip, Continual Flame,  \
-Unprepared   (3): Pulse Wave, Magic Circle, Major Image, Intellect Fortress, Glyph of Warding, Sending \
+Unprepared   (3): Magic Circle, Major Image, Intellect Fortress, Glyph of Warding, Sending, Tiny Servant \
 Unprepared   (4): Fabricate \
 Unprepared   (5): Planar Binding \
 Unprepared   (6): Contingency \
 Unprepared   (7): Dream of the Blue Veil, Simulacrum \
 Unprepared   (8): Demiplane \
 Unprepared   (9): Time Stop \
-1st (2 Prepared): *Silvery Barbs*, Shield \
-2nd (4 Prepared): Mirror Image, Gentle Repose, *Immovable Object*, Vortex Warp \
-3rd (5 Prepared): Haste, Tiny Servant, Slow, Wall of Water, Remove Curse, Banishment \
-4th (2 Prepared): Summon Warrior Spirit (UA), Psychic Lance \
+1st (2+1 Prepared): *Silvery Barbs*, Shield \
+2nd (4+1 Prepared): Mirror Image, Gentle Repose, *Immovable Object*, Vortex Warp \
+3rd (6 Prepared): Haste, Pulse Wave, Slow, Wall of Water, Remove Curse \
+4th (3 Prepared): Summon Warrior Spirit (UA), Psychic Lance, Banishment \
 5th (3 Prepared): Telekinesis, Wall of Force, Temporal Shunt \
 6th (2 Prepared): Fizban's Platinum Shield, Tenser's Transoformation \
 7th (1 Prepared): Teleport \
