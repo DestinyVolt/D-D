@@ -41,7 +41,7 @@ Cantrips: Magic Stone, Thorn Whip \
 Second Wind (BA, 1/SR): 1d10 + 1 HP recovered \
 Fighting Style: Quick Toss (1/SR, 1d6) \
 Squire of Solamnia: Advantage + 1d8 damage, 6/day \
-Knight of the Rose: Bonus Action, 6/day, ally reaction attacks, +1d8 damage
+Knight of the Crown: Bonus Action, 6/day, ally reaction attacks, +1d8 damage
 
 ### Chronurgy Wizard 18:
 Cantrips: Mold Earth, Prestidigitiation, Mending, Consume Brain, Mind Sliver \
