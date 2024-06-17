@@ -4,17 +4,18 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 16 (2d8) \
+HP: 26-3 (3d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
-CON: 14 \
+CON: 14-1 \
 INT: 18 \
 WIS: 12 \
 CHA: 10
 
 ### Proficiencies
-Class Proficiencies (JoaT): Acrobatics, Investigation, History, Arcana, Stealth \
+Class Proficiencies (JoaT): Acrobatics, History, Arcana \
+Expertise: Stealth, Investigation \
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
 Combat Proficiencies: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
@@ -23,16 +24,19 @@ Languages: Common, 2 Languages (Unknown, could also be tools), Adept Linguist
 ### Attacks
 Rope Dart (15/20): +5 to hit, 1d6 + 3 piercing damage \
 True Strike (15/20): +6 to hit, 1d6 + 4 radiant damage \
+Sacred Flame (60): DC 14 Dex, 1d8 radiant damage \
 (Both do a d4 or have disadvantage in melee)
 
-### Bard 2
+### Lorehold Bard 3
 Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, or saving throw \
-Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice.
+Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
+Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
-Cantrips: True Strike, Mending \
-1st Level (2): Healing Word, Silent Image, Detect Magic, Identify, Sleep
+Cantrips: *Sacred Flame,* True Strike, Mending \
+1st Level (4): *Comprehend Langauges,* Healing Word, Silent Image, Detect Magic, Identify \
+2nd Level (2): *Borrowed Knowledge, Locate Object,* Cloud of Daggers, Kinetic Jaunt
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
