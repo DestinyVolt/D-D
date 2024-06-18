@@ -1,6 +1,6 @@
 ## Arcadia Etego
 Mark of Shadow Elf \
-Female, Age: 35 \
+Female, Age: 28 \
 Height: ??, Weight: ?? \
 Chaotic Good
 
