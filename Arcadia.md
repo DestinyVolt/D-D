@@ -39,11 +39,11 @@ Cantrips: Guidance, Shocking "Inky" Grasp, *Minor Illusion* \
 - The tattoo temporarily reforms into a different shape. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
 You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier. 
 
-***Known Infusions***: You can have two infusions active at a time.
-- Homunculus Servant
-- Spellwrought Tattoo (Find Familiar)
-- Enhanced Arcane Focus
-- Spellwrought Tattoo (Ensnaring Strike)
+***Known Infusions***: You can have two infusions active at a time.\
+☆ Homunculus Servant \
+☆ Spellwrought Tattoo (Find Familiar) \
+★ Enhanced Arcane Focus \
+★ Spellwrought Tattoo (Ensnaring Strike) 
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
