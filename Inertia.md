@@ -14,8 +14,8 @@ WIS: 12 \
 CHA: 10
 
 ### Proficiencies
-Class Proficiencies (JoaT): Acrobatics, History, Arcana \
-Expertise: Stealth, Investigation \
+Class Proficiencies (JoaT): Acrobatics, Investigation, Arcana \
+Expertise: Stealth, History \
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
 Combat Proficiencies: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
@@ -57,7 +57,7 @@ Lint (more) \
 Medal of the Conch \
 Lantern of Revealing \
 2 Silver Pieces (wrongfully taken) \
-7 Gold Pieces (rightfully earned)
+20 Gold Pieces (rightfully earned)
 
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
