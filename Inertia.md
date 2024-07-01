@@ -4,7 +4,7 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 26 (3d8) \
+HP: 26-3 (3d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
