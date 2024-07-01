@@ -4,11 +4,11 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 26-3 (3d8) \
+HP: 26 (3d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
-CON: 14-1 \
+CON: 14 \
 INT: 18 \
 WIS: 12 \
 CHA: 10
@@ -55,9 +55,14 @@ Rope Dart \
 Mal Tobaner Outfit \
 Lint (more) \
 Medal of the Conch \
-Lantern of Revealing \
 2 Silver Pieces (wrongfully taken) \
 20 Gold Pieces (rightfully earned)
 
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
+
+
+### Statues
+#### Caerdan
+- Tybore (Sage, ♀, Mother of King Gehvil)
+- 
