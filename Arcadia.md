@@ -1,7 +1,7 @@
 ## Arcadia Etego
 Mark of Shadow Elf \
 Female, Age: 28 \
-Height: ??, Weight: ?? \
+Height: 5'6, Weight: 140lb \
 Chaotic Good
 
 HP: 17 (2d8) \
@@ -74,7 +74,7 @@ Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Casual Work Outfit \
 Thieves' Tools \
-Money (15gp?)
+Money (15gp)
 
 ### Home Inventory
 Pistol (Light Crossbow)
