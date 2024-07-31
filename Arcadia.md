@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 17 (2d8) \
+HP: 26 (3d8) \
 AC: 16 (Studded Leather) \
 STR: 7 \
 DEX: 18 \
@@ -28,10 +28,15 @@ Quetzal: +6 to hit, 1d4 + 2 force damage
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
-Cantrips: Guidance, Shocking "Inky" Grasp, *Minor Illusion* \
-1st Level (2): Dissonant Whispers, Disguise Self, Cure Wounds, Detect Magic, Absorb Elements
+Cantrips: Guidance, Shocking "Inky" Grasp, On/Off, *Minor Illusion* \
+1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Detect Magic, Absorb Elements \
+2nd Level (0): _Invisibility_
 
-### Artificer 1
+#### Arcane Breakthroughs:
+Classes: Warlock \
+1st Level: Remote Access (UA)
+
+### Artificer 3
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties: 
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -39,11 +44,13 @@ Cantrips: Guidance, Shocking "Inky" Grasp, *Minor Illusion* \
 - The tattoo temporarily reforms into a different shape. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
 You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier. 
 
+***Right Tool for the Job:*** With thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. 
+
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Homunculus Servant \
-☆ Spellwrought Tattoo (Find Familiar) \
+☆ Spellwrought Tattoo (Ensnaring Strike) \
 ★ Enhanced Arcane Focus \
-★ Spellwrought Tattoo (Ensnaring Strike) 
+★ Spellwrought Tattoo (Find Familiar) 
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
