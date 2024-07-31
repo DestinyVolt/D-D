@@ -74,7 +74,7 @@ Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Casual Work Outfit \
 Thieves' Tools \
-Money (15gp)
+Money (14.9gp)
 
 ### Home Inventory
 Pistol (Light Crossbow)
