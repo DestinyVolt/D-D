@@ -21,9 +21,9 @@ Skills:
 - Resistances: Lightning
 
 ### Attacks (2x): 
-- Shocking Grasp: +3 to hit, 2d8 lightning damage
-- Fin's Reavers (SS): +7 to hit, 1d6 + 5 slashing damage
-- Fin's Reavers (BA, SS): +7 to hit, 1d6 slashing damage
+- Shocking Grasp: +4 to hit, 2d8 lightning damage
+- Fin's Reavers (SS): +8 to hit, 1d6 + 5 slashing damage
+- Fin's Reavers (BA, SS): +8 to hit, 1d6 slashing damage
 
 ### Battlemaster 5
 Mariner: +1 AC, Climbing and Swimming Speed \
