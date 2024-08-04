@@ -25,7 +25,7 @@
 ### Alchemical Savant
 At 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
 
-Additionally, you gain the ability to create Breakaway Vials for storing potions. They are a ranged weapon with range (30/90) and the thrown and finesse properties with which you are proficient. On a hit, they do not deal damage. Hit or Miss, they are always destroyed in the process of making an attack with them. You can convert a normal vial into one of these over the course of a short rest. 
+Additionally, you gain the ability to create Breakaway Vials for storing potions. They are a ranged weapon with range (30/90) and the thrown, light, and finesse properties with which you are proficient. On a hit, they do not deal damage. Hit or Miss, they are always destroyed in the process of making an attack with them. You can convert a normal vial into one of these over the course of a short rest. 
 
 ### Wild Gimmicks
 When you reach 3rd level, you augment your martial prowess with radically unreliable magical knowledge.
