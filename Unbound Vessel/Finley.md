@@ -4,7 +4,7 @@ He / Him \
 Age: 35 \
 Lawful Evil \
 
-HP: 33 \
+HP: 40 \
 AC: 17 (Breastplate) \
 Prof: +2 \
 Speed: 35ft (swim, climb) \
@@ -20,12 +20,12 @@ Skills:
 - Languages: Common, Primordial (Aquan)
 - Resistances: Lightning
 
-### Attacks: 
-- Shocking Grasp: +3 to hit, 1d8 lightning damage
+### Attacks (2x): 
+- Shocking Grasp: +3 to hit, 2d8 lightning damage
 - Fin's Reavers (SS): +7 to hit, 1d6 + 5 slashing damage
 - Fin's Reavers (BA, SS): +7 to hit, 1d6 slashing damage
 
-### Battlemaster 3
+### Battlemaster 5
 Mariner: +1 AC, Climbing and Swimming Speed \
 Second Wind (BA, 1/Rest): 1d10 + 2 \
 Action Surge (1/Rest): Take an additional action \
@@ -38,4 +38,4 @@ Battle Master Maneuvers (4d8):
 
 ### Racial Abilities: 
 - Unending Breath: You can hold your breath indefinitely, and float to the surface of water.
-- Mingle wit the Wind: You can cast Feather Fall once per long rest. 
+- Mingle wit the Wind: You can cast Feather Fall and Levitate once per long rest. 
