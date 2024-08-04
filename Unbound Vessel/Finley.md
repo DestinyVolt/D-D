@@ -12,7 +12,7 @@ STR: 20 \
 DEX: 14 \
 CON: 14 \
 INT: 7 \
-WIS: 9 \
+WIS: 7 \
 CHA: 12
 
 Skills: 
