@@ -29,7 +29,7 @@ Quetzal: +6 to hit, 1d4 + 2 force damage
 #### Spellcasting
 Save DC: 14, Attack: +6 \
 Cantrips: Guidance, Shocking "Inky" Grasp, On/Off, *Minor Illusion* \
-1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Detect Magic, Absorb Elements \
+1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Remote Access (UA), Absorb Elements \
 2nd Level (0): _Invisibility_
 
 #### Arcane Breakthroughs:
@@ -81,7 +81,7 @@ Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Casual Work Outfit \
 Thieves' Tools \
-Money (14.9gp)
+Money (14.89gp)
 
 ### Home Inventory
 Pistol (Light Crossbow)
