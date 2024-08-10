@@ -34,7 +34,7 @@ Cantrips: Guidance, Shocking "Inky" Grasp, On/Off, *Minor Illusion* \
 
 #### Arcane Breakthroughs:
 Classes: Warlock \
-1st Level: Remote Access (UA)
+1st Level: Infallible Relay (UA)
 
 ### Artificer 3
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties: 
