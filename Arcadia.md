@@ -23,7 +23,7 @@ Languages: Common, Elven, Undercommon, Demonic
 
 ### Attacks
 Inky Grasp: +6 to hit, 1d8 lightning damage \
-Araña: +4 to hit, 1 piercing + 1d4 poison damage \
+Araña: +4 to hit, 1 piercing + 1 poison damage \
 Quetzal: +6 to hit, 1d4 + 2 force damage
 
 #### Spellcasting
@@ -81,7 +81,7 @@ Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Casual Work Outfit \
 Thieves' Tools \
-Money (14.89gp)
+Money (14.87gp)
 
 ### Home Inventory
 Pistol (Light Crossbow)
