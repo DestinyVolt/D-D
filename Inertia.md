@@ -56,7 +56,7 @@ Mal Tobaner Outfit \
 Lint (more) \
 Medal of the Conch \
 2 Silver Pieces (wrongfully taken) \
-20 Gold Pieces (rightfully earned) \
+18 Gold Pieces (rightfully earned) \
 1 Quart of Raw Milk (sneakily snuck) \
 Metalman's Head 
 
