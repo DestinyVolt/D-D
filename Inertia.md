@@ -17,7 +17,7 @@ CHA: 10
 Class Proficiencies (JoaT): Acrobatics, Investigation, Arcana \
 Expertise: Stealth, History \
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
-Combat Proficiencies: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Rope Darts \
+Combat Proficiencies: Simple Weapons, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
 Languages: Common, 2 Languages (Unknown, could also be tools), Adept Linguist
 
