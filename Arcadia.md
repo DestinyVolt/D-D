@@ -29,7 +29,7 @@ Quetzal: +6 to hit, 1d4 + 2 force damage
 #### Spellcasting
 Save DC: 14, Attack: +6 \
 Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
-1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Infallible Relay (UA), Absorb Elements \
+1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Infallible Relay (UA), Faerie Fire \
 2nd Level (0): _Invisibility_
 
 #### Arcane Breakthroughs:
