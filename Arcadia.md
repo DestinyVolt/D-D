@@ -29,12 +29,12 @@ Quetzal: +6 to hit, 1d4 + 2 force damage
 #### Spellcasting
 Save DC: 14, Attack: +6 \
 Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
-1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Infallible Relay (UA), Faerie Fire \
+1st Level (3): Dissonant Whispers, Disguise Self, Cure Wounds, Jump, Expeditious Retreat\
 2nd Level (0): _Invisibility_
 
 #### Arcane Breakthroughs:
 Classes: Warlock \
-1st Level: Hex
+1st Level: Infallible Relay (UA)
 
 ### Artificer 3
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties: 
