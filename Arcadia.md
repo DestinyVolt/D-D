@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 26 (3d8) \
+HP: 34 (4d8) \
 AC: 16 (Studded Leather) \
 STR: 7 \
 DEX: 18 \
@@ -24,12 +24,13 @@ Languages: Common, Elven, Undercommon, Demonic
 ### Attacks
 Inky Grasp: +6 to hit, 1d8 lightning damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
-Quetzal: +6 to hit, 1d4 + 2 force damage
+Quetzal: +6 to hit, 1d4 + 2 force damage \
+Sangre: +5 to hit, 1d4 + 3 psychic damage \
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
 Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
-1st Level (3): Dissonant Whispers, Absorb Elements, Cure Wounds, Jump, Expeditious Retreat\
+1st Level (3): Dissonant Whispers, Disguise Self, Absorb Elements, Cure Wounds, Jump, Faerie Fire \
 2nd Level (0): _Invisibility_
 
 #### Arcane Breakthroughs:
@@ -50,7 +51,7 @@ You can end the effect as an action, and can have a number of effects active equ
 ☆ Homunculus Servant \
 ☆ Spellwrought Tattoo (Ensnaring Strike) \
 ★ Enhanced Arcane Focus \
-★ Spellwrought Tattoo (Find Familiar) 
+★ Spellwrought Tattoo (Tasha's Caustic Brew) 
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
@@ -60,7 +61,7 @@ You can end the effect as an action, and can have a number of effects active equ
 ### Dark Experiment
 ***Spider Familiar.*** An [Ink-like Spider](https://roll20.net/compendium/dnd5e/Spider#content) can crawl out of the stigmata on your right hand. While the spider is not out, you gain a bonus to Perception equal to your Charisma modifier. You can see through the spider’s eyes and hear what it hears while it is within 100 feet of you. It does not need to sleep, and can alert you to something as a bonus action. In combat, you roll initiative for the raven and control how it acts. If it is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours. You can resummon the spider at the end of a short or long rest. 
 
-***Spider Familiar Infusion.*** An [Ink-like Spider](https://roll20.net/compendium/dnd5e/Spider#content) can crawl out of the stigmata on your left hand. You can see through the spider’s eyes and hear what it hears while it is within 100 feet of you. When you cast a Touch spell, you can use the spider's reaction to cast it from the spider's position.
+***Inkling Familiar.*** An [Inkling Demon](https://5e.tools/bestiary/inkling-mascot-scc.html) can crawl out of the stigmata on your left hand. You can see through the Inkling’s eyes and hear what it hears while it is within 100 feet of you. When you cast a Touch spell, you can use the Inkling's reaction to cast it from the Inkling's position. Once per Day, or by spending a second level spell slot, you can swap places with the familiar. You can take the Attack action to cause it to attack instead with its reaction. 
 
 ***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://www.aidedd.org/dnd/monstres.php?vo=homunculus-servant) can fly off of the tattoo on your right arm. You must use a Bonus action to command this familiar on your turn, or it takes the Dodge action. It regains 2d6 HP when the mending spell is cast on it.
 
