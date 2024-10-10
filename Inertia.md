@@ -46,24 +46,39 @@ Cantrips: *Sacred Flame,* True Strike, Mending \
 ***Keen Mind.*** You always know which way is north, You always know the number of hours left before the next sunrise or sunset and You can accurately recall anything you have seen or heard within the past month. \
 ***Porcelain Skin.*** The outer Shell of your body is formed from a fragile porcelain. Once you are below half health, any further damage you take is dealt as damage to both your HP and your Maximum HP, down to half your normal Maximum. This can be repaired by casting the Mending Spell, which allows you to spend a hit die to regain HP and remove damage to your Maximum HP, equal to a roll of the hit die plus your constitution modifier. 
 
+### Background
+***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
+
 ### Magic Items
 ☆ Pearl of Power
 
 ### Inventory
+**Coin Purse** \
+16 Gold Pieces (rightfully earned) \
+2 Silver Pieces (wrongfully taken) \
+
+**Inside Inventory**\
 Thieves' Tools \
 Rope Dart \
-Mal Tobaner Outfit \
-Lint (more) \
 Medal of the Conch \
-2 Silver Pieces (wrongfully taken) \
-18 Gold Pieces (rightfully earned) \
-1 Quart of Raw Milk (sneakily snuck) \
-Metalman's Head 
+Medal of the Maze \
+2x Potion of Healing \
+Journal, Ink & Quill
 
-### Background
-***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
+**Clothing/Belt/Pockets** \
+Mal Tobaner Outfit \
+Dragon's Tail Bones \
+1x Potion of Healing \
+Pearl of Power \
+Rapier \
+Lint (more)
+
+**Backpack**\
+Metalman's Head \
+2x2' White Dragon's Hide
 
 ### Statues
 #### Caerdan
 - Tybore (Sage, ♀, Mother of King Gehvil)
 - Lord Scimshaw (Warrior, ♂, Lord of Middlefield)
+- 
