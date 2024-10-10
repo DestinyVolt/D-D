@@ -60,22 +60,22 @@ Cantrips: *Sacred Flame,* True Strike, Mending \
 **Inside Inventory**\
 Thieves' Tools \
 Rope Dart \
-Medal of the Conch \
 Medal of the Maze \
+Pearl of Power \
 2x Potion of Healing \
 Journal, Ink & Quill
 
 **Clothing/Belt/Pockets** \
 Mal Tobaner Outfit \
-Dragon's Tail Bones \
 1x Potion of Healing \
-Pearl of Power \
+Medal of the Conch \
 Rapier \
 Lint (more)
 
 **Backpack**\
 Metalman's Head \
-2x2' White Dragon's Hide
+2x2' White Dragon's Hide \
+Dragon's Tail Bones
 
 ### Statues
 #### Caerdan
