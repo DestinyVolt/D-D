@@ -38,12 +38,12 @@ Classes: Warlock \
 1st Level: Infallible Relay (UA)
 
 ### Artificer 4
-***Magical Inking:*** You can touch a tattoo and grant it one of the following properties: 
+***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
 - The tattoo continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
 - The tattoo temporarily reforms into a different shape. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
-You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier. 
+
 
 ***Right Tool for the Job:*** With thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. 
 
