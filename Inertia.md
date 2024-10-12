@@ -4,7 +4,7 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 26 (3d8) \
+HP: 35 (4d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
@@ -14,8 +14,8 @@ WIS: 12 \
 CHA: 10
 
 ### Proficiencies
-Class Proficiencies (JoaT): Acrobatics, Investigation, Arcana \
-Expertise: Stealth, History \
+Class Proficiencies (JoaT): Acrobatics, Performance \
+Expertise: Stealth, History, Investigation \
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
 Combat Proficiencies: Simple Weapons, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
@@ -36,7 +36,7 @@ Ancient Companion: At the end of a short or long rest, you can summon an ancient
 Save DC: 14, Attack: +6 \
 Cantrips: *Sacred Flame,* True Strike, Mending \
 1st Level (4): *Comprehend Langauges,* Healing Word, Silent Image, Detect Magic, Identify \
-2nd Level (2): *Borrowed Knowledge, Locate Object,* Cloud of Daggers, Kinetic Jaunt
+2nd Level (3): *Borrowed Knowledge, Locate Object,* Cloud of Daggers, Kinetic Jaunt, +1
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
@@ -48,6 +48,9 @@ Cantrips: *Sacred Flame,* True Strike, Mending \
 
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
+***Historian.*** When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples.
+
+
 
 ### Magic Items
 ☆ Pearl of Power
