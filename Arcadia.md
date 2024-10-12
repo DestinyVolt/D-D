@@ -63,7 +63,8 @@ Classes: Warlock \
 
 ***Inkling Familiar.*** An [Inkling Demon](https://5e.tools/bestiary/inkling-mascot-scc.html) can crawl out of the stigmata on your left hand. You can see through the Inkling’s eyes and hear what it hears while it is within 100 feet of you. When you cast a Touch spell, you can use the Inkling's reaction to cast it from the Inkling's position. Once per Day, or by spending a second level spell slot, you can swap places with the familiar. You can take the Attack action to cause it to attack instead with its reaction. 
 
-***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://www.aidedd.org/dnd/monstres.php?vo=homunculus-servant) can fly off of the tattoo on your right arm. You must use a Bonus action to command this familiar on your turn, or it takes the Dodge action. It regains 2d6 HP when the mending spell is cast on it.
+***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://www.aidedd.org/dnd/monstres.php?vo=homunculus-servant) can fly off of the tattoo on your right arm. You must use a Bonus action to command this familiar on your turn, or it takes the Dodge action. It regains 2d6 HP when the mending spell is cast on it. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
+
 
 ***Spells of the Mark*** \
 1st Level: Dissonant Whispers, Disguise Self, Silent Image \
