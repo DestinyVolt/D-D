@@ -37,7 +37,7 @@ Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
 Classes: Warlock \
 1st Level: Infallible Relay (UA)
 
-### Artificer 3
+### Artificer 4
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties: 
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
