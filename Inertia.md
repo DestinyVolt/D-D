@@ -9,7 +9,7 @@ AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
 CON: 14 \
-INT: 18 \
+INT: 19 \
 WIS: 12 \
 CHA: 10
 
@@ -27,16 +27,16 @@ True Strike (15/20): +6 to hit, 1d6 + 4 radiant damage \
 Sacred Flame (60): DC 14 Dex, 1d8 radiant damage \
 (Both do a d4 or have disadvantage in melee)
 
-### Lorehold Bard 3
-Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, or saving throw \
+### Lorehold Bard 4
+Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, saving throw, spell damage, or spell healing \
 Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
 Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
-Cantrips: *Sacred Flame,* True Strike, Mending \
-1st Level (4): *Comprehend Langauges,* Healing Word, Silent Image, Detect Magic, Identify \
-2nd Level (3): *Borrowed Knowledge, Locate Object,* Cloud of Daggers, Kinetic Jaunt, +1
+Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
+1st Level (4): *Comprehend Languages,* Healing Word, Silent Image, Identify \
+2nd Level (3): *Borrowed Knowledge, Locate Object,* Cloud of Daggers, Kinetic Jaunt, Silence, Spray of Cards
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
@@ -49,8 +49,6 @@ Cantrips: *Sacred Flame,* True Strike, Mending \
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level.
 ***Historian.*** When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples.
-
-
 
 ### Magic Items
 ☆ Pearl of Power
