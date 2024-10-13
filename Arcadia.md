@@ -25,7 +25,7 @@ Languages: Common, Elven, Undercommon, Demonic
 Inky Grasp: +6 to hit, 1d8 lightning damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
 Quetzal: +6 to hit, 1d4 + 2 force damage \
-Sangre: +5 to hit, 1d4 + 3 psychic damage \
+Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
