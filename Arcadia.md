@@ -29,7 +29,7 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
-Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
+Cantrips: Guidance, Chill "Inky" Touch, Eldritch Blast, *Minor Illusion* \
 1st Level (3): Dissonant Whispers, Disguise Self, Absorb Elements, Cure Wounds, Jump, Faerie Fire \
 2nd Level (0): _Invisibility_
 
