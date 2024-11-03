@@ -49,9 +49,9 @@ Classes: Warlock \
 
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Homunculus Servant \
-☆ Spellwrought Tattoo (Tasha's Caustic Brew) \
+☆ Spellwrought Tattoo (Ensnaring Strike) \
 ★ Enhanced Arcane Focus \
-★ Spellwrought Tattoo (Ensnaring Strike) 
+★ Spellwrought Tattoo (Tasha's Caustic Brew) 
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
