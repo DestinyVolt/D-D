@@ -61,7 +61,7 @@ At 7th level, you gain expertise with alchemist's supplies.
 Additionally, if you use a non-magical object that forces a Saving Throw, you can use your Spell Save DC in place of the default DC. 
 
 ### Improved Wild Gimmicks
-Beginning at 10th level, whenever you expend a spell slot to fuel a Wild Gimmick, you can do so as if using a spell slot one level higher than the spell slot you expend.
+Beginning at 10th level, whenever you expend a spell slot to fuel a Wild Gimmick, you can do so as if expending a spell slot one level higher than the spell slot you expend.
 
 ### Wild Legerdemain 
 Starting at 15th level, you can use the bonus action granted by your Quick Fingers to activate a Wild Gimmick that normally requires an action to use. 
@@ -86,7 +86,7 @@ You can use your action to expend a spell slot and magically create a number of 
 Anything you create using this feature is unreliable in the hands of anyone other than you, and as such, cannot be sold to or used by others. You however, are considered proficient with any of these when used to make an attack. You can only have a number of pieces of equipment created with this feature equal to twice your profiency bonus. 
 
 ### Airborne Potions
-You can use your action to expend a spell slot and magically transform a potion. The vessel the potion is in becomes a Breakaway Vial, and the potion becomes gaseous until the end of your next long rest. While the potion is gaseous, if you hit a creature with the breakaway vial, they gain the benefits of the potion. For every level above first of the slot expended, you can choose one creature within 5ft of the original target to gain the benefits of the potion.
+You can use your action to expend a spell slot and magically transform a potion. The vessel the potion is in becomes a Breakaway Vial, and the potion becomes gaseous until the end of your next long rest. While the potion is gaseous, if you hit a creature with the breakaway vial, they gain the benefits of the potion. For every level above first of the slot expended, you can choose one creature within 5ft of the original target to gain the effects of the potion.
 
 If you do not have a potion, you can instead create a gaseous Potion of Healing (Common), which loses its potency at the end of your next long rest. For every two spell levels above 1st, the rarity of the Potion of Healing increases by one level. 
 
@@ -98,9 +98,21 @@ When you make a ranged attack with the projectile, after selecting a target but 
 If the wild magic surge creates a spell, it does not require concentration.
 
 ### Unreliable Potions (10th level or Higher)
-(UNWRITTEN, JUST GETTING IDEAS DOWN): 2nd Level slot required. Fill a Vial or Breakaway Vial with a mysterious concoction that possibly has the effects of a table of various potions. When you take the action, make an Alchemy Tools check. On a 10, you can remove one of the list concoctions from the possibilities. On a 15, you can remove 2, on a 20, three, and so on. If you expend a 4th level slot, the potion gains two properties instead of 1. 
+While holding a set of alchemy tools, you may use your action to expend a spell slot of 3rd level or higher and transform a vial of liquid into a chaotic brew. When you take the action, make a DC 5 Intelligence (Alchemy Tools) check. On a failure, the spell slot is wasted. On a success, you may roll on the Unreliable Potions table. The brew has the effect of the described potion. If you exceed the DC by 5 or more, you may remove one option from the table for every 5 points you exceeded the DC by. If you expend a spell slot of 4th level or higher, the DC increases to 10 and you may roll twice on the table. The potion has the effects of both results. 
 
-(Unreliable Potions Table)
+On a 10, you can remove one of the listed concoctions from the possibilities. On a 15, you can remove 2, on a 20, three, and so on. If you expend a 4th level slot, the potion gains two properties instead of 1. 
+
+#### Unreliable Potions Table
+| d8 | Concoction | 
+| --- | -------- | 
+| 1 | Potion of Healing (Rarity as described by Airborne Potions) | 
+| 2 | Potion of Climbing | 
+| 3 | Potion of Resistance (Roll to determine damage type, removing as many options as you removed from this table) | 
+| 4 | Potion of Fire Breath (Uses your Gimmick DC) |  
+| 5 | Potion of Growth | 
+| 6 | Potion of Diminution | 
+| 7 | Oil of Slipperiness (Uses your Gimmick DC) | 
+| 8 | Elixir of Health |  
 
 ### Wild Weaponry (10th level or higher)
 You can use your action to expend a spell slot and imbue a weapon with chaotic magic, granting the following property until the end fo your next long rest:
