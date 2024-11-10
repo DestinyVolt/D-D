@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 34 (4d8) \
+HP: 44 (5d8) \
 AC: 16 (Studded Leather) \
 STR: 7 \
 DEX: 18 \
@@ -22,36 +22,38 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elven, Undercommon, Demonic 
 
 ### Attacks
-Inky Grasp: +6 to hit, 1d8 lightning damage \
+Inky Grasp: +8 to hit, 2d8 lightning damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
-Quetzal: +6 to hit, 1d4 + 2 force damage \
+Quetzal: +7 to hit, 1d4 + 3 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
-Save DC: 14, Attack: +6 \
+Save DC: 15, Attack: +7 \
 Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
-1st Level (3): Dissonant Whispers, Sanctuary, Absorb Elements, Cure Wounds, Disguise Self, Infallible Relay (UA) \
-2nd Level (0): _Invisibility_
+1st Level (4): Dissonant Whispers, Sanctuary, Absorb Elements, Cure Wounds, Disguise Self \
+2nd Level (2): _Invisibility_, Web
 
 #### Arcane Breakthroughs:
-Classes: Warlock \
-1st Level: Hex
+Classes: Warlock, Druid \
+1st Level: Hex \
+2nd Level: Summon Beast
 
-### Artificer 4
+### Artificer 5
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
 - The tattoo continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
 - The tattoo temporarily reforms into a different shape. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
 
-
 ***Right Tool for the Job:*** With thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. 
+
+***Cantrip Savant*** When casting an artificer cantrip, you gain a +1 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Homunculus Servant \
 ☆ Spellwrought Tattoo (Ensnaring Strike) \
 ★ Enhanced Arcane Focus \
-★ Spellwrought Tattoo (Tasha's Caustic Brew) 
+★ Spellwrought Tattoo (Wrathful Smite)
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
@@ -81,13 +83,8 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 ### Inventory
 Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
+Spray Paint Kit \
 Casual Work Outfit \
 Thieves' Tools \
-Money (61.87gp)
-
-### Home Inventory
-Pistol (Light Crossbow)
-
-
-
-
+Money (61.87gp) \
+Pistol (hand crossbow) 
