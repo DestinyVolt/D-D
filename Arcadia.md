@@ -29,13 +29,13 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 14, Attack: +6 \
-Cantrips: Guidance, Chill "Inky" Touch, Eldritch Blast, *Minor Illusion* \
-1st Level (3): Dissonant Whispers, Sanctuary, Absorb Elements, Cure Wounds, Jump, Faerie Fire \
+Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
+1st Level (3): Dissonant Whispers, Sanctuary, Absorb Elements, Cure Wounds, Disguise Self, Infallible Relay (UA) \
 2nd Level (0): _Invisibility_
 
 #### Arcane Breakthroughs:
 Classes: Warlock \
-1st Level: Infallible Relay (UA)
+1st Level: Hex
 
 ### Artificer 4
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
