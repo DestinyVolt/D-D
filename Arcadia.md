@@ -19,18 +19,20 @@ Tool Proficiencies: Tattoo Gun, Thieves' Tools, Hacker's Tools \
 Combat Proficiencies: Simple Weapons, Firearms \
 Saving Throws: Constitution, Charisma \
 Senses: Darkvision (60ft) \
-Languages: Common, Elven, Undercommon, Demonic 
+Languages: Common, Elven, Undercommon, Abyssal 
 
 ### Attacks
 Inky Grasp: +8 to hit, 2d8 lightning damage \
+Eldritch Blast: +8 to hit, 2x, 1d10 force damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
+Araña (Beast): +7 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
 Quetzal: +7 to hit, 1d4 + 3 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 15, Attack: +7 \
 Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Sanctuary, Absorb Elements, Cure Wounds, Disguise Self \
+1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Infallible Relay (UA) \
 2nd Level (2): _Invisibility_, Web
 
 #### Arcane Breakthroughs:
@@ -47,7 +49,7 @@ Classes: Warlock, Druid \
 
 ***Right Tool for the Job:*** With thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. 
 
-***Cantrip Savant*** When casting an artificer cantrip, you gain a +1 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
+***Cantrip Savant:*** When casting an artificer cantrip, you gain a +1 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Homunculus Servant \
