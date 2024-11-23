@@ -33,7 +33,7 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 Save DC: 15, Attack: +7 \
 Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Infallible Relay (UA) \
-2nd Level (2): _Invisibility_, Web
+2nd Level (2): _Invisibility_, Pass Without Trace
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
