@@ -69,6 +69,7 @@ Journal, Ink & Quill
 
 **Clothing/Belt/Pockets** \
 Mal Tobaner Outfit \
+Brightford Pants \
 Goggles of Night \
 1x Potion of Healing \
 Medal of the Conch \
