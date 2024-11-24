@@ -75,7 +75,7 @@ Rapier \
 Lint (more)
 
 **Backpack**\
-Metalman's Head \
+2x Metalman's Head \
 2x2' White Dragon's Hide \
 Dragon's Tail Bones
 
