@@ -55,8 +55,9 @@ Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 
 ### Inventory
 **Coin Purse** \
-16 Gold Pieces (rightfully earned) \
-2 Silver Pieces (wrongfully taken) \
+15 Gold Pieces (rightfully earned) \
+1 Silver Pieces (wrongfully taken) \
+8 Copper Pieces (spiritual change)
 
 **Inside Inventory**\
 Thieves' Tools \
