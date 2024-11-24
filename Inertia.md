@@ -68,6 +68,7 @@ Journal, Ink & Quill
 
 **Clothing/Belt/Pockets** \
 Mal Tobaner Outfit \
+Goggles of Night \
 1x Potion of Healing \
 Medal of the Conch \
 Rapier \
