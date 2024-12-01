@@ -88,5 +88,5 @@ Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Spray Paint Kit \
 Casual Work Outfit \
 Thieves' Tools \
-Money (61.79gp) \
+Money (63.79gp) \
 Pistol (hand crossbow) 
