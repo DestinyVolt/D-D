@@ -4,7 +4,7 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 35 (4d8) \
+HP: 39 (5d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
@@ -22,21 +22,21 @@ Saving Throws: Dexterity, Charisma \
 Languages: Common, 2 Languages (Unknown, could also be tools), Adept Linguist
 
 ### Attacks
-Rope Dart (15/20): +5 to hit, 1d6 + 3 piercing damage \
-True Strike (15/20): +6 to hit, 1d6 + 4 radiant damage \
-Sacred Flame (60): DC 14 Dex, 1d8 radiant damage \
-(Both do a d4 or have disadvantage in melee)
+Rope Dart (15/20): +6 to hit, 1d6 + 3 piercing damage \
+True Strike (15/20): +7 to hit, 2d6 + 4 radiant damage \
+Sacred Flame (60): DC 15 Dex, 2d8 radiant damage
 
-### Lorehold Bard 4
-Bardic Inspiration (Int / Day): 1d6 to attack roll, ability check, saving throw, spell damage, or spell healing \
+### Lorehold Bard 5
+Bardic Inspiration (Int / Rest): 1d8 to attack roll, ability check, saving throw, spell damage, or spell healing \
 Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
 Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
 
 #### Spellcasting
-Save DC: 14, Attack: +6 \
+Save DC: 15, Attack: +7 \
 Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 1st Level (4): *Comprehend Languages,* Healing Word, Silent Image, Identify \
-2nd Level (3): *Borrowed Knowledge, Locate Object,* Cloud of Daggers, Kinetic Jaunt, Silence, Spray of Cards
+2nd Level (3): *Borrowed Knowledge, Locate Object,* Kinetic Jaunt, Silence, Spray of Cards \
+3rd Level (2): *Speak with Dead, Spirit Guardians,* Stinking Cloud, Tongues
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
