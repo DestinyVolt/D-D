@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 44 (5d8) \
+HP: 42 (5d8) \
 AC: 16 (Studded Leather) \
 STR: 7 \
 DEX: 18 \
