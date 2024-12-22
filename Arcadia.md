@@ -31,9 +31,9 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 15, Attack: +7 \
-Cantrips: Guidance, Shocking "Inky" Grasp, Mind Sliver, *Minor Illusion* \
-1st Level (4): Jump, Sanctuary, Cure Wounds, Disguise Self \
-2nd Level (2): _Invisibility_, Find Vehicle (UA), Nystul's Magic Aura
+Cantrips: Guidance, Shocking "Inky" Grasp, True Strike, *Minor Illusion* \
+1st Level (4): Arcane Weapon (UA), Absorb Elements, Sanctuary, Cure Wounds, Disguise Self \
+2nd Level (2): _Invisibility_, Web
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
@@ -53,9 +53,9 @@ Classes: Warlock, Druid \
 
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Homunculus Servant \
-☆ Spellwrought Tattoo (Ensnaring Strike) \
+☆ Spellwrought Tattoo (Wrathful Smite) \
 ★ Enhanced Arcane Focus \
-★ Spellwrought Tattoo (Wrathful Smite)
+★ Spellwrought Tattoo (Ensnaring Strike) 
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
