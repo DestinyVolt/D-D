@@ -31,14 +31,14 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 15, Attack: +7 \
-Cantrips: Guidance, Shocking "Inky" Grasp, True Strike, *Minor Illusion* \
-1st Level (4): Arcane Weapon (UA), Absorb Elements, Sanctuary, Cure Wounds, Disguise Self \
-2nd Level (2): _Invisibility_, Web
+Cantrips: Guidance, Shocking "Inky" Grasp, Eldritch Blast, *Minor Illusion* \
+1st Level (4): Distort Value, Sanctuary, Cure Wounds, Disguise Self, Infallible Relay (UA) \
+2nd Level (2): _Invisibility_, Arcane Lock
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
-1st Level: Infallible Relay (UA) \
-2nd Level: Summon Beast
+1st Level: Hex \
+2nd Level: Locate Object
 
 ### Artificer 5
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
@@ -88,5 +88,17 @@ Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Spray Paint Kit \
 Casual Work Outfit \
 Thieves' Tools \
-Money (13.59gp) \
-Pistol (hand crossbow) 
+Money (38.59gp) \
+Pistol (hand crossbow) \
+Medkit (Healer's Kit) 
+
+### Bastion Workshop (The Parlor)
+##### Hirelings
+*Elvira Roseheart:* Halfling Hairdresser (Weaver's Tools?) \
+*Gambol:* Satyr Temp (None) \
+*Ragnar Goldfist:* Dwarf Temp (None)
+
+##### Current Action
+Craft: Flash Sheets
+
+
