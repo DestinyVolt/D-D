@@ -97,6 +97,9 @@ When you make a ranged attack with the projectile, after selecting a target but 
 
 If the wild magic surge creates a spell, it does not require concentration.
 
+### Wild Mutagenics (7th Level or Higher)
+While holding a set of alchemy tools, you may use your action to expend a spell slot of 2nd level or higher and transform a vial of liquid into a Mutagen. The Mutagen may any mutagen from the [Mutant Bloodhunter list](https://dnd5e.wikidot.com/blood-hunter:mutagens) that does not have a prerequisite. Once ingested, the mutagen's effect lasts until you consume another mutagen or you finish a short or long rest, whichever comes first. The Mutagen is attuned to your specific biology. If any other creature consumes the mutagen, they must make a Constitution save against your Wild Gimmick DC. On a success, they gain the benefits of the Mutagen. Regardless of a success or failure, they suffer the downsides of the Mutagen.
+
 ### Unreliable Potions (10th level or Higher)
 While holding a set of alchemy tools, you may use your action to expend a spell slot of 3rd level or higher and transform a vial of liquid into a chaotic brew. When you take the action, make a DC 5 Intelligence (Alchemy Tools) check. On a failure, the spell slot is wasted. On a success, you may roll on the Unreliable Potions table. The brew has the effect of the described potion. If you exceed the DC by 5 or more, you may remove one option from the table for every 5 points you exceeded the DC by. If you expend a spell slot of 4th level or higher, the DC increases to 10 and you may roll twice on the table. The potion has the effects of both results. 
 
