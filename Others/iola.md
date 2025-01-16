@@ -1,4 +1,4 @@
-## Iolanta
+## Iola
 Human Female, Age: 23 \
 Height: 5'5', Weight: 110lb \
 Lawful Good 
