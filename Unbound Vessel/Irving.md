@@ -40,7 +40,7 @@ Cantrips: *Magical Tinkering,* Booming Blade, Mending \
 
 #### Infusions
 Select 2 / LR:
-- Prosthetic
-- Prosthetic
+- Prosthetic Limb
+- Prosthetic Limb
 - Returning Weapon
 - Enhanced Weapon
