@@ -22,8 +22,7 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elven, Undercommon, Abyssal 
 
 ### Attacks
-Inky Grasp: +8 to hit, 2d8 lightning damage \
-Eldritch Blast: +8 to hit, 2x, 1d10 force damage \
+Cantrips: +8 to hit, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
 Araña (Beast): +7 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
 Quetzal: +7 to hit, 1d4 + 3 force damage \
