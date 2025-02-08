@@ -52,8 +52,8 @@ Classes: Warlock, Druid \
 
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Homunculus Servant \
-☆ Spellwrought Tattoo (Wrathful Smite) \
-★ Spellwrought Tattoo (Bless) \
+☆ Spellwrought Tattoo (Bless) \
+★ Spellwrought Tattoo (Wrathful Smite) \
 ★ Spellwrought Tattoo (Ensnaring Strike) 
 
 ### Racial Features
