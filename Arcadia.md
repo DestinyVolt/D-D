@@ -89,7 +89,7 @@ Casual Work Outfit \
 Thieves' Tools \
 Money (38.59gp) \
 Pistol (hand crossbow) \
-Medkit (Healer's Kit)
+Medkit (Healer's Kit, 10/10)
 
 ##### Current Action
 Craft: Flash Sheets
