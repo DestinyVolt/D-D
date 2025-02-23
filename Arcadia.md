@@ -5,7 +5,7 @@ Height: 5'6, Weight: 140lb \
 Chaotic Good
 
 HP: 42 (5d8) \
-AC: 16 (Studded Leather) \
+AC: 18 (Studded Leather, Prosthesis) \
 STR: 7 \
 DEX: 18 \
 CON: 15 \
