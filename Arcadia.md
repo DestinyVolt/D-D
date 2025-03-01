@@ -30,13 +30,13 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 15, Attack: +7 \
-Cantrips: Guidance, On/Off, Prestidigitation, *Minor Illusion* \
+Cantrips: Guidance, Primal Savagery, Thorn Whip, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Infallible Relay (UA) \
 2nd Level (2): _Invisibility_, Lesser Restoration
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
-1st Level: Remote Access (UA) \
+1st Level: Entangle \
 2nd Level: Summon Beast
 
 ### Artificer 5
