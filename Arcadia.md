@@ -15,22 +15,22 @@ CHA: 19
 
 ### Proficiencies
 Proficiencies: Perception, Stealth, Intimidation, Deception, Arcana \
-Tool Proficiencies: Tattoo Gun, Thieves' Tools, Hacker's Tools \
+Tool Proficiencies: Tattoo Gun, Thieves' Tools, Hacker's Tools, All Purpose \
 Combat Proficiencies: Simple Weapons, Firearms \
 Saving Throws: Constitution, Charisma \
 Senses: Darkvision (60ft) \
 Languages: Common, Elven, Undercommon, Abyssal 
 
 ### Attacks
-Cantrips: +8 to hit, Variable damage \
+Cantrips: +9 to hit, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
-Araña (Beast): +7 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
-Quetzal: +7 to hit, 1d4 + 3 force damage \
+Araña (Beast): +8 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
+Quetzal: +8 to hit, 1d4 + 3 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
-Save DC: 15, Attack: +7 \
-Cantrips: Guidance, Primal Savagery, Thorn Whip, *Minor Illusion* \
+Save DC: 16, Attack: +8 \
+Cantrips: Guidance, Primal Savagery, Thorn Whip, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Infallible Relay (UA) \
 2nd Level (2): _Invisibility_, Lesser Restoration
 
@@ -79,6 +79,8 @@ Classes: Warlock, Druid \
 Starting at 3rd level, you can cast Invisibility once per day without expending a spell slot.
 
 ### Magic Items
+☆ All Purpose Tool (+1) \
+☆ None \
 ☆ None
 
 ### Inventory
@@ -90,8 +92,5 @@ Thieves' Tools \
 Money (63.59gp) \
 Pistol (hand crossbow) \
 Medkit (Healer's Kit, 10/10)
-
-##### Current Action
-Craft: Flash Sheets
 
 
