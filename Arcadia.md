@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 42 (5d8) \
+HP: 49 (5d8) \
 AC: 18 (Studded Leather, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -15,7 +15,7 @@ CHA: 19
 
 ### Proficiencies
 Proficiencies: Perception, Stealth, Intimidation, Deception, Arcana \
-Tool Proficiencies: Tattoo Gun, Thieves' Tools, Hacker's Tools, All Purpose \
+Tool Expertise: Tattoo Gun, Thieves' Tools, Hacker's Tools, All Purpose \
 Combat Proficiencies: Simple Weapons, Firearms \
 Saving Throws: Constitution, Charisma \
 Senses: Darkvision (60ft) \
@@ -25,21 +25,21 @@ Languages: Common, Elven, Undercommon, Abyssal
 Cantrips: +9 to hit, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
 Araña (Beast): +8 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
-Quetzal: +8 to hit, 1d4 + 3 force damage \
+Quetzal: +8 to hit, 1d6 + 3 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 16, Attack: +8 \
 Cantrips: Guidance, Primal Savagery, Thorn Whip, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Infallible Relay (UA) \
-2nd Level (2): _Invisibility_, Lesser Restoration
+2nd Level (2): _Invisibility_, Lesser Restoration, Web
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
 1st Level: Entangle \
 2nd Level: Summon Beast
 
-### Artificer 5
+### Artificer 6
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -51,8 +51,10 @@ Classes: Warlock, Druid \
 ***Cantrip Savant:*** When casting an artificer cantrip, you gain a +1 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ***Known Infusions***: You can have two infusions active at a time.\
-☆ Homunculus Servant \
+☆ Spellwrought Tattoo (Homunculus Servant, 3rd) \
 ☆ Spellwrought Tattoo (Bless) \
+☆ Spellwrought Tattoo (Warding Bond) \
+★ Spellwrought Tattoo (Summon Lesser Demons) \
 ★ Spellwrought Tattoo (Wrathful Smite) \
 ★ Spellwrought Tattoo (Ensnaring Strike) 
 
@@ -66,8 +68,7 @@ Classes: Warlock, Druid \
 
 ***Inkling Familiar.*** An [Inkling Demon](https://5e.tools/bestiary/inkling-mascot-scc.html) can crawl out of the stigmata on your left hand. You can see through the Inkling’s eyes and hear what it hears while it is within 100 feet of you. When you cast a Touch spell, you can use the Inkling's reaction to cast it from the Inkling's position. Once per Day, or by spending a second level spell slot, you can swap places with the familiar. You can take the Attack action to cause it to attack instead with its reaction. 
 
-***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://www.aidedd.org/dnd/monstres.php?vo=homunculus-servant) can fly off of the tattoo on your right arm. You must use a Bonus action to command this familiar on your turn, or it takes the Dodge action. It regains 2d6 HP when the mending spell is cast on it. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
-
+***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://www.worldanvil.com/block/1514975) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile feet of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
 
 ***Spells of the Mark*** \
 1st Level: Dissonant Whispers, Disguise Self, Silent Image \
