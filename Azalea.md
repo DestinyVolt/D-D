@@ -41,11 +41,10 @@ Cantrips: *Blade Ward,* Eldritch Blast, Mold Earth, Prestidigitation, Guidance, 
 
 ### Dao Genie Tome Warlock 
 ***Pact of the Tome.*** Gain 3 cantrips from any class. \ 
-
 ***Bottled Respite.*** As an action, you can magically vanish and enter your vessel, which remains in the space you left. \
 ***Earth Walk.*** You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.
 
-##### Invocations
+#### Invocations
 ***Agonizing Blast.*** Add Charisma Modifier to Eldritch Blast. \
 ***Repelling Blast.*** Each Eldritch Blast hit knocks back 10ft. \
 ***Grasp of Hadar.*** 1/turn Eldritch Blast pulls 10ft closer. \
