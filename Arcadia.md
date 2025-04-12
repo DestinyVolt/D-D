@@ -51,10 +51,10 @@ Classes: Warlock, Druid \
 ***Cantrip Savant:*** When casting an artificer cantrip, you gain a +1 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ***Known Infusions***: You can have two infusions active at a time.\
-☆ Spellwrought Tattoo (Homunculus Servant, 3rd) \
+☆ Spellwrought Tattoo (Summon Lesser Demons) \
 ☆ Spellwrought Tattoo (Bless) \
 ☆ Spellwrought Tattoo (Warding Bond) \
-★ Spellwrought Tattoo (Summon Lesser Demons) \
+★ Spellwrought Tattoo (Homunculus Servant, 3rd) \
 ★ Spellwrought Tattoo (Wrathful Smite) \
 ★ Spellwrought Tattoo (Ensnaring Strike) 
 
