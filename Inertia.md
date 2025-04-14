@@ -16,10 +16,10 @@ CHA: 10
 ### Proficiencies
 Class Proficiencies (JoaT): Acrobatics, Performance \
 Expertise: Stealth, History, Investigation \
-Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools \
+Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools, +2 (Unknown) \
 Combat Proficiencies: Simple Weapons, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma \
-Languages: Common, 2 Languages (Unknown, could also be tools), Adept Linguist
+Languages: Common, +2 (Unknown), Adept Linguist
 
 ### Attacks
 Rope Dart (15/20): +6 to hit, 1d6 + 3 piercing damage \
