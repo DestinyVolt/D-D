@@ -4,7 +4,7 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 39 (5d8) \
+HP: 48 (6d8) \
 AC: 16 (13 + Dex) \
 STR: 8 \
 DEX: 17 \
@@ -26,17 +26,21 @@ Rope Dart (15/20): +6 to hit, 1d6 + 3 piercing damage \
 True Strike (15/20): +7 to hit, 2d6 + 4 radiant damage \
 Sacred Flame (60): DC 15 Dex, 2d8 radiant damage
 
-### Lorehold Bard 5
+### Lorehold Bard 6
 Bardic Inspiration (Int / Rest): 1d8 to attack roll, ability check, saving throw, spell damage, or spell healing \
 Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
-Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
+Countercharm: As an action, you can grant everyone within 30ft of you advantage against the Charmed and Frightened conditions. \
+Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua) \
+\- Warrior: Upon casting a cantrip as an action, you can make one weapon attack, add 1d8 radiant damage to the attack's damage. \
+\- Sage: You have advantage on Arcana, History, Nature, and Religion checks, and add 1d8 force damage to all leveled spell damage (1/turn). \
+\- Healer: Increase your Maximum/Current HP by your current level. Add an additional 1d8 HP to the amount you are healed by healing spells.
 
 #### Spellcasting
 Save DC: 15, Attack: +7 \
 Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
-1st Level (4): *Comprehend Languages,* Healing Word, Silent Image, Identify \
-2nd Level (3): *Borrowed Knowledge, Locate Object,* Kinetic Jaunt, Silence, Spray of Cards \
-3rd Level (2): *Speak with Dead, Spirit Guardians,* Stinking Cloud, Tongues
+1st Level (4): *Comprehend Languages,* Healing Word, Silent Image, Identify, Detect Magic \
+2nd Level (3): *Borrowed Knowledge, Locate Object,* Kinetic Jaunt, Silence \
+3rd Level (2): *Speak with Dead, Spirit Guardians,* Stinking Cloud, Tongues, Dispel Magic
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
