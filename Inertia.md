@@ -40,7 +40,7 @@ Save DC: 15, Attack: +7 \
 Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 1st Level (4): *Comprehend Languages,* Healing Word, Silent Image, Identify, Detect Magic \
 2nd Level (3): *Borrowed Knowledge, Locate Object,* Kinetic Jaunt, Silence \
-3rd Level (2): *Speak with Dead, Spirit Guardians,* Stinking Cloud, Tongues, Dispel Magic
+3rd Level (2): *Speak with Dead, Spirit Guardians,* Tongues, [Echos of Firemount](https://roll20.net/compendium/dnd5e/Stinking%20Cloud#content), [Tobana's Tiny Barrier](https://roll20.net/compendium/dnd5e/Tiny%20Hut#content)
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
