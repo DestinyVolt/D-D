@@ -32,7 +32,7 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 Save DC: 16, Attack: +8 \
 Cantrips: Guidance, Primal Savagery, Thorn Whip, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Remote Access (UA) \
-2nd Level (2): _Invisibility_, Web, Lesser Restoration
+2nd Level (2): _Invisibility_, Web, Nystul's Magic Aura
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
