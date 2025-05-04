@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 49 (6d8) \
+HP: 54 (6d8) \
 AC: 18 (Studded Leather, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -31,15 +31,15 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 #### Spellcasting
 Save DC: 16, Attack: +8 \
 Cantrips: Guidance, Primal Savagery, Thorn Whip, *Floating*, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Remote Access (UA) \
-2nd Level (2): _Invisibility_, Web, Nystul's Magic Aura
+1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA) \
+2nd Level (3): _Invisibility_, Web, Nystul's Magic Aura
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid \
-1st Level: Infallible Relay (UA) \
+1st Level: Healing Word \
 2nd Level: Summon Beast
 
-### Artificer 6
+### Artificer 7
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -50,13 +50,15 @@ Classes: Warlock, Druid \
 
 ***Cantrip Savant:*** When casting an artificer cantrip, you gain a +1 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
+***Flash of Genius (4/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your charisma modifier. 
+
 ***Known Infusions***: You can have two infusions active at a time.\
 ☆ Spellwrought Tattoo (Summon Lesser Demons) \
 ☆ Spellwrought Tattoo (Bless) \
 ☆ Spellwrought Tattoo (Warding Bond) \
 ★ Spellwrought Tattoo (Homunculus Servant, 3rd) \
 ★ Spellwrought Tattoo (Wrathful Smite) \
-★ Spellwrought Tattoo (Ensnaring Strike) 
+★ Spellwrought Tattoo (Find Steed) 
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
@@ -70,6 +72,8 @@ Classes: Warlock, Druid \
 
 ***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://media.dndbeyond.com/compendium-images/ua/the-artificer/AzQEA72K8EMf9HmU/UA2024-Artificer.pdf) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile feet of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
 
+***Find Giant Spider*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft movement speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
+ 
 ***Spells of the Mark*** \
 1st Level: Dissonant Whispers, Disguise Self, Silent Image \
 2nd Level: *Invisiblity,* Calm Emotions, Darkness, Pass Without Trace \
