@@ -25,6 +25,7 @@ Languages: Common, Elven, Undercommon, Abyssal
 Cantrips: +9 to hit, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
 Araña (Beast): +8 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
+Pequeñita: +6 to hit, 2d6 + 4, if charging, DC 14 Strength Save vs Prone + BA Attack \
 Quetzal: +8 to hit, 1d6 + 3 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
@@ -72,7 +73,7 @@ Classes: Warlock, Druid \
 
 ***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://media.dndbeyond.com/compendium-images/ua/the-artificer/AzQEA72K8EMf9HmU/UA2024-Artificer.pdf) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile feet of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
 
-***Find Giant Spider*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft movement speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
+***Find Giant Spider*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft climbing speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
  
 ***Spells of the Mark*** \
 1st Level: Dissonant Whispers, Disguise Self, Silent Image \
@@ -95,7 +96,7 @@ Spray Paint Kit \
 Casual Work Outfit \
 Thieves' Tools \
 Money (81.49gp) \
-Pistol (hand crossbow) \
+Stunbolt (Light Crossbow) \
 Medkit (Healer's Kit, 10/10)
 
 
