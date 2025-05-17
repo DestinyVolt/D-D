@@ -71,7 +71,7 @@ Classes: Warlock, Druid \
 
 ***Inkling Familiar.*** An [Inkling Demon](https://5e.tools/bestiary/inkling-mascot-scc.html) can crawl out of the stigmata on your left hand. You can see through the Inkling’s eyes and hear what it hears while it is within 100 feet of you. When you cast a Touch spell, you can use the Inkling's reaction to cast it from the Inkling's position. Once per Day, or by spending a second level spell slot, you can swap places with the familiar. You can take the Attack action to cause it to attack instead with its reaction. 
 
-***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://media.dndbeyond.com/compendium-images/ua/the-artificer/AzQEA72K8EMf9HmU/UA2024-Artificer.pdf) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile feet of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
+***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://media.dndbeyond.com/compendium-images/ua/the-artificer/AzQEA72K8EMf9HmU/UA2024-Artificer.pdf) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
 
 ***Find Giant Spider*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft climbing speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
 
