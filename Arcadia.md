@@ -97,6 +97,7 @@ Casual Work Outfit \
 Thieves' Tools \
 Money (81.49gp) \
 Stunbolt (Light Crossbow) \
-Medkit (Healer's Kit, 10/10)
+Medkit (Healer's Kit, 10/10) \
+Potion of Healing (Basic)
 
 
