@@ -31,7 +31,7 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 16, Attack: +8 \
-Cantrips: Guidance, Primal Savagery, Thorn Whip, *Floating*, *Minor Illusion* \
+Cantrips: Guidance, Primal Savagery, Eldritch, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA) \
 2nd Level (3): _Invisibility_, Lesser Restoration, Heat Metal
 
