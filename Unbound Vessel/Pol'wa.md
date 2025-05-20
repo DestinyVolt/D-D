@@ -23,7 +23,7 @@ Skills:
 ### Attacks (2x): 
 - Masterwork Greatsword: +8 to hit, 2d6 + 6 slashing damage
 - Grappling Hook (30ft): +7 to hit, 1d6 + 5 piercing damage
--   
+
 **Savage Attacks.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit. Once per Rest, you can do this without needing to critically hit. \
 **Reckless Attacks.** The first time you attack on your turn, you can choose to attack recklessly. Until the start of your next turn, all attacks you make, and all attacks against you, have advantage. 
 
