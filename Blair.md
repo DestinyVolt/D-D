@@ -16,7 +16,7 @@ CHA: 16 (+3)
 
 ### Proficiencies
 Proficiencies: Athletics, Stealth, Acrobatics, Performance \
-Tool Proficiency: Drumset \
+Tool Proficiency: Drumset, Bass Guitar, Disguise Kit \
 Saving Throws: Strength, Dexterity \
 Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
