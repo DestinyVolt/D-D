@@ -1,6 +1,6 @@
 ## Blair Lawless
 Simic Hybrid (Human) \
-Female, Age: 21 \
+Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
