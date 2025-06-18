@@ -16,14 +16,14 @@ CHA: 16 (+3)
 
 ### Proficiencies
 Proficiencies: Athletics, Stealth, Acrobatics, Performance \
-Tool Proficiency: Drumset, Bass Guitar, Disguise Kit \
+Tool Proficiency: Drumset, Bass Guitar, Disguise Kit, Forklift \
 Saving Throws: Strength, Dexterity \
 Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
 
 ### Attacks (2x)
 ***Unarmed Strike:*** +7 to hit, 1d8 + 4 damage \
-***Grapple:*** \
+***Grapple:*** DC 15 STR/DEX save, Grappled \
 ***Punch and Grab:*** Once Per Turn, Unarmed Strike & Grapple 
 
 ***Grappler:*** Adventage vs Grappled Targets
