@@ -4,7 +4,7 @@ He / Him \
 Age: 29 \
 True Neutral
 
-HP: 49 \
+HP: 59 \
 AC: 16 (Scale Mail) \
 Prof: +3 \
 Speed: 40ft \
@@ -37,6 +37,7 @@ Barbarian's Rage (3/LR): \
 
 ### Reactions
 - Relentless Endurance (1/LR): When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead and make a Weapon Attack.
+- Grapple-ing Hook: Whenever a creature you can see starts its turn within 30 feet of you, you can force it to make a DC 16 STR Save, or be entangled in your Grappling Hook. You can reduce their speed to 0, and may move them to a space within 5ft of you. 
 
 ### Worldly Barbarian 5
 **Danger Sense.** You have advantage on Dexterity saving throws against effects that you can see. \
