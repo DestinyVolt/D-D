@@ -4,7 +4,7 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 50 (7d8) \
+HP: 57 (8d8) \
 AC: 18 (Unarmed Defense) \
 Speed: 45ft \
 STR: 12 (+1) \
