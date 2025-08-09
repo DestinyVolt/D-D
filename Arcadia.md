@@ -40,7 +40,7 @@ Classes: Warlock, Druid \
 1st Level: Detect Magic \
 2nd Level: Summon Beast
 
-### Artificer 7
+### Artificer 8
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
