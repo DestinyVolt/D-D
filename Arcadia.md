@@ -4,14 +4,14 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 54 (6d8) \
+HP: 63 (8d8) \
 AC: 18 (Studded Leather, Prosthesis) \
 STR: 7 \
 DEX: 18 \
 CON: 15 \
 INT: 11 \
 WIS: 14 \
-CHA: 19
+CHA: 20
 
 ### Proficiencies
 Proficiencies: Perception, Stealth, Intimidation, Deception, Arcana \
@@ -24,13 +24,13 @@ Languages: Common, Elven, Undercommon, Abyssal
 ### Attacks
 Cantrips: +9 to hit, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
-Araña (Beast): +8 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
+Araña (Beast): +9 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
 Pequeñita: +6 to hit, 2d6 + 4, if charging, DC 14 Strength Save vs Prone + BA Attack \
-Quetzal: +8 to hit, 1d6 + 3 force damage \
+Quetzal: +9 to hit, 1d6 + 3 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
-Save DC: 16, Attack: +8 \
+Save DC: 17, Attack: +9 \
 Cantrips: Guidance, Primal Savagery, Eldritch, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Sanctuary, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA) \
 2nd Level (3): _Invisibility_, Lesser Restoration, Heat Metal
@@ -54,12 +54,12 @@ Classes: Warlock, Druid \
 ***Flash of Genius (4/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your Charisma modifier. 
 
 ***Known Infusions***: You can have two infusions active at a time.\
-☆ Spellwrought Tattoo (Summon Lesser Demons) \
+☆ Spellwrought Tattoo (Find Steed) \
 ☆ Spellwrought Tattoo (Bless) \
-☆ Spellwrought Tattoo (Warding Bond) \
+☆ Spellwrought Tattoo (Infallible Relay (UA)) \
 ★ Spellwrought Tattoo (Homunculus Servant, 3rd) \
-★ Spellwrought Tattoo (Wrathful Smite) \
-★ Spellwrought Tattoo (Find Steed)
+★ Spellwrought Tattoo (Warding Bond) \
+★ Spellwrought Tattoo (Summon Lesser Demons)
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
