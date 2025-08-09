@@ -29,7 +29,7 @@ Languages: Human, Elven, Auran
 ***Grappler:*** Adventage vs Grappled Targets
 
 ***Stunning Strike (1FP, 1/Turn):*** DC 14 Con Save vs Stunned, Halve Speed & Advantage on Next Attack on Success \
-***Elemental Strikes (EA):*** DC 14 Str Save vs 10ft Push or Pull
+***Elemental Strikes (EA):*** DC 14 Str Save vs 10ft Push or Pull \
 ***Charge Attack (1/Turn):*** If you move at least 10 feet toward a target hitting it, gain +1d8 damage, or push 10 feet.
 
 ### Actions
