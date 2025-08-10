@@ -58,7 +58,7 @@ Martial Arts Die: 1d8, Focus Points: 8, Save DC: 14 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
-***Evasion:*** When you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
+***Evasion:*** When you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. \
 ***Improved Dash:*** When you take the Dash Action, your Speed increases by 10 feet for that action. 
 
 ### Racial Features
