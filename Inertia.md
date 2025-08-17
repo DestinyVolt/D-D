@@ -60,7 +60,7 @@ Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 
 ### Inventory
 **Coin Purse** \
-15 Gold Pieces (rightfully earned) \
+13 Gold Pieces (rightfully earned) \
 1 Silver Pieces (wrongfully taken) \
 8 Copper Pieces (spiritual change)
 
@@ -82,7 +82,8 @@ Lint (more)
 
 **Backpack**\
 2x Metalman's Head \
-Goggles of Night
+Goggles of Night \
+Manacles
 
 ### Statues
 #### Caerdan
