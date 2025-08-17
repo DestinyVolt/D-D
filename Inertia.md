@@ -70,6 +70,7 @@ Rope Dart \
 Medal of the Maze \
 Pearl of Power \
 2x Potion of Healing \
+1x Potion of Greater Healing \
 Journal, Ink & Quill
 
 **Clothing/Belt/Pockets** \
