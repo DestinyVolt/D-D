@@ -72,5 +72,6 @@ Martial Arts Die: 1d8, Focus Points: 8, Save DC: 14 \
 ### Inventory
 Potion of Healing \
 3x Chain \
-2x Holy Water
-
+2x Holy Water \
+1x Manacles \
+1x Lock
