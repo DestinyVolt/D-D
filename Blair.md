@@ -4,9 +4,9 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 57 (8d8) \
+HP: 65 (8d8) \
 AC: 18 (Unarmed Defense) \
-Speed: 45ft \
+Speed: 45ft (Vertical + Liquids) \
 STR: 12 (+1) \
 DEX: 20 (+5) \
 CON: 15 (+2) \
@@ -22,19 +22,19 @@ Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
 
 ### Attacks (2x)
-***Unarmed Strike:*** +8 to hit, 1d8 + 5 damage \
-***Grapple:*** DC 16 STR/DEX save, Grappled \
+***Unarmed Strike:*** +9 to hit, 1d8 + 5 damage \
+***Grapple:*** DC 17 STR/DEX save, Grappled \
 ***Punch and Grab:*** Once Per Turn, Unarmed Strike & Grapple 
 
 ***Grappler:*** Adventage vs Grappled Targets
 
-***Stunning Strike (1FP, 1/Turn):*** DC 14 Con Save vs Stunned, Halve Speed & Advantage on Next Attack on Success \
-***Elemental Strikes (EA):*** DC 14 Str Save vs 10ft Push or Pull \
+***Stunning Strike (1FP, 1/Turn):*** DC 15 Con Save vs Stunned, Halve Speed & Advantage on Next Attack on Success \
+***Elemental Strikes (EA):*** DC 15 Str Save vs 10ft Push or Pull \
 ***Charge Attack (1/Turn):*** If you move at least 10 feet toward a target hitting it, gain +1d8 damage, or push 10 feet.
 
 ### Actions
 ***Elemental Burst (2FP):*** 20ft radius explosion with 120ft, DC 14 Dex Save vs 3d8 Fire/Cold/Acid/Lightning/Thunder damage, half on success \
-***Vicious Mockery***: DC 14 Wisdom Save vs 2d4 Psychic Damage and disadvantage on next attack \
+***Vicious Mockery***: DC 15 Wisdom Save vs 2d4 Psychic Damage and disadvantage on next attack \
 ***Spellcasting:*** Thaumaturgy, [Unearthly Chorus](https://dnd5e.wikidot.com/spell:unearthly-chorus)
 
 ### Bonus Actions
@@ -44,8 +44,8 @@ Languages: Human, Elven, Auran
 ***Grappling Augmentation:*** Make a Grapple attempt if you made an Unarmed Strike
 
 ### Reaction
-***Deflect Attacks:*** Reduce BPS Attack by 1d10 + 4 + Level. \
-***Reflect Attack (1FP):*** If you reduce the attack to 0, you can redirect the attack, forcing a Dex Save vs 2d8 + 4 damage \
+***Deflect Attacks:*** Reduce BPS Attack by 1d10 + 5 + Level. \
+***Reflect Attack (1FP):*** If you reduce the attack to 0, you can redirect the attack, forcing a Dex Save vs 2d8 + 5 damage \
 ***Slow Fall:*** Reduce Fall Damage by 5 x Monk Level
 
 ### Free Actions
@@ -53,8 +53,8 @@ Languages: Human, Elven, Auran
 ***Elemental Attunement (1FP):*** Your unarmed strikes have +10ft reach and can deal Fire, Cold, Acid, Lightning or Thunder damage for 10 minutes.
 
 
-### Monk 8
-Martial Arts Die: 1d8, Focus Points: 8, Save DC: 14 \
+### Monk 9
+Martial Arts Die: 1d8, Focus Points: 9, Save DC: 15 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
@@ -74,4 +74,5 @@ Potion of Healing \
 3x Chain \
 2x Holy Water \
 1x Manacles \
-1x Lock
+1x Lock \
+5x Beholder Eye Blasters
