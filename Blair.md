@@ -7,7 +7,7 @@ Chaotic Good
 HP: 65 (8d8) \
 AC: 18 (Unarmed Defense) \
 Speed: 45ft (Vertical + Liquids) \
-STR: 12 (+1) \
+STR: 19 (+4) ~~12 (+1)~~ \
 DEX: 20 (+5) \
 CON: 15 (+2) \
 INT: 10 (0) \
@@ -65,7 +65,7 @@ Martial Arts Die: 1d8, Focus Points: 9, Save DC: 15 \
 ***Grappling Augmentation:*** You are considered to have 2 additional free hands for the purposes of grappling.
 
 ### Magic Items
-☆ None \
+☆ Gauntlets of Ogre Strength \
 ☆ None \
 ☆ None
 
