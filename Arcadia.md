@@ -38,7 +38,7 @@ Cantrips: Guidance, Primal Savagery, Eldritch Blast, *Floating*, *Minor Illusion
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
-1st Level: Fog Cloud \
+1st Level: Healing Word \
 2nd Level: Misty Step \
 3rd Level: Conjure Animals \
 Superior Breakthoughs (5/LR): +2 to spell level
