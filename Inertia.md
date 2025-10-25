@@ -92,6 +92,7 @@ Manacles
 - Tybore (Sage, ♀, Mother of King Gehvil)
 - Lord Scimshaw (Warrior, ♂, Lord of Middlefield)
 - Elvi (Healer, ♀, Maid of Lady Divina)
+- Eludra (Warrior, ♀, Slain Inventor)
 
 #### Mal Toban
 - Coach ??? (Warrior, ♂, Creator of Zeegball)
