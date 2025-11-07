@@ -6,9 +6,9 @@ HP: 32 \
 AC: 12 (Unarmored Defense) \
 Prof: +2 \
 Speed: 30rft \
-STR: 16 \
-DEX: 10 \
-CON: 14 \
+STR: 16 (+3) \
+DEX: 10 (+0) \
+CON: 14 (+2) \
 INT: 4 (-3) \
 WIS: 10 (+0) \
 CHA: 4 (-3)
