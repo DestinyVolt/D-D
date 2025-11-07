@@ -14,10 +14,11 @@ WIS: 10 (+0) \
 CHA: 4 (-3)
 
 ***Skills***: Athletics, Intimidation \
-***Tools***: Chef's Tools
+***Tools***: Chef's Tools \
+***Languages***: Rodent
 
 ### Actions: 
-- Bite: +5 to hit, 1d4 + 3 slashing damage
+- Bite: +5 to hit, 1d4 + 3 piercing damage
 - Grapple: +5 to grapple
 - Improvised Weapon (20rft / 60rft): +3 to hit, 1d4 + 3 damage
 
