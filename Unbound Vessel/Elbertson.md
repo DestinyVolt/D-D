@@ -32,5 +32,5 @@ Frenzy (1 minute, 3/LR): \
 
 ### Racial Traits
 **Danger Sense.** You have advantage on Dexterity saving throws against effects that you can see. \
-**Pack Tactics.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+**Pack Tactics.** You and your allies have advantage on enemies that both you and your ally are within 5ft of.
 
