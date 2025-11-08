@@ -3,7 +3,7 @@ Mouse (Former Sun Elf) \
 Size: Small (for a rodent)
 
 HP: 18 \
-AC: 12 (Unarmored Defense) \
+AC: 14 \
 Prof: +2 \
 Speed: 30rft (Climb) \
 STR: 4 (-4) \
