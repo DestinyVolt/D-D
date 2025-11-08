@@ -28,7 +28,7 @@ Scurry: Dash, Hide, or Disengage \
 Fast Paws: Use an Object or Make a Dexterity (Sleight of Hand) check
 
 ### Thief Rogue 3
-**Sneak Attack.** You may deal an additional 2d6 damage to a target if you meet one of the following conditions:
+**Sneak Attack.** You may deal an additional 2d6 damage to a target if you meet one of the following conditions: \
 \- You have advantage on a bite attack \
 \- You do not have disadvantage on a bite attack, and an ally is within 5rft of the creature. \
 \- You are being used as an improvised weapon, and you succeed on a DC 10 Acrobatics (Dexterity) check. 
