@@ -40,7 +40,7 @@ Cantrips: Guidance, Primal Savagery, Eldritch Blast, *Floating*, *Minor Illusion
 Classes: Warlock, Druid, Cleric \
 1st Level: Healing Word \
 2nd Level: Misty Step \
-3rd Level: Conjure Animals \
+3rd Level: Sylune's Viper \
 Superior Breakthoughs (5/LR): +2 to spell level
 
 ### Artificer 9
