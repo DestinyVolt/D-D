@@ -98,7 +98,6 @@ Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Spray Paint Kit \
 Casual Work Outfit \
-Thieves' Tools \
 Laser Pointer \
 Money (79.49gp) \
 Stunbolt (Light Crossbow) \
