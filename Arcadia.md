@@ -99,7 +99,8 @@ Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Spray Paint Kit \
 Casual Work Outfit \
 Thieves' Tools \
-Money (81.49gp) \
+Laser Pointer \
+Money (79.49gp) \
 Stunbolt (Light Crossbow) \
 Medkit (Healer's Kit, 10/10) \
 Potion of Healing (Basic)
