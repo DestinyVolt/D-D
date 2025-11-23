@@ -33,14 +33,14 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 Save DC: 18, Attack: +10 \
 Cantrips: Guidance, Primal Savagery, Eldritch Blast, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA) \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Lesser Restoration, Pass without Trace \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Arcane Lock, Pass without Trace \
 3rd Level (2): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
 1st Level: Healing Word \
-2nd Level: Summon Beast \
-3rd Level: Sylune's Viper \
+2nd Level: Misty Step \
+3rd Level: Hunger of Hadar \
 Superior Breakthoughs (5/LR): +2 to spell level
 
 ### Artificer 9
