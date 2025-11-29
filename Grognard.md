@@ -13,7 +13,7 @@ WIS: 14 \
 CHA: 8
 
 Skills: Athletics, Perception, Survival, Religion \
-Money: 100gp
+Money: 98gp
 
 #### Attacks
 Warhammer: +5 to hit, 1d8+3 damage \
@@ -30,7 +30,7 @@ Wrath of the Storm: DC 12 Dex Save vs 2d8 Thunder Damage
 #### Spellcasting
 +4 to hit, DC 12 \
 Cantrips: Guidance, Resistance, Toll the Dead, Booming Blade, Elementalism \
-1st (4): *Fog Cloud, Thunder Wave, Shield* Bless, Healing Word, Cure Wounds, Detect Magic \
+1st (4): *Fog Cloud, Thunder Wave, Shield,* Bless, Healing Word, Cure Wounds, Detect Magic \
 2nd (3): *Gust of Wind, Shatter,* Find Traps, Lesser Restoration, Silence
 
 #### Channel Divinity (2 / LR + 1 / SR)
