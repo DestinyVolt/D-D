@@ -12,7 +12,8 @@ INT: 12 \
 WIS: 14 \
 CHA: 8
 
-Skills: Athletics, Perception, Survival, Religion
+Skills: Athletics, Perception, Survival, Religion \
+Money: 100gp
 
 #### Attacks
 Warhammer: +5 to hit, 1d8+3 damage \
