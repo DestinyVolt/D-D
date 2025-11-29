@@ -36,3 +36,6 @@ Cantrips: Guidance, Resistance, Toll the Dead, Booming Blade, Elementalism \
 Turn Undead: Look it up \
 Divine Spark: 1d8+Wis Healing or CON save vs Rad/Nec damage \
 Destructive Wrath: Max Thunder Damage
+
+### Class Abilities
+Thaumaturge: Add Wisdom to Arcana and Religion Checks
