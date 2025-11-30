@@ -13,7 +13,6 @@ WIS: 14 \
 CHA: 8
 
 Skills: Athletics, Perception, Survival, Religion \
-Money: 98gp
 
 #### Attacks
 Warhammer: +5 to hit, 1d8+3 damage \
@@ -38,5 +37,9 @@ Turn Undead: Look it up \
 Divine Spark: 1d8+Wis Healing or CON save vs Rad/Nec damage \
 Destructive Wrath: Max Thunder Damage
 
-### Class Abilities
+#### Class Abilities
 Thaumaturge: Add Wisdom to Arcana and Religion Checks
+
+#### Inventory
+Money: 2598gp, 1000sp \
+9 Silver Bracelets
