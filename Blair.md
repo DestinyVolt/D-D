@@ -4,9 +4,9 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 65 (8d8) \
+HP: 74 (8d8) \
 AC: 18 (Unarmed Defense) \
-Speed: 45ft (Vertical + Liquids) \
+Speed: 50ft (Vertical + Liquids) \
 STR: 19 (+4) ~~12 (+1)~~ \
 DEX: 20 (+5) \
 CON: 15 (+2) \
@@ -38,9 +38,9 @@ Languages: Human, Elven, Auran
 ***Spellcasting:*** Thaumaturgy, [Unearthly Chorus](https://dnd5e.wikidot.com/spell:unearthly-chorus)
 
 ### Bonus Actions
-***Flurry of Blows:*** Make an Unarmed Strikes, make 2 for 1FP \
-***Patient Defense:*** Disengage, or Dodge and Disengage for 1FP \
-***Step of the Wind:*** Dash, or Dash and Disengage for 1FP \
+***Flurry of Blows:*** Make an Unarmed Strikes, make 3 for 1FP \
+***Patient Defense:*** Disengage, or Dodge and Disengage and gain CHA+1d8 THP for 1FP \
+***Step of the Wind:*** Dash, or Dash and Disengage and take an ally with you for 1FP \
 ***Grappling Augmentation:*** Make a Grapple attempt if you made an Unarmed Strike
 
 ### Reaction
@@ -50,10 +50,11 @@ Languages: Human, Elven, Auran
 
 ### Free Actions
 ***Manta Glide:*** Controlling the air around you, when you fall and are not incapacitated, you can subtract up to 100 feet from your fall when calculating your fall damage and can move horizontally 2 feet for every 1 foot you fall. \
-***Elemental Attunement (1FP):*** Your unarmed strikes have +10ft reach and can deal Fire, Cold, Acid, Lightning or Thunder damage for 10 minutes.
+***Elemental Attunement (1FP):*** Your unarmed strikes have +10ft reach and can deal Fire, Cold, Acid, Lightning or Thunder damage for 10 minutes. \
+***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
 
 
-### Monk 9
+### Monk 10
 Martial Arts Die: 1d8, Focus Points: 9, Save DC: 15 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
