@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 70 (8d8) \
+HP: 77 (10d8) \
 AC: 18 (Studded Leather, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -31,19 +31,19 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 18, Attack: +10 \
-Cantrips: Guidance, Message, Eldritch Blast, *Floating*, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA) \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Arcane Lock, Magic Mouth \
-3rd Level (2): Haste, Dispel Magic
+Cantrips: Guidance, Shillelagh, Eldritch Blast, *Floating*, *Minor Illusion* \
+1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Faerie Fire \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Levitate, Lesser Restoration \
+3rd Level (2): Haste, Dispel Magic, Fly
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
-1st Level: Healing Word \
-2nd Level: Misty Step \
-3rd Level: Hunger of Hadar \
+1st Level: Speak with Animals \
+2nd Level: Protection from Good and Evil \
+3rd Level: Conjure Animals \
 Superior Breakthoughs (5/LR): +2 to spell level
 
-### Artificer 9
+### Artificer 10
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -52,17 +52,21 @@ Superior Breakthoughs (5/LR): +2 to spell level
 
 ***Right Tool for the Job:*** With thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. 
 
+***Magic Item Adept*** You can attune toup to 4 items at once, and if you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+
 ***Cantrip Savant:*** When casting an artificer cantrip, you gain a +2 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
 ***Flash of Genius (5/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your Charisma modifier. 
 
-***Known Infusions***: You can have three infusions active at a time.\
-☆ Spellwrought Tattoo (Find Steed) \
+***Known Infusions***: You can have four infusions active at a time.\
+☆ Angel's Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Spellwrought Tattoo (Crusader's Mantle) \
-☆ Spellwrought Tattoo (Infallible Relay (UA)) \
+☆ Thayan Spell Tattoo (Sylune's Viper) \
+☆ Thayan Spell Tattoo (Entangle) \
 ★ Spellwrought Tattoo (Homunculus Servant, 3rd) \
 ★ Spellwrought Tattoo (Warding Bond) \
-★ Spellwrought Tattoo (Summon Lesser Demons)
+★ Spellwrought Tattoo (Find Steed) \
+★ Spellwrought Tattoo (Infallible Relay (UA))
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
@@ -75,7 +79,7 @@ Superior Breakthoughs (5/LR): +2 to spell level
 
 ***Inkling Familiar.*** An [Inkling Demon](https://5e.tools/bestiary/inkling-mascot-scc.html) can crawl out of the stigmata on your left hand. You can see through the Inkling’s eyes and hear what it hears while it is within 100 feet of you. When you cast a Touch spell, you can use the Inkling's reaction to cast it from the Inkling's position. Once per Day, or by spending a second level spell slot, you can swap places with the familiar. You can take the Attack action to cause it to attack instead with its reaction. 
 
-***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](https://media.dndbeyond.com/compendium-images/ua/the-artificer/AzQEA72K8EMf9HmU/UA2024-Artificer.pdf) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
+***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](http://dnd2024.wikidot.com/spell:homunculus-servant) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
 
 ***Find Giant Spider*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft climbing speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
 
@@ -90,8 +94,9 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 
 ### Magic Items
 ☆ All Purpose Tool (+1) \
-☆ None \
-☆ None
+☆ Thayan Spell Tattoo (Entangle) \
+☆ Thayan Spell Tattoo (Sylune's Viper) \
+☆ Angel Wing Tattoo (Broom of Flying)
 
 ### Inventory
 Backpack \
@@ -102,4 +107,5 @@ Laser Pointer \
 Money (79.49gp) \
 Stunbolt (Light Crossbow) \
 Medkit (Healer's Kit, 10/10) \
-Potion of Healing (Basic)
+Potion of Healing (Basic) \
+Ersatz Eye
