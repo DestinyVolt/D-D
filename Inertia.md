@@ -29,7 +29,7 @@ Sacred Flame (60): DC 15 Dex, 2d8 radiant damage \
 ### Bonus Action
 Bardic Inspiration (4 / SR): 1d8 to attack roll, ability check, saving throw, spell damage, or spell healing \
 Statue Slam: +7 to hit, 1d8 + 5 Force damage \
-Eludra's Firework Gun: 15ft Cone, DC 15 Dex vs 2d8 fire damage, half on save
+Eludra's Firework Gun: 15ft Cone, DC 13 Dex vs 2d8 fire damage, half on save
 
 ### Lorehold Bard 7
 Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
