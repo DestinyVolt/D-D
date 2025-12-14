@@ -83,7 +83,7 @@ Brightford Pants \
 1x Potion of Healing \
 1x Potion of Psionic Fortitude \
 Medal of the Conch \
-Rapier \
+Dagger \
 Lint (more) \
 Quickfire Sunburst (Pyrotechnics, Smoke) \
 Quickfire Sunburst (Pyrotechnics, Fireworks) \
