@@ -24,10 +24,14 @@ Languages: Common, +2 (Unknown), Adept Linguist
 ### Attacks
 Rope Dart (15/20): +6 to hit, 1d6 + 3 piercing damage \
 True Strike (15/20): +7 to hit, 2d6 + 4 radiant damage \
-Sacred Flame (60): DC 15 Dex, 2d8 radiant damage
+Sacred Flame (60): DC 15 Dex, 2d8 radiant damage \
+
+### Bonus Action
+Bardic Inspiration (4 / SR): 1d8 to attack roll, ability check, saving throw, spell damage, or spell healing \
+Statue Slam: +7 to hit, 1d8 + 5 Force damage \
+Eludra's Firework Gun: 15ft Cone, DC 15 Dex vs 2d8 fire damage, half on save
 
 ### Lorehold Bard 7
-Bardic Inspiration (Int / Rest): 1d8 to attack roll, ability check, saving throw, spell damage, or spell healing \
 Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
 Countercharm: As an action, you can grant everyone within 30ft of you advantage against the Charmed and Frightened conditions. \
 Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua) \
@@ -81,6 +85,8 @@ Brightford Pants \
 Medal of the Conch \
 Rapier \
 Lint (more)
+Quickfire Sunburst (Pyrotechnics, Smoke) \
+Quickfire Sunburst (Pyrotechnics, Fireworks) \
 
 **Backpack**\
 2x Metalman's Head \
