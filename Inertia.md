@@ -84,7 +84,7 @@ Brightford Pants \
 1x Potion of Psionic Fortitude \
 Medal of the Conch \
 Rapier \
-Lint (more)
+Lint (more) \
 Quickfire Sunburst (Pyrotechnics, Smoke) \
 Quickfire Sunburst (Pyrotechnics, Fireworks) \
 
