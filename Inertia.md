@@ -33,7 +33,7 @@ Bardic Inspiration (4 / SR): 1d8 to attack roll, ability check, saving throw, sp
 Statue Slam: +7 to hit, 1d8 + 5 Force damage \
 Eludra's Firework Gun: 15ft Cone, DC 13 Dex vs 2d8 fire damage, half on save
 
-### Lorehold Bard 7
+### Lorehold Bard 8
 Song of Rest: Over the course of a short rest, play calming music to add 1d6 to creatures who spend hit dice. \
 Countercharm: As an action, you can grant everyone within 30ft of you advantage against the Charmed and Frightened conditions. \
 Ancient Companion: At the end of a short or long rest, you can summon an ancient companion into a freestanding statue. [Stat Block](http://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua) \
