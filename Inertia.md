@@ -4,10 +4,10 @@ Female, Age: ??? \
 Height: 4', Weight: 280lb \
 Neutral Good
 
-HP: 55 (7d8) \
-AC: 16 (13 + Dex) \
+HP: 58 (8d8) \
+AC: 17 (13 + Dex) \
 STR: 8 \
-DEX: 17 \
+DEX: 18 \
 CON: 14 \
 INT: 19 \
 WIS: 12 \
@@ -22,9 +22,11 @@ Saving Throws: Dexterity, Charisma, (+1 to Wisdom) \
 Languages: Common, +2 (Unknown), Adept Linguist
 
 ### Attacks
-Rope Dart (15/20): +6 to hit, 1d6 + 3 piercing damage \
+Rope Dart (15/20): +7 to hit, 1d6 + 4 piercing damage \
 True Strike (15/20): +7 to hit, 2d6 + 4 radiant damage \
 Sacred Flame (60): DC 15 Dex, 2d8 radiant damage \
+
+Rope Dartist: Once per turn, on hit, reduce movement speed by 10 feet. On crit, target has disadvantage on attack rolls for one round. 
 
 ### Bonus Action
 Bardic Inspiration (4 / SR): 1d8 to attack roll, ability check, saving throw, spell damage, or spell healing \
@@ -53,7 +55,7 @@ Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 ***Mechanical Nature.*** You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don't need to eat, drink, or breathe. \
 ***Sentry's Rest.*** When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious. \
 ***Keen Mind.*** You always know which way is north, You always know the number of hours left before the next sunrise or sunset and You can accurately recall anything you have seen or heard within the past month. \
-***Porcelain Skin.*** The outer shell of your body is formed from a fragile porcelain. Once bloodied, any further damage you take until repaired is dealt as damage to both your HP and your Maximum HP, down to half your normal Maximum. This can be repaired by casting the Mending Spell, which allows you to spend a hit die to regain HP and remove damage to your Maximum HP, equal to a roll of the Hit Die plus your Constitution modifier. 
+***Porcelain Skin.*** The outer shell of your body is formed from a fragile porcelain. Once bloodied, any further damage you take until repaired is dealt as damage to both your HP and your Maximum HP, down to half your normal Maximum. This can be repaired by casting the Mending Spell, which allows you to spend a hit die to regain HP and remove damage to your Maximum HP, equal to a roll of the Hit Die plus your Constitution modifier.
 
 ### Background
 ***Adept Linguist.*** You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures – enough to communicate on a rudimentary level. \
