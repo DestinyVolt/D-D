@@ -45,9 +45,9 @@ Ancient Companion: At the end of a short or long rest, you can summon an ancient
 Save DC: 15, Attack: +7 \
 Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 1st Level (4): *Comprehend Languages,* Healing Word, Silent Image, Identify, Detect Magic \
-2nd Level (3): *Borrowed Knowledge, Locate Object,* Kinetic Jaunt, Silence \
+2nd Level (3): *Borrowed Knowledge, Locate Object,* Shatter, Silence \
 3rd Level (3): *Speak with Dead, Spirit Guardians,* Tongues, [Echos of Firemount](https://roll20.net/compendium/dnd5e/Stinking%20Cloud#content), [Tobana's Tiny Barrier](https://roll20.net/compendium/dnd5e/Tiny%20Hut#content) \
-4th Level (1): *Arcane Eye, Stone Shape,* Locate Creature
+4th Level (4): *Arcane Eye, Stone Shape,* Locate Creature, Dimension Door
 
 ### Racial Features
 ***Built for Success.*** +1d4 to d20 roll, Prof / Day \
