@@ -32,8 +32,8 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 #### Spellcasting
 Save DC: 18, Attack: +10 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Sanctuary, Absorb Elements \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Lesser Restoration \
+1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Absorb Elements \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp \
 3rd Level (2): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
