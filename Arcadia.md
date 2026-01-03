@@ -31,15 +31,15 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
 Save DC: 18, Attack: +10 \
-Cantrips: Guidance, Shillelagh, Eldritch Blast, *Floating*, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Faerie Fire \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Levitate, Lesser Restoration \
-3rd Level (2): Haste, Dispel Magic, Fly
+Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
+1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Sanctuary, Absorb Elements \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Lesser Restoration \
+3rd Level (2): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
-1st Level: Speak with Animals \
-2nd Level: Protection from Good and Evil \
+1st Level: Command \
+2nd Level: Ectoplasmic Trail \
 3rd Level: Conjure Animals \
 Superior Breakthoughs (5/LR): +2 to spell level
 
