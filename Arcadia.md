@@ -59,7 +59,7 @@ Superior Breakthoughs (5/LR): +2 to spell level
 ***Flash of Genius (5/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your Charisma modifier. 
 
 ***Known Infusions***: You can have four infusions active at a time.\
-☆ Angel's Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
+☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Spellwrought Tattoo (Crusader's Mantle) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Thayan Spell Tattoo (Entangle) \
@@ -96,7 +96,7 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 ☆ All Purpose Tool (+1) \
 ☆ Thayan Spell Tattoo (Entangle) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
-☆ Angel Wing Tattoo (Broom of Flying)
+☆ Skeletal Wing Tattoo (Broom of Flying)
 
 ### Inventory
 Backpack \
