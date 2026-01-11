@@ -4,7 +4,7 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 74 (8d8) \
+HP: 74 (10d8) \
 AC: 18 (Unarmed Defense) \
 Speed: 50ft (Vertical + Liquids) \
 STR: 19 (+4) ~~12 (+1)~~ \
@@ -55,7 +55,7 @@ Languages: Human, Elven, Auran
 
 
 ### Monk 10
-Martial Arts Die: 1d8, Focus Points: 9, Save DC: 15 \
+Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
