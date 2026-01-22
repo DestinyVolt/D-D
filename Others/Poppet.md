@@ -12,7 +12,7 @@ INT: ~12 \
 WIS: ~14 \
 CHA: ~18
 
-Skills: Arcana, Animal Handling, Insight, Stealth \
+Skills: Deception, Animal Handling, Insight, Stealth \
 Saving Throws: Wisdom, Charisma \
 Senses: Darkvision (60ft) \
 Languages: Common, Druidic, Sylvan \
@@ -28,8 +28,8 @@ Tools: Herbalism Kit
 #### Pact Magic
 Cantrips: *Spare the Dying,* Magic Stone, Chill Touch, Shocking Grasp \
 1st: *Cure Wounds, Inflict Wounds,* ~~Puppet~~, Speak with Animals, ~~Detect Magic~~ \
-2nd: *Lesser Restoration, Wither and Bloom,* ~~Invisiblity,~~ Cloud of Daggers, Flock of Familiars \
-3rd: *Revivify, Vampiric Touch*, Summon Undead, Fear, Remove Curse
+2nd: *Lesser Restoration, Wither and Bloom,* ~~Invisiblity,~~ Hold Person, Cloud of Daggers, Borrowed Knowledge, Flock of Familiars \
+3rd: *Revivify, Vampiric Touch*, Summon Undead, Dispel Magic
 
 6th: Tasha's Bubbling Cauldron
 
