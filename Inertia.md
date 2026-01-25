@@ -95,6 +95,10 @@ Quickfire Sunburst (Pyrotechnics, Fireworks) \
 Goggles of Night \
 Manacles
 
+**Mental Memory**\
+The Tune \
+Written in Salt Book (Free Questions next time around salt)
+
 ### Statues
 #### Caerdan
 - Tybore (Sage, ♀, Mother of King Gehvil)
