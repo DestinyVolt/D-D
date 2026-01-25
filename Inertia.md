@@ -19,7 +19,7 @@ Expertise: Stealth, History, Investigation \
 Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools, +2 (Unknown) \
 Combat Proficiencies: Simple Weapons, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma, (+1 to Wisdom) \
-Languages: Common, +2 (Unknown), Adept Linguist
+Languages: Common, Mal Tobaner(Old&Modern), Caerdanan (Old&Modern), Plant Script???, +2 (Unknown), Adept Linguist
 
 ### Attacks
 Rope Dart (15/20): +7 to hit, 1d6 + 4 piercing damage \
