@@ -26,7 +26,7 @@ Cantrips: +12 to hit, Save DC 20, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
 Araña (Beast): +10 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
 Pequeñita: +6 to hit, 2d6 + 4, if charging, DC 14 Strength Save vs Prone + BA Attack \
-Quetzal: +10 to hit, 1d6 + 3 force damage \
+Quetzal: +10 to hit, 1d6 + 5 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
@@ -62,8 +62,8 @@ Superior Breakthoughs (5/LR): +2 to spell level
 ☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Spellwrought Tattoo (Crusader's Mantle) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
-☆ Thayan Spell Tattoo (Warding Bond) \
-★ Spellwrought Tattoo (Homunculus Servant, 3rd) \
+☆ Spellwrought Tattoo (Warding Bond) \
+★ Thayan Spell Tattoo (Homunculus Servant) \
 ★ Spellwrought Tattoo (Entangle) \
 ★ Spellwrought Tattoo (Find Steed) \
 ★ Spellwrought Tattoo (Infallible Relay (UA))
