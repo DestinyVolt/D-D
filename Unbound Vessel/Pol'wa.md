@@ -29,7 +29,7 @@ Skills:
 
 ### Bonus Actions:
 Orcish Aggression: Dash towards hostile creature \
-Barbarian's Rage (3/LR): \
+Barbarian's Rage (4/LR): \
 \- Gain 4 THP and Resist BPS \
 \- +2 Damage to all STR based attacks \
 \- Treat Acrobatics, Stealth, Perception, and Intimidation as Strength Checks. \
@@ -39,7 +39,7 @@ Barbarian's Rage (3/LR): \
 - Relentless Endurance (1/LR): When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead and make a Weapon Attack.
 - Grapple-ing Hook: Whenever a creature you can see starts its turn within 30 feet of you, you can force it to make a DC 16 STR Save, or be entangled in your Grappling Hook. You can reduce their speed to 0, and may move them to a space within 5ft of you. 
 
-### Worldly Barbarian 5
+### Worldly Barbarian 6
 **Danger Sense.** You have advantage on Dexterity saving throws against effects that you can see. \
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. \
 **Grappling Hook.** You can make a DC 13 Acrobatics check to throw and attach your grappling hook to a location within 50ft.
