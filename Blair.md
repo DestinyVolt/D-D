@@ -75,6 +75,8 @@ Potion of Healing \
 3x Chain \
 2x Holy Water \
 1x Manacles \
-1x Lock \
+2x Lock \
+1x Anvil \
+1x Tarp \
 5x Beholder Eye Blasters \
 Implant of Holding
