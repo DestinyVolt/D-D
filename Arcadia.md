@@ -56,6 +56,10 @@ Superior Breakthoughs (5/LR): +2 to spell level
 
 ***Cantrip Savant:*** When casting an artificer cantrip, you gain a +2 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
 
+***Work In Progress.*** Once per rest, as an action, you can replace any prepared artificer spell with any other spell from the artificer spell list, which then counts as a prepared spell for you.
+
+***Superior Breakthrough (5/LR):*** When you cast one of the spells you prepared with Arcane Breakthroughs, you can do so as if the spell was cast using a spell slot two levels higher than the spell slot you expend.
+
 ***Flash of Genius (5/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your Charisma modifier. 
 
 ***Known Infusions***: You can have four infusions active at a time.\
@@ -81,7 +85,12 @@ Superior Breakthoughs (5/LR): +2 to spell level
 
 ***Dragon Homunculus Infusion.*** An [Colorful Inked Dragon](http://dnd2024.wikidot.com/spell:homunculus-servant) can fly off of the tattoo on your right arm. You can see through the Dragon’s eyes and hear what it hears while it is within 1 mile of you. The homunculus can deliver a spell you cast that has a range of touch if it is within 120 feet of you. 
 
-***Find Giant Spider*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft climbing speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
+***Find Giant Spider.*** An [Inky Giant Spider](https://roll20.net/compendium/dnd5e/Warhorse#content) is summoned when you use the Infusion, with a 30ft movement speed and a 20ft climbing speed. You can telepathically communicate with it while it is within 1 mile, and while mounted on it, you can cause any spell targetting you to also target it. 
+
+***Other Notable Summons:***
+- [Spiders, (Giant Wolf, Giant Flying, and Ice Queen)](https://5e.tools/bestiary.html#giant%20wolf%20spider_xmm,fbmt:sand~b0~b0~b0,flstsource:crcotn=0~egw=0~hftt=0~lrdt=0~rmbre=0~scc-ck=0,flopsource:extend,flstchallenge%20rating:max=5,flsttype:beast=1,floptype:extend,flstmiscellaneous:adventure%20npc=0~reprinted=0,flopmiscellaneous:extend,fbsr:spider)
+- [Giant Tentacles](https://5e.tools/bestiary/enormous-tentacle-oow.html)
+- [Giant Araña](https://dnd5e.wikidot.com/spell:summon-beast)
 
 ***Spells of the Mark*** \
 1st Level: Dissonant Whispers, Disguise Self, Silent Image \
