@@ -86,7 +86,7 @@ You can use your action to expend a spell slot and magically create a number of 
 Anything you create using this feature is unreliable in the hands of anyone other than you, and as such, cannot be sold to or used by others. You however, are considered proficient with any of these when used to make an attack. You can only have a number of pieces of equipment created with this feature equal to twice your profiency bonus. 
 
 ### Airborne Potions
-You can use your action to expend a spell slot and magically transform a potion. The vessel the potion is in becomes a Breakaway Vial, and the potion becomes gaseous until the end of your next long rest. While the potion is gaseous, if you hit a creature with the breakaway vial, they gain the benefits of the potion. For every level above first of the slot expended, you can choose one creature within 5ft of the original target to gain the effects of the potion.
+You can use your action to expend a spell slot and magically transform a potion. The vessel the potion is in becomes a Breakaway Vial, and the potion becomes gaseous until the end of your next long rest. While the potion is gaseous, if you hit a creature with the breakaway vial, some number of creatures within 5ft of them gain the benefits of the potion. You can choose a number of creatures equal to your proficiency bonus within 5ft of the original target to gain the effects of the potion.
 
 If you do not have a potion, you can instead create a gaseous Potion of Healing (Common), which loses its potency at the end of your next long rest. For every two spell levels above 1st, the rarity of the Potion of Healing increases by one level. 
 
