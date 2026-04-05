@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 77 (10d8) \
+HP: 82 (11d8) \
 AC: 19 (Mage Armor, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -34,7 +34,7 @@ Save DC: 18, Attack: +10 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Absorb Elements \
 2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Lesser Restoration \
-3rd Level (2): Haste, Dispel Magic
+3rd Level (3): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
@@ -52,6 +52,8 @@ Superior Breakthoughs (5/LR): +2 to spell level
 
 ***Right Tool for the Job:*** With thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. 
 
+**Spell Storing Item:*** You can store a 1st or 2nd level Artificer spell with a casting time of an Action in an object. A creature can use their action to release the effect of the spell up to 10 times a day.
+
 ***Magic Item Adept*** You can attune toup to 4 items at once, and if you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
 
 ***Cantrip Savant:*** When casting an artificer cantrip, you gain a +2 bonus to attack rolls and to your artificer spell save DC unless your spellcasting focus grants a higher bonus. As an action, you can replace an artificer cantrip you know with a different cantrip from the artificer spell list or your Breakthrough spell list. Once you use this feature, you can’t use it again until you finish a long rest.
@@ -66,7 +68,7 @@ Superior Breakthoughs (5/LR): +2 to spell level
 ☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Spellwrought Tattoo (Crusader's Mantle) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
-☆ Spellwrought Tattoo (Warding Bond) \
+☆ Spellwrought Tattoo (Life Transferance) \
 ★ Thayan Spell Tattoo (Homunculus Servant) \
 ★ Spellwrought Tattoo (Entangle) \
 ★ Spellwrought Tattoo (Find Steed) \
