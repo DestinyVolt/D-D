@@ -4,7 +4,7 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 74 (10d8) \
+HP: 81 (11d8) \
 AC: 18 (Unarmed Defense) \
 Speed: 50ft (Vertical + Liquids) \
 STR: 19 (+4) ~~12 (+1)~~ \
@@ -50,7 +50,7 @@ Languages: Human, Elven, Auran
 
 ### Free Actions
 ***Manta Glide:*** Controlling the air around you, when you fall and are not incapacitated, you can subtract up to 100 feet from your fall when calculating your fall damage and can move horizontally 2 feet for every 1 foot you fall. \
-***Elemental Attunement (1FP):*** Your unarmed strikes have +10ft reach and can deal Fire, Cold, Acid, Lightning or Thunder damage for 10 minutes. \
+***Elemental Attunement (1FP):*** You gain a Fly speed equal to your Speed, and Your unarmed strikes have +10ft reach and can deal Fire, Cold, Acid, Lightning or Thunder damage for 10 minutes. \
 ***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
 
 
