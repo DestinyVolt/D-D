@@ -45,7 +45,8 @@ Starting: 21 \
 Turn Ons: 
 - Someone Mysterious: +1d8 Attration on successful Stealth & Sleight of Hand checks
 - Complements: +1d8 Attraction when complemented
-- Someone Competent: +1d4 Attraction on any successful Skill Checks \
+- Someone Competent: +1d4 Attraction on any successful Skill Checks
+
 Pet Peeves:
 - Procrastinators: -1d6 Attraction on lowest initiative
 - Making Matters Worse: -1d6 Attraction on failed Insight or Persuasion by 5 or more.
