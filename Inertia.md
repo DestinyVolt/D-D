@@ -24,7 +24,7 @@ Languages: Common, Mal Tobaner(Old&Modern), Caerdanan (Old&Modern), Plant Script
 ### Attacks
 Rope Dart (15/20): +7 to hit, 1d6 + 4 piercing damage \
 True Strike (15/20): +7 to hit, 2d6 + 4 radiant damage \
-Sacred Flame (60): DC 15 Dex, 2d8 radiant damage \
+Sacred Flame (60): DC 15 Dex, 2d8 radiant damage
 
 Rope Dartist: Once per turn, on hit, reduce movement speed by 10 feet. On crit, target has disadvantage on attack rolls for one round. 
 
@@ -77,6 +77,7 @@ Medal of the Maze \
 Pearl of Power \
 2x Potion of Healing \
 1x Potion of Greater Healing \
+Taladorb of Gonging \
 Journal, Ink & Quill
 
 **Clothing/Belt/Pockets** \
@@ -89,6 +90,7 @@ Dagger \
 Lint (more) \
 Quickfire Sunburst (Pyrotechnics, Smoke) \
 Quickfire Sunburst (Pyrotechnics, Fireworks) \
+Net
 
 **Backpack**\
 2x Metalman's Head \
