@@ -32,8 +32,8 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 #### Spellcasting
 Save DC: 18, Attack: +10 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Infallible Relay (UA), Absorb Elements \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Lesser Restoration \
+1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Arcane Lock, Lesser Restoration \
 3rd Level (3): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
@@ -43,7 +43,7 @@ Classes: Warlock, Druid, Cleric \
 3rd Level: Conjure Animals \
 Superior Breakthoughs (5/LR): +2 to spell level
 
-### Artificer 10
+### Artificer 11
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -65,14 +65,15 @@ Superior Breakthoughs (5/LR): +2 to spell level
 ***Flash of Genius (5/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your Charisma modifier. 
 
 ***Known Infusions***: You can have four infusions active at a time.\
-☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
-☆ Spellwrought Tattoo (Crusader's Mantle) \
+
+☆ Spellwrought Tattoo (Entangle) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Spellwrought Tattoo (Life Transferance) \
-★ Thayan Spell Tattoo (Homunculus Servant) \
-★ Spellwrought Tattoo (Entangle) \
+☆ Thayan Spell Tattoo (Infallible Relay (UA)) \
+★ Spellwrought Tattoo (Crusader's Mantle) \
 ★ Spellwrought Tattoo (Find Steed) \
-★ Spellwrought Tattoo (Infallible Relay (UA))
+★ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
+★ Thayan Spell Tattoo (Homunculus Servant)
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
@@ -107,7 +108,7 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 ☆ All Purpose Tool (+1) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Skeletal Wing Tattoo (Broom of Flying) \
-☆ -
+☆ Thayan Spell Tattoo (Infallible Relay)
 
 ### Inventory
 Backpack \
