@@ -54,7 +54,7 @@ Languages: Human, Elven, Auran
 ***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
 
 
-### Monk 10
+### Monk 11
 Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
