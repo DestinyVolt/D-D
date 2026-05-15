@@ -88,8 +88,7 @@ Brightford Pants \
 Medal of the Conch \
 Dagger \
 Lint (more) \
-Quickfire Sunburst (Pyrotechnics, Smoke) \
-Quickfire Sunburst (Pyrotechnics, Fireworks) \
+Eludra's Firework Gun \
 Net
 
 **Backpack**\
