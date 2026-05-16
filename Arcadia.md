@@ -39,7 +39,7 @@ Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion*
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
 1st Level: Command \
-2nd Level: Ectoplasmic Trail \
+2nd Level: Digital Phantom (UA) \
 3rd Level: Conjure Animals \
 Superior Breakthoughs (5/LR): +2 to spell level
 
