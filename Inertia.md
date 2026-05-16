@@ -16,7 +16,7 @@ CHA: 10
 ### Proficiencies
 Class Proficiencies (JoaT): Acrobatics, Performance \
 Expertise: Stealth, History, Investigation \
-Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools, +2 (Unknown) \
+Tool Proficiencies: Music Box, Tinker's Tools, Thieves' Tools, Playing Card Set, +1 (Unknown) \
 Combat Proficiencies: Simple Weapons, Rapiers, Shortswords, Rope Darts \
 Saving Throws: Dexterity, Charisma, (+1 to Wisdom) \
 Languages: Common, Night Kin, Mal Tobaner(Old&Modern), Caerdanan (Old&Modern), Plant Script???, +2 (Unknown), Adept Linguist
