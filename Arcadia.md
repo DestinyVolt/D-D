@@ -66,13 +66,13 @@ Superior Breakthoughs (5/LR): +2 to spell level
 
 ***Known Infusions***: You can have four infusions active at a time.\
 
-☆ Spellwrought Tattoo (Find Steed) \
+☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Spellwrought Tattoo (Life Transferance) \
 ☆ Thayan Spell Tattoo (Infallible Relay (UA)) \
 ★ Spellwrought Tattoo (Crusader's Mantle) \
 ★ Spellwrought Tattoo (Entangle) \
-★ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
+★ Spellwrought Tattoo (Find Steed) \
 ★ Thayan Spell Tattoo (Homunculus Servant)
 
 ### Racial Features
