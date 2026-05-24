@@ -22,7 +22,7 @@ Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
 
 ### Attacks (2x)
-***Unarmed Strike:*** +9 to hit, 1d8 + 5 damage \
+***Unarmed Strike:*** +10 to hit, 1d8 + 6 damage \
 ***Grapple:*** DC 17 STR/DEX save, Grappled \
 ***Punch and Grab:*** Once Per Turn, Unarmed Strike & Grapple 
 
@@ -68,7 +68,8 @@ Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
 ### Magic Items
 ☆ Gauntlets of Ogre Strength \
 ☆ None \
-☆ None
+☆ None \
+Wraps of Unarmed Prowess
 
 ### Inventory
 Potion of Healing \
