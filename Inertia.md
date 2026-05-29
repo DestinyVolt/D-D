@@ -63,7 +63,9 @@ Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 ***Historian.*** When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples.
 
 ### Magic Items
-☆ Pearl of Power
+☆ Pearl of Power \
+☆ Ring of Amity \
+Deck of the Five 
 
 ### Inventory
 **Coin Purse** \
