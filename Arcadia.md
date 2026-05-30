@@ -69,9 +69,9 @@ Superior Breakthoughs (5/LR): +2 to spell level
 ☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Spellwrought Tattoo (Life Transferance) \
-☆ Thayan Spell Tattoo (Infallible Relay (UA)) \
+☆ Spellwrought Tattoo (Entangle) \
 ★ Spellwrought Tattoo (Crusader's Mantle) \
-★ Spellwrought Tattoo (Entangle) \
+★ Thayan Spell Tattoo (Infallible Relay (UA)) \
 ★ Spellwrought Tattoo (Find Steed) \
 ★ Thayan Spell Tattoo (Homunculus Servant)
 
@@ -108,7 +108,7 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 ☆ All Purpose Tool (+1) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Skeletal Wing Tattoo (Broom of Flying) \
-☆ Thayan Spell Tattoo (Infallible Relay)
+☆ Tattoo of Proof against Detection and Location
 
 ### Inventory
 Backpack \
