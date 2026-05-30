@@ -65,7 +65,8 @@ Cantrips: *Sacred Flame,* True Strike, Minor Illusion, Mending \
 ### Magic Items
 ☆ Pearl of Power \
 ☆ Ring of Amity \
-Deck of the Five 
+Deck of the Five \
+Mind Sharpener (4/LR)
 
 ### Inventory
 **Coin Purse** \
