@@ -82,7 +82,8 @@ Pearl of Power \
 2x Potion of Healing \
 1x Potion of Greater Healing \
 Taladorb of Gonging \
-Journal, Ink & Quill
+Journal, Ink & Quill \
+Healer's Kit
 
 **Clothing/Belt/Pockets** \
 Mal Tobaner Outfit \
