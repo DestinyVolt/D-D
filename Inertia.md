@@ -116,3 +116,7 @@ Written in Salt Book (Free Questions next time around salt)
 #### Mal Toban
 - Coach ??? (Warrior, ♂, Creator of Zeegball)
 - Andis / Linto (Sage, ♂, Cataloguer / Successor)
+
+#### Barador
+- Malyra Seveth (Sage, ♀, Necromancer)
+- Yarby Fitzhew (Healer, ♂, Lord of Wormwood)
