@@ -25,7 +25,7 @@ Languages: Common, Night Kin, Mal Tobaner(Old&Modern), Caerdanan (Old&Modern), P
 Rope Dart (15/20): +7 to hit, 1d6 + 4 piercing damage \
 True Strike (15/20): +7 to hit, 2d6 + 4 radiant damage \
 Sacred Flame (60): DC 15 Dex, 2d8 radiant damage \
-Deck of the Five (30): +7 to hit, 1d4 slashing + Associated Affect (1d5, DC 15)
+Deck of the Five (30): +7 to hit, 1d4 slashing + Associated Affect (1d5, DC 15) \
 Eludra's Firework Gun: 15ft Cone, DC 13 Dex vs 2d8 fire damage, half on save, Explodes if critical save
 
 Rope Dartist: Once per turn, on hit, reduce movement speed by 10 feet. On crit, target has disadvantage on attack rolls for one round. 
