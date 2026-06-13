@@ -77,7 +77,6 @@ Mind Sharpener (4/LR)
 Thieves' Tools \
 Rope Dart \
 Medal of the Maze \
-Pearl of Power \
 2x Potion of Healing \
 1x Potion of Greater Healing \
 Taladorb of Gonging \
@@ -93,7 +92,7 @@ Medal of the Conch \
 Dagger \
 Lint (more) \
 Eludra's Firework Gun \
-Huntering Trap \
+Hunting Trap \
 Net
 
 **Backpack**\
