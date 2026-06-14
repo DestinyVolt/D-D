@@ -4,7 +4,7 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 81 (11d8) \
+HP: 87 (12d8) \
 AC: 18 (Unarmed Defense) \
 Speed: 50ft (Vertical + Liquids) \
 STR: 19 (+4) ~~12 (+1)~~ \
@@ -22,7 +22,7 @@ Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
 
 ### Attacks (2x)
-***Unarmed Strike:*** +10 to hit, 1d8 + 6 damage \
+***Unarmed Strike:*** +10 to hit, 1d10 + 6 damage \
 ***Grapple:*** DC 17 STR/DEX save, Grappled \
 ***Punch and Grab:*** Once Per Turn, Unarmed Strike & Grapple 
 
@@ -54,8 +54,8 @@ Languages: Human, Elven, Auran
 ***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned. \
 ***Guarded Mind (1/SR):***  If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead
 
-### Monk 11
-Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
+### Monk 12
+Martial Arts Die: 1d10, Focus Points: 12, Save DC: 15 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
@@ -71,14 +71,16 @@ Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
 ☆ Thayan Spell Tattoo ([Wind Wall](http://dnd2024.wikidot.com/spell:wind-wall)) \
 ☆ None \
 Wraps of Unarmed Prowess
+Implant of Holding
 
 ### Inventory
 Potion of Healing \
 3x Chain \
 2x Holy Water \
+1x SUPER Holy Water \
 1x Manacles \
 2x Lock \
 1x Anvil \
 1x Tarp \
 5x Beholder Eye Blasters \
-Implant of Holding
+
