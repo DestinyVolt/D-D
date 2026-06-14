@@ -12,7 +12,7 @@ DEX: 20 (+5) \
 CON: 15 (+2) \
 INT: 10 (0) \
 WIS: 3 (-4) \
-CHA: 16 (+3)
+CHA: 17 (+3)
 
 ### Proficiencies
 Proficiencies: Athletics, Stealth, Acrobatics, Performance \
@@ -51,8 +51,8 @@ Languages: Human, Elven, Auran
 ### Free Actions
 ***Manta Glide:*** Controlling the air around you, when you fall and are not incapacitated, you can subtract up to 100 feet from your fall when calculating your fall damage and can move horizontally 2 feet for every 1 foot you fall. \
 ***Elemental Attunement (1FP):*** You gain a Fly speed equal to your Speed, and Your unarmed strikes have +10ft reach and can deal Fire, Cold, Acid, Lightning or Thunder damage for 10 minutes. \
-***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
-
+***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned. \
+***Guarded Mind (1/SR):***  If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead
 
 ### Monk 11
 Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
@@ -60,14 +60,15 @@ Martial Arts Die: 1d8, Focus Points: 10, Save DC: 15 \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
 ***Evasion:*** When you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. \
-***Improved Dash:*** When you take the Dash Action, your Speed increases by 10 feet for that action. 
+***Improved Dash:*** When you take the Dash Action, your Speed increases by 10 feet for that action. \
+***Mage Slayer:*** When you damage a creature that is concentrating, it has Disadvantage on the saving throw it makes to maintain Concentration.
 
 ### Racial Features
 ***Grappling Augmentation:*** You are considered to have 2 additional free hands for the purposes of grappling.
 
 ### Magic Items
 ☆ Gauntlets of Ogre Strength \
-☆ None \
+☆ Thayan Spell Tattoo ([Wind Wall](http://dnd2024.wikidot.com/spell:wind-wall)) \
 ☆ None \
 Wraps of Unarmed Prowess
 
