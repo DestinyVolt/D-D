@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 82 (11d8) \
+HP: 87 (12d8) \
 AC: 19 (Mage Armor, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -33,15 +33,20 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 Save DC: 18, Attack: +10 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements, Sanctuary \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Lesser Restoration \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Vortex Warp, Lesser Restoration, Pass without Trace \
 3rd Level (3): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric \
 1st Level: Command \
-2nd Level: Digital Phantom (UA) \
-3rd Level: Conjure Animals \
+2nd Level: Ectoplasmic Trail \
+3rd Level: Enemies Abound \
 Superior Breakthoughs (5/LR): +2 to spell level
+
+#### Metamagic Adept
+Sorcery Points: 2 \
+Subtle Spell: When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components. \
+Distant Spell: When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell. Touch spells gain a range of 30ft. 
 
 ### Artificer 11
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
@@ -69,8 +74,8 @@ Superior Breakthoughs (5/LR): +2 to spell level
 ☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Spellwrought Tattoo (Life Transferance) \
-☆ Spellwrought Tattoo (Entangle) \
-★ Spellwrought Tattoo (Crusader's Mantle) \
+☆ Thayan Spell Tattoo (Wind Wall) \
+★ Spellwrought Tattoo (Entangle) \
 ★ Thayan Spell Tattoo (Infallible Relay (UA)) \
 ★ Spellwrought Tattoo (Find Steed) \
 ★ Thayan Spell Tattoo (Homunculus Servant)
