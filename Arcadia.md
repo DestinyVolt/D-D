@@ -33,7 +33,7 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 Save DC: 18, Attack: +10 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
 1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements, Sanctuary \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Blur, Lesser Restoration, Pass without Trace \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Heat Metal, Lesser Restoration, Pass without Trace \
 3rd Level (3): Haste, Dispel Magic
 
 #### Arcane Breakthroughs:
