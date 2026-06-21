@@ -123,5 +123,4 @@ Casual Work Outfit \
 Money (79.49gp) \
 Stunbolt (Light Crossbow) \
 Medkit (Healer's Kit, 10/10) \
-Potion of Healing (Basic) \
 Ersatz Eye
