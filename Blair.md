@@ -69,7 +69,7 @@ Martial Arts Die: 1d10, Focus Points: 12, Save DC: 15 \
 ### Magic Items
 ☆ Gauntlets of Ogre Strength \
 ☆ Thayan Spell Tattoo ([Wind Wall](http://dnd2024.wikidot.com/spell:wind-wall)) \
-☆ None \
+☆ Tattoo of Proof against Detection and Location \
 Wraps of Unarmed Prowess
 Implant of Holding
 
