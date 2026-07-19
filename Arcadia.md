@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 87 (12d8) \
+HP: 94 (13d8) \
 AC: 19 (Mage Armor, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -22,25 +22,27 @@ Senses: Darkvision (60ft) \
 Languages: Common, Elven, Undercommon, Abyssal 
 
 ### Attacks
-Cantrips: +12 to hit, Save DC 20, Variable damage \
+Cantrips: +13 to hit, Save DC 21, Variable damage \
 Araña: +4 to hit, 1 piercing + 1 poison damage \
-Araña (Beast): +10 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
+Araña (Beast): +11 to hit (Adv if Land), 1d8 + 6 bludgeoning damage \
 Pequeñita: +6 to hit, 2d6 + 4, if charging, DC 14 Strength Save vs Prone + BA Attack \
-Quetzal: +10 to hit, 1d6 + 5 force damage \
+Quetzal: +11 to hit, 1d6 + 6 force damage \
 Sangre: +5 to hit, 1d4 + 3 psychic damage
 
 #### Spellcasting
-Save DC: 18, Attack: +10 \
+Save DC: 19, Attack: +11 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
-1st Level (4): Dissonant Whispers, Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements, Sanctuary \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Heat Metal, Lesser Restoration, Pass without Trace \
-3rd Level (3): Haste, Dispel Magic
+1st Level (4): Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements \
+2nd Level (3): _Invisibility_, Find Vehicle (UA), Arcane Lock, Lesser Restoration \
+3rd Level (3): Haste, Dispel Magic, Major Image \
+4th Level (1): Greater Invisibility
 
 #### Arcane Breakthroughs:
-Classes: Warlock, Druid, Cleric \
-1st Level: Command \
-2nd Level: Mirror Image \
-3rd Level: Enemies Abound \
+Classes: Warlock, Druid, Cleric, Wizard \
+1st Level: Shield \
+2nd Level: Spiritual Weapon \
+3rd Level: Counterspell \
+4th Level: Summon Elemental \
 Superior Breakthoughs (5/LR): +2 to spell level
 
 #### Metamagic Adept
@@ -48,7 +50,7 @@ Sorcery Points: 2 \
 Subtle Spell: When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components. \
 Distant Spell: When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell. Touch spells gain a range of 30ft. 
 
-### Artificer 12
+### Artificer 13
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -75,7 +77,7 @@ Distant Spell: When you cast a spell that has a range of 5 feet or greater, you 
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Spellwrought Tattoo (Life Transferance) \
 ☆ Thayan Spell Tattoo (Wind Wall) \
-★ Spellwrought Tattoo (Entangle) \
+★ Thayan Spell Tattoo (Haste) \
 ★ Thayan Spell Tattoo (Infallible Relay (UA)) \
 ★ Spellwrought Tattoo (Find Steed) \
 ★ Thayan Spell Tattoo (Homunculus Servant)
