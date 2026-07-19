@@ -4,7 +4,7 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 87 (12d8) \
+HP: 94 (13d8) \
 AC: 18 (Unarmed Defense) \
 Speed: 50ft (Vertical + Liquids) \
 STR: 19 (+4) ~~12 (+1)~~ \
@@ -22,19 +22,19 @@ Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
 
 ### Attacks (2x)
-***Unarmed Strike:*** +10 to hit, 1d10 + 6 damage \
-***Grapple:*** DC 17 STR/DEX save, Grappled \
+***Unarmed Strike:*** +11 to hit, 1d10 + 6 damage \
+***Grapple:*** DC 18 STR/DEX save, Grappled \
 ***Punch and Grab:*** Once Per Turn, Unarmed Strike & Grapple 
 
 ***Grappler:*** Adventage vs Grappled Targets
 
-***Stunning Strike (1FP, 1/Turn):*** DC 15 Con Save vs Stunned, Halve Speed & Advantage on Next Attack on Success \
-***Elemental Strikes (EA):*** DC 15 Str Save vs 10ft Push or Pull \
+***Stunning Strike (1FP, 1/Turn):*** DC 16 Con Save vs Stunned, Halve Speed & Advantage on Next Attack on Success \
+***Elemental Strikes (EA):*** DC 16 Str Save vs 10ft Push or Pull \
 ***Charge Attack (1/Turn):*** If you move at least 10 feet toward a target hitting it, gain +1d8 damage, or push 10 feet.
 
 ### Actions
-***Elemental Burst (2FP):*** 20ft radius explosion with 120ft, DC 14 Dex Save vs 3d8 Fire/Cold/Acid/Lightning/Thunder damage, half on success \
-***Vicious Mockery***: DC 15 Wisdom Save vs 2d4 Psychic Damage and disadvantage on next attack \
+***Elemental Burst (2FP):*** 20ft radius explosion with 120ft, DC 16 Dex Save vs 3d8 Fire/Cold/Acid/Lightning/Thunder damage, half on success \
+***Vicious Mockery***: DC 16 Wisdom Save vs 3d4 Psychic Damage and disadvantage on next attack \
 ***Spellcasting:*** Thaumaturgy, [Unearthly Chorus](https://dnd5e.wikidot.com/spell:unearthly-chorus)
 
 ### Bonus Actions
@@ -44,7 +44,7 @@ Languages: Human, Elven, Auran
 ***Grappling Augmentation:*** Make a Grapple attempt if you made an Unarmed Strike
 
 ### Reaction
-***Deflect Attacks:*** Reduce BPS Attack by 1d10 + 5 + Level. \
+***Deflect Attacks:*** Reduce Attack by 1d10 + 5 + Level. \
 ***Reflect Attack (1FP):*** If you reduce the attack to 0, you can redirect the attack, forcing a Dex Save vs 2d8 + 5 damage \
 ***Slow Fall:*** Reduce Fall Damage by 5 x Monk Level
 
@@ -54,8 +54,8 @@ Languages: Human, Elven, Auran
 ***Self-Restoration:*** Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned. \
 ***Guarded Mind (1/SR):***  If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead
 
-### Monk 12
-Martial Arts Die: 1d10, Focus Points: 12, Save DC: 15 \
+### Monk 13
+Martial Arts Die: 1d10, Focus Points: 13, Save DC: 16 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
@@ -70,7 +70,7 @@ Martial Arts Die: 1d10, Focus Points: 12, Save DC: 15 \
 ☆ Gauntlets of Ogre Strength \
 ☆ Thayan Spell Tattoo ([Wind Wall](http://dnd2024.wikidot.com/spell:wind-wall)) \
 ☆ Tattoo of Proof against Detection and Location \
-Wraps of Unarmed Prowess
+Wraps of Unarmed Prowess (+1) \
 Implant of Holding
 
 ### Inventory
