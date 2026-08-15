@@ -71,7 +71,22 @@ Martial Arts Die: 1d10, Focus Points: 13, Save DC: 16 \
 ☆ Thayan Spell Tattoo ([Wind Wall](http://dnd2024.wikidot.com/spell:wind-wall)) \
 ☆ Tattoo of Proof against Detection and Location \
 Wraps of Unarmed Prowess (+1) \
-Implant of Holding
+Implant of Holding \
+Robe of Useful Items
+\- 2x Dagger \
+\- 2x Flashlight \
+\- 2x Steel Mirror \
+\- 2x Backpack \
+\- 2x 2 Mastiffs \
+\- 2x Bag of 100gp \
+\- 50ft Rope \
+\- Chain \
+\- Spell Scroll (1-3)? \
+\- Wooden Ladder \
+\- 2x3ft Window \
+\- 10ft Pit \
+\- Rowboat \
+\- Portable Ram
 
 ### Inventory
 Potion of Healing \
