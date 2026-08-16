@@ -72,7 +72,7 @@ Martial Arts Die: 1d10, Focus Points: 13, Save DC: 16 \
 ☆ Tattoo of Proof against Detection and Location \
 Wraps of Unarmed Prowess (+1) \
 Implant of Holding \
-Robe of Useful Items
+Robe of Useful Items \
 \- 2x Dagger \
 \- 2x Flashlight \
 \- 2x Steel Mirror \
