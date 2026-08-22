@@ -42,7 +42,7 @@ Classes: Warlock, Druid, Cleric, Wizard \
 1st Level: Shield \
 2nd Level: Spiritual Weapon \
 3rd Level: Counterspell \
-4th Level: Summon Elemental \
+4th Level: Conjure Minor Elementals \
 Superior Breakthoughs (5/LR): +2 to spell level
 
 #### Metamagic Adept
