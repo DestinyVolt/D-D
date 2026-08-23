@@ -34,7 +34,7 @@ Save DC: 19, Attack: +11 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
 1st Level (4): Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements \
 2nd Level (3): _Invisibility_, Find Vehicle (UA), Arcane Lock, Lesser Restoration \
-3rd Level (3): Haste, Dispel Magic, Major Image \
+3rd Level (3): Remove Curse, Dispel Magic, Major Image \
 4th Level (1): Greater Invisibility
 
 #### Arcane Breakthroughs:
