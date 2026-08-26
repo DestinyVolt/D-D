@@ -4,7 +4,7 @@ Height: 5", Weight: 130lb \
 True Neutral
 
 HP: - \
-AC: 9 \
+AC: 10 (Leather Armor) \
 Prof: +3 \
 STR: 7 \
 DEX: 9 \
@@ -22,8 +22,8 @@ Tools: Herbalism Kit, Poisoner's Kit
 ### Witherbloom Warlock
 #### Invocations
 1st: Pact of the Chain \
-2nd: Agonizing Blast (Magic Stone), Devil's Sight \
-5th: Investment of the Chainmaster, Pact of the Tome
+2nd: Agonizing Blast (Magic Stone), Pact of the Tome \
+5th: Investment of the Chainmaster, Devil's Sight
 
 #### Pact Magic
 Cantrips: *Spare the Dying,* Magic Stone, Chill Touch, Shocking Grasp \
@@ -51,3 +51,5 @@ Once per Short Rest, upon dealing Necrotic damage, you can cause a creature to h
 Once per long rest, take one minute to regain one spell slot. 
 
 Clover Link (TODO)
+
+Bartholomule Link (TODO)
