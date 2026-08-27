@@ -21,8 +21,8 @@ Tools: Herbalism Kit
 ### Witherbloom Warlock
 #### Invocations
 1st: Pact of the Chain \
-2nd: Agonizing Blast (Magic Stone), ~~Voice of the Chainmaster~~ \
-5th: Investment of the Chainmaster, Undying Servitude/Sign of Ill Omen, One with Shadows \
+2nd: Agonizing Blast (Magic Stone), Devil's Sight \
+5th: Investment of the Chainmaster, One with Shadows \
 7th: Whispers from the Grave
 
 #### Pact Magic
@@ -41,3 +41,6 @@ Level 3: Eldritch Adapt (Pact of the Tome (Guidance, Minor Illusion, Thaumaturgy
 ### Bernice Brisbane (Familiar)
 Skeleton Stats \
 Weapon: Hoopak
+
+TODO:
+Figure out how to get Familiar Friend, Warlike Familiar, and Devil Sight without giving up Chain / Chainmaster / Tome / One with Shadows / Ag Blast
