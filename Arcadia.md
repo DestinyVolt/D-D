@@ -33,16 +33,16 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 Save DC: 19, Attack: +11 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
 1st Level (4): Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements \
-2nd Level (3): _Invisibility_, Find Vehicle (UA), Arcane Lock, Lesser Restoration \
-3rd Level (3): Remove Curse, Dispel Magic, Major Image \
+2nd Level (3): _Invisibility_, Air Bubble, Find Vehicle (UA), Arcane Lock, Lesser Restoration \
+3rd Level (3): Dispel Magic, Major Image \
 4th Level (1): Greater Invisibility
 
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric, Wizard \
 1st Level: Shield \
-2nd Level: Spiritual Weapon \
+2nd Level: Silence \
 3rd Level: Counterspell \
-4th Level: Summon Elemental \
+4th Level: Banishment \
 Superior Breakthoughs (5/LR): +2 to spell level
 
 #### Metamagic Adept
