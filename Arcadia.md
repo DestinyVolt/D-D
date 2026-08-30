@@ -122,7 +122,7 @@ Backpack \
 Tattoo Kit (Inks, Tattoo Gun & Needles, Portfolio) \
 Spray Paint Kit \
 Casual Work Outfit \
-Money (79.49gp) \
+Money (78.38gp) \
 Stunbolt (Light Crossbow) \
 Medkit (Healer's Kit, 10/10) \
 Ersatz Eye
