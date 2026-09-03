@@ -1,4 +1,4 @@
-## Mrs. Brisbane
+## Ms. Brisbane
 Hexblood, Age: ?? \
 Height: 5", Weight: 130lb \
 True Neutral
