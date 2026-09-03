@@ -38,7 +38,7 @@ As a bonus action, you can draw on a reservoir of life essence to empower yourse
 - **Overgrowth.** When you choose this benefit, and as a bonus action on subsequent turns while the benefit lasts, you can expend and roll one Hit Die. You regain a number of hit points equal to the number rolled plus your spellcasting ability modifier.
 - **Withering Strike.** When you deal damage or cast a spell that deals damage, you can change the damage type to necrotic, and the damage ignores resistance to necrotic damage.
 
-#### Putrify
+#### Putrify - Should I switch this for 2024 Familiar Friend + Battle Familiar?
 Once per Short Rest, upon dealing Necrotic damage, you can cause a creature to have the Poisoned condition until the start of its next turn. 
 
 #### Witherbloom Brews
