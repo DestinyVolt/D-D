@@ -92,7 +92,7 @@ Robe of Useful Items \
 Potion of Healing \
 3x Chain \
 2x Holy Water \
-1x SUPER Holy Water \
+1x SUPER Holy Water (7d8) \
 1x Manacles \
 2x Lock \
 1x Anvil \
