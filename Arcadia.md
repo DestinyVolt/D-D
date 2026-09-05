@@ -116,6 +116,7 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Skeletal Wing Tattoo (Broom of Flying) \
 ☆ Tattoo of Proof against Detection and Location
+Scroll of Counterspell 
 
 ### Inventory
 Backpack \
