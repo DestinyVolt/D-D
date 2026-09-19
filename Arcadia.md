@@ -40,7 +40,7 @@ Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion*
 #### Arcane Breakthroughs:
 Classes: Warlock, Druid, Cleric, Wizard \
 1st Level: Shield \
-2nd Level: Shadow Blade \
+2nd Level: Battle Familiar \
 3rd Level: Conjure Animals \
 4th Level: Banishment \
 Superior Breakthoughs (5/LR): +2 to spell level
