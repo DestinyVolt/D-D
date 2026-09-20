@@ -41,8 +41,8 @@ Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion*
 Classes: Warlock, Druid, Cleric, Wizard \
 1st Level: Shield \
 2nd Level: Battle Familiar \
-3rd Level: Conjure Animals \
-4th Level: Banishment \
+3rd Level: Counterspell \
+4th Level: Dimension Door \
 Superior Breakthoughs (5/LR): +2 to spell level
 
 #### Metamagic Adept
