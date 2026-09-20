@@ -4,7 +4,7 @@ He / Him \
 Age: 29 \
 True Neutral
 
-HP: 59 \
+HP: 72 \
 AC: 16 (Scale Mail) \
 Prof: +3 \
 Speed: 40ft \
@@ -30,6 +30,7 @@ Skills:
 ### Bonus Actions:
 Orcish Aggression: Dash towards hostile creature \
 Barbarian's Rage (4/LR): \
+\- Move Half your speed upon rage \
 \- Gain 4 THP and Resist BPS \
 \- +2 Damage to all STR based attacks \
 \- Treat Acrobatics, Stealth, Perception, and Intimidation as Strength Checks. \
@@ -43,4 +44,4 @@ Barbarian's Rage (4/LR): \
 **Danger Sense.** You have advantage on Dexterity saving throws against effects that you can see. \
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. \
 **Grappling Hook.** You can make a DC 13 Acrobatics check to throw and attach your grappling hook to a location within 50ft.
-
+**Feral Instinct.** Your instincts are so honed that you have Advantage on Initiative rolls.
