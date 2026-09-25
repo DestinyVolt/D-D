@@ -3,14 +3,14 @@ Hexblood, Age: ?? \
 Height: 5', Weight: 130lb \
 True Neutral
 
-HP: - \
+HP: 31 \
 AC: 10 (Leather Armor) \
 Prof: +3 \
 STR: 7 \
 DEX: 9 \
 CON: 12 \
-INT: 16 + 1 \
-WIS: 17 + 2 + 1\
+INT: 17 \
+WIS: 20 \
 CHA: 16
 
 Skills: Arcana, Animal Handling, Perception, Insight, Religion, Nature \
@@ -19,7 +19,16 @@ Senses: Darkvision (60ft), Devil's Sight (120ft) \
 Languages: Common, Druidic, Sylvan \
 Tools: Herbalism Kit, Poisoner's Kit
 
-Magic Stone: +8 to hit, 1d6 + 10 necrotic damage
+### Attacks
+Magic Stone: +8 to hit, 1d6 + 10 necrotic damage \
+Shocking Grasp: +8 to hit, 2d8 lightning damage \
+Command: Clover attacks as a Reaction
+
+### Bonus Actions
+Essence Tap, Overgrowth (3/LR): Heal a hit die + WIS mod \
+Essence Tap, Withering (3/LR): Change Damage to Necrotic & Ignore Resist \
+Command: Clover attacks as an Action \
+Magic Stone: Create 3 Magic Stones
 
 ### Reactions
 ***Investment of the Chainmaster***: When Clover takes damage, you can take a Reaction to grant her Resistance against that damage.
@@ -31,20 +40,16 @@ Magic Stone: +8 to hit, 1d6 + 10 necrotic damage
 5th: Investment of the Chainmaster, Devil's Sight
 
 #### Pact Magic
+Save DC: 16, +8 to hit \
 Cantrips: *Spare the Dying,* Magic Stone, Chill Touch, Shocking Grasp \
 1st: *Cure Wounds, Inflict Wounds, Hex+, Disguise Self+, Find Familiar+,* Speak with Animals \
-2nd: *Lesser Restoration, Wither and Bloom, Battle Familiar+* Hold Person, Cloud of Daggers, Flock of Familiars \
+2nd: *Lesser Restoration, Wither and Bloom, Battle Familiar+,* Hold Person, Cloud of Daggers, Flock of Familiars \
 3rd: *Revivify, Vampiric Touch*, Summon Undead, Fear, Dispel Magic
 
 Pact of the Tome: Guidance, Minor Illusion, Thaumaturgy, Detect Magic, Identify
 
-#### Essence Tap
-As a bonus action, you can draw on a reservoir of life essence to empower yourself for 1 minute, or until you use this feature again. For the duration, you gain one of the following benefits of your choice:
-- **Overgrowth.** When you choose this benefit, and as a bonus action on subsequent turns while the benefit lasts, you can expend and roll one Hit Die. You regain a number of hit points equal to the number rolled plus your spellcasting ability modifier.
-- **Withering Strike.** When you deal damage or cast a spell that deals damage, you can change the damage type to necrotic, and the damage ignores resistance to necrotic damage.
-
 #### Familiar Friend
-3x Per Long rest: Gain advantage on a check when Clover is within 5ft.
+3x Per Long Rest: Gain advantage on a check when Clover is within 5ft.
 
 #### Witherbloom Brews
 3x Per Long Rest
@@ -63,10 +68,12 @@ Chaotic Good
 HP: 22 \
 Speed: 40ft, Flight, Swim \
 [Statblock](https://www.dndbeyond.com/monsters/4775845-sprite) \
-Can use Magic Stone
-
-#### Reactions
+Deals Necrotic Damage & Uses a DC 16 Spell Save DC \
 ***Intercept Attack.*** +3 AC to creature within 5ft
 
 ### Bartholomule
 [Bartholomule](https://www.dndbeyond.com/monsters/16960-mule)
+Rope \
+Tent \
+Bed Roll \
+Presumably other stuff
