@@ -69,6 +69,8 @@ HP: 22 \
 Speed: 40ft, Flight, Swim \
 [Statblock](https://www.dndbeyond.com/monsters/4775845-sprite) \
 Deals Necrotic Damage & Uses a DC 16 Spell Save DC \
+3x Acid: DC 16 Dex Save vs 2d6 Acid or Necrotic \
+2x Alchemist's Fire: DC 16 Dex Save vs 1d4 Fire or Necrotic + apply Burning \
 ***Intercept Attack.*** +3 AC to creature within 5ft
 
 ### Bartholomule
