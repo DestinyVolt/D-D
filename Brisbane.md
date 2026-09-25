@@ -1,6 +1,6 @@
 ## Ms. Brisbane
 Hexblood, Age: ?? \
-Height: 5", Weight: 130lb \
+Height: 5', Weight: 130lb \
 True Neutral
 
 HP: - \
@@ -15,9 +15,14 @@ CHA: 16
 
 Skills: Arcana, Animal Handling, Perception, Insight, Religion, Nature \
 Saving Throws: Wisdom, Charisma \
-Senses: Darkvision (60ft) \
+Senses: Darkvision (60ft), Devil's Sight (120ft) \
 Languages: Common, Druidic, Sylvan \
 Tools: Herbalism Kit, Poisoner's Kit
+
+Magic Stone: +8 to hit, 1d6 + 10 necrotic damage
+
+### Reactions
+***Investment of the Chainmaster***: When Clover takes damage, you can take a Reaction to grant her Resistance against that damage.
 
 ### Witherbloom Warlock
 #### Invocations
@@ -27,8 +32,8 @@ Tools: Herbalism Kit, Poisoner's Kit
 
 #### Pact Magic
 Cantrips: *Spare the Dying,* Magic Stone, Chill Touch, Shocking Grasp \
-1st: *Cure Wounds, Inflict Wounds, Hex+, Disguise Self+* Speak with Animals \
-2nd: *Lesser Restoration, Wither and Bloom,* Hold Person, Cloud of Daggers, Flock of Familiars \
+1st: *Cure Wounds, Inflict Wounds, Hex+, Disguise Self+, Find Familiar+,* Speak with Animals \
+2nd: *Lesser Restoration, Wither and Bloom, Battle Familiar+* Hold Person, Cloud of Daggers, Flock of Familiars \
 3rd: *Revivify, Vampiric Touch*, Summon Undead, Fear, Dispel Magic
 
 Pact of the Tome: Guidance, Minor Illusion, Thaumaturgy, Detect Magic, Identify
@@ -38,8 +43,8 @@ As a bonus action, you can draw on a reservoir of life essence to empower yourse
 - **Overgrowth.** When you choose this benefit, and as a bonus action on subsequent turns while the benefit lasts, you can expend and roll one Hit Die. You regain a number of hit points equal to the number rolled plus your spellcasting ability modifier.
 - **Withering Strike.** When you deal damage or cast a spell that deals damage, you can change the damage type to necrotic, and the damage ignores resistance to necrotic damage.
 
-#### Putrify - Should I switch this for 2024 Familiar Friend + Battle Familiar?
-Once per Short Rest, upon dealing Necrotic damage, you can cause a creature to have the Poisoned condition until the start of its next turn. 
+#### Familiar Friend
+3x Per Long rest: Gain advantage on a check when Clover is within 5ft.
 
 #### Witherbloom Brews
 3x Per Long Rest
@@ -50,6 +55,18 @@ Once per Short Rest, upon dealing Necrotic damage, you can cause a creature to h
 #### Magical Cunning 
 Once per long rest, take one minute to regain one spell slot. 
 
-Clover Link (TODO)
+### Clover
+Age: ?? \
+Height: 5", Weight: 1oz \
+Chaotic Good
 
-Bartholomule Link (TODO)
+HP: 22 \
+Speed: 40ft, Flight, Swim \
+[Statblock](https://www.dndbeyond.com/monsters/4775845-sprite) \
+Can use Magic Stone
+
+#### Reactions
+***Intercept Attack.*** +3 AC to creature within 5ft
+
+### Bartholomule
+[Bartholomule](https://www.dndbeyond.com/monsters/16960-mule)
