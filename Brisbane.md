@@ -43,8 +43,8 @@ Magic Stone: Create 3 Magic Stones
 Save DC: 16, +8 to hit \
 Cantrips: *Spare the Dying,* Magic Stone, Chill Touch, Shocking Grasp \
 1st: *Cure Wounds, Inflict Wounds, Hex+, Disguise Self+, Find Familiar+,* Speak with Animals \
-2nd: *Lesser Restoration, Wither and Bloom, Battle Familiar+,* Hold Person, Cloud of Daggers, Flock of Familiars \
-3rd: *Revivify, Vampiric Touch*, Summon Undead, Fear, Dispel Magic
+2nd: *Lesser Restoration, [Wither and Bloom](https://dnd2024.wikidot.com/spell:wither-and-bloom), [Battle Familiar](https://dnd2024.wikidot.com/spell:battle-familiar)+,* Hold Person, Cloud of Daggers, [Flock of Familiars](https://dnd5e.wikidot.com/spell:flock-of-familiars) \
+3rd: *Revivify, Vampiric Touch*, [Summon Undead](https://dnd2024.wikidot.com/spell:summon-undead), [Fear](https://dnd5e.wikidot.com/spell:fear), Dispel Magic
 
 Pact of the Tome: Guidance, Minor Illusion, Thaumaturgy, Detect Magic, Identify
 
