@@ -83,7 +83,6 @@ Robe of Useful Items \
 \- Chain \
 \- Spell Scroll (1-3)? \
 \- Wooden Ladder \
-\- 2x3ft Window \
 \- 10ft Pit \
 \- Rowboat \
 \- Portable Ram
