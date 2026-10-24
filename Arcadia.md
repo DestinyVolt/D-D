@@ -4,7 +4,7 @@ Female, Age: 28 \
 Height: 5'6, Weight: 140lb \
 Chaotic Good
 
-HP: 94 (13d8) \
+HP: 99 (14d8) \
 AC: 19 (Mage Armor, Prosthesis) \
 STR: 7 \
 DEX: 18 \
@@ -32,7 +32,7 @@ Sangre: +5 to hit, 1d4 + 3 psychic damage
 #### Spellcasting
 Save DC: 19, Attack: +11 \
 Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion* \
-1st Level (4): Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements \
+1st Level (4): Cure Wounds, Disguise Self, Remote Access (UA), Absorb Elements, Infallible Relay (UA) \
 2nd Level (3): _Invisibility_, Air Bubble, Find Vehicle (UA), Arcane Lock, Lesser Restoration \
 3rd Level (3): Dispel Magic, Major Image \
 4th Level (1): Greater Invisibility
@@ -41,7 +41,7 @@ Cantrips: Guidance, Chilling Touch, Eldritch Blast, *Floating*, *Minor Illusion*
 Classes: Warlock, Druid, Cleric, Wizard \
 1st Level: Shield \
 2nd Level: Battle Familiar \
-3rd Level: Counterspell \
+3rd Level: Conjure Animals \
 4th Level: Dimension Door \
 Superior Breakthoughs (5/LR): +2 to spell level
 
@@ -50,7 +50,7 @@ Sorcery Points: 2 \
 Subtle Spell: When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components. \
 Distant Spell: When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell. Touch spells gain a range of 30ft. 
 
-### Artificer 13
+### Artificer 14
 ***Magical Inking:*** You can touch a tattoo and grant it one of the following properties. You can end the effect as an action, and can have a number of effects active equal to your Charisma modifier.
 - The tattoo sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the tattoo emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
@@ -71,16 +71,18 @@ Distant Spell: When you cast a spell that has a range of 5 feet or greater, you 
 
 ***Flash of Genius (5/LR):*** When you or a creature within 30ft of you makes an ability check or saving throw, you can give them a bonus equal to your Charisma modifier. 
 
-***Known Infusions***: You can have four infusions active at a time.\
+***Known Infusions***: You can have five infusions active at a time, and you ignore all class, race, spell and level requirements on attuning to or using a magic item. \
 
-☆ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
+☆ Horn of Blasting \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Spellwrought Tattoo (Life Transferance) \
-☆ Thayan Spell Tattoo (Wind Wall) \
-★ Thayan Spell Tattoo (Haste) \
+☆ Thayan Spell Tattoo (Haste) \
+☆ Thayan Spell Tattoo (Counterspell) \
+★ Thayan Spell Tattoo (Wind Wall) \
 ★ Thayan Spell Tattoo (Infallible Relay (UA)) \
-★ Spellwrought Tattoo (Find Steed) \
-★ Thayan Spell Tattoo (Homunculus Servant)
+★ Spellwrought Tattoo (Find Steed) -> Spellwrought Tattoo (Find Greater Steed) ? \
+★ Thayan Spell Tattoo (Homunculus Servant) \
+★ Skeletal Wing Tattoo ([Broom of Flying](http://dnd2024.wikidot.com/magic-item:broom-of-flying)) \
 
 ### Racial Features
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep. \
@@ -115,7 +117,8 @@ Starting at 3rd level, you can cast Invisibility once per day without expending 
 ☆ All Purpose Tool (+1) \
 ☆ Thayan Spell Tattoo (Sylune's Viper) \
 ☆ Skeletal Wing Tattoo (Broom of Flying) \
-☆ Tattoo of Proof against Detection and Location
+☆ Tattoo of Proof against Detection and Location \
+☆ Thayan Spell Tattoo (Counterspell) \
 Scroll of Counterspell 
 
 ### Inventory
