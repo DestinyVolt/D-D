@@ -4,9 +4,9 @@ Female, Age: 23 \
 Height: 5'8, Weight: 210lb \
 Chaotic Good
 
-HP: 94 (13d8) \
+HP: 102 (14d8) \
 AC: 18 (Unarmed Defense) \
-Speed: 50ft (Vertical + Liquids) \
+Speed: 55ft (Vertical + Liquids) \
 STR: 19 (+4) ~~12 (+1)~~ \
 DEX: 20 (+5) \
 CON: 15 (+2) \
@@ -17,7 +17,7 @@ CHA: 17 (+3)
 ### Proficiencies
 Proficiencies: Athletics, Stealth, Acrobatics, Performance \
 Tool Proficiency: Drumset, Guitar, Disguise Kit, Forklift \
-Saving Throws: Strength, Dexterity \
+Saving Throws: All, 1 Focus Point to reroll \
 Senses: Darkvision (60ft) \
 Languages: Human, Elven, Auran
 
@@ -55,7 +55,7 @@ Languages: Human, Elven, Auran
 ***Guarded Mind (1/SR):***  If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead
 
 ### Monk 13
-Martial Arts Die: 1d10, Focus Points: 13, Save DC: 16 \
+Martial Arts Die: 1d10, Focus Points: 14, Save DC: 16 \
 ***Uncanny Metabolism (1/LR):*** When you roll Initiative, you can regain all expended Focus Points and heal Monk Level + Martial Arts Die. \
 ***Grappler:*** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller. \
 ***Empowered Strikes:*** Your unarmed strikes can do Force damage. \
@@ -68,7 +68,7 @@ Martial Arts Die: 1d10, Focus Points: 13, Save DC: 16 \
 
 ### Magic Items
 ☆ Gauntlets of Ogre Strength \
-☆ Thayan Spell Tattoo ([Wind Wall](http://dnd2024.wikidot.com/spell:wind-wall)) \
+☆ Thayan Spell Tattoo ([Haste](http://dnd2024.wikidot.com/spell:haste)) \
 ☆ Tattoo of Proof against Detection and Location \
 Wraps of Unarmed Prowess (+1) \
 Implant of Holding \
